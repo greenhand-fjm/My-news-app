@@ -1,14 +1,185 @@
 {
-  "last_updated": "2026-04-28 12:00:00",
-  "total": 1,
+  "last_updated": "2026-04-28 14:06:30",
+  "total": 20,
   "articles": [
     {
-      "title": "这是一条测试新闻",
-      "url": "https://example.com",
-      "summary": "如果你看到这条新闻，说明你的新闻面板已经部署成功！每天抓取功能调试中。",
-      "published": "2026-04-28 10:00",
-      "source": "系统",
-      "lang": "zh",
+      "title": "商汤科技正式发布并开源日日新SenseNova U1系列模型",
+      "url": "https://36kr.com/newsflashes/3786492691782919?f=rss",
+      "summary": "36氪获悉，今天，商汤科技正式发布并开源日日新SenseNova U1系列原生理解生成统一模型。它基于商汤于今年三月自主研发的NEO-unify架构，在单一模型架构上统一了多模态理解、推理与生成。据了解，SenseNova U1系列模型能够将语言与视觉信息作为统一的复合体直接建模，实现语言和视觉信息的高效协同，让理解与生成能力同步增强，在保留语义丰富度的同时，维持像素级的视觉保真度。",
+      "published": "2026-04-28 12:59",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "热门中概股美股盘前多数下跌，理想汽车跌超4%",
+      "url": "https://36kr.com/newsflashes/3786484642372615?f=rss",
+      "summary": "36氪获悉，热门中概股美股盘前多数下跌，截至发稿，理想汽车跌超4%，小鹏集团跌超3%，腾讯音乐、阿里巴巴、B站跌超2%，百度、京东、网易、蔚来跌超1%；啊七一涨近1%。",
+      "published": "2026-04-28 12:51",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "美股大型科技股盘前跌多涨少，Arm跌超7%",
+      "url": "https://36kr.com/newsflashes/3786480947404041?f=rss",
+      "summary": "36氪获悉，美股大型科技股盘前跌多涨少，截至发稿，Arm跌超7%，英伟达跌超3%，特斯拉、微软、亚马逊、Meta跌超1%，谷歌跌近1%；苹果涨0.77%，奈飞涨0.76%。",
+      "published": "2026-04-28 12:47",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "清越科技：实施其他风险警示，股票停牌",
+      "url": "https://36kr.com/newsflashes/3786468315733251?f=rss",
+      "summary": "36氪获悉，清越科技公告，公司因2025年度内部控制被出具否定意见审计报告，触及《科创板股票上市规则》相关规定，股票自2026年4月29日开市起停牌1天，将于4月30日复牌并实施其他风险警示，股票简称变更为“ST清越”。实施期间，公司股票不进入风险警示板交易，涨跌幅仍为20%，投资者当日累计买入数量不得超过50万股。公司正积极配合证监会调查，并采取措施提升内控水平，争取撤销风险警示。",
+      "published": "2026-04-28 12:34",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "ADP：截至4月11日四周美国私营部门就业人数平均每周增加3.925万",
+      "url": "https://36kr.com/newsflashes/3786453125324033?f=rss",
+      "summary": "4月28日，根据ADP Research和斯坦福数字经济实验室的初步估计，截至4月11日的四周，美国私营部门就业人数平均每周增加3.925万人。（界面）",
+      "published": "2026-04-28 12:19",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "长芯博创：拟1.96亿元收购高速有源光缆公司长芯盛2.20%股份",
+      "url": "https://36kr.com/newsflashes/3786452077763584?f=rss",
+      "summary": "36氪获悉，长芯博创公告，公司拟以现金1.96亿元收购控股子公司长芯盛2.20%股份，交易完成后持股比例将升至62.65%。长芯盛是光通信解决方案提供商，主要产品应用于数据通信、消费及工业互联领域，产品包括用于数据中心内部互联的各类高速线缆、无源预端接跳线等，用于消费、工业以及医疗等行业互联的高速有源光缆（AOC）以及广泛应用于不同场景的各类处理器接口的高速模拟芯片、高速光电模组组件等。本公司控股股东、实际控制人长飞光纤光缆股份有限公司持有目标公司37.35%的股份。",
+      "published": "2026-04-28 12:18",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "古井贡酒：第一季度净利润16.07亿元，同比下降31.03%",
+      "url": "https://36kr.com/newsflashes/3786443969305607?f=rss",
+      "summary": "36氪获悉，古井贡酒发布2026年一季度业绩报告。报告显示，2026年第一季度实现营业收入74.46亿元，同比下降18.59%；归属于上市公司股东的净利润为16.07亿元，同比下降31.03%。",
+      "published": "2026-04-28 12:09",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "华曙高科：拟募资不超39.1亿元，用于先进增材制造设备产能提升项目等",
+      "url": "https://36kr.com/newsflashes/3786438056582403?f=rss",
+      "summary": "36氪获悉，华曙高科公告，拟定增募资不超过39.1亿元，用于先进增材制造设备产能提升项目、增材制造综合服务平台建设项目、全球运营中心建设项目。",
+      "published": "2026-04-28 12:03",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "久立特材：回购170万股，使用资金总额4934.31万元",
+      "url": "https://36kr.com/newsflashes/3786431608872199?f=rss",
+      "summary": "36氪获悉，久立特材公告，公司首次通过回购专用证券账户以集中竞价交易方式回购公司股份1,700,000股，占公司总股本的0.17%，最高成交价为29.18元/股，最低成交价为28.79元/股，成交总金额为49,343,073元（不含交易费用）。本次回购股份资金来源为公司自有资金，回购价格未超过回购方案中拟定的价格上限。本次回购符合相关法律法规的要求，符合既定的回购股份方案。",
+      "published": "2026-04-28 11:57",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "寒武纪：2025年度权益分派拟每10股派15元转增4.9股，股权登记日为2026年5月7日",
+      "url": "https://36kr.com/newsflashes/3786420670881032?f=rss",
+      "summary": "36氪获悉，寒武纪公告，公司2025年年度权益分派方案为，以实施权益分派股权登记日登记的总股本扣除回购专用账户股份为基数，向全体股东每10股派发现金红利15元(含税)，同时以资本公积金每10股转增4.9股。股权登记日为2026年5月7日，除权除息日为2026年5月8日。",
+      "published": "2026-04-28 11:46",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "住久了没意思（二）：从有光的地方开始动手",
+      "url": "https://sspai.com/prime/story/how-to-renovate-a-rental-balcony",
+      "summary": "上一篇文章中，我大概分析了一下租房常见的一些户型以及对应的问题，并且对一些通用的改造方法和原则做了简单的阐述。从这一期开始，这个主题将正式进入分区域对症下药的模式：详细探讨不同区域的针对性改造。最近上 ...<a href=\"https://sspai.com/prime/story/how-to-renovate-a-rental-balcony\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a>，订阅后可阅读全文。</p>",
+      "published": "2026-04-28 09:50",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "社区速递 139 | 派友热议三月买了啥、复古单反尼康 Df 体验",
+      "url": "https://sspai.com/post/109183",
+      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/109183\" target=\"_blank\">查看全文</a>",
+      "published": "2026-04-28 08:50",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "TDS REVIEW｜索尼 WF-1000XM6 降噪真无线耳机体验",
+      "url": "https://sspai.com/post/109163",
+      "summary": "WF-1000XM6 是目前我们最满意的索尼真无线耳机产品，也是整个降噪豆系列目前最完整的一代产品。它是否无暇？非也。但是否解决了很多问题？是的。<a href=\"https://sspai.com/post/109163\" target=\"_blank\">查看全文</a>",
+      "published": "2026-04-28 07:26",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "关于胃肠镜，你需要知道的一切",
+      "url": "https://sspai.com/post/109040",
+      "summary": "在需要筛查的时候不怕做检查，在有症状的时候及时去就诊，拥有健康才能享受生活。<a href=\"https://sspai.com/post/109040\" target=\"_blank\">查看全文</a>",
+      "published": "2026-04-28 03:00",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "派早报：阿里巴巴发布视频生成模型 HappyHorse 1.0 等",
+      "url": "https://sspai.com/post/109160",
+      "summary": "微信：警惕「755」开头仿冒来电、JBL 推出两款音频类新品等。<a href=\"https://sspai.com/post/109160\" target=\"_blank\">查看全文</a>",
+      "published": "2026-04-28 00:55",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "派评 | 近期值得关注的 App",
+      "url": "https://sspai.com/post/109135",
+      "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀<a href=\"https://sspai.com/post/109135\" target=\"_blank\">查看全文</a>",
+      "published": "2026-04-27 09:55",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "一日一技｜让小企鹅输入法支持 14 键、18 键键位双拼",
+      "url": "https://sspai.com/post/108459",
+      "summary": "小企鹅输入法只支持 26 键，但有人基于小企鹅魔改了一下使其支持修改布局和图形化操作，加上万象拼音的 14 键位、18 键位，两者一结合——完美。<a href=\"https://sspai.com/post/108459\" target=\"_blank\">查看全文</a>",
+      "published": "2026-04-27 07:46",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "关于流感和疫苗，你需要知道哪些信息？",
+      "url": "https://sspai.com/post/76945",
+      "summary": "冬天往往是传染病肆虐的季节。除了在全世界范围内流行已久的新冠病毒，引起季节性流感的流感病毒也不可小视。想要预防流感带来的后果，最简单的方法就是接种流感疫苗。本文就将介绍在打流感疫苗之前，关于流感和疫苗，你需要知道什么。<a href=\"https://sspai.com/post/76945\" target=\"_blank\">查看全文</a>",
+      "published": "2026-04-27 03:30",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "派早报：X 推出聊天软件 XChat",
+      "url": "https://sspai.com/post/109114",
+      "summary": "<p>X 推出聊天软件 XChat</p><p>美国要求外交人员向他国警告中国 AI 蒸馏行为</p><p>国内 AI 公司被要求不接受未经批准的美国投资</p><p>香港在黄金周前加强电子烟禁令的内地宣传</p><p>FILCO 键盘母公司关停</p><p>官方回应豆包提前查到 2026 山东事业编成绩</p><p>看看就行的简讯</p><p>少数派的近期动态</p><p>你可能错过的好文章</p><a href=\"https://sspai.com/post/109114\" target=\"_blank\">查看全文</a>",
+      "published": "2026-04-26 23:40",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "App+1 | 谈谈网页浏览器中的一个异类：qutebrowser",
+      "url": "https://sspai.com/post/98931",
+      "summary": "对以键盘操作为优先的用户来说，一旦学会了如何退出Vim，可能不消多久，便想在肉眼可见之处使用Vim的这套模态编辑。多年来，不少软件都内置了Vim风格的按键绑定，来迎合这类用户的肌肉记忆。其中，更有一些 ...<a href=\"https://sspai.com/post/98931\" target=\"_blank\">查看全文</a>",
+      "published": "2026-04-26 07:00",
+      "source": "sspai.com",
+      "lang": "zh_cn",
       "category": "科技"
     }
   ]
