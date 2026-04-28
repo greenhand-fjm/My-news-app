@@ -1,7 +1,25 @@
 {
-  "last_updated": "2026-04-28 14:40:01",
+  "last_updated": "2026-04-28 15:01:36",
   "total": 52,
   "articles": [
+    {
+      "title": "Musk and Altman go to court",
+      "url": "https://www.theverge.com/podcast/919534/musk-openai-trial-vergecast",
+      "summary": "The trial between Elon Musk and OpenAI is officially upon us. And it is going to be a mess. As the two sides fight over the early days of AI, who deserves credit and cash for what, and more, we're likely to spend the next few weeks hearing a lot of important people's secrets made [&#8230;]",
+      "published": "2026-04-28 14:47",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Apple introduces a cheaper option for App Store subscriptions",
+      "url": "https://techcrunch.com/2026/04/28/apple-introduces-a-cheaper-option-for-app-store-subscriptions/",
+      "summary": "Apple is adding a new subscription option that lets app developers offer lower monthly pricing in exchange for a 12-month commitment.",
+      "published": "2026-04-28 14:46",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
     {
       "title": "Snapchat brings AI-powered conversational advertising to its app",
       "url": "https://techcrunch.com/2026/04/28/snapchat-brings-ai-powered-conversational-advertising-to-its-app/",
@@ -44,6 +62,15 @@
       "summary": "The startup specializes in \"non-invasive\" \"mind-reading\" tech—a kind of neural data collection that, its CEO hopes, will have all sorts of consumer applications.",
       "published": "2026-04-28 13:19",
       "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "UAE Leaves OPEC and OPEC+",
+      "url": "https://www.reuters.com/markets/commodities/uae-says-it-quits-opec-opec-statement-2026-04-28/",
+      "summary": "",
+      "published": "2026-04-28 13:13",
+      "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
@@ -363,15 +390,6 @@
       "category": "科技"
     },
     {
-      "title": "Google employees ask Sundar Pichai to say no to classified military AI use",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/919326/google-ai-pentagon-classified-letter",
-      "summary": "Over 600 Google employees signed a letter to CEO Sundar Pichai demanding that Google block the Pentagon from using its AI models for classified purposes, reports the The Washington Post. Its organizers claim many of the signers work in Google's DeepMind AI lab, and include more than 20 principals, directors, and vice presidents. According to [&#8230;]",
-      "published": "2026-04-27 18:17",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
       "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
       "url": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
       "summary": "OpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft gets more cash in a revenue-share agreement.",
@@ -386,24 +404,6 @@
       "summary": "Ineffable Intelligence, a British AI lab founded a mere few months ago by former DeepMind researcher David Silver, has raised $1.1 billion in funding at a valuation of $5.1 billion.",
       "published": "2026-04-27 17:24",
       "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Hacker who allegedly carried out cyberattacks for China is extradited to US",
-      "url": "https://techcrunch.com/2026/04/27/hacker-who-allegedly-carried-out-cyberattacks-for-china-is-extradited-to-u-s/",
-      "summary": "Xu Zewei is accused of participating in a Chinese government hacking group that broke into thousands of U.S. organizations and stole COVID-19-related research.",
-      "published": "2026-04-27 17:07",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
-      "summary": "",
-      "published": "2026-04-27 13:22",
-      "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
@@ -426,6 +426,15 @@
       "category": "科技"
     },
     {
+      "title": "I Spent My Sabbatical Building a Power Meter for Sledgehammers",
+      "url": "https://leblancfg.com/intensity-pad-founder-story.html",
+      "summary": "",
+      "published": "2026-04-27 07:02",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
       "title": "关于流感和疫苗，你需要知道哪些信息？",
       "url": "https://sspai.com/post/76945",
       "summary": "冬天往往是传染病肆虐的季节。除了在全世界范围内流行已久的新冠病毒，引起季节性流感的流感病毒也不可小视。想要预防流感带来的后果，最简单的方法就是接种流感疫苗。本文就将介绍在打流感疫苗之前，关于流感和疫苗，你需要知道什么。<a href=\"https://sspai.com/post/76945\" target=\"_blank\">查看全文</a>",
@@ -444,10 +453,10 @@
       "category": "科技"
     },
     {
-      "title": "The predictable failure of the QDay Prize",
-      "url": "https://algassert.com/post/2601",
+      "title": "Deep under Antarctic ice, a long-predicted cosmic whisper breaks through",
+      "url": "https://phys.org/news/2026-04-deep-antarctic-ice-cosmic-strange.html",
       "summary": "",
-      "published": "2026-04-26 16:45",
+      "published": "2026-04-26 21:51",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
@@ -459,15 +468,6 @@
       "published": "2026-04-26 07:00",
       "source": "sspai.com",
       "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "The World's Most Complex Machine",
-      "url": "https://worksinprogress.co/issue/the-worlds-most-complex-machine/",
-      "summary": "",
-      "published": "2026-04-25 12:47",
-      "source": "Hacker News",
-      "lang": "en",
       "category": "科技"
     }
   ]
