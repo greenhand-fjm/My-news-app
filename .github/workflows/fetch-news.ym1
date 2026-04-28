@@ -1,0 +1,7 @@
+name: Fetch News Daily
+on: workflow_dispatch
+jobs:
+  check:
+    runs-on: ubuntu-lastest
+    steps:
+      - run: echo "workflow is working"
