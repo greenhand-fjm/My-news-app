@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const container = document.getElementById('news-container');
 
     // 读取数据
-    fetch('news.json')
+    fetch('news.json?t=${Date.now()}')
         .then(res => {
             if (!res.ok) throw new Error('网络错误');
             return res.json();
