@@ -1,3 +1,4 @@
+
 document.addEventListener('DOMContentLoaded', () => {
     let allArticles = [];
     let currentCat = 'all';
@@ -41,11 +42,19 @@ document.addEventListener('DOMContentLoaded', () => {
     function renderNews() {
         let filtered = allArticles;
 
+        // 分类筛选
         if (currentCat !== 'all') {
             filtered = filtered.filter(article => article.category === currentCat);
         }
+
+        // 语言筛选（兼容 zh 和 zh_cn）
         if (currentLang !== 'all') {
-            filtered = filtered.filter(article => article.lang === currentLang);
+            filtered = filtered.filter(article => {
+                if (currentLang === 'zh') {
+                    return article.lang === 'zh' || article.lang === 'zh_cn';
+                }
+                return article.lang === currentLang;
+            });
         }
 
         if (!filtered.length) {
@@ -54,10 +63,8 @@ document.addEventListener('DOMContentLoaded', () => {
         }
 
         container.innerHTML = filtered.map(article => {
-            // 短摘要处理
             let summary = article.summary || '';
             if (summary.length > 120) summary = summary.substring(0, 120) + '...';
-            // 清理 HTML 标签
             summary = summary.replace(/<\/?[^>]+(>|$)/g, "");
 
             return `
@@ -72,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <div class="card-summary">${summary || '暂无摘要'}</div>
                 <div class="card-footer">
                     <span>${article.published || '未知时间'}</span>
-                    <span>${article.lang === 'zh' ? '🇨🇳 中文' : '🌐 English'}</span>
+                    <span>${article.lang === 'zh' || article.lang === 'zh_cn' ? '🇨🇳 中文' : '🌐 English'}</span>
                 </div>
             </div>`;
         }).join('');
