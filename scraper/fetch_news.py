@@ -5,29 +5,27 @@ from datetime import datetime
 import os
 import time
 
-# 扩展的国内稳定源（中文为主，也可保留少量英文）
+# 扩展的国内稳定源（中文为主，保留部分英文）
 RSS_SOURCES = {
     "zh_cn": {
         "财报": [
-            "https://rss.eastmoney.com/channel/414",       # 东方财富-财报
-            "https://wallstreetcn.com/rss/news/global",    # 华尔街见闻-快讯（含财报）
+            "https://rss.eastmoney.com/channel/414",
+            "https://wallstreetcn.com/rss/news/global",
         ],
         "科技": [
-            "https://36kr.com/feed-newsflash",             # 36氪-快讯
-            "https://www.huxiu.com/rss/0.xml",             # 虎嗅
-            "https://sspai.com/feed",                      # 少数派
-            "https://rss.itjuzi.com/rss",                  # IT桔子
+            "https://36kr.com/feed-newsflash",
+            "https://www.huxiu.com/rss/0.xml",
+            "https://sspai.com/feed",
         ]
     },
     "en": {
         "科技": [
-            "https://techcrunch.com/feed/",                # TechCrunch
-            "https://www.theverge.com/rss/index.xml",      # The Verge
+            "https://techcrunch.com/feed/",
+            "https://www.theverge.com/rss/index.xml",
         ]
     }
 }
 
-# Hacker News 特例
 HN_TOP_URL = "https://hacker-news.firebaseio.com/v0/topstories.json"
 HN_ITEM_URL = "https://hacker-news.firebaseio.com/v0/item/{}.json"
 
@@ -100,11 +98,9 @@ def main():
                 all_articles.extend(arts)
                 time.sleep(0.6)
 
-    # 添加 Hacker News（英文科技）
     if "en" in RSS_SOURCES:
         all_articles.extend(fetch_hn())
 
-    # 去重
     seen = set()
     unique = []
     for a in all_articles:
@@ -113,7 +109,6 @@ def main():
             seen.add(key)
             unique.append(a)
 
-    # 排序
     unique.sort(key=lambda x: x["published"] if x["published"] else "0", reverse=True)
 
     output = {
