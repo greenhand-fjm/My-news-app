@@ -1,0 +1,15 @@
+{
+  "last_updated": "2026-04-28 12:00:00",
+  "total": 1,
+  "articles": [
+    {
+      "title": "这是一条测试新闻",
+      "url": "https://example.com",
+      "summary": "如果你看到这条新闻，说明你的新闻面板已经部署成功！每天抓取功能调试中。",
+      "published": "2026-04-28 10:00",
+      "source": "系统",
+      "lang": "zh",
+      "category": "科技"
+    }
+  ]
+}
