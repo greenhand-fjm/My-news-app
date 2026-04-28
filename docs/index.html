@@ -1,28 +1,37 @@
 <!DOCTYPE html>
-<html lang="zh">
+<html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>每日财报与科技新闻</title>
+    <title>每日财科 · 新闻聚合</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <header>
-        <h1>📰 每日财报 & 科技新闻聚合</h1>
-        <p id="update-time">加载中...</p>
-        <div class="filters">
-            <button class="filter-btn active" data-cat="all">全部</button>
-            <button class="filter-btn" data-cat="财报">财报</button>
-            <button class="filter-btn" data-cat="科技">科技</button>
-            <select id="lang-filter">
-                <option value="all">所有语言</option>
-                <option value="zh">中文</option>
-                <option value="en">英文</option>
-            </select>
-        </div>
-    </header>
-    <main id="news-container" class="news-grid">
-    </main>
+    <div class="container">
+        <header>
+            <div class="header-top">
+                <h1>📡 财科日报</h1>
+                <p class="subtitle">每日中外财报与科技快讯 · 自动聚合</p>
+            </div>
+            <p id="update-time" class="update-info">数据加载中...</p>
+            <div class="filters">
+                <button class="filter-btn active" data-cat="all">🌐 全部</button>
+                <button class="filter-btn" data-cat="财报">📈 财报</button>
+                <button class="filter-btn" data-cat="科技">💡 科技</button>
+                <select id="lang-filter">
+                    <option value="all">所有语言</option>
+                    <option value="zh">🇨🇳 中文</option>
+                    <option value="en">🇬🇧 英文</option>
+                </select>
+            </div>
+        </header>
+        <main id="news-container" class="news-grid">
+            <div class="loading">加载新闻中，请稍候...</div>
+        </main>
+        <footer>
+            <p>数据来源：东方财富、华尔街见闻、36氪、虎嗅、少数派等 · 每日自动更新</p>
+        </footer>
+    </div>
     <script src="script.js"></script>
 </body>
 </html>
