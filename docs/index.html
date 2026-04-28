@@ -3,8 +3,16 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>每日财科 · 新闻聚合</title>
+    <title>财科日报 · 新闻聚合</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="manifest" href="manifest.json">
+    <script>
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('/My-news-app/service-worker.js');
+            });
+        }
+    </script>
 </head>
 <body>
     <div class="container">
