@@ -1,131 +1,419 @@
 {
-  "last_updated": "2026-04-29 01:49:12",
+  "last_updated": "2026-04-30 01:48:16",
   "total": 52,
   "articles": [
     {
-      "title": "国家统计局：2026年一季度文化企业实现营业收入35569亿元，比上年同期增长6.4%",
-      "url": "https://36kr.com/newsflashes/3787244311797000?f=rss",
-      "summary": "36氪获悉，据对全国8.2万家规模以上文化及相关产业企业调查，2026年一季度，文化企业实现营业收入35569亿元，按可比口径计算，比上年同期增长6.4%。其中，文化新业态特征较为明显的16个行业小类[2]实现营业收入16782亿元，比上年同期增长11.2%，快于全部规模以上文化企业4.8个百分点。",
-      "published": "2026-04-29 01:44",
+      "title": "三星电子：已与部分客户签署了为期多年的芯片合约",
+      "url": "https://36kr.com/newsflashes/3788655278119944?f=rss",
+      "summary": "三星电子表示，已与部分客户签署了为期多年的芯片合约，部分合同具有约束力。（财联社）",
+      "published": "2026-04-30 01:39",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "一季度我国社会物流总额同比增长6.2%",
-      "url": "https://36kr.com/newsflashes/3787233092099335?f=rss",
-      "summary": "中国物流与采购联合会今天（4月29日）公布一季度物流运行数据。一季度，我国物流运行开局良好、态势向好，物流需求实现较快增长，发展韧性持续增强。今年1—3月份，我国社会物流总额96.4万亿元，同比增长6.2%，增速较上年同期提高0.5个百分点，回升态势明显，并且增速持续快于同期GDP增速。（央视新闻）",
-      "published": "2026-04-29 01:32",
+      "title": "国家统计局：中国4月官方制造业PMI 50.3",
+      "url": "https://36kr.com/newsflashes/3788647421697033?f=rss",
+      "summary": "36氪获悉，据国家统计局，4月份，制造业采购经理指数（PMI）为50.3%，比上月下降0.1个百分点，制造业景气水平总体稳定。",
+      "published": "2026-04-30 01:31",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "A股三大指数集体低开，五粮液股价跌破100元",
-      "url": "https://36kr.com/newsflashes/3787227863194628?f=rss",
-      "summary": "36氪获悉，A股三大指数集体低开，沪指低开0.41%，深成指低开0.53%，创业板指低开0.51%；光模块、锂电回调，联特科技、中科电气跌超10%，长光华芯、光迅科技跌超3%；白酒股走弱，五粮液跌超2%股价跌破100元，创出2020年4月以来新低；旅游、家电板块涨幅居前，三夫户外涨超9%，格力电器涨超4%；新股N中科仪高开276.31%。",
-      "published": "2026-04-29 01:27",
+      "title": "A股三大指数开盘涨跌不一，寒武纪涨超4%",
+      "url": "https://36kr.com/newsflashes/3788643753139208?f=rss",
+      "summary": "36氪获悉，A股三大指数开盘涨跌不一，沪指低开0.01%，深成指高开0.24%，创业板指高开0.46%；GPU、CPO、中船系概念领涨，中国动力涨超5%，中国船舶、寒武纪、剑桥科技涨超4%；锂电电解液、动力电池、卫星导航概念跌幅居前，华盛锂电跌12%，天能股份跌超8%，长江通信跌超3%。",
+      "published": "2026-04-30 01:27",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "央行今日开展259亿元7天期逆回购操作",
-      "url": "https://36kr.com/newsflashes/3787224562932742?f=rss",
-      "summary": "36氪获悉，2026年4月29日中国人民银行以固定利率、数量招标方式开展了259亿元7天期逆回购操作，全额满足了一级交易商需求。操作利率1.40%。",
-      "published": "2026-04-29 01:24",
+      "title": "恒指开盘跌0.4%，恒生科技指数跌0.68%",
+      "url": "https://36kr.com/newsflashes/3788639098789128?f=rss",
+      "summary": "36氪获悉，恒指开盘跌0.4%，恒生科技指数跌0.68%；半导体、非银金融板块领涨，兆易创新涨超5%，中国人寿涨超4%；有色金属、零售板块跌幅居前，山东黄金跌超2%，阿里巴巴、美团、京东集团跌超1%。",
+      "published": "2026-04-30 01:22",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "恒指开盘涨0.63%，恒生科技指数涨1.07%",
-      "url": "https://36kr.com/newsflashes/3787224093023490?f=rss",
-      "summary": "36氪获悉，恒指开盘涨0.63%，恒生科技指数涨1.07%；科技、汽车股走强，蔚来、京东健康涨超4%，理想汽车涨超3%，小鹏集团、哔哩哔哩涨超2%；有色金属、煤炭板块调整，五矿资源、中煤能源跌超1%；新股商米科技高开292.20%。",
-      "published": "2026-04-29 01:23",
+      "title": "人民币兑美元中间价报6.8628",
+      "url": "https://36kr.com/newsflashes/3788634970594306?f=rss",
+      "summary": "36氪获悉，人民币兑美元中间价报6.8628，下调20点。",
+      "published": "2026-04-30 01:18",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "人民币兑美元中间价报6.8608，下调19点",
-      "url": "https://36kr.com/newsflashes/3787218043001857?f=rss",
-      "summary": "36氪获悉，人民币兑美元中间价报6.8608，下调19点；上一交易日中间价6.8589，上一交易日官方收盘价6.8360，上日夜盘报收6.8372。",
-      "published": "2026-04-29 01:17",
+      "title": "LG能源计划在年底前将储能系统业务的销售额占比提升至30%",
+      "url": "https://36kr.com/newsflashes/3788627073178882?f=rss",
+      "summary": "LG能源计划在年底前将储能系统业务的销售额占比提升至30%。（新浪财经）",
+      "published": "2026-04-30 01:10",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "国资入股，民营银行股权结构持续优化",
-      "url": "https://36kr.com/newsflashes/3787200294477063?f=rss",
-      "summary": "网商银行最新发布的2025年年报显示，该行2025年通过股权转让引入3家新股东，均为杭州当地民营企业，持股比例均低于5%。这是网商银行成立近11年来首次引入新股东。与此同时，近期多家��营银行股权结构也发生变动，国资入股、国资控股案例逐渐增多。 业内人士分析称，国资入股、新增民企股东等均有助于丰富民营银行的股东结构，优化公司治理，同时增强资本实力与风险抵御能力。但更为重要的是，民营银行应坚守差异化经营定位，构建可持续性的内生发展模式，锻造自身“造血”能力。（上证报）",
-      "published": "2026-04-29 01:13",
+      "title": "“灵动芯光”完成数千万元天使++轮融资",
+      "url": "https://36kr.com/newsflashes/3788621546282246?f=rss",
+      "summary": "36氪获悉，硅基光子企业“灵动芯光”正式宣布完成数千万元天使++轮融资，本轮融资由磐霖资本领投、同方投资与深天使合作的子基金汇泽天诚跟投。此次募集的资金将全部聚焦于芯片间光互联核心技术研发与产品落地，重点推进SmartComb多波长密波光源的产品化及SmartPHY光I/O小芯粒的研发工作。",
+      "published": "2026-04-30 01:05",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "8天预计发送旅客1.58亿人次，铁路 “五一”假期运输今天启动",
-      "url": "https://36kr.com/newsflashes/3787211189804289?f=rss",
-      "summary": "从国铁集团获悉，今天（4月29日），铁路“五一”假期运输启动，全国铁路今天预计发送旅客1390万人次。假期运输从今天到5月6日，共8天。假期运输期间，全国铁路预计发送旅客1.58亿人次，日均开行旅客列车超1.2万列。（央视新闻）",
-      "published": "2026-04-29 01:10",
+      "title": "Amazon, Meta join fight to end Google Pay, PhonePe dominance in India",
+      "url": "https://techcrunch.com/2026/04/29/amazon-meta-join-fight-to-end-google-pay-phonepe-dominance-in-india/",
+      "summary": "PhonePe and Google Pay command 80% of India's UPI instant payments network. Rivals are set to meet with regulators to lobby for restrictions.",
+      "published": "2026-04-30 01:00",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "“特朗普关税”首批退款将于5月11日左右发放",
+      "url": "https://36kr.com/newsflashes/3788613758147587?f=rss",
+      "summary": "据美国国际贸易法院一份文件显示，特朗普政府此前依据《国际紧急经济权力法》对进口商品征收的关税，预计将于5月11日左右发放。美国最高法院2月20日公布裁决，认定美国《国际紧急经济权力法》没有授权总统征收大规模关税。美国国际贸易法院法官3月4日作出裁决，要求海关与边境保护局在关税清算中不得依据《国际紧急经济权力法》征收关税。这意味着，此前依据该法征收的关税需退还。（央视新闻）",
+      "published": "2026-04-30 00:57",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "可回收火箭密集验证窗口开启，商业航天产业链有望迈入规模化量产元年",
-      "url": "https://36kr.com/newsflashes/3787190594558981?f=rss",
-      "summary": "4月下旬，中国商业航天迎来可回收火箭密集验证窗口。长征十号乙、朱雀三号等多型火箭接连实施回收技术验证，国家《商业航天标准体系（1.0版）》同步落地。在产业政策与核心技术共振之下，A股产业链公司一季报业绩兑现亮眼。Wind数据显示，万得商业航天概念指数近期表现不俗，4月7日以来累计上涨6.51%。分析人士认为，可回收技术的工程化落地将推动发射成本指数级下降，叠加政策标准体系的顶层引导，商业航天正从技术验证期迈入规模化商业应用期，卫星制造、火箭制造、地面设备等全产业链环节有望迎来价值重估。（中证网）",
-      "published": "2026-04-29 01:09",
+      "title": "两市融资余额增加36.64亿元",
+      "url": "https://36kr.com/newsflashes/3788606661057542?f=rss",
+      "summary": "36氪获悉，截至4月29日，上交所融资余额报13784.54亿元，较前一交易日增加50.14亿元；深交所融资余额报13254.38亿元，较前一交易日减少13.5亿元；两市合计27038.92亿元，较前一交易日增加36.64亿元。",
+      "published": "2026-04-30 00:49",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "城堡据悉已获批在迪拜开始运营",
-      "url": "https://36kr.com/newsflashes/3787188958977280?f=rss",
-      "summary": "知情人士表示，城堡已获得监管部门批准，准备开始在迪拜这个新兴对冲基金中心开展业务。其中一位知情人士表示，此举将使该公司首批交易员能够开始在迪拜国际金融中心办公。知情人士透露，2023年加入城堡的投资组合经理Yash Gupta已经搬到了迪拜。截至4月1日，该公司资产管理规模达670亿美元。Gupta和迪拜金融服务管理局的代表也未能立即回应置评请求。（新浪财经）",
-      "published": "2026-04-29 01:05",
+      "title": "美国最大公寓业主AvalonBay与EQR商讨合并",
+      "url": "https://36kr.com/newsflashes/3788600944024583?f=rss",
+      "summary": "知情人士透露，AvalonBay Communities Inc.与Equity Residential正考虑潜在的合并方案，这可能会重塑美国的公寓市场。这两家房地产投资信托基金（REITs）作为美国最大的公寓开发商，已就合并方案进行了初步探讨。目前，AvalonBay和Equity Residential的市值均在250亿美元左右。（新浪财经）",
+      "published": "2026-04-30 00:44",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "89股一季报获券商研报点赞，4月以来平均涨超10%",
-      "url": "https://36kr.com/newsflashes/3787188032199942?f=rss",
-      "summary": "据统计，截至4月28日，已公布2026年一季报的上市公司中，券商研报明确给予“季报超预期”评价的公司有89家。数据显示，这些业绩超预期的公司中，接近八成总市值超过100亿元，其中更是不乏宁德时代、贵州茅台、中国移动等21家千亿市值巨头。据数据宝统计，截至4月28日收盘，业绩超预期的89家公司4月以来平均上涨超10%，大幅跑赢同期上证指数。三环集团、英搏尔、中际旭创等个股累计涨幅均超40%。（证券时报）",
-      "published": "2026-04-29 01:02",
+      "title": "中金公司：继续看好光通信、芯片定制服务、存储、晶圆代工等核心投资方向",
+      "url": "https://36kr.com/newsflashes/3788597224365060?f=rss",
+      "summary": "36氪获悉，中金公司研报称，第八代自研AI芯片TPU 8t及TPU 8i于Google Cloud Next 2026大会正式发布。这是自TPU诞生以来，Google首度将训练和推理芯片进行分开设计，且在集群组网端引入了更新的配置方案。中金公司认为，精益化分工的AI硬件基础设施有望进一步提高大模型训练及推理效率，进一步增强“供给降本—需求增加”的“飞轮效应”。从产业链维度来看，继续看好光通信、芯片定制服务、存储、晶圆代工等核心投资方向。",
+      "published": "2026-04-30 00:40",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "港股IPO热潮中的中资券商：保荐数量与市场份额领跑",
-      "url": "https://36kr.com/newsflashes/3787179604679683?f=rss",
-      "summary": "2025年港股IPO市场强势复苏，全年新股上市数量与募资规模双双攀升，募资总额接近2900亿港元，时隔4年重回全球榜首。进入2026年，已有47家企业成功赴港上市，合计募资接近1400亿港元，且当前排队企业多达434家。综合来看，港股IPO业务呈现三大鲜明特征：A股企业赴港上市持续升温，硬科技与生物医药成为主力赛道；中资券商保荐数量与市场份额大幅领先，头部机构加速布局海外投行生态；项目储备持续饱满，保荐与跨境复合型人才供不应求，成为行业竞争关键。（上证报）",
-      "published": "2026-04-29 00:58",
+      "title": "通用汽车拟投14亿美元在美国和加拿大工厂生产燃油发动机",
+      "url": "https://36kr.com/newsflashes/3788590505991432?f=rss",
+      "summary": "通用汽车周三表示，计划投资约14亿美元，用于在美国的三家工厂和加拿大的一家工厂生产汽油发动机、变速器和金属铸件，以增强其生产内燃机汽车的能力，因为美国市场对电动汽车的需求正在减弱。（新浪财经）",
+      "published": "2026-04-30 00:39",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "We decreased our LLM costs with Opus",
-      "url": "https://www.mendral.com/blog/frontier-model-lower-costs",
+      "title": "Amazon’s cloud business is surging — and so is its capital spending",
+      "url": "https://techcrunch.com/2026/04/29/amazons-cloud-business-is-surging-and-so-is-its-capital-spending/",
+      "summary": "The e-commerce giant is making more money than expected from AWS but it's also spending a lot, and will continue to do so in the near term, its chief executive said.",
+      "published": "2026-04-30 00:14",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Sources: Anthropic could raise a new $50B round at a valuation of $900B",
+      "url": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
+      "summary": "The maker of Claude has received multiple pre-emptive offers at valuations in the $850 billion to $900 billion range, according to sources familiar with the matter.",
+      "published": "2026-04-30 00:07",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Elon Musk’s worst enemy in court is Elon Musk",
+      "url": "https://www.theverge.com/tech/921022/elon-musk-cross-openai-altman",
+      "summary": "About five hours into Elon Musk's testimony, I typed the following sentence into my notes: \"I have never been more sympathetic to Sam Altman in my life.\" Musk's direct testimony was an improvement over yesterday - even if his lawyer kept asking leading questions to cue him in how to answer. But that memory was [&#8230;]",
+      "published": "2026-04-30 00:01",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "On the stand, Elon Musk can’t escape his own tweets",
+      "url": "https://techcrunch.com/2026/04/29/on-the-stand-elon-musk-cant-escape-his-own-tweets/",
+      "summary": "Elon Musk took the stand for the second day for his attempt to legally dismantle OpenAI.",
+      "published": "2026-04-29 23:58",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Meta is still burning money on AR/VR",
+      "url": "https://techcrunch.com/2026/04/29/meta-is-still-burning-money-on-ar-vr/",
+      "summary": "Meta is losing billions on Reality Labs each quarter, and its AI expenditures are only going to increase its spending.",
+      "published": "2026-04-29 23:58",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Satya Nadella says he’s ready to ‘exploit’ the new OpenAI deal",
+      "url": "https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/",
+      "summary": "Microsoft gets to offer OpenAI's tech to its cloud customers and doesn't have to pay for it. \"We fully plan to exploit it,\" Nadella said.",
+      "published": "2026-04-29 23:55",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Microsoft says it has over 20M paid Copilot users, and they really are using it",
+      "url": "https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/",
+      "summary": "Despite the lingering perception that no one really uses Copilot, Microsoft said on Wednesday that the number of users and engagement is growing.",
+      "published": "2026-04-29 23:02",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Google Cloud surpasses $20B, but says growth was capacity-constrained",
+      "url": "https://techcrunch.com/2026/04/29/google-cloud-surpasses-20b-but-says-growth-was-capacity-constrained/",
+      "summary": "Google Cloud topped $20B in quarterly revenue for the first time, fueled by surging demand for AI. But capacity constraints mean it could have grown even faster.",
+      "published": "2026-04-29 22:20",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Grindr — yes, Grindr — won the WHCD party circuit",
+      "url": "https://www.theverge.com/column/920845/grindr-whcd-party-2026",
+      "summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers about technology, politics, and technology learning how to politick. If you're not a subscriber but would like to support our work, please subscribe here. I promise that your money will not go toward paying for a drone-proof ballroom for The Verge staff, no matter how [&#8230;]",
+      "published": "2026-04-29 22:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Vera: a programming language designed for machines to write",
+      "url": "https://github.com/aallan/vera",
       "summary": "",
-      "published": "2026-04-29 00:57",
+      "published": "2026-04-29 21:41",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "At his OpenAI trial, Musk relitigates an old friendship",
-      "url": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/",
-      "summary": "It's a story Musk has told before -- in interviews and to author Walter Isaacson for his bestselling biography of Musk -- but Tuesday was the first time he said it under oath.",
-      "published": "2026-04-29 00:40",
+      "title": "Splatoon Raiders preorders for the Switch 2 are nearly 20 percent off",
+      "url": "https://www.theverge.com/gadgets/920848/splatoon-raiders-physical-edition-preorder-switch-2-walmart-deal-sale",
+      "summary": "Nintendo recently announced a new pricing policy, which knocks $10 off the cost of digital versions of future first-party titles exclusive to the Nintendo Switch 2. Splatoon Raiders, for instance, is available for preorder ahead of its July 23rd release for $49.99 digitally or $59.99 for the physical edition. However, Walmart is the exception in [&#8230;]",
+      "published": "2026-04-29 21:19",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Google gains 25M subscriptions in Q1, driven by YouTube and Google One",
+      "url": "https://techcrunch.com/2026/04/29/google-gains-25m-subscriptions-in-q1-driven-by-youtube-and-google-one/",
+      "summary": "Google added 25M paid subscriptions in Q1, reaching 350M total, as YouTube and Google One grow.",
+      "published": "2026-04-29 20:59",
       "source": "techcrunch.com",
       "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Fusion power startup Zap Energy pulls a partial pivot, adding nuclear fission to the mix",
+      "url": "https://techcrunch.com/2026/04/29/fusion-power-startup-zap-energy-pulls-a-partial-pivot-adding-nuclear-fission-to-the-mix/",
+      "summary": "Surprise! Fusion startup Zap Energy says it will be developing fission reactors alongside its fusion devices.",
+      "published": "2026-04-29 20:53",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Microsoft reports sinking Xbox revenue as its cloud business climbs",
+      "url": "https://www.theverge.com/tech/920785/microsoft-xbox-revenue-q3-2026-earnings",
+      "summary": "Microsoft's Xbox hardware revenue continues to tumble, with the company revealing a 33 percent decline as part of its earnings report released on Wednesday. Even though the rest of Microsoft's consumer-focused division took a dip, the company's cloud and productivity businesses continue to soar, driving the company toward $82.9 billion in revenue. Along with declining [&#8230;]",
+      "published": "2026-04-29 20:43",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Google Search queries hit an ‘all time high’ last quarter",
+      "url": "https://www.theverge.com/tech/920815/google-alphabet-q1-2026-earnings-sundar-pichai",
+      "summary": "Google Search queries hit an \"all time high\" in the first quarter of 2026, according to a statement from CEO Sundar Pichai published as part of Alphabet's earnings on Wednesday. \"Our AI investments and full stack approach are lighting up every part of the business,\" Pichai says. \"Search had a strong quarter with AI experiences [&#8230;]",
+      "published": "2026-04-29 20:28",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "OpenTrafficMap",
+      "url": "https://opentrafficmap.org/",
+      "summary": "",
+      "published": "2026-04-29 19:49",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
+      "url": "https://github.com/anthropics/claude-code/issues/53262",
+      "summary": "",
+      "published": "2026-04-29 18:54",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Parallel Web Systems hits $2B valuation five months after its last big raise",
+      "url": "https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/",
+      "summary": "The AI agent-tool startup founded by former Twitter CEO Parag Agrawal has raised $100 million, led by Sequoia, months after raising a previous $100 million.",
+      "published": "2026-04-29 18:33",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Copy Fail – CVE-2026-31431",
+      "url": "https://copy.fail/",
+      "summary": "",
+      "published": "2026-04-29 18:13",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "All the evidence unveiled so far in Musk v. Altman",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
+      "summary": "The Musk v. Altman trial is underway, and that means exhibits, or the evidence to be presented in court, are being revealed piece by piece. So far, email exchanges, photos, and corporate documents are circulating from the earliest days of OpenAI - and from before the AI lab even had a name. Some high-level takeaways: [&#8230;]",
+      "published": "2026-04-29 18:03",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Ubuntu’s AI plans have Linux users looking for a &#8216;kill switch&#8217;",
+      "url": "https://www.theverge.com/tech/920723/linux-ubuntu-ai-features-ai-kill-switch",
+      "summary": "Canonical's plan to add AI features to Ubuntu has some users asking for \"a version of Ubuntu that does not include these features,\" while others say they'll stick with older versions of the Linux distro or even switch to a different one. After Canonical's announcement earlier this week that it's bringing AI features to Ubuntu, [&#8230;]",
+      "published": "2026-04-29 17:32",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Google Photos uses AI to make the iconic closet from ‘Clueless’ a reality",
+      "url": "https://techcrunch.com/2026/04/29/google-photos-uses-ai-to-make-the-iconic-closet-from-clueless-a-reality/",
+      "summary": "Google says the new feature will leverage AI technology to automatically create a copy of your wardrobe that's based on the pieces of clothing appearing in your Google Photos library.",
+      "published": "2026-04-29 16:42",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "FastCGI: 30 years old and still the better protocol for reverse proxies",
+      "url": "https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies",
+      "summary": "",
+      "published": "2026-04-29 16:16",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Motorola just revealed the Razr Fold’s price and hoo boy",
+      "url": "https://www.theverge.com/gadgets/919460/motorola-razr-2026-price-availability",
+      "summary": "2026 is shaping up to be a tough year to launch a high-end phone. The memory crisis has phone prices rising across the board, so an already expensive phone risks becoming a much too expensive phone. That might be what happened to the Razr Fold, which will cost $1,900 when it goes on sale in [&#8230;]",
+      "published": "2026-04-29 16:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The new Razr Ultra is still the best-looking phone out there",
+      "url": "https://www.theverge.com/tech/920183/motorola-razr-ultra-2026-wood-finish-alcantara-price",
+      "summary": "Look, you're not going to find much new on the 2026 version of the Motorola Razr Ultra. There's a new main camera sensor, a slightly bigger battery, and a higher price: $1,499, up from $1,299. But one thing hasn't changed: this is a darn good looking phone. The wood-finish back panel returns, and is joined [&#8230;]",
+      "published": "2026-04-29 16:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The Moto Razr and Razr Plus are victims of shrinkflation",
+      "url": "https://www.theverge.com/tech/920236/motorola-razr-plus-2026-price",
+      "summary": "The memory crisis claims another couple of victims. Motorola's midtier and entry-level flip phones cost $100 more than their predecessors, and have few upgrades to show for it. The 2026 Razr Plus costs $1,099, up from $999. It still comes with a Snapdragon 8S Gen 3 chipset - two years old at this point - [&#8230;]",
+      "published": "2026-04-29 16:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Cursor Camp",
+      "url": "https://neal.fun/cursor-camp/",
+      "summary": "",
+      "published": "2026-04-29 15:39",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Zed 1.0",
+      "url": "https://zed.dev/blog/zed-1-0",
+      "summary": "",
+      "published": "2026-04-29 14:34",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Why I still reach for Lisp and Scheme instead of Haskell",
+      "url": "https://jointhefreeworld.org/blog/articles/lisps/why-i-still-reach-for-scheme-instead-of-haskell/index.html",
+      "summary": "",
+      "published": "2026-04-29 08:43",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "移动端 Agent 的井喷或许近在眼前：以 ColorOS 抛砖引玉",
+      "url": "https://sspai.com/post/109062",
+      "summary": "我觉得手机 AI 再次爆发式发展的时间节点已经不远了，应用与安卓的底层权限开放像是 MCP，而基于自动操作的积木像是 Skills，配合不断增强的端侧模型，或许能让 GUI Agent 更进一步。<a href=\"https://sspai.com/post/109062\" target=\"_blank\">查看全文</a>",
+      "published": "2026-04-29 07:00",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "先别一股脑扔进洗衣机：换季衣物洗护指南",
+      "url": "https://sspai.com/post/60247",
+      "summary": "用心呵护自己的衣物，就从这个春天做起吧(๑•̀ㅂ•́)و✧<a href=\"https://sspai.com/post/60247\" target=\"_blank\">查看全文</a>",
+      "published": "2026-04-29 06:41",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "众测｜邀你一同探索随身 AI 硬件入口 YoooClaw C·ONE",
+      "url": "https://sspai.com/post/109207",
+      "summary": "现在AI工具正在从「能回答问题」逐渐走向「能替你完成事情」。我们不再只满足于打开一个App、输入一段提示词、等待一次回复，而是希望AI能理解我们的上下文，知道我们正在处理什么信息，并在合适的时候主动帮 ...<a href=\"https://sspai.com/post/109207\" target=\"_blank\">查看全文</a>",
+      "published": "2026-04-29 03:34",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "iPad 赋能电影创作：国内首部宣纸手绘长片《燃比娃》的幕后故事",
+      "url": "https://sspai.com/post/109188",
+      "summary": "《燃比娃》是由李文愉执导、上海电影(集团)有限公司及上海美术电影制片厂有限公司出品的动画电影，也是国内首部宣纸手绘动画长片。本片导演李文愉毕业于北京大学、硕士研究生学历，毕业后任教于四川大学艺术学院数 ...<a href=\"https://sspai.com/post/109188\" target=\"_blank\">查看全文</a>",
+      "published": "2026-04-29 02:27",
+      "source": "sspai.com",
+      "lang": "zh_cn",
       "category": "科技"
     },
     {
@@ -135,258 +423,6 @@
       "published": "2026-04-29 00:22",
       "source": "sspai.com",
       "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "Claude system prompt bug wastes user money and bricks managed agents",
-      "url": "https://github.com/anthropics/claude-code/issues/49363",
-      "summary": "",
-      "published": "2026-04-28 23:59",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "ChatGPT serves ads. Here's the full attribution loop",
-      "url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
-      "summary": "",
-      "published": "2026-04-28 23:54",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Claude for Creative Work",
-      "url": "https://www.anthropic.com/news/claude-for-creative-work",
-      "summary": "",
-      "published": "2026-04-28 23:46",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "It’s primetime for conspiracy theorist video creators",
-      "url": "https://www.theverge.com/streaming/919291/white-house-correspondents-dinner-conspiracy-videos-false-flag",
-      "summary": "In the days since this year's White House Correspondents' Dinner was cut short when shots were fired at the event, there has been a boom of conspiracy theory videos created by people who insist that the entire situation was a false flag operation. These kinds of theories are nothing new, but the way they're spreading [&#8230;]",
-      "published": "2026-04-28 23:31",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Elon Musk appeared more petty than prepared",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/920191/elon-musk-sam-altman-trial-day-one",
-      "summary": "Today the first witness was sworn in in Musk v. Altman: Elon Musk. I was surprised by how flat he seemed. This is not the first time I've seen Musk in court. During his defamation suit, he turned on the charm and the jury responded by finding him not guilty. Today he looked adrift and [&#8230;]",
-      "published": "2026-04-28 23:17",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Carrot Disclosure: Forgejo",
-      "url": "https://dustri.org/b/carrot-disclosure-forgejo.html",
-      "summary": "",
-      "published": "2026-04-28 22:14",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "James Comey indicted over Instagram seashell photo that allegedly threatened Trump",
-      "url": "https://www.theverge.com/policy/920131/james-comey-indicted-over-instagram-seashell-photo-that-allegedly-threatened-trump",
-      "summary": "The US Department of Justice has once again indicted James Comey - this time, for an alleged threat the former FBI director made toward President Donald Trump on Instagram, as reported earlier by CNN. In its indictment, filed in a North Carolina federal court on Tuesday, the DOJ cites the now-deleted image Comey posted to [&#8230;]",
-      "published": "2026-04-28 21:40",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Before GitHub",
-      "url": "https://lucumr.pocoo.org/2026/4/28/before-github/",
-      "summary": "",
-      "published": "2026-04-28 21:17",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Elon Musk tells the jury that all he wants to do is save humanity",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/920048/elon-musk-testimony-save-humanity",
-      "summary": "On the stand, Elon Musk is positioning himself as a savior. In the high-profile trial between him and his fellow OpenAI co-founder, now CEO, Sam Altman, Musk opened by going through his background. He went as far back as being raised in South Africa and arriving in Canada for college with \"2,500 in Canadian travelers' [&#8230;]",
-      "published": "2026-04-28 20:46",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Taylor Swift is stepping up the legal war on AI copycats",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/919827/taylor-swift-trademarks-ai-copycats",
-      "summary": "Taylor Swift has been at the center of AI imitation controversies for years, and now, she's become the latest celebrity who's escalating attempts to protect herself from AI copycats. As usual, however, the legal system intersects with technology in complicated ways - and Swift's efforts may be a long shot. In trademark applications filed last [&#8230;]",
-      "published": "2026-04-28 20:30",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Amazon is already offering new OpenAI products on AWS",
-      "url": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
-      "summary": "A day after OpenAI got Microsoft to agree to end exclusive rights, AWS announced a slate of OpenAI model offerings, including a new agent service.",
-      "published": "2026-04-28 19:48",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Now YouTube TV lets you multiview any channel you want",
-      "url": "https://www.theverge.com/streaming/919958/youtube-tv-custom-multiview-channel",
-      "summary": "YouTube CEO Neal Mohan announced Tuesday that YouTube TV is getting \"fully customizable\" multiview. Users have \"full control to mix and match live streams\" and can \"build the personalized viewing experience you've been asking for,\" Mohan says. You can pin up to four streams in your multiview window. YouTube initially introduced multiview in a more [&#8230;]",
-      "published": "2026-04-28 19:46",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Ghostty is leaving GitHub",
-      "url": "https://mitchellh.com/writing/ghostty-leaving-github",
-      "summary": "",
-      "published": "2026-04-28 19:44",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "The FCC is going after the broadcast licenses of Disney-owned ABC stations",
-      "url": "https://www.theverge.com/policy/919739/fcc-disney-abc-broadcast-licenses-threat",
-      "summary": "The Federal Communications Commission has ordered the ABC stations owned and operated by Disney to file for an early license renewal, as reported earlier by The New York Times. In a filing on Tuesday, the FCC claims it made the decision as part of an investigation into Disney's policies on diversity, equity, and inclusivity (DEI). [&#8230;]",
-      "published": "2026-04-28 19:36",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. The trial began with [&#8230;]",
-      "published": "2026-04-28 19:27",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
-      "url": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
-      "summary": "",
-      "published": "2026-04-28 19:24",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Elon Musk takes the stand in high-profile trial against OpenAI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/917052/elon-musk-takes-stand-trial-openai-sam-altman",
-      "summary": "Elon Musk officially began his testimony in the trial he has brought against OpenAI CEO Sam Altman and company president Greg Brockman. The three were on the initial founding team of OpenAI, with Musk investing up to $38 million early on before the co-founders' relationship soured over disagreements over company structure and mission, including whether [&#8230;]",
-      "published": "2026-04-28 19:00",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Amazon launches an AI-powered audio Q&A experience on product pages",
-      "url": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
-      "summary": "Amazon's new \"Join the chat\" feature lets you ask questions about products and receive AI-powered audio responses.",
-      "published": "2026-04-28 18:49",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "You can get dragged into a police investigation by proximity alone — for now",
-      "url": "https://www.theverge.com/report/919664/chatrie-v-united-states-supreme-court-arguments-fourth-amendment-geofence-warrants",
-      "summary": "A years-old bank heist may soon have major privacy implications for every American who owns a cellphone. On Monday, the Supreme Court heard arguments in Chatrie v. United States, a case involving police's use of controversial \"geofence warrants\" to find and arrest Okello Chatrie, the suspect of a 2019 bank robbery outside Richmond, Virginia. At [&#8230;]",
-      "published": "2026-04-28 18:45",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Match Group invests $100M in Sniffies, a cruising app for gay men",
-      "url": "https://techcrunch.com/2026/04/28/match-group-invests-100-million-in-sniffies-a-cruising-app-for-gay-men/",
-      "summary": "The app is Match Group's newest attempt to get mobile users excited about online romance again.",
-      "published": "2026-04-28 18:16",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Google expands Pentagon’s access to its AI after Anthropic’s refusal",
-      "url": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
-      "summary": "After Anthropic refused to allow the DoD to use its AI for domestic mass surveillance and autonomous weapons, Google has signed a new contract with the department.",
-      "published": "2026-04-28 18:15",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Paragon is not collaborating with Italian authorities probing spyware attacks, report says",
-      "url": "https://techcrunch.com/2026/04/28/paragon-is-not-collaborating-with-italian-authorities-probing-spyware-attacks-report-says/",
-      "summary": "Despite promising to help determine what happened with the hacks targeting journalists and activists in Italy, Israeli American spyware maker Paragon has reportedly not responded to authorities’ requests for information.",
-      "published": "2026-04-28 17:46",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "US Supreme Court appears split over controversial use of ‘geofence’ search warrants",
-      "url": "https://techcrunch.com/2026/04/28/scotus-chatrie-geofence-search-warrant-ruling-arguments/",
-      "summary": "The U.S. top court is expected to rule on whether to allow police to identify criminal suspects by dragnet searching the databases of tech giants.",
-      "published": "2026-04-28 16:18",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Australia forces Big Tech firms to pay for news or face a 2.25% tax",
-      "url": "https://techcrunch.com/2026/04/28/australia-forces-big-tech-firms-to-pay-for-news-or-face-a-2-25-tax/",
-      "summary": "The more deals platforms make with media outlets, the less they pay. If enough agreements go through, that effective rate drops to 1.5%, which could generate between A$200 million and A$250 million back into Australian journalism.",
-      "published": "2026-04-28 16:13",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Lovable launches its vibe-coding app on iOS and Android",
-      "url": "https://techcrunch.com/2026/04/28/lovable-launches-its-vibe-coding-app-on-ios-and-android/",
-      "summary": "The app allows developers to vibe code web apps and websites on the go.",
-      "published": "2026-04-28 16:09",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Founder of Shark Tank-backed startup Scholly sues his acquirer Sallie Mae",
-      "url": "https://techcrunch.com/2026/04/28/founder-of-shark-tank-backed-startup-scholly-sues-his-acquirer-sallie-mae/",
-      "summary": "Chris Gray is suing his startup’s acquirer, Sallie Mae, for wrongful termination and alleging it's selling student data through a subsidiary. Sallie Mae denies the allegations and vows to fight.",
-      "published": "2026-04-28 15:33",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Apple introduces a cheaper option for App Store subscriptions",
-      "url": "https://techcrunch.com/2026/04/28/apple-introduces-a-cheaper-option-for-app-store-subscriptions/",
-      "summary": "Apple is adding a new subscription option that lets app developers offer lower monthly pricing in exchange for a 12-month commitment.",
-      "published": "2026-04-28 14:46",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Snapchat brings AI-powered conversational advertising to its app",
-      "url": "https://techcrunch.com/2026/04/28/snapchat-brings-ai-powered-conversational-advertising-to-its-app/",
-      "summary": "Users will be able to chat with a brand's AI agent to do things like ask questions and get recommendations.",
-      "published": "2026-04-28 13:57",
-      "source": "techcrunch.com",
-      "lang": "en",
       "category": "科技"
     },
     {
@@ -426,46 +462,10 @@
       "category": "科技"
     },
     {
-      "title": "派早报：阿里巴巴发布视频生成模型 HappyHorse 1.0 等",
-      "url": "https://sspai.com/post/109160",
-      "summary": "微信：警惕「755」开头仿冒来电、JBL 推出两款音频类新品等。<a href=\"https://sspai.com/post/109160\" target=\"_blank\">查看全文</a>",
-      "published": "2026-04-28 00:55",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
       "title": "派评 | 近期值得关注的 App",
       "url": "https://sspai.com/post/109135",
       "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀<a href=\"https://sspai.com/post/109135\" target=\"_blank\">查看全文</a>",
       "published": "2026-04-27 09:55",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "一日一技｜让小企鹅输入法支持 14 键、18 键键位双拼",
-      "url": "https://sspai.com/post/108459",
-      "summary": "小企鹅输入法只支持 26 键，但有人基于小企鹅魔改了一下使其支持修改布局和图形化操作，加上万象拼音的 14 键位、18 键位，两者一结合——完美。<a href=\"https://sspai.com/post/108459\" target=\"_blank\">查看全文</a>",
-      "published": "2026-04-27 07:46",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "关于流感和疫苗，你需要知道哪些信息？",
-      "url": "https://sspai.com/post/76945",
-      "summary": "冬天往往是传染病肆虐的季节。除了在全世界范围内流行已久的新冠病毒，引起季节性流感的流感病毒也不可小视。想要预防流感带来的后果，最简单的方法就是接种流感疫苗。本文就将介绍在打流感疫苗之前，关于流感和疫苗，你需要知道什么。<a href=\"https://sspai.com/post/76945\" target=\"_blank\">查看全文</a>",
-      "published": "2026-04-27 03:30",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "App+1 | 谈谈网页浏览器中的一个异类：qutebrowser",
-      "url": "https://sspai.com/post/98931",
-      "summary": "对以键盘操作为优先的用户来说，一旦学会了如何退出Vim，可能不消多久，便想在肉眼可见之处使用Vim的这套模态编辑。多年来，不少软件都内置了Vim风格的按键绑定，来迎合这类用户的肌肉记忆。其中，更有一些 ...<a href=\"https://sspai.com/post/98931\" target=\"_blank\">查看全文</a>",
-      "published": "2026-04-26 07:00",
       "source": "sspai.com",
       "lang": "zh_cn",
       "category": "科技"
