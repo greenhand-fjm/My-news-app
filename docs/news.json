@@ -1,49 +1,292 @@
 {
-  "last_updated": "2026-05-02 01:26:37",
+  "last_updated": "2026-05-03 01:32:07",
   "total": 52,
   "articles": [
     {
-      "title": "辉瑞与Arvinas公司乳腺癌新药获得美国FDA批准",
-      "url": "https://36kr.com/newsflashes/3791440535788551?f=rss",
-      "summary": "当地时间5月1日，Arvinas公司与其合作伙伴辉瑞共同宣布，美国食品药品监督管理局（FDA）已批准VEPPANU （vepdegestrant）用于治疗经FDA授权检测确定的、雌激素受体阳性（ER+）/人表皮生长因子受体2阴性（HER2-）、雌激素受体1（ESR1）突变晚期或转移性乳腺癌成年患者，且患者需在接受至少一种内分泌治疗后出现疾病进展。这也是FDA首次批准一种蛋白降解靶向嵌合体（PROTAC），即一种异双功能蛋白质降解剂疗法。（界面）",
-      "published": "2026-05-02 01:25",
+      "title": "广汽国际：1—4月出口量同比增长133.9%",
+      "url": "https://36kr.com/newsflashes/3792810932804872?f=rss",
+      "summary": "据广汽国际消息，延续一季度海外销售同比增长86%的强劲势能，广汽国际化征程再提速。今年1—4月，广汽累计出口量70474台，同比增幅133.9%。",
+      "published": "2026-05-03 01:15",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "沃什执掌美联储后交易难度或上升",
-      "url": "https://36kr.com/newsflashes/3791440139033858?f=rss",
-      "summary": "彭博Markets Pulse调查显示，如果可能出任美联储新任主席的凯文·沃什取消包括所谓点阵图在内的经济预测摘要，则市场交易美联储将变得更加困难。在4月29日至5月1日进行的调查中，85名受访者中近四分之三表示，失去这一反映美联储前瞻性思路的信息，将给交易带来挑战。（新浪财经）",
-      "published": "2026-05-02 01:12",
+      "title": "本田将对自动驾驶AI软件初创公司helm_ai追加投资",
+      "url": "https://36kr.com/newsflashes/3792810419543301?f=rss",
+      "summary": "总部位于美国硅谷的自动驾驶AI软件初创公司helm_ai在社交媒体上发帖称：“本田和helm_ai已达成协议，本田将对我们追加投资！我们将携手推进下一代端到端（E2E）自动驾驶和ADAS系统，用于2027年及以后推出的一系列电动汽车和混合动力汽车。”",
+      "published": "2026-05-03 01:00",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "特朗普：将于下周对欧盟输美汽车和卡车加征25%关税",
-      "url": "https://36kr.com/newsflashes/3790945973296131?f=rss",
-      "summary": "当地时间5月1日，美国总统特朗普表示，由于欧盟未履行双方已达成的贸易协议，美国将于下周对进口自欧盟的汽车和卡车加征关税，税率提高至25%。特朗普称，若相关企业在美国本土设厂生产，则可免于关税。（央视新闻）",
-      "published": "2026-05-02 01:00",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "美股三大指数收盘涨跌不一，大型科技股多数上涨",
-      "url": "https://36kr.com/newsflashes/3791435582544897?f=rss",
-      "summary": "36氪获悉，5月1日收盘，美股三大指数涨跌不一，道指跌0.31%，道指跌0.31%，标普500指数涨0.29%。大型科技股多数上涨，英特尔涨超5%，苹果涨超3%，微软、亚马逊涨超1%，谷歌小幅上涨，英伟达、Meta小幅下跌。热门中概股多数下跌，截至发稿，蔚来跌超7%，小鹏集团跌近3%，理想汽车、京东跌超1%，阿里巴巴、拼多多、百度、哔哩哔哩小幅下跌。",
-      "published": "2026-05-02 00:47",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "A Report on Burnout in Open Source Software Communities (2025) [pdf]",
-      "url": "https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf",
+      "title": "A Couple Million Lines of Haskell: Production Engineering at Mercury",
+      "url": "https://blog.haskell.org/a-couple-million-lines-of-haskell/",
       "summary": "",
-      "published": "2026-05-01 23:24",
+      "published": "2026-05-03 00:01",
       "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "AI-generated actors and scripts are now ineligible for Oscars",
+      "url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
+      "summary": "Bad news for Tilly Norwood.",
+      "published": "2026-05-02 21:54",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Clojurists Together – Q2 2026 Open Source Funding Announcement",
+      "url": "https://www.clojuriststogether.org/news/q2-2026-funding-announcement/",
+      "summary": "",
+      "published": "2026-05-02 21:34",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Six Years Perfecting Maps on WatchOS",
+      "url": "https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/",
+      "summary": "",
+      "published": "2026-05-02 21:14",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Farewell, Jeeves: Ask.com shuts down",
+      "url": "https://techcrunch.com/2026/05/02/farewell-jeeves-ask-com-shuts-down/",
+      "summary": "Owner IAC says it's discontinuing its search business.",
+      "published": "2026-05-02 21:11",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "This Month in Ladybird - April 2026",
+      "url": "https://ladybird.org/newsletter/2026-04-30/",
+      "summary": "",
+      "published": "2026-05-02 20:46",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Neanderthals ran 'fat factories' 125,000 years ago",
+      "url": "https://www.universiteitleiden.nl/en/news/2025/07/neanderthals-ran-fat-factories-125000-years-ago",
+      "summary": "",
+      "published": "2026-05-02 20:42",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
+      "url": "https://github.com/microsoft/vscode/pull/310226",
+      "summary": "",
+      "published": "2026-05-02 19:57",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Meta&#8217;s historic loss in court could cost a lot more than $375 million",
+      "url": "https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety",
+      "summary": "New Mexico Attorney General Ra&#250;l Torrez won a historic sum of $375 million in a landmark child safety case against Meta earlier this year. But the next stage of the fight could be even more consequential for Meta and the social media industry at large. Beginning Monday, attorneys for Meta and New Mexico will return [&#8230;]",
+      "published": "2026-05-02 18:25",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Spirit Airlines shuts down after Trump’s war on Iran doubled jet fuel prices",
+      "url": "https://www.theverge.com/business/922788/spirit-airlines-shutdown",
+      "summary": "The ultra-low-cost air carrier Spirit Airlines shut down operations after 34 years in business and canceled all flights at 3AM ET on Saturday morning. Its website now redirects to spiritrestructuring.com, instructing fliers not to go to airports, with air traffic control records capturing controllers and pilots signing off to each other as its last flights [&#8230;]",
+      "published": "2026-05-02 17:51",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Do_not_track",
+      "url": "https://donottrack.sh/",
+      "summary": "",
+      "published": "2026-05-02 17:40",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Dav2d",
+      "url": "https://code.videolan.org/videolan/dav2d",
+      "summary": "",
+      "published": "2026-05-02 17:32",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Netflix delays Greta Gerwig’s ‘Narnia’ movie for big theatrical push in 2027",
+      "url": "https://techcrunch.com/2026/05/02/netflix-delays-greta-gerwigs-narnia-movie-for-big-theatrical-push-in-2027/",
+      "summary": "\"The Magician's Nephew\" looks like a big next step in Netflix's thawing relationship with movie theaters.",
+      "published": "2026-05-02 17:05",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Aura’s delightful Aspen photo frame is on sale for $30 off this weekend",
+      "url": "https://www.theverge.com/gadgets/922513/aura-aspen-carver-walden-digital-photo-frame-mothers-day-deal-sale",
+      "summary": "Aura’s digital frames are kind of like living photo albums that get better with time, which is why we often recommend them for Mother’s Day. They’re gifts that keep on giving, in a way, and right now, a number of Aura’s connected frames are on sale ahead of the holiday. One of the best deals [&#8230;]",
+      "published": "2026-05-02 17:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The best AI dictation apps, tested and ranked",
+      "url": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
+      "summary": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice",
+      "published": "2026-05-02 16:00",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Beyond Lovable and Mistral: 21 European startups to watch",
+      "url": "https://techcrunch.com/2026/05/02/beyond-lovable-and-mistral-21-european-startups-to-watch/",
+      "summary": "It is not that European startups never get attention — Lovable and Mistral AI are proof of that. But there are many more that insiders are tracking.",
+      "published": "2026-05-02 14:00",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Anker’s discounted 2-in-1 USB-C cable is a great way to spend $15",
+      "url": "https://www.theverge.com/gadgets/922288/native-union-anker-2-in-1-usb-c-cable-mothers-day-sale-deal",
+      "summary": "I’ll never stop gushing about 2-in-1 USB-C cables. They’re really nice to have because, at this point, I’ve amassed so many devices that charge via USB-C. It’s also common for more than one to need to be recharged at a time, which is where they come in handy. I can charge my Nintendo Switch 2 [&#8230;]",
+      "published": "2026-05-02 13:56",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Playing Esoteric Ebb is like rolling the dice with a great DM",
+      "url": "https://www.theverge.com/games/903575/esoteric-ebb-review-pc-steam",
+      "summary": "It took me a while to get into Esoteric Ebb, a new CRPG from developer Christoffer Bodeg&#229;rd. The elevator pitch is basically Disco Elysium, but in the fantasy style of Dungeons &#38; Dragons: You play as a cleric wandering around a small town who's trying to figure out, among other things, the mystery of why [&#8230;]",
+      "published": "2026-05-02 12:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The things we’re building",
+      "url": "https://www.theverge.com/tech/922505/vibe-code-projects-claude-installer",
+      "summary": "Hi, friends! Welcome to Installer No. 126, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, I need 10 or 15 skirts from Calvin Klein, and also you can read all the old editions at the Installer homepage.) Happy Ruthless Self-Promotion Week! We're dedicating almost all of this [&#8230;]",
+      "published": "2026-05-02 12:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "一季度5家上市券商净利翻番，“百亿营收俱乐部”成员增至4家",
+      "url": "https://36kr.com/newsflashes/3792001367465224?f=rss",
+      "summary": "A股上市券商2026年一季度的业绩情况出炉。整体来看，营业收入方面，50家上市券商中，一季度营收超过100亿元的券商，从去年同期的2家增至4家，除了中信证券和国泰海通，广发证券、华泰证券也进入“百亿营收俱乐部”。净利润方面，2026年一季度，华创云信、信达证券、财达证券、财通证券、东北证券等5家券商的净利润同比翻番。2026年一季度数据显示，50家上市券商中，营业收入超过100亿元规模的共有4家，与2025年同期的2家相较增加2家，广发证券、华泰证券进入一季度“百亿营收俱乐部”。（澎湃）",
+      "published": "2026-05-02 10:30",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "马斯克1583亿美元薪酬实际为0",
+      "url": "https://36kr.com/newsflashes/3791998099905793?f=rss",
+      "summary": "特斯拉4月30日在监管备案文件中披露了马斯克2025年的薪酬总额为1583.6亿美元，为公司普通员工中位数的250万倍。尽管这一数字十分惊人，但公司同时也披露了多项重要附加说明。特斯拉在文件中表示，公司每年公示的马斯克薪酬总额，与其实际到手价值之间可能存在“巨大偏差”。 由于特斯拉去年未达成任何市值及经营考核目标，因此去年马斯克实际到手薪酬为零。 （央视财经）",
+      "published": "2026-05-02 10:19",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "机构：特朗普拟上调汽车关税，或使德国产值损失近 180 亿美元",
+      "url": "https://36kr.com/newsflashes/3791849172589577?f=rss",
+      "summary": "一家经济机构周六分析称，美国总统唐纳德・特朗普宣布对欧盟汽车和卡车加征关税，或导致德国产值损失近150亿欧元（约175.8亿美元）。基尔世界经济研究所（IfW）的这一估算，凸显了欧盟最大经济体对美国进口关税的脆弱性 —— 此类关税已令德国汽车业蒙受数十亿欧元损失。该研究所分析称，“影响将十分显著”，长期来看，产值损失将升至约300亿欧元。（新浪财经）",
+      "published": "2026-05-02 08:53",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "科创板向新向优活力蓬勃，2025年净利大增26%",
+      "url": "https://36kr.com/newsflashes/3791833394027784?f=rss",
+      "summary": "截至2026年4月30日，科创板608家公司披露了2025年营收15985.96亿元，同比增长10.3%；净利润586.24亿元，同比增长26.6%；研发投入1892.47亿元，连续7年保持近13%的研发投入强度。（中国经营报）",
+      "published": "2026-05-02 08:28",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "特朗普政府救助计划失败，美国精神航空宣布停止运营",
+      "url": "https://36kr.com/newsflashes/3791782399991047?f=rss",
+      "summary": "陷入困境的美国廉价航空公司精神航空周六表示，已开始有序地逐步停止运营。精神航空表示，所有航班均已取消，已建议乘客不要前往机场。 此前特朗普政府曾考虑向精神航空提供5亿美元，以换取该公司破产重组后可购买至多90%股份的认股权证。但主要债权人拒绝了这项交易，因为如果精神航空未来破产，该交易将使政府的债权享有优先权。（新浪财经）",
+      "published": "2026-05-02 08:13",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "“五一”假期运输火车票已售1.17亿张",
+      "url": "https://36kr.com/newsflashes/3791855130369033?f=rss",
+      "summary": "从国铁集团获悉，截至今天8时，“五一”假期运输火车票已经发售1.17亿张。（央视新闻）",
+      "published": "2026-05-02 07:54",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "雅诗兰黛：中国大陆连续五个季度市场份额增长",
+      "url": "https://36kr.com/newsflashes/3791843421002760?f=rss",
+      "summary": "36氪获悉，5月1日，雅诗兰黛集团公布了2026财年第三季度财报。报告期内，公司净销售额增长5%，达到37亿美元；有机净销售额增长2%；调整后毛利率增加140个基点，从75.0%增至76.4%；营业利润率为6.7%，较上年同期的8.6%有所下降，主要由于重组及其它费用增加。值得注意的是，中国大陆市场已连续五个季度实现市场份额增长，本季度有六个品牌实现双位数增长。",
+      "published": "2026-05-02 07:49",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "WildFire Energy股东正寻求按逾40亿美元出售该美国页岩油运营商",
+      "url": "https://36kr.com/newsflashes/3791697672527104?f=rss",
+      "summary": "据知情人士透露，投资公司华平投资（Warburg Pincus）和凯恩安德森（Kayne Anderson）正在探索出售WildFire Energy的可能性，预计任何交易对这家美国页岩油运营商的估值（含债务）都将超过40亿美元。 根据WildFire Energy官方网站显示，该公司是得克萨斯州南部鹰滩（Eagle Ford）页岩盆地最大的私营运营商之一，日均净产量约为5万桶油当量。杰富瑞（Jefferies）的投资银行家已被聘请负责 WildFire 的拍卖流程，正式的市场推广预计将在未来几周内启动。（新浪财经）",
+      "published": "2026-05-02 07:26",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "日本央行前行长黑田东彦称2%的通胀目标已实现",
+      "url": "https://36kr.com/newsflashes/3791696180059392?f=rss",
+      "summary": "日本央行前行长黑田东彦表示，日本央行已经实现2%的通胀目标，日本不需要财政扩张或货币宽松政策。黑田东彦表示，在通胀与经济放缓风险并存的情况下，日本央行4月28日选择暂不加息是正确的决定。（财联社）",
+      "published": "2026-05-02 07:11",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "2026年五一档新片票房突破3亿元",
+      "url": "https://36kr.com/newsflashes/3791810462555140?f=rss",
+      "summary": "36氪获悉，据灯塔专业版，截至5月2日15时02分，2026年五一档新片总票房（含点映及预售）突破3亿元，《寒战1994》《消失的人》《穿普拉达的女王2》《10间敢死队》《给阿嬷的情书》暂列票房前五名。",
+      "published": "2026-05-02 07:09",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "Uber wants to turn its millions of drivers into a sensor grid for self-driving companies",
+      "url": "https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/",
+      "summary": "Praveen Neppalli Naga, Uber's chief technology officer, revealed the plan in an interview at TechCrunch's StrictlyVC event in San Francisco on Thursday night, describing it as a natural extension of a nascent program the company announced in late January called AV Labs.",
+      "published": "2026-05-02 06:36",
+      "source": "techcrunch.com",
       "lang": "en",
       "category": "科技"
     },
@@ -102,37 +345,10 @@
       "category": "科技"
     },
     {
-      "title": "Ti-84 Evo",
-      "url": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
-      "summary": "",
-      "published": "2026-05-01 20:06",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
       "title": "All the evidence revealed so far in Musk v. Altman",
       "url": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
       "summary": "The Musk v. Altman trial is underway, and that means exhibits, or the evidence to be presented in court, are being revealed piece by piece. So far, email exchanges, photos, and corporate documents are circulating from the earliest days of OpenAI - and from before the AI lab even had a name. Some high-level takeaways: [&#8230;]",
       "published": "2026-05-01 19:14",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Lib0xc: A set of C standard library-adjacent APIs for safer systems programming",
-      "url": "https://github.com/microsoft/lib0xc",
-      "summary": "",
-      "published": "2026-05-01 19:10",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Birdfy’s smart bird feeder is down to its best-ever price for Mother’s Day",
-      "url": "https://www.theverge.com/gadgets/922165/netvue-birdfy-smart-bird-feeder-bath-mothers-day-deal-sale",
-      "summary": "From crafting machines to smart calendars, a number of unique gifts are already on sale in the run-up to Mother’s Day, May 10th. Birdfy smart feeders are another discounted option to consider, particularly the new Birdfy Feeder Metal 2 (4K), which is on sale for $259.99 ($50 off). If you’re looking to spend less, you [&#8230;]",
-      "published": "2026-05-01 18:42",
       "source": "www.theverge.com",
       "lang": "en",
       "category": "科技"
@@ -143,60 +359,6 @@
       "summary": "Coatue, one of the biggest names in venture capital, has a new venture that is reportedly buying land near large power sources.",
       "published": "2026-05-01 18:23",
       "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Amazon&#8217;s built-in AI price history expands to show the entire last year",
-      "url": "https://www.theverge.com/tech/922302/amazon-price-tracker-year",
-      "summary": "Amazon's built-in price tracking feature now allows you to see how much a product's price has changed over the past year. To use the feature, open the Amazon app and select the \"Price history\" button next to the item's price, or ask Amazon's AI assistant Rufus. The expansion comes just weeks ahead of Amazon's annual [&#8230;]",
-      "published": "2026-05-01 17:55",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Dreame — the vacuum company — just ‘launched’ its own phones",
-      "url": "https://www.theverge.com/gadgets/922246/dreame-next-smartphones-aurora-lux-nex-modular",
-      "summary": "Dreame, a Chinese manufacturer best known for its robot vacuums but with ambitions to do much more, says it's making smartphones now. I'm not sure I believe it. The company showed off two phones at its own Next event, which took place in California this week, though both had previously been revealed in China in [&#8230;]",
-      "published": "2026-05-01 17:55",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "New research suggests people can communicate and practice skills while dreaming",
-      "url": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
-      "summary": "",
-      "published": "2026-05-01 17:47",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "This accessory can snap a Steam Controller to your phone — or almost anything else",
-      "url": "https://www.theverge.com/games/921823/valve-steam-controller-mechanism-mounts-basegrip-dock",
-      "summary": "Valve's new Steam Controller goes on sale on Monday for $99, and accessories-maker Mechanism will be ready. As far as we know, Mechanism's new Basegrip is the very first way to attach a Steam Controller to your phone - as well as Mechanism's lineup of accessories, including mounts for hanging handhelds and gamepads on the [&#8230;]",
-      "published": "2026-05-01 17:00",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Players from the NBA, NFL, and MLB call for a ban on betting &#8216;unders&#8217;",
-      "url": "https://www.theverge.com/entertainment/922244/nba-nfl-mlb-prediction-market-unders-bets",
-      "summary": "The unions backing professional NBA, NFL, MLB, NHL, and MLS players are calling on the Commodity Futures Trading Commission (CFTC) to ban prediction market platforms from allowing users to bet on a player's underperformance or injury, Sports Business Journal reports. In their letter, the unions cite the need for \"appropriate regulations\" to protect athletes and [&#8230;]",
-      "published": "2026-05-01 16:57",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Severe Linux Copy Fail security flaw uncovered using AI scanning help",
-      "url": "https://www.theverge.com/tech/922243/linux-cve-2026-3141-copy-fail-exploit",
-      "summary": "Nearly every Linux distribution released since 2017 is currently vulnerable to a security bug called \"Copy Fail\" that allows any user to give themselves administrator privileges. The exploit, publicly disclosed as CVE-2026-31431 on Wednesday, uses a Python script that works across all of the vulnerable Linux distributions, requiring \"no per-distro offsets, no version checks, no [&#8230;]",
-      "published": "2026-05-01 16:55",
-      "source": "www.theverge.com",
       "lang": "en",
       "category": "科技"
     },
@@ -219,147 +381,12 @@
       "category": "科技"
     },
     {
-      "title": "Ask HN: Who is hiring? (May 2026)",
-      "url": "https://news.ycombinator.com/item?id=47975571",
-      "summary": "",
-      "published": "2026-05-01 15:00",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Musk v. Altman is just getting started",
-      "url": "https://techcrunch.com/video/musk-v-altman-is-just-getting-started/",
-      "summary": "Elon Musk spent the better part of three days&#160;on the witness stand&#160;this week&#160;in his lawsuit against OpenAI, and&#160;it&#8217;s&#160;already getting messy. Emails, texts, and&#160;his own tweets&#160;are surfacing in court, and there are plenty more witnesses to come. Musk&#8217;s argument against OpenAI? By converting the company to a for-profit model, Sam Altman betrayed the “nonprofit for the [&#8230;]",
-      "published": "2026-05-01 14:00",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "People are finally using Reddit’s search",
-      "url": "https://techcrunch.com/2026/05/01/people-are-finally-using-reddits-search/",
-      "summary": "The company saw a 30% year-on-year jump in the number of people using search every week, CEO Steve Huffman said on Thursday.",
-      "published": "2026-05-01 12:00",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "苹果现金战略重大转向",
-      "url": "https://36kr.com/newsflashes/3790561458183424?f=rss",
-      "summary": "苹果首席财务官凯文・帕雷在分析师电话会上透露，公司正式放弃长期奉行的净现金中性现金管理策略。帕雷并未直白解释战略转向原因，仅用官方套话含糊带过。但此次调整意味着，苹果未来或将加大现金储备、留存更多现金流。（新浪财经）",
-      "published": "2026-05-01 09:58",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "美银：全球超大规模云计算企业2027年AI资本开支或达1万亿美元",
-      "url": "https://36kr.com/newsflashes/3790542827576582?f=rss",
-      "summary": "美银证券发布半导体行业研究报告，分析师Vivek Arya团队在四大美国科技巨头——谷歌、微软、亚马逊、Meta相继公布2026年第一季度财报并更新资本支出展望后，将2026年全球超大规模云计算企业资本支出预测上调至超过8000亿美元，同比增长67%，并预计2027年将进一步突破1万亿美元，同比增长约25%。（财联社）",
-      "published": "2026-05-01 09:39",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "苹果美股盘前涨近3%",
-      "url": "https://36kr.com/newsflashes/3790479873203461?f=rss",
-      "summary": "苹果美股盘前涨近3%。消息面上，苹果第二财季营收1111.8亿美元，高于市场预期；并批准一项至多1000亿美元的股票回购计划，提高派息至每股0.27美元。（界面）",
-      "published": "2026-05-01 09:00",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
       "title": "本周看什么 | 最近值得一看的 10 部作品",
       "url": "https://sspai.com/post/109266",
       "summary": "📅本周新预告《暗影蜘蛛侠》正式预告4月26日，剧集《暗影蜘蛛侠》发布了黑白和彩色双版本正式预告，将于5月27日上线PrimeVideo。尼古拉斯·凯奇领衔主演，聚焦1930年代纽约的一个上了年纪、倒霉 ...<a href=\"https://sspai.com/post/109266\" target=\"_blank\">查看全文</a>",
       "published": "2026-05-01 09:00",
       "source": "sspai.com",
       "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "美股总市值首次突破75万亿美元 创历史新高",
-      "url": "https://36kr.com/newsflashes/3790477862755586?f=rss",
-      "summary": "数据显示，截至上个交易日，美股总市值首次突破75万亿美元，比年初增长3万亿美元，创历史新高。总市值排名前三的公司分别为英伟达（4.85万亿美元）、谷歌（4.66万亿美元）、苹果（3.98万亿美元）。（财联社）",
-      "published": "2026-05-01 08:40",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "极氪4月交付新车31787辆，同比增长132%",
-      "url": "https://36kr.com/newsflashes/3790428930841864?f=rss",
-      "summary": "5月1日，极氪公布，4月交付新车31787辆，同比增长132%，创历史新高。截至4月30日，极氪全球累计交付超75万辆，单车均价近35万元。",
-      "published": "2026-05-01 08:17",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "云深处科技完成IPO辅导",
-      "url": "https://36kr.com/newsflashes/3790428021775361?f=rss",
-      "summary": "据证监会官网IPO辅导公示系统显示，杭州云深处科技股份有限公司（简称“云深处”）及辅导券商中信建投向浙江证监局提交《辅导工作完成报告》。去年12月23日，云深处科技正式启动上市辅导。（财联社）",
-      "published": "2026-05-01 07:54",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "小鹏集团4月共交付新车31011台",
-      "url": "https://36kr.com/newsflashes/3790385848294656?f=rss",
-      "summary": ".36氪获悉，5月1日，小鹏集团公布交付数据，2026年4月共交付新车31,011台。根据小鹏汽车此前披露，2025年4月共交付新车35,045台。此外，“五一”期间，小鹏集团旗下多款车型推出0首付+限时0息购车方案，最长可享3年0息，至高贴息30,900元，有效期至2026年5月31日。",
-      "published": "2026-05-01 07:30",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "苹果称印度反垄断机构越权，双方争端愈演愈烈",
-      "url": "https://36kr.com/newsflashes/3790383428082946?f=rss",
-      "summary": "文件显示，苹果指控印度竞争监管机构越权，强迫这家美国科技公司在涉及iPhone应用市场的反垄断案中提交财务数据，同时苹果对相关处罚法规提出质疑。媒体查阅了苹果4月24日提交给印度法院的一份非公开文件，这是该公司与印度调查人员就该案日益激化的对峙的最新迹象。苹果表示，该案可能使其面临高达380亿美元的罚款。（新浪财经）",
-      "published": "2026-05-01 07:16",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
-      "url": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/",
-      "summary": "Users in India are embracing ChatGPT Images 2.0 for creative, personal visuals — from avatars to cinematic portraits.",
-      "published": "2026-05-01 02:00",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "As Tim Cook steps down, Apple hit record sales — but a chip shortage looms",
-      "url": "https://techcrunch.com/2026/04/30/as-tim-cook-steps-down-apple-hit-record-sales-but-a-chip-shortage-looms/",
-      "summary": "Cook warned that Apple is facing supply-chain headwinds from RAMageddon that could impact its business.",
-      "published": "2026-04-30 23:59",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Y Combinator alum Skio sells for $105M cash, only raised $8M, founder says",
-      "url": "https://techcrunch.com/2026/04/30/y-combinator-alum-skio-sells-for-105m-cash-only-raised-8m-founder-says/",
-      "summary": "Subscription billing fintech Skio sold to its competitor Recharge in what was a healthy exit, according to its founder and former CEO.",
-      "published": "2026-04-30 23:58",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
-      "url": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
-      "summary": "Anthropic is asking investors to submit allocations for the AI company’s latest fundraise within the next 48 hours, according to sources familiar with the matter.",
-      "published": "2026-04-30 23:07",
-      "source": "techcrunch.com",
-      "lang": "en",
       "category": "科技"
     },
     {
@@ -396,33 +423,6 @@
       "published": "2026-04-30 01:16",
       "source": "sspai.com",
       "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "Eka’s robotic claw feels like we're approaching a ChatGPT moment",
-      "url": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/",
-      "summary": "",
-      "published": "2026-04-29 22:56",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Artemis II Photo Timeline",
-      "url": "https://artemistimeline.com/#artemis-ii-walkout-nhq202604010003",
-      "summary": "",
-      "published": "2026-04-29 20:48",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "The smelly baby problem",
-      "url": "https://www.worksinprogress.news/p/how-disposable-diapers-conquered",
-      "summary": "",
-      "published": "2026-04-29 15:48",
-      "source": "Hacker News",
-      "lang": "en",
       "category": "科技"
     },
     {
