@@ -1,32 +1,266 @@
 {
-  "last_updated": "2026-05-03 01:32:07",
+  "last_updated": "2026-05-04 01:31:02",
   "total": 52,
   "articles": [
     {
-      "title": "广汽国际：1—4月出口量同比增长133.9%",
-      "url": "https://36kr.com/newsflashes/3792810932804872?f=rss",
-      "summary": "据广汽国际消息，延续一季度海外销售同比增长86%的强劲势能，广汽国际化征程再提速。今年1—4月，广汽累计出口量70474台，同比增幅133.9%。",
-      "published": "2026-05-03 01:15",
+      "title": "恒指开盘涨1.4%，恒生科技指数涨1.58%",
+      "url": "https://36kr.com/newsflashes/3794303505292545?f=rss",
+      "summary": "36氪获悉，恒指开盘涨1.4%，恒生科技指数涨1.58%；半导体、电气设备板块领涨，天数智芯涨超12%，宁德时代涨超3%；保健品、智能物流板块跌幅居前，顺丰同城跌超2%，华润医药跌超1%。",
+      "published": "2026-05-04 01:25",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "本田将对自动驾驶AI软件初创公司helm_ai追加投资",
-      "url": "https://36kr.com/newsflashes/3792810419543301?f=rss",
-      "summary": "总部位于美国硅谷的自动驾驶AI软件初创公司helm_ai在社交媒体上发帖称：“本田和helm_ai已达成协议，本田将对我们追加投资！我们将携手推进下一代端到端（E2E）自动驾驶和ADAS系统，用于2027年及以后推出的一系列电动汽车和混合动力汽车。”",
-      "published": "2026-05-03 01:00",
+      "title": "东阳光药甘精胰岛素获FDA批准",
+      "url": "https://36kr.com/newsflashes/3794266619665417?f=rss",
+      "summary": "36氪获悉，东阳光药公告，其自主研发的甘精胰岛素注射液（商品名：Langlara）正式获美国FDA批准上市，成为第4款在美上市的甘精胰岛素产品，也是首个登陆美国市场的中国胰岛素。该产品同时获得“可互换”标签，可在药房直接替代原研药Lantus®。公司已与美国Lannett公司达成独家合作，并获得首批至少1800万支、供应期18个月的订单。此外，门冬胰岛素预计2028年在美获批，德谷胰岛素在美国的开发也在积极推进中。",
+      "published": "2026-05-04 01:16",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "A Couple Million Lines of Haskell: Production Engineering at Mercury",
-      "url": "https://blog.haskell.org/a-couple-million-lines-of-haskell/",
+      "title": "游戏驿站提出近560亿美元收购eBay",
+      "url": "https://36kr.com/newsflashes/3794262182993161?f=rss",
+      "summary": "据报道，游戏驿站CEO瑞安·科恩表示，他已主动提出以约560亿美元收购eBay。科恩称，游戏驿站已持有eBay约5%股份，提出以每股125美元现金加股票收购，较eBay上周五收盘价溢价约20%。（界面）",
+      "published": "2026-05-04 01:00",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "The text mode lie: why modern TUIs are a nightmare for accessibility",
+      "url": "https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility",
       "summary": "",
-      "published": "2026-05-03 00:01",
+      "published": "2026-05-03 23:59",
       "source": "Hacker News",
       "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Let's Buy Spirit Air",
+      "url": "https://letsbuyspiritair.com/",
+      "summary": "",
+      "published": "2026-05-03 23:36",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The 'Hidden' Costs of Great Abstractions",
+      "url": "https://jdgr.net/the-hidden-costs-of-great-abstractions",
+      "summary": "",
+      "published": "2026-05-03 23:12",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Agentic Coding Is a Trap",
+      "url": "https://larsfaye.com/articles/agentic-coding-is-a-trap",
+      "summary": "",
+      "published": "2026-05-03 22:52",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper",
+      "url": "https://github.com/aattaran/deepclaude",
+      "summary": "",
+      "published": "2026-05-03 22:13",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "‘This is fine’ creator says AI startup stole his art",
+      "url": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
+      "summary": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\"",
+      "published": "2026-05-03 20:16",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
+      "url": "https://partyon.xyz/@nullagent/116499715071759135",
+      "summary": "",
+      "published": "2026-05-03 18:03",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
+      "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
+      "summary": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors.",
+      "published": "2026-05-03 18:00",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Southwest Headquarters Tour",
+      "url": "https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html",
+      "summary": "",
+      "published": "2026-05-03 17:02",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "TechCrunch Mobility: How do you issue a ticket to a robotaxi?",
+      "url": "https://techcrunch.com/2026/05/03/techcrunch-mobility-how-do-you-issue-a-ticket-to-a-robotaxi/",
+      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "published": "2026-05-03 16:05",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Reggie Fils-Aimé says Amazon once asked Nintendo to break the law",
+      "url": "https://www.theverge.com/games/922840/reggie-fils-aime-amazon-nintendo-illegal",
+      "summary": "Way back in the DS days, Nintendo decided to stop selling to Amazon. During a recent lecture at NYU, former Nintendo of America President Reggie Fils-Aim&#233; said it was because Amazon was seeking preferential treatment that would have hurt its relationship with other retailers, and potentially broken the law. The two sides have since made [&#8230;]",
+      "published": "2026-05-03 15:24",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Shokz’s bassy OpenRun Pro 2 are $40 off thanks to a new Mother’s Day promo",
+      "url": "https://www.theverge.com/gadgets/922616/shokz-openrun-pro-2-bone-conduction-headphones-mothers-day-deal-sale",
+      "summary": "If you’re looking to pick up a pair of open-ear headphones for yourself — or your mom — Shokz is running a Mother’s Day sale. Now through May 10th, the company’s best pair of bone conduction headphones, the OpenRun Pro 2, are available from Amazon, Best Buy, and Shokz for around $139.95 ($40 off), their [&#8230;]",
+      "published": "2026-05-03 15:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "This tiny, magnetic e-reader could stop you from doomscrolling",
+      "url": "https://techcrunch.com/2026/05/03/xteink-x3-review-tiny-magnetic-ereader/",
+      "summary": "The Xteink X3 is a delightfully tiny, MagSafe-compatible e-ink reader that attaches to the back of your phone like a Pop Socket.",
+      "published": "2026-05-03 13:00",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "These reusable digital Polaroids are a clever way to cover a fridge in memories",
+      "url": "https://www.theverge.com/tech/917067/vidabay-snap-nfc-e-ink-paper-fridge-magnet-photo-hands-on",
+      "summary": "I love when my friends have their fridges covered in Polaroids. It’s often a visual crash course of what’s been going on in their lives chronicling recent adventures, get-togethers, and other fun moments. But I don’t love the idea of schlepping around a clunky instant camera or paying a premium for instant film with hit-or-miss [&#8230;]",
+      "published": "2026-05-03 13:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "How the internet’s favorite squirrel dad made the hottest camera app of 2026",
+      "url": "https://www.theverge.com/tech/921690/dualshot-recorder-iphone-camera-app-derrick-downey-jr",
+      "summary": "It's not hyperbole to call DualShot Recorder an overnight sensation. It took only 12 hours from the time it was released to hit number one on the App Store's list of top paid apps. It was a surprise success - but what's even more surprising is the app's origin story: it all started with a [&#8230;]",
+      "published": "2026-05-03 13:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "AI music is flooding streaming services — but who wants it?",
+      "url": "https://www.theverge.com/column/921599/ai-music-is-flooding-streaming-services-but-who-wants-it",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on how AI is changing music and the music industry, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started The use of generative AI [&#8230;]",
+      "published": "2026-05-03 12:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "韩国市值超万亿韩元企业破400家创新高",
+      "url": "https://36kr.com/newsflashes/3793161802914819?f=rss",
+      "summary": "韩国交易所信息数据系统5月3日发布的数据显示，以上月29日为准，市值超过1万亿韩元的上市公司共405家，首次突破400家。随着国内股市表现强劲，市值超过1万亿韩元的公司也迅猛增加。2015年5月20日，市值超1万亿韩元的上市公司超过200家，2025年7月16日增至300家以上，此后仅时隔9个月再次突破400家。",
+      "published": "2026-05-03 10:30",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "越南1-4月咖啡出口量同比增长16%，至81万吨",
+      "url": "https://36kr.com/newsflashes/3793157858073608?f=rss",
+      "summary": "5月3日消息，越南1-4月咖啡出口量同比增长16%，至81万吨。",
+      "published": "2026-05-03 10:00",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "三星继承人已付清12万亿韩元遗产税",
+      "url": "https://36kr.com/newsflashes/3793156139195401?f=rss",
+      "summary": "三星集团表示，已故三星集团会长李健熙的继承人已完成缴纳其遗产的12万亿韩元（约合81亿美元）遗产税。根据公司声明，这笔款项从2021年开始，分六期支付。这创下了韩国遗产税账单金额的历史新高。",
+      "published": "2026-05-03 09:30",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "韩国政府将向AI初创公司Upstage投资5600亿韩元",
+      "url": "https://36kr.com/newsflashes/3793154827000832?f=rss",
+      "summary": "韩国金融监管部门周日表示，已批准向韩国本土人工智能（AI）初创公司Upstage投资5600亿韩元（约合3.806亿美元），这是韩国国家增长基金的第二笔直接投资。韩国金融服务委员会（FSC）称，该决定已于周四举行的基金审议委员会会议上获得批准。Upstage成立于2020年，是一家估值超过1万亿韩元的独角兽初创公司，致力于开发人工智能解决方案和大型语言模型（LLM）。该公司是继Rebellions之后，第二家获得该政策基金投资的企业。",
+      "published": "2026-05-03 09:00",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "余额宝收益率跌破1%，资金依旧看好",
+      "url": "https://36kr.com/newsflashes/3793154358402052?f=rss",
+      "summary": "伴随无风险利率下行，货币基金收益率下行趋势仍在延续。5月2日，全市场规模最大的货币基金天弘余额宝，七日年化收益率跌破1%。机构统计数据显示，目前全市场已有107只货币基金七日年化收益率跌破1%。业内人士表示，货币基金凭借其低风险、高流动性、使用便捷等特性，依然是居民现金管理的重要选择。",
+      "published": "2026-05-03 08:30",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "中东局势扰动全球市场 欧佩克+原则上同意6月增产",
+      "url": "https://36kr.com/newsflashes/3793152990387207?f=rss",
+      "summary": "据央视财经，当地时间2日，消息人士称，“欧佩克+”已原则上同意将6月原油产量配额上调，每日增产18.8万桶，预计正式决定将于3日“欧佩克+”国家会议后公布。这也将是“欧佩克+”在阿联酋正式退出后的首次决策。国际能源署数据显示，2025年“欧佩克+”控制全球石油总产量约50%。阿联酋宣布5月1日起退出欧佩克及“欧佩克+”，这令“欧佩克+”石油产量降至全球石油总产量的约45%，分析人士认为，这会削弱欧佩克和“欧佩克+”的市场影响力，增加其通过调整产量以控制市场的难度。",
+      "published": "2026-05-03 08:00",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "第四届链博会哥斯达黎加推介会成功举办",
+      "url": "https://36kr.com/newsflashes/3793151671720963?f=rss",
+      "summary": "据中国贸促会消息，近日，第四届链博会哥斯达黎加推介会在圣何塞成功举办。本次活动由中国贸促会驻哥斯达黎加代表处与哥斯达黎加外贸商会共同主办，重点聚焦当地优势产业医疗器械领域，吸引中哥相关企业和机构代表50余人参会。",
+      "published": "2026-05-03 07:30",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "A股2025年销售毛利率排行榜：医药生物+计算机两大行业霸榜",
+      "url": "https://36kr.com/newsflashes/3793150367849735?f=rss",
+      "summary": "2025年A股年报披露收官，据统计，剔除金融行业（银行及非银金融），申万一级行业中，美容护理、食品饮料明显领先于其他行业，销售毛利率超过45%，传媒、医药生物行业紧随其后，分别为32.45%、32.42%。钢铁、交通运输行业销售毛利率最低，均不足10%。从个股来看，销售毛利率排名前50的个股中以医药生物和计算机行业个股居多，分别有27只、13只，占50强的八成。排名前三的为海创药业-U(688302)、首药控股-U、艾力斯，3股均属于医药生物行业中的创新药概念，2025年销售毛利率分别为98.62%、96.93% 、96.83% 。",
+      "published": "2026-05-03 07:00",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "江苏扬州：人才5年内在市区购买新建商品住房 “人才安家券”最高抵扣200万元首付款",
+      "url": "https://36kr.com/newsflashes/3793129769917703?f=rss",
+      "summary": "江苏省扬州市住房和城乡建设局5月1日发布《关于优化市区房地产政策促进房地产市场平稳健康发展的通知》，包括扩大“人才安家券”适用范围、继续执行住房“以旧换新”补贴政策、购买新建商品住房给予财政贴息、进一步减轻多孩家庭购房成本以及优化住房公积金政策，有效期至2026年12月31日。政策优化后，两类人才可领取“人才安家券”，第一类是青年人才，指市区范围生产经营、缴纳企业职工基本养老保险并正常纳税的企业、民办非企业等单位（含民办学校、民营医院、律师事务所等）全职新引进40岁以下全日制大专及以上学历、高级工及以上职业资格、副高级及以上专业技术资格的人才；第二类是高层次人才，指市区企事业单位新引进且3年内在我市申报并获批市级以上人才工程资助的人才。青年人才来扬工作、高层次人才来扬获批市级以上人才工程资助后，5年内在市区购买新建商品住房，可使用5万-200万元“人才安家券”抵扣首付款。2人共同购房还可叠加享受。大专到博士有4档，分别是5万元、7万元、15万元、30万元。市级领军人才到国外顶尖人才分为5档，分别是35万元、50万元、70万元、80万元、最高200万元。",
+      "published": "2026-05-03 06:30",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "假期出门太折磨？我的 23 条经验帮你规划惬意旅行",
+      "url": "https://sspai.com/post/100006",
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/100006\" target=\"_blank\">查看全文</a>",
+      "published": "2026-05-03 04:19",
+      "source": "sspai.com",
+      "lang": "zh_cn",
       "category": "科技"
     },
     {
@@ -39,56 +273,11 @@
       "category": "科技"
     },
     {
-      "title": "Clojurists Together – Q2 2026 Open Source Funding Announcement",
-      "url": "https://www.clojuriststogether.org/news/q2-2026-funding-announcement/",
-      "summary": "",
-      "published": "2026-05-02 21:34",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Six Years Perfecting Maps on WatchOS",
-      "url": "https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/",
-      "summary": "",
-      "published": "2026-05-02 21:14",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
       "title": "Farewell, Jeeves: Ask.com shuts down",
       "url": "https://techcrunch.com/2026/05/02/farewell-jeeves-ask-com-shuts-down/",
       "summary": "Owner IAC says it's discontinuing its search business.",
       "published": "2026-05-02 21:11",
       "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "This Month in Ladybird - April 2026",
-      "url": "https://ladybird.org/newsletter/2026-04-30/",
-      "summary": "",
-      "published": "2026-05-02 20:46",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Neanderthals ran 'fat factories' 125,000 years ago",
-      "url": "https://www.universiteitleiden.nl/en/news/2025/07/neanderthals-ran-fat-factories-125000-years-ago",
-      "summary": "",
-      "published": "2026-05-02 20:42",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
-      "url": "https://github.com/microsoft/vscode/pull/310226",
-      "summary": "",
-      "published": "2026-05-02 19:57",
-      "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
@@ -107,24 +296,6 @@
       "summary": "The ultra-low-cost air carrier Spirit Airlines shut down operations after 34 years in business and canceled all flights at 3AM ET on Saturday morning. Its website now redirects to spiritrestructuring.com, instructing fliers not to go to airports, with air traffic control records capturing controllers and pilots signing off to each other as its last flights [&#8230;]",
       "published": "2026-05-02 17:51",
       "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Do_not_track",
-      "url": "https://donottrack.sh/",
-      "summary": "",
-      "published": "2026-05-02 17:40",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Dav2d",
-      "url": "https://code.videolan.org/videolan/dav2d",
-      "summary": "",
-      "published": "2026-05-02 17:32",
-      "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
@@ -183,105 +354,6 @@
       "category": "科技"
     },
     {
-      "title": "The things we’re building",
-      "url": "https://www.theverge.com/tech/922505/vibe-code-projects-claude-installer",
-      "summary": "Hi, friends! Welcome to Installer No. 126, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, I need 10 or 15 skirts from Calvin Klein, and also you can read all the old editions at the Installer homepage.) Happy Ruthless Self-Promotion Week! We're dedicating almost all of this [&#8230;]",
-      "published": "2026-05-02 12:00",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "一季度5家上市券商净利翻番，“百亿营收俱乐部”成员增至4家",
-      "url": "https://36kr.com/newsflashes/3792001367465224?f=rss",
-      "summary": "A股上市券商2026年一季度的业绩情况出炉。整体来看，营业收入方面，50家上市券商中，一季度营收超过100亿元的券商，从去年同期的2家增至4家，除了中信证券和国泰海通，广发证券、华泰证券也进入“百亿营收俱乐部”。净利润方面，2026年一季度，华创云信、信达证券、财达证券、财通证券、东北证券等5家券商的净利润同比翻番。2026年一季度数据显示，50家上市券商中，营业收入超过100亿元规模的共有4家，与2025年同期的2家相较增加2家，广发证券、华泰证券进入一季度“百亿营收俱乐部”。（澎湃）",
-      "published": "2026-05-02 10:30",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "马斯克1583亿美元薪酬实际为0",
-      "url": "https://36kr.com/newsflashes/3791998099905793?f=rss",
-      "summary": "特斯拉4月30日在监管备案文件中披露了马斯克2025年的薪酬总额为1583.6亿美元，为公司普通员工中位数的250万倍。尽管这一数字十分惊人，但公司同时也披露了多项重要附加说明。特斯拉在文件中表示，公司每年公示的马斯克薪酬总额，与其实际到手价值之间可能存在“巨大偏差”。 由于特斯拉去年未达成任何市值及经营考核目标，因此去年马斯克实际到手薪酬为零。 （央视财经）",
-      "published": "2026-05-02 10:19",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "机构：特朗普拟上调汽车关税，或使德国产值损失近 180 亿美元",
-      "url": "https://36kr.com/newsflashes/3791849172589577?f=rss",
-      "summary": "一家经济机构周六分析称，美国总统唐纳德・特朗普宣布对欧盟汽车和卡车加征关税，或导致德国产值损失近150亿欧元（约175.8亿美元）。基尔世界经济研究所（IfW）的这一估算，凸显了欧盟最大经济体对美国进口关税的脆弱性 —— 此类关税已令德国汽车业蒙受数十亿欧元损失。该研究所分析称，“影响将十分显著”，长期来看，产值损失将升至约300亿欧元。（新浪财经）",
-      "published": "2026-05-02 08:53",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "科创板向新向优活力蓬勃，2025年净利大增26%",
-      "url": "https://36kr.com/newsflashes/3791833394027784?f=rss",
-      "summary": "截至2026年4月30日，科创板608家公司披露了2025年营收15985.96亿元，同比增长10.3%；净利润586.24亿元，同比增长26.6%；研发投入1892.47亿元，连续7年保持近13%的研发投入强度。（中国经营报）",
-      "published": "2026-05-02 08:28",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "特朗普政府救助计划失败，美国精神航空宣布停止运营",
-      "url": "https://36kr.com/newsflashes/3791782399991047?f=rss",
-      "summary": "陷入困境的美国廉价航空公司精神航空周六表示，已开始有序地逐步停止运营。精神航空表示，所有航班均已取消，已建议乘客不要前往机场。 此前特朗普政府曾考虑向精神航空提供5亿美元，以换取该公司破产重组后可购买至多90%股份的认股权证。但主要债权人拒绝了这项交易，因为如果精神航空未来破产，该交易将使政府的债权享有优先权。（新浪财经）",
-      "published": "2026-05-02 08:13",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "“五一”假期运输火车票已售1.17亿张",
-      "url": "https://36kr.com/newsflashes/3791855130369033?f=rss",
-      "summary": "从国铁集团获悉，截至今天8时，“五一”假期运输火车票已经发售1.17亿张。（央视新闻）",
-      "published": "2026-05-02 07:54",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "雅诗兰黛：中国大陆连续五个季度市场份额增长",
-      "url": "https://36kr.com/newsflashes/3791843421002760?f=rss",
-      "summary": "36氪获悉，5月1日，雅诗兰黛集团公布了2026财年第三季度财报。报告期内，公司净销售额增长5%，达到37亿美元；有机净销售额增长2%；调整后毛利率增加140个基点，从75.0%增至76.4%；营业利润率为6.7%，较上年同期的8.6%有所下降，主要由于重组及其它费用增加。值得注意的是，中国大陆市场已连续五个季度实现市场份额增长，本季度有六个品牌实现双位数增长。",
-      "published": "2026-05-02 07:49",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "WildFire Energy股东正寻求按逾40亿美元出售该美国页岩油运营商",
-      "url": "https://36kr.com/newsflashes/3791697672527104?f=rss",
-      "summary": "据知情人士透露，投资公司华平投资（Warburg Pincus）和凯恩安德森（Kayne Anderson）正在探索出售WildFire Energy的可能性，预计任何交易对这家美国页岩油运营商的估值（含债务）都将超过40亿美元。 根据WildFire Energy官方网站显示，该公司是得克萨斯州南部鹰滩（Eagle Ford）页岩盆地最大的私营运营商之一，日均净产量约为5万桶油当量。杰富瑞（Jefferies）的投资银行家已被聘请负责 WildFire 的拍卖流程，正式的市场推广预计将在未来几周内启动。（新浪财经）",
-      "published": "2026-05-02 07:26",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "日本央行前行长黑田东彦称2%的通胀目标已实现",
-      "url": "https://36kr.com/newsflashes/3791696180059392?f=rss",
-      "summary": "日本央行前行长黑田东彦表示，日本央行已经实现2%的通胀目标，日本不需要财政扩张或货币宽松政策。黑田东彦表示，在通胀与经济放缓风险并存的情况下，日本央行4月28日选择暂不加息是正确的决定。（财联社）",
-      "published": "2026-05-02 07:11",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "2026年五一档新片票房突破3亿元",
-      "url": "https://36kr.com/newsflashes/3791810462555140?f=rss",
-      "summary": "36氪获悉，据灯塔专业版，截至5月2日15时02分，2026年五一档新片总票房（含点映及预售）突破3亿元，《寒战1994》《消失的人》《穿普拉达的女王2》《10间敢死队》《给阿嬷的情书》暂列票房前五名。",
-      "published": "2026-05-02 07:09",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
       "title": "Uber wants to turn its millions of drivers into a sensor grid for self-driving companies",
       "url": "https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/",
       "summary": "Praveen Neppalli Naga, Uber's chief technology officer, revealed the plan in an interview at TechCrunch's StrictlyVC event in San Francisco on Thursday night, describing it as a natural extension of a nascent program the company announced in late January called AV Labs.",
@@ -309,74 +381,11 @@
       "category": "科技"
     },
     {
-      "title": "Splatoon Raiders preorders for the Switch 2 are nearly 20 percent off",
-      "url": "https://www.theverge.com/gadgets/920848/splatoon-raiders-physical-edition-preorder-switch-2-walmart-deal-sale",
-      "summary": "Nintendo recently announced a new pricing policy, which knocks $10 off the cost of digital versions of future first-party titles exclusive to the Nintendo Switch 2. Splatoon Raiders, for instance, is available for preorder ahead of its July 23rd release for $49.99 digitally or $59.99 for the physical edition. However, Amazon and Walmart are the exception in [&#8230;]",
-      "published": "2026-05-01 22:31",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
-      "url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
-      "summary": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
-      "published": "2026-05-01 22:13",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Microsoft tests redesigned Windows 11 Run menu with dark mode and more",
-      "url": "https://www.theverge.com/tech/922531/microsoft-windows-11-run-menu-redesign-test",
-      "summary": "Microsoft is testing its much-needed refresh for the Windows 11 Run menu, offering a modern interface that the company says is faster and comes with support for dark mode. The redesign is rolling out now to Windows 11 Insiders in the new Experimental Channel. In a blog post explaining the changes, Microsoft says it decided [&#8230;]",
-      "published": "2026-05-01 22:01",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Apple raises the Mac Mini&#8217;s starting price",
-      "url": "https://www.theverge.com/tech/922572/apple-mac-mini-256-model",
-      "summary": "Apple's Mac Mini now starts at $799 after the company pulled the $599 option with 256GB of storage from its online store, as spotted earlier by MacRumors. The model's discontinuation comes just one day after Apple CEO Tim Cook said during an earnings call that a chip shortage will impact its Mac products in the [&#8230;]",
-      "published": "2026-05-01 21:52",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "All the evidence revealed so far in Musk v. Altman",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
-      "summary": "The Musk v. Altman trial is underway, and that means exhibits, or the evidence to be presented in court, are being revealed piece by piece. So far, email exchanges, photos, and corporate documents are circulating from the earliest days of OpenAI - and from before the AI lab even had a name. Some high-level takeaways: [&#8230;]",
-      "published": "2026-05-01 19:14",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Coatue has a plan to buy up land for data centers, possibly for Anthropic",
-      "url": "https://techcrunch.com/2026/05/01/coatue-has-a-plan-to-buy-up-land-for-data-centers-possibly-for-anthropic/",
-      "summary": "Coatue, one of the biggest names in venture capital, has a new venture that is reportedly buying land near large power sources.",
-      "published": "2026-05-01 18:23",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
-      "url": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
-      "summary": "The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models.",
-      "published": "2026-05-01 16:02",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Ubuntu services hit by outages after DDoS attack",
-      "url": "https://techcrunch.com/2026/05/01/ubuntu-services-hit-by-outages-after-ddos-attack/",
-      "summary": "A group of hacktivists have claimed responsibility for a distributed denial-of-service attack, which has affected several Ubuntu and Canonical websites, and prevented users from updating the Linux-based operating system.",
-      "published": "2026-05-01 15:00",
-      "source": "techcrunch.com",
+      "title": "Using \"underdrawings\" for accurate text and numbers",
+      "url": "https://samcollins.blog/underdrawings/",
+      "summary": "",
+      "published": "2026-05-01 18:07",
+      "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
@@ -457,15 +466,6 @@
       "url": "https://sspai.com/post/109188",
       "summary": "《燃比娃》是由李文愉执导、上海电影(集团)有限公司及上海美术电影制片厂有限公司出品的动画电影，也是国内首部宣纸手绘动画长片。本片导演李文愉毕业于北京大学、硕士研究生学历，毕业后任教于四川大学艺术学院数 ...<a href=\"https://sspai.com/post/109188\" target=\"_blank\">查看全文</a>",
       "published": "2026-04-29 02:27",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "派早报：乐道 L80 发布、一加 Ace 6 至尊版发布等",
-      "url": "https://sspai.com/post/109204",
-      "summary": "Valve 新一代 Steam 手柄宣布发售，中国联通发布「联通魔方」自选服务等。<a href=\"https://sspai.com/post/109204\" target=\"_blank\">查看全文</a>",
-      "published": "2026-04-29 00:22",
       "source": "sspai.com",
       "lang": "zh_cn",
       "category": "科技"
