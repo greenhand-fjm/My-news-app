@@ -1,257 +1,392 @@
 {
-  "last_updated": "2026-05-04 01:31:02",
+  "last_updated": "2026-05-05 01:30:57",
   "total": 52,
   "articles": [
     {
-      "title": "恒指开盘涨1.4%，恒生科技指数涨1.58%",
-      "url": "https://36kr.com/newsflashes/3794303505292545?f=rss",
-      "summary": "36氪获悉，恒指开盘涨1.4%，恒生科技指数涨1.58%；半导体、电气设备板块领涨，天数智芯涨超12%，宁德时代涨超3%；保健品、智能物流板块跌幅居前，顺丰同城跌超2%，华润医药跌超1%。",
-      "published": "2026-05-04 01:25",
+      "title": "马斯克就推特持股披露诉讼与美证监会达成和解",
+      "url": "https://36kr.com/newsflashes/3795700018093317?f=rss",
+      "summary": "当地时间5月4日，埃隆·马斯克已就美国证券交易委员会提起的民事诉讼达成和解。该诉讼指控其在2022年未及时披露其初始购买推特（现称X）持股的行为。根据当天华盛顿特区联邦法院披露的和解协议，以马斯克名义设立的信托将支付150万美元民事罚款。马斯克未承认存在不当行为，且无需退还其因延迟披露而声称节约的1.5亿美元资金。（界面新闻）",
+      "published": "2026-05-05 01:27",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "东阳光药甘精胰岛素获FDA批准",
-      "url": "https://36kr.com/newsflashes/3794266619665417?f=rss",
-      "summary": "36氪获悉，东阳光药公告，其自主研发的甘精胰岛素注射液（商品名：Langlara）正式获美国FDA批准上市，成为第4款在美上市的甘精胰岛素产品，也是首个登陆美国市场的中国胰岛素。该产品同时获得“可互换”标签，可在药房直接替代原研药Lantus®。公司已与美国Lannett公司达成独家合作，并获得首批至少1800万支、供应期18个月的订单。此外，门冬胰岛素预计2028年在美获批，德谷胰岛素在美国的开发也在积极推进中。",
-      "published": "2026-05-04 01:16",
+      "title": "Bun is being ported from Zig to Rust",
+      "url": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
+      "summary": "",
+      "published": "2026-05-05 01:08",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "抖音集团副总裁：网传所谓红果短剧收费的消息不实",
+      "url": "https://36kr.com/newsflashes/3795699085417736?f=rss",
+      "summary": "5月4日深夜，抖音集团副总裁李亮在社交平台发文表示，网传所谓红果短剧收费的消息不实，实际情况是：为持续丰富平台视频内容生态，满足大家多样化的观看需求，红果短剧陆续引入了一些影视内容。依据相关影视版权方合规要求与行业惯例，该部分少数影视内容需开通VIP权限观看。而免广告会员服务，只是满足用户差异化体验的自愿选项，不会强制收费，也不会改变用户免费追剧的核心模式。不管是免广告的VIP服务，还是极少量需VIP才能观看的影视内容，都是2024年2月红果早期就有的功能，并不是近期的新动作。",
+      "published": "2026-05-05 01:04",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "游戏驿站提出近560亿美元收购eBay",
-      "url": "https://36kr.com/newsflashes/3794262182993161?f=rss",
-      "summary": "据报道，游戏驿站CEO瑞安·科恩表示，他已主动提出以约560亿美元收购eBay。科恩称，游戏驿站已持有eBay约5%股份，提出以每股125美元现金加股票收购，较eBay上周五收盘价溢价约20%。（界面）",
-      "published": "2026-05-04 01:00",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "The text mode lie: why modern TUIs are a nightmare for accessibility",
-      "url": "https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility",
-      "summary": "",
-      "published": "2026-05-03 23:59",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Let's Buy Spirit Air",
-      "url": "https://letsbuyspiritair.com/",
-      "summary": "",
-      "published": "2026-05-03 23:36",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "The 'Hidden' Costs of Great Abstractions",
-      "url": "https://jdgr.net/the-hidden-costs-of-great-abstractions",
-      "summary": "",
-      "published": "2026-05-03 23:12",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Agentic Coding Is a Trap",
-      "url": "https://larsfaye.com/articles/agentic-coding-is-a-trap",
-      "summary": "",
-      "published": "2026-05-03 22:52",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper",
-      "url": "https://github.com/aattaran/deepclaude",
-      "summary": "",
-      "published": "2026-05-03 22:13",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "‘This is fine’ creator says AI startup stole his art",
-      "url": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
-      "summary": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\"",
-      "published": "2026-05-03 20:16",
+      "title": "Geothermal startup Fervo Energy to raise up to $1.3B in IPO",
+      "url": "https://techcrunch.com/2026/05/04/geothermal-startup-fervo-energy-to-raise-up-to-1-3b-in-ipo/",
+      "summary": "Enhanced geothermal startup Fervo Energy’s IPO could value the company at up to $6.5 billion.",
+      "published": "2026-05-05 00:13",
       "source": "techcrunch.com",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
-      "url": "https://partyon.xyz/@nullagent/116499715071759135",
+      "title": "The 40 best Mother’s Day gift ideas for 2026",
+      "url": "https://www.theverge.com/gadgets/907032/best-mothers-day-gift-ideas-2026-mom-tech-gadgets",
+      "summary": "Whether it's managing a busy home or looking out for everyone around them, moms spend a lot of time every day caring for others. Mother's Day, May 10th, is an opportunity to return the favor, so we've rounded up practical gadgets and little luxuries that can lighten her load. This year's picks are designed to [&#8230;]",
+      "published": "2026-05-05 00:10",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Valve just imported 50 tons of game consoles in two days",
+      "url": "https://www.theverge.com/news/923461/valve-steam-machine-frame-deck-import-records-may-2026",
+      "summary": "We still don't know when Valve will launch the Steam Machine, but we may not have to wait too long. Valve just imported roughly 50 tons of \"Game Consoles\" into the United States in the two-day period between May 1st and April 30th, according to import records viewed by The Verge. That's on top of [&#8230;]",
+      "published": "2026-05-04 23:58",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "OpenAI’s president does ‘all the things,’ except answer a question",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/923684/musk-brockman-altman-openai-trial",
+      "summary": "The strongest witness for Elon Musk's case against OpenAI so far has been Greg Brockman's journal. Brockman himself is running as a close second. Brockman was called to the stand in a rather unusual way - he was cross-examined first, followed by a direct examination - and he had some serious high school debate club [&#8230;]",
+      "published": "2026-05-04 23:49",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "US government warns of severe CopyFail bug affecting major versions of Linux",
+      "url": "https://techcrunch.com/2026/05/04/u-s-government-warns-of-severe-copyfail-bug-affecting-major-versions-of-linux/",
+      "summary": "U.S. cybersecurity agency CISA says the CopyFail bug is being actively used in hacking campaigns, and poses a major risk to servers and data centers that rely on Linux.",
+      "published": "2026-05-04 22:21",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Elon Musk will settle the feds’ Twitter lawsuit with pocket change",
+      "url": "https://www.theverge.com/tech/923612/elon-musk-sec-1-5-million-penalty-twitter-x",
+      "summary": "Last year, the SEC sued Elon Musk over the way his acquisition of Twitter (now X, and a part of SpaceX) started, and today it announced a settlement that looks like a massive bargain, while Musk's own lawsuit against Sam Altman continues to play out. A week before the Trump administration took over, the department [&#8230;]",
+      "published": "2026-05-04 22:11",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO",
+      "url": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
+      "summary": "AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more. Its relationship with OpenAI is deep and rich.",
+      "published": "2026-05-04 21:53",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Agent Skills",
+      "url": "https://addyosmani.com/blog/agent-skills/",
       "summary": "",
-      "published": "2026-05-03 18:03",
+      "published": "2026-05-04 21:40",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
-      "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
-      "summary": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors.",
-      "published": "2026-05-03 18:00",
-      "source": "techcrunch.com",
+      "title": "Skylight’s 15-inch smart calendar is down to its lowest price to date",
+      "url": "https://www.theverge.com/gadgets/918544/skylight-15-inch-smart-calendar-2-mothers-day-deal-2026-sale",
+      "summary": "When you’re juggling more than just your own calendar, staying organized can be overwhelming. Fortunately, the Skylight Calendar 2 can help simplify things by syncing multiple calendars in a single spot, and now through May 7th, it’s on sale at Best Buy and directly from Skylight for $259.99 ($40 off) in the run-up to Mother’s [&#8230;]",
+      "published": "2026-05-04 20:45",
+      "source": "www.theverge.com",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Southwest Headquarters Tour",
-      "url": "https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html",
+      "title": "How OpenAI delivers low-latency voice AI at scale",
+      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
       "summary": "",
-      "published": "2026-05-03 17:02",
+      "published": "2026-05-04 19:42",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "TechCrunch Mobility: How do you issue a ticket to a robotaxi?",
-      "url": "https://techcrunch.com/2026/05/03/techcrunch-mobility-how-do-you-issue-a-ticket-to-a-robotaxi/",
-      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
-      "published": "2026-05-03 16:05",
+      "title": "Image AI models now drive app growth, beating chatbot upgrades",
+      "url": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
+      "summary": "Appfigures finds visual model launches generate 6.5x more downloads — but most don’t convert that spike into revenue.",
+      "published": "2026-05-04 19:12",
       "source": "techcrunch.com",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Reggie Fils-Aimé says Amazon once asked Nintendo to break the law",
-      "url": "https://www.theverge.com/games/922840/reggie-fils-aime-amazon-nintendo-illegal",
-      "summary": "Way back in the DS days, Nintendo decided to stop selling to Amazon. During a recent lecture at NYU, former Nintendo of America President Reggie Fils-Aim&#233; said it was because Amazon was seeking preferential treatment that would have hurt its relationship with other retailers, and potentially broken the law. The two sides have since made [&#8230;]",
-      "published": "2026-05-03 15:24",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Shokz’s bassy OpenRun Pro 2 are $40 off thanks to a new Mother’s Day promo",
-      "url": "https://www.theverge.com/gadgets/922616/shokz-openrun-pro-2-bone-conduction-headphones-mothers-day-deal-sale",
-      "summary": "If you’re looking to pick up a pair of open-ear headphones for yourself — or your mom — Shokz is running a Mother’s Day sale. Now through May 10th, the company’s best pair of bone conduction headphones, the OpenRun Pro 2, are available from Amazon, Best Buy, and Shokz for around $139.95 ($40 off), their [&#8230;]",
-      "published": "2026-05-03 15:00",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "This tiny, magnetic e-reader could stop you from doomscrolling",
-      "url": "https://techcrunch.com/2026/05/03/xteink-x3-review-tiny-magnetic-ereader/",
-      "summary": "The Xteink X3 is a delightfully tiny, MagSafe-compatible e-ink reader that attaches to the back of your phone like a Pop Socket.",
-      "published": "2026-05-03 13:00",
+      "title": "Katie Haun raises $1B for new venture funds",
+      "url": "https://techcrunch.com/2026/05/04/katie-haun-raises-1-billion-for-new-venture-funds/",
+      "summary": "Katie Haun announced on Monday that $1 billion has been raised across new funds to continue the firm’s thesis of backing crypto and blockchain startups.",
+      "published": "2026-05-04 19:12",
       "source": "techcrunch.com",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "These reusable digital Polaroids are a clever way to cover a fridge in memories",
-      "url": "https://www.theverge.com/tech/917067/vidabay-snap-nfc-e-ink-paper-fridge-magnet-photo-hands-on",
-      "summary": "I love when my friends have their fridges covered in Polaroids. It’s often a visual crash course of what’s been going on in their lives chronicling recent adventures, get-togethers, and other fun moments. But I don’t love the idea of schlepping around a clunky instant camera or paying a premium for instant film with hit-or-miss [&#8230;]",
-      "published": "2026-05-03 13:00",
+      "title": "SwitchBot’s rechargeable button pusher is on sale for over 20 percent off",
+      "url": "https://www.theverge.com/gadgets/923162/switchbot-bot-rechargeable-button-presser-mothers-day-sale-deal",
+      "summary": "If you want to give mom something that helps lighten the load, the SwitchBot Bot Rechargeable makes for a great, inexpensive gift. And now through May 10th, you can buy it for around $26.99 ($7 off) from Amazon and SwitchBot (with code FORHER20) as a part of its ongoing Mother’s Day sale, which drops the [&#8230;]",
+      "published": "2026-05-04 18:47",
       "source": "www.theverge.com",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "How the internet’s favorite squirrel dad made the hottest camera app of 2026",
-      "url": "https://www.theverge.com/tech/921690/dualshot-recorder-iphone-camera-app-derrick-downey-jr",
-      "summary": "It's not hyperbole to call DualShot Recorder an overnight sensation. It took only 12 hours from the time it was released to hit number one on the App Store's list of top paid apps. It was a surprise success - but what's even more surprising is the app's origin story: it all started with a [&#8230;]",
-      "published": "2026-05-03 13:00",
+      "title": "Hackers are mass-exploiting the cPanel bug to gain control of thousands of websites",
+      "url": "https://techcrunch.com/2026/05/04/hackers-are-still-exploiting-the-cpanel-bug-to-gain-control-of-thousands-of-websites/",
+      "summary": "Days after the disclosure of a critical vulnerability in popular web hosting software cPanel and WHM, hackers are now targeting and hacking thousands of vulnerable websites.",
+      "published": "2026-05-04 18:02",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
+      "url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
+      "summary": "",
+      "published": "2026-05-04 17:46",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race",
+      "url": "https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/",
+      "summary": "Stuart Russell is a long-time AI researcher who thinks governments need to restrain frontier labs.",
+      "published": "2026-05-04 16:57",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The creator of Roomba is back with a furry robot companion",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/922947/roomba-creator-new-robot-familiar-machines-magic-ai-launch",
+      "summary": "Colin Angle, the maker of the Roomba and the man who helped put 50 million household robots into people's homes, is back with a new robot. But this one is designed as a companion, not a cleaner. The first robot from Angle's new company, Familiar Machines &#38; Magic, is a dog-sized robotic pet that resembles [&#8230;]",
+      "published": "2026-05-04 16:51",
       "source": "www.theverge.com",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "AI music is flooding streaming services — but who wants it?",
-      "url": "https://www.theverge.com/column/921599/ai-music-is-flooding-streaming-services-but-who-wants-it",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on how AI is changing music and the music industry, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started The use of generative AI [&#8230;]",
-      "published": "2026-05-03 12:00",
+      "title": "The Pixel 11 could be the next victim of the RAM shortage",
+      "url": "https://www.theverge.com/tech/923252/google-pixel-11-spec-leak-lower-ram",
+      "summary": "Google's next round of Pixel phones could be a downgrade compared to the Pixel 10 lineup due to the ongoing RAM shortage. Leaked specs for the Pixel 11 lineup shared by MysticLeaks include a possible starting configuration with only 8GB of RAM, rather than the current 12GB, as Android Headlines reports. According to MysticLeaks, Google [&#8230;]",
+      "published": "2026-05-04 16:48",
       "source": "www.theverge.com",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "韩国市值超万亿韩元企业破400家创新高",
-      "url": "https://36kr.com/newsflashes/3793161802914819?f=rss",
-      "summary": "韩国交易所信息数据系统5月3日发布的数据显示，以上月29日为准，市值超过1万亿韩元的上市公司共405家，首次突破400家。随着国内股市表现强劲，市值超过1万亿韩元的公司也迅猛增加。2015年5月20日，市值超1万亿韩元的上市公司超过200家，2025年7月16日增至300家以上，此后仅时隔9个月再次突破400家。",
-      "published": "2026-05-03 10:30",
+      "title": "Sierra raises $950M as the race to own enterprise AI gets serious",
+      "url": "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/",
+      "summary": "The raise gives Sierra more than $1 billion to work with — capital the company says it will use to become the \"global standard\" for AI-powered customer experiences.",
+      "published": "2026-05-04 16:45",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "I am worried about Bun",
+      "url": "https://wwj.dev/posts/i-am-worried-about-bun/",
+      "summary": "",
+      "published": "2026-05-04 16:45",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Elon Musk sent ominous texts to Greg Brockman, Sam Altman after asking for a settlement, OpenAI claims",
+      "url": "https://techcrunch.com/2026/05/04/elon-musk-sent-ominous-texts-to-greg-brockman-sam-altman-after-asking-for-a-settlement-openai-claims/",
+      "summary": "Musk texted OpenAI's president and co-founder saying that he and CEO Sam Altman \"will be the most hated men in America\" if OpenAI doesn't settle the suit.",
+      "published": "2026-05-04 16:36",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The best Star Wars Day deals",
+      "url": "https://www.theverge.com/gadgets/922905/best-star-wars-day-2026-may-the-fourth-4th-deals-sale",
+      "summary": "May the Fourth be with us all on this Star Wars Day. While things have been relatively quiet with the multimedia gold mine that is Star Wars, with just some murmurs about upcoming movies (The Mandalorian and Grogu excluded), a lone live-action show on the horizon, and a long way to the release of the [&#8230;]",
+      "published": "2026-05-04 16:29",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Anthropic and OpenAI are both launching joint ventures for enterprise AI services",
+      "url": "https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/",
+      "summary": "Both Anthropic and OpenAI have partnered with asset managers to more aggressively market their enterprise AI products.",
+      "published": "2026-05-04 15:59",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. The trial began with [&#8230;]",
+      "published": "2026-05-04 15:43",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "As X shuts down Communities, Acorn debuts an alternative that puts creators in control",
+      "url": "https://techcrunch.com/2026/05/04/as-x-shuts-down-communities-acorn-debuts-an-alternative-that-puts-creators-in-control/",
+      "summary": "Acorn lets organizations build and run their own online communities using decentralized tech, with custom feeds, moderation, and analytics tools.",
+      "published": "2026-05-04 15:33",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks",
+      "url": "https://www.nber.org/papers/w35117",
+      "summary": "",
+      "published": "2026-05-04 15:32",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "US healthcare marketplaces shared citizenship and race data with ad tech giants",
+      "url": "https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/",
+      "summary": "Virginia and Washington, D.C. paused the data collection and sharing, after Bloomberg's investigation found their health insurance marketplaces were sharing users' information with advertisers.",
+      "published": "2026-05-04 14:30",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Talking to strangers at the gym",
+      "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
+      "summary": "",
+      "published": "2026-05-04 11:41",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "全球最大汽车滚装船首靠上海港",
+      "url": "https://36kr.com/newsflashes/3794774353796105?f=rss",
+      "summary": "5月4日13时30分，全球首艘万辆级汽车滚装船——巴拿马籍“格罗领航”轮缓缓靠泊上海南港码头。这是该轮4月28日下水运营后首次挂靠上海港，本航次将在南港码头装载3700余辆各类乘用车、商用车后驶离出境。（澎湃）",
+      "published": "2026-05-04 09:45",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "越南1-4月咖啡出口量同比增长16%，至81万吨",
-      "url": "https://36kr.com/newsflashes/3793157858073608?f=rss",
-      "summary": "5月3日消息，越南1-4月咖啡出口量同比增长16%，至81万吨。",
-      "published": "2026-05-03 10:00",
+      "title": "陈发树一季度新进伊利股份，持股市值近16亿元",
+      "url": "https://36kr.com/newsflashes/3794771402185991?f=rss",
+      "summary": "随着上市公司一季报披露结束，陈发树一季度末的持仓数据也随之出炉。一季度，陈发树新进伊利股份前十大股东，继续持有云南白药等个股。具体来看，陈发树新进伊利股份前十大股东名单，持有约6044万股，持股比例0.96%，以伊利股份3月31日收盘价计算（下同），持股市值近16亿元。另外，陈发树继续持有雷电微力，持股市值约10亿元；继续持有云南白药，持股市值逾6亿元。从行业分布来看，陈发树持股较为分散，按申万一级行业分类，涉及食品饮料、国防军工、医药生物、传媒、机械设备等。（证券时报）",
+      "published": "2026-05-04 09:27",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "三星继承人已付清12万亿韩元遗产税",
-      "url": "https://36kr.com/newsflashes/3793156139195401?f=rss",
-      "summary": "三星集团表示，已故三星集团会长李健熙的继承人已完成缴纳其遗产的12万亿韩元（约合81亿美元）遗产税。根据公司声明，这笔款项从2021年开始，分六期支付。这创下了韩国遗产税账单金额的历史新高。",
-      "published": "2026-05-03 09:30",
+      "title": "印度数据中心公司Yotta：公司在IPO前寻求60亿美元的估值",
+      "url": "https://36kr.com/newsflashes/3794749752728585?f=rss",
+      "summary": "印度数据中心公司Yotta的CEO表示，公司在IPO前寻求60亿美元的估值。（新浪财经）",
+      "published": "2026-05-04 09:05",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "韩国政府将向AI初创公司Upstage投资5600亿韩元",
-      "url": "https://36kr.com/newsflashes/3793154827000832?f=rss",
-      "summary": "韩国金融监管部门周日表示，已批准向韩国本土人工智能（AI）初创公司Upstage投资5600亿韩元（约合3.806亿美元），这是韩国国家增长基金的第二笔直接投资。韩国金融服务委员会（FSC）称，该决定已于周四举行的基金审议委员会会议上获得批准。Upstage成立于2020年，是一家估值超过1万亿韩元的独角兽初创公司，致力于开发人工智能解决方案和大型语言模型（LLM）。该公司是继Rebellions之后，第二家获得该政策基金投资的企业。",
-      "published": "2026-05-03 09:00",
+      "title": "港交所拟重启黄金期货交易",
+      "url": "https://36kr.com/newsflashes/3794732876700931?f=rss",
+      "summary": "据香港电台网站消息，港交所正准备未来数月内重启黄金期货交易。港交所市场主管余学勤出席立法会一个委员会会议时表示，会征询市场参与者及持份者的意见，优化合约设计和完善机制。他表示，因地缘政治影响，投资者就黄金买卖和储备时要分散风险，因此认为黄金期货的设计和香港实体黄金生态圈的连动绝对有必要。港交所会继续研究，迎合投资者需求，让新的期货产品交易有更显著增长。（财联社）",
+      "published": "2026-05-04 08:41",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "余额宝收益率跌破1%，资金依旧看好",
-      "url": "https://36kr.com/newsflashes/3793154358402052?f=rss",
-      "summary": "伴随无风险利率下行，货币基金收益率下行趋势仍在延续。5月2日，全市场规模最大的货币基金天弘余额宝，七日年化收益率跌破1%。机构统计数据显示，目前全市场已有107只货币基金七日年化收益率跌破1%。业内人士表示，货币基金凭借其低风险、高流动性、使用便捷等特性，依然是居民现金管理的重要选择。",
-      "published": "2026-05-03 08:30",
+      "title": "恒指收涨1.24%，恒生科技指数涨2.16%",
+      "url": "https://36kr.com/newsflashes/3794703326616837?f=rss",
+      "summary": "36氪获悉，恒指收涨1.24%，恒生科技指数涨2.16%；半导体、硬件设备、机械板块领涨，富通科技涨超63%，潍柴动力涨超12%，华虹半导体涨超6%；石油石化、电信服务、煤炭板块跌幅居前，中港石油跌超6%，中国电信、蒙古能源跌超1%。",
+      "published": "2026-05-04 08:11",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "中东局势扰动全球市场 欧佩克+原则上同意6月增产",
-      "url": "https://36kr.com/newsflashes/3793152990387207?f=rss",
-      "summary": "据央视财经，当地时间2日，消息人士称，“欧佩克+”已原则上同意将6月原油产量配额上调，每日增产18.8万桶，预计正式决定将于3日“欧佩克+”国家会议后公布。这也将是“欧佩克+”在阿联酋正式退出后的首次决策。国际能源署数据显示，2025年“欧佩克+”控制全球石油总产量约50%。阿联酋宣布5月1日起退出欧佩克及“欧佩克+”，这令“欧佩克+”石油产量降至全球石油总产量的约45%，分析人士认为，这会削弱欧佩克和“欧佩克+”的市场影响力，增加其通过调整产量以控制市场的难度。",
-      "published": "2026-05-03 08:00",
+      "title": "“五一”假期第四天，全社会跨区域人员流动量预计超2.9亿人次",
+      "url": "https://36kr.com/newsflashes/3794667784018951?f=rss",
+      "summary": "记者从交通运输部了解到，今天（4日）全社会跨区域人员流动量预计29379.4万人次，同比增长4.2%。其中：铁路客运量预计2030万人次，同比增长2.6%；公路人员流动量预计26971万人次，同比增长4.4%；水路客运量预计162.4万人次；民航客运量预计216万人次。（央视新闻）",
+      "published": "2026-05-04 07:35",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "第四届链博会哥斯达黎加推介会成功举办",
-      "url": "https://36kr.com/newsflashes/3793151671720963?f=rss",
-      "summary": "据中国贸促会消息，近日，第四届链博会哥斯达黎加推介会在圣何塞成功举办。本次活动由中国贸促会驻哥斯达黎加代表处与哥斯达黎加外贸商会共同主办，重点聚焦当地优势产业医疗器械领域，吸引中哥相关企业和机构代表50余人参会。",
-      "published": "2026-05-03 07:30",
+      "title": "2026年五一档电影票房破6亿元",
+      "url": "https://36kr.com/newsflashes/3794645689359363?f=rss",
+      "summary": "36氪获悉，据灯塔专业版，截至5月4日14时57分，2026年五一档（5月1日—5月5日）档期总票房（含预售）突破6亿元，影片《消失的人》《寒战1994》《穿普拉达的女王2》《10间敢死队》《门牙》暂列档期票房前五名。",
+      "published": "2026-05-04 07:13",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "A股2025年销售毛利率排行榜：医药生物+计算机两大行业霸榜",
-      "url": "https://36kr.com/newsflashes/3793150367849735?f=rss",
-      "summary": "2025年A股年报披露收官，据统计，剔除金融行业（银行及非银金融），申万一级行业中，美容护理、食品饮料明显领先于其他行业，销售毛利率超过45%，传媒、医药生物行业紧随其后，分别为32.45%、32.42%。钢铁、交通运输行业销售毛利率最低，均不足10%。从个股来看，销售毛利率排名前50的个股中以医药生物和计算机行业个股居多，分别有27只、13只，占50强的八成。排名前三的为海创药业-U(688302)、首药控股-U、艾力斯，3股均属于医药生物行业中的创新药概念，2025年销售毛利率分别为98.62%、96.93% 、96.83% 。",
-      "published": "2026-05-03 07:00",
+      "title": "iPad 用户首次体验 Android 平板：vivo Pad6 Pro",
+      "url": "https://sspai.com/post/109277",
+      "summary": "作为 vivo 今年春季推出的旗舰级平板，vivo Pad6 Pro 显然被寄予了厚望：配备 4K 超大原彩屏、第五代骁龙 8 至尊版芯片，同时搭载了 PC 级 WPS 和专业版剪映。参数之外，实际体验到底如何？和 iPad 比，安卓平板又有哪些可圈可点之处呢？<a href=\"https://sspai.com/post/109277\" target=\"_blank\">查看全文</a>",
+      "published": "2026-05-04 07:00",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "比特币一度升破8万美元，触及逾三个月高位",
+      "url": "https://36kr.com/newsflashes/3794632593677316?f=rss",
+      "summary": "在亚洲股市涨至纪录高位的同时，比特币三个多月来也首次升破8万美元。这种最早的加密货币周一一度上涨2.1%，至80594美元，创1月31日以来盘中最高水平。以太币等规模较小的加密货币也上涨。（新浪财经）",
+      "published": "2026-05-04 06:59",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "江苏扬州：人才5年内在市区购买新建商品住房 “人才安家券”最高抵扣200万元首付款",
-      "url": "https://36kr.com/newsflashes/3793129769917703?f=rss",
-      "summary": "江苏省扬州市住房和城乡建设局5月1日发布《关于优化市区房地产政策促进房地产市场平稳健康发展的通知》，包括扩大“人才安家券”适用范围、继续执行住房“以旧换新”补贴政策、购买新建商品住房给予财政贴息、进一步减轻多孩家庭购房成本以及优化住房公积金政策，有效期至2026年12月31日。政策优化后，两类人才可领取“人才安家券”，第一类是青年人才，指市区范围生产经营、缴纳企业职工基本养老保险并正常纳税的企业、民办非企业等单位（含民办学校、民营医院、律师事务所等）全职新引进40岁以下全日制大专及以上学历、高级工及以上职业资格、副高级及以上专业技术资格的人才；第二类是高层次人才，指市区企事业单位新引进且3年内在我市申报并获批市级以上人才工程资助的人才。青年人才来扬工作、高层次人才来扬获批市级以上人才工程资助后，5年内在市区购买新建商品住房，可使用5万-200万元“人才安家券”抵扣首付款。2人共同购房还可叠加享受。大专到博士有4档，分别是5万元、7万元、15万元、30万元。市级领军人才到国外顶尖人才分为5档，分别是35万元、50万元、70万元、80万元、最高200万元。",
-      "published": "2026-05-03 06:30",
+      "title": "韩国KOSPI指数收盘上涨5.12%，刷新历史新高",
+      "url": "https://36kr.com/newsflashes/3794606254398728?f=rss",
+      "summary": "36氪获悉，韩国KOSPI指数收盘上涨5.12%，报6936.99点，刷新历史新高。",
+      "published": "2026-05-04 06:33",
       "source": "36kr.com",
       "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "巴克莱预计美联储将在2026年维持利率不变",
+      "url": "https://36kr.com/newsflashes/3794592047013122?f=rss",
+      "summary": "巴克莱预计美联储将在2026年维持利率不变，此前的预测是9月降息25个基点。（财联社）",
+      "published": "2026-05-04 06:18",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "Testing macOS on the Apple Network Server 2.0 ROMs",
+      "url": "http://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html",
+      "summary": "",
+      "published": "2026-05-03 15:49",
+      "source": "Hacker News",
+      "lang": "en",
       "category": "科技"
     },
     {
@@ -261,132 +396,6 @@
       "published": "2026-05-03 04:19",
       "source": "sspai.com",
       "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "AI-generated actors and scripts are now ineligible for Oscars",
-      "url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
-      "summary": "Bad news for Tilly Norwood.",
-      "published": "2026-05-02 21:54",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Farewell, Jeeves: Ask.com shuts down",
-      "url": "https://techcrunch.com/2026/05/02/farewell-jeeves-ask-com-shuts-down/",
-      "summary": "Owner IAC says it's discontinuing its search business.",
-      "published": "2026-05-02 21:11",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Meta&#8217;s historic loss in court could cost a lot more than $375 million",
-      "url": "https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety",
-      "summary": "New Mexico Attorney General Ra&#250;l Torrez won a historic sum of $375 million in a landmark child safety case against Meta earlier this year. But the next stage of the fight could be even more consequential for Meta and the social media industry at large. Beginning Monday, attorneys for Meta and New Mexico will return [&#8230;]",
-      "published": "2026-05-02 18:25",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Spirit Airlines shuts down after Trump’s war on Iran doubled jet fuel prices",
-      "url": "https://www.theverge.com/business/922788/spirit-airlines-shutdown",
-      "summary": "The ultra-low-cost air carrier Spirit Airlines shut down operations after 34 years in business and canceled all flights at 3AM ET on Saturday morning. Its website now redirects to spiritrestructuring.com, instructing fliers not to go to airports, with air traffic control records capturing controllers and pilots signing off to each other as its last flights [&#8230;]",
-      "published": "2026-05-02 17:51",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Netflix delays Greta Gerwig’s ‘Narnia’ movie for big theatrical push in 2027",
-      "url": "https://techcrunch.com/2026/05/02/netflix-delays-greta-gerwigs-narnia-movie-for-big-theatrical-push-in-2027/",
-      "summary": "\"The Magician's Nephew\" looks like a big next step in Netflix's thawing relationship with movie theaters.",
-      "published": "2026-05-02 17:05",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Aura’s delightful Aspen photo frame is on sale for $30 off this weekend",
-      "url": "https://www.theverge.com/gadgets/922513/aura-aspen-carver-walden-digital-photo-frame-mothers-day-deal-sale",
-      "summary": "Aura’s digital frames are kind of like living photo albums that get better with time, which is why we often recommend them for Mother’s Day. They’re gifts that keep on giving, in a way, and right now, a number of Aura’s connected frames are on sale ahead of the holiday. One of the best deals [&#8230;]",
-      "published": "2026-05-02 17:00",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "The best AI dictation apps, tested and ranked",
-      "url": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
-      "summary": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice",
-      "published": "2026-05-02 16:00",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Beyond Lovable and Mistral: 21 European startups to watch",
-      "url": "https://techcrunch.com/2026/05/02/beyond-lovable-and-mistral-21-european-startups-to-watch/",
-      "summary": "It is not that European startups never get attention — Lovable and Mistral AI are proof of that. But there are many more that insiders are tracking.",
-      "published": "2026-05-02 14:00",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Anker’s discounted 2-in-1 USB-C cable is a great way to spend $15",
-      "url": "https://www.theverge.com/gadgets/922288/native-union-anker-2-in-1-usb-c-cable-mothers-day-sale-deal",
-      "summary": "I’ll never stop gushing about 2-in-1 USB-C cables. They’re really nice to have because, at this point, I’ve amassed so many devices that charge via USB-C. It’s also common for more than one to need to be recharged at a time, which is where they come in handy. I can charge my Nintendo Switch 2 [&#8230;]",
-      "published": "2026-05-02 13:56",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Playing Esoteric Ebb is like rolling the dice with a great DM",
-      "url": "https://www.theverge.com/games/903575/esoteric-ebb-review-pc-steam",
-      "summary": "It took me a while to get into Esoteric Ebb, a new CRPG from developer Christoffer Bodeg&#229;rd. The elevator pitch is basically Disco Elysium, but in the fantasy style of Dungeons &#38; Dragons: You play as a cleric wandering around a small town who's trying to figure out, among other things, the mystery of why [&#8230;]",
-      "published": "2026-05-02 12:00",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Uber wants to turn its millions of drivers into a sensor grid for self-driving companies",
-      "url": "https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/",
-      "summary": "Praveen Neppalli Naga, Uber's chief technology officer, revealed the plan in an interview at TechCrunch's StrictlyVC event in San Francisco on Thursday night, describing it as a natural extension of a nascent program the company announced in late January called AV Labs.",
-      "published": "2026-05-02 06:36",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell",
-      "url": "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/",
-      "summary": "At TechCrunch's sold-out StrictlyVC event in San Francisco on Thursday night, we covered a lot of ground in a short time, beginning with the question everyone in the industry is asking right now: in a world where rival Cursor is reportedly in talks to be acquired by SpaceX for $60 billion, is Replit also bound to sell?",
-      "published": "2026-05-01 23:06",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Musely secures $360M from General Catalyst without giving up equity",
-      "url": "https://techcrunch.com/2026/05/01/musely-secures-360m-from-general-catalyst-without-giving-up-equity/",
-      "summary": "The DTC skin, hair, and menopause care brand will use the non-dilutive capital to super-charge customer acquisition.",
-      "published": "2026-05-01 22:39",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Using \"underdrawings\" for accurate text and numbers",
-      "url": "https://samcollins.blog/underdrawings/",
-      "summary": "",
-      "published": "2026-05-01 18:07",
-      "source": "Hacker News",
-      "lang": "en",
       "category": "科技"
     },
     {
@@ -457,15 +466,6 @@
       "url": "https://sspai.com/post/109207",
       "summary": "现在AI工具正在从「能回答问题」逐渐走向「能替你完成事情」。我们不再只满足于打开一个App、输入一段提示词、等待一次回复，而是希望AI能理解我们的上下文，知道我们正在处理什么信息，并在合适的时候主动帮 ...<a href=\"https://sspai.com/post/109207\" target=\"_blank\">查看全文</a>",
       "published": "2026-04-29 03:34",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "iPad 赋能电影创作：国内首部宣纸手绘长片《燃比娃》的幕后故事",
-      "url": "https://sspai.com/post/109188",
-      "summary": "《燃比娃》是由李文愉执导、上海电影(集团)有限公司及上海美术电影制片厂有限公司出品的动画电影，也是国内首部宣纸手绘动画长片。本片导演李文愉毕业于北京大学、硕士研究生学历，毕业后任教于四川大学艺术学院数 ...<a href=\"https://sspai.com/post/109188\" target=\"_blank\">查看全文</a>",
-      "published": "2026-04-29 02:27",
       "source": "sspai.com",
       "lang": "zh_cn",
       "category": "科技"
