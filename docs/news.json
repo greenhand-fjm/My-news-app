@@ -1,68 +1,311 @@
 {
-  "last_updated": "2026-05-16 01:49:00",
+  "last_updated": "2026-05-17 01:52:57",
   "total": 52,
   "articles": [
     {
-      "title": "商业航天迎来发展黄金期 融资客净买入12只概念股",
-      "url": "https://36kr.com/newsflashes/3811281511751177?f=rss",
-      "summary": "今年以来，在A股市场震荡的背景下，上市公司回购热情持续高涨。Wind数据显示，截至5月15日，今年以来已有920家A股上市公司披露回购计划或相关进展。从市场反馈来看，多数企业完成回购后，前期股价下跌态势明显放缓，部分个股更是实现止跌回升。分析人士认为，上市公司回购不仅能够有效提振市场情绪、改善流动性，也为A股市场的平稳健康运行提供了基础支撑。当前A股整体估值处于合理区间，也给高景气赛道企业提供了良好的回购窗口期。（证券时报）",
-      "published": "2026-05-16 01:45",
+      "title": "法拉第未来宣布获得2500万美元融资",
+      "url": "https://36kr.com/newsflashes/3812688827817475?f=rss",
+      "summary": "36氪获悉，5月16日，法拉第未来宣布，公司已与机构投资者签署了2500万美元股份购买协议。根据协议，投资者已认购公司总本金为2500万美元的可转换本票。本次融资对应的普通股目前尚未注册，存在交易限制，暂不可立即流通。其中，1250万美元将直接汇入公司运营账户；其余1250万美元将依据公司与各投资者签署的受控账户协议，存入由投资者控制的监管账户，并将在满足特定条件后释放给公司使用。",
+      "published": "2026-05-17 01:50",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "美股三大指数均收跌超1%，标普500指数实现周线七连涨",
-      "url": "https://36kr.com/newsflashes/3811288586968839?f=rss",
-      "summary": "美股三大指数均收跌超1%。纳指跌1.54%，本周累跌0.08%，终结周线六连涨；标普500指数跌1.24%，本周累涨0.13%，实现周线七连涨；道指跌1.07%，本周累跌0.17%。苹果涨0.68%，收于300美元/股上方，创历史新高，总市值报4.41万亿美元。微软涨超3%，创一个月来最佳单日表现。英伟达跌超4%，创4月30日以来最大跌幅。特斯拉跌超4%，创4月以来最大单日跌幅。",
-      "published": "2026-05-16 01:35",
+      "title": "知乎CEO周源：AI时代真实创作者价值不可替代",
+      "url": "https://36kr.com/newsflashes/3812678434250498?f=rss",
+      "summary": "36氪获悉，5月16日，第十二届新知青年大会在北京举行。知乎创始人兼CEO周源表示：“AI每分钟都在创造奇观，但AI时代仍然需要新知。新知来自真实的人。每一个真实的人，都拥有不可替代的价值。”他指出，技术背后本质上是人对世界持续的好奇、思考与分享，知乎希望成为人与人真实交流的一部分。",
+      "published": "2026-05-17 01:36",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "SpaceX据悉最早将于6月11日确定首次公开发行价格",
-      "url": "https://36kr.com/newsflashes/3811275655929603?f=rss",
-      "summary": "5月16日消息，据报道，SpaceX最早将于6月11日确定首次公开发行价格，股票将于6月12日上市。SpaceX将选择纳斯达克作为其首次公开发行的上市地点，股票将以“SPCX”为代码进行交易。（界面）",
-      "published": "2026-05-16 01:30",
+      "title": "印度股市市值蒸发9240亿美元，错失人工智能浪潮",
+      "url": "https://36kr.com/newsflashes/3812663316274949?f=rss",
+      "summary": "在人工智能贸易重塑全球投资格局的大背景下，印度俨然成为最大输家之一。形势发生急剧转变，印度股市时隔三年即将首次跌出全球市值前五。韩股凭借人工智能行情大涨，印度非但无力收复失地，反而面临进一步被甩开的巨大风险。造成这一局面的原因，远不止印度股市估值偏高、企业盈利增速放缓。此前全球投资者曾大举布局印度，如今资金却纷纷涌向印度市场稀缺的赛道：芯片制造、算力基建与人工智能模型领域。印度虽具备人才、市场需求与庞大数字经济体量，但本土头部企业极少直接涉足相关产业建设，股市走势愈发只能依赖内需消费赛道。（新浪财经）",
+      "published": "2026-05-17 01:28",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "美联储：沃什正式就任前鲍威尔将暂任“临时主席”",
-      "url": "https://36kr.com/newsflashes/3811273834372609?f=rss",
-      "summary": "美联储当地时间5月15日发布声明称，在凯文·沃什正式宣誓就任美联储主席之前，现任主席杰罗姆·鲍威尔将暂时担任“临时主席”。鲍威尔的主席任期于周五届满。美联储表示：“在类似新老主席交接期间，此类做法符合以往惯例。”（财联社）",
-      "published": "2026-05-16 01:14",
+      "title": "蔚来：已在全国建成8870座充换电站",
+      "url": "https://36kr.com/newsflashes/3812695911816707?f=rss",
+      "summary": "36氪获悉，蔚来发布消息称，5月17日，NIO Power 2站上线。截至今日，蔚来全国建成8870座充换电站，其中换电站3849座，充电站5021座、充电桩28855根，累计提供超1亿次换电。",
+      "published": "2026-05-17 01:20",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "高瓴增持英伟达、英特尔、台积电、Lumentum",
-      "url": "https://36kr.com/newsflashes/3811273252560387?f=rss",
-      "summary": "13F报告显示，高瓴一季度建仓叮咚买菜、迈威尔科技，增持唯品会、英特尔、康宁公司、英伟达、高意公司Coherent、台积电、Lumentum等。（财联社）",
-      "published": "2026-05-16 01:07",
+      "title": "盖茨基金会不再持有微软股票",
+      "url": "https://36kr.com/newsflashes/3812661253365506?f=rss",
+      "summary": "当地时间5月16日，根据提交给美国证券交易委员会的文件，微软创始人比尔·盖茨的慈善基金会已不再持有微软股票。盖茨基金会信托披露，已于今年第一季度出售剩余770万股微软股票，按当前股价计算价值32亿美元。（界面）",
+      "published": "2026-05-17 01:16",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "The main thing about P2P meth is that there's so much of it (2022)",
-      "url": "https://dynomight.net/p2p-meth/",
+      "title": "伊朗宣布5月19日起恢复股票市场交易",
+      "url": "https://36kr.com/newsflashes/3812662323420936?f=rss",
+      "summary": "当地时间5月16日，伊朗证券交易组织表示，伊朗股票市场将于5月19日起恢复交易。伊朗证券交易组织负责交易所相关负责人表示，根据已完成的协调工作并在获得必要许可后，决定自19日起重新开放股票市场、各类股票投资基金及其衍生品交易。（央视新闻）",
+      "published": "2026-05-17 01:05",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "中国汽车专利公开量全球领先，新能源领域年均增长率17.1%",
+      "url": "https://36kr.com/newsflashes/3812660816813575?f=rss",
+      "summary": "5月16日，中国汽车技术研究中心发布《汽车产业知识产权十年发展报告》。报告显示，过去十年，我国汽车工业电动化、智能化的相关知识产权已经成为全球市场核心竞争力的重要抓手。数据显示，中国汽车专利公开量近十年持续保持全球领先，远超美国、日本和欧洲等国家和地区。其中，新能源汽车领域专利公开量由2016年的5万余件增长至2025年的11万余件，年均增长率达17.1%。智能网联汽车专利则由4.4万件增长至2025年的9.3万件，年均增长率达11.6%。我国汽车企业海外专利布局已覆盖50多个国家和地区。（央视新闻）",
+      "published": "2026-05-17 01:00",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "Fisker went bankrupt and owners built an open source car company from the ashes",
+      "url": "https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/",
       "summary": "",
-      "published": "2026-05-15 23:37",
+      "published": "2026-05-16 23:59",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Erlang/OTP 29.0",
-      "url": "https://www.erlang.org/news/188",
+      "title": "A nicer voltmeter clock",
+      "url": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
       "summary": "",
-      "published": "2026-05-15 23:33",
+      "published": "2026-05-16 22:45",
       "source": "Hacker News",
       "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "MCP Hello Page",
+      "url": "https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page",
+      "summary": "",
+      "published": "2026-05-16 22:25",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
+      "url": "https://crates.io/crates/zerostack/1.0.0",
+      "summary": "",
+      "published": "2026-05-16 22:23",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The haves and have nots of the AI gold rush",
+      "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
+      "summary": "The vibes around the current AI boom aren't great, even in the tech industry.",
+      "published": "2026-05-16 20:17",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Marketing operating system Nectar Social raises $30M Series A led by Menlo",
+      "url": "https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/",
+      "summary": "AI-powered marketing platform Nectar Social announced Thursday that it raised a $30 million Series A round led by Menlo Ventures and its Anthology Fund, which was created alongside Anthropic.",
+      "published": "2026-05-16 19:26",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
+      "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
+      "summary": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers.",
+      "published": "2026-05-16 18:54",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Snap, YouTube, and TikTok settle suit over harm to students",
+      "url": "https://www.theverge.com/tech/932153/snap-youtube-tiktok-lawsuit-social-media-addiction-schools",
+      "summary": "Snap, YouTube, and TikTok have settled the first lawsuit of its kind, alleging that social media addiction has cost public schools massive amounts of money, according to Bloomberg. The suit, filed by the Breathitt County School District in Kentucky, claims that social media has disrupted learning and created a mental health crisis, straining budgets. The [&#8230;]",
+      "published": "2026-05-16 18:34",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The offline desk gadget that actually got me to sit up straight",
+      "url": "https://techcrunch.com/2026/05/16/the-offline-desk-gadget-that-actually-got-me-to-sit-up-straight/",
+      "summary": "Deep Care's $350 device is pricy, but it runs offline and helps you improve your posture and movement habits",
+      "published": "2026-05-16 16:00",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Sony tries to explain that its AI Camera Assistant doesn’t suck",
+      "url": "https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant",
+      "summary": "After Sony drew some unwanted attention for a post demonstrating its AI Camera Assistant on the Xperia 1 XIII, it's trying to clarify how the feature works. The company says it doesn't edit photos, but makes suggestions based on lighting, depth, and subject. Point the camera at something, and it will give you four options [&#8230;]",
+      "published": "2026-05-16 15:37",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
+      "url": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
+      "summary": "OpenAI's latest shakeup comes as the company reportedly plans to combine ChatGPT and its programming product Codex.",
+      "published": "2026-05-16 15:33",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "$60B AI chip darling Cerebras almost died early on, burning $8M a month",
+      "url": "https://techcrunch.com/2026/05/16/60b-ai-chip-darling-cerebras-almost-died-early-on-burning-8m-a-month/",
+      "summary": "Cerebras Systems was 2026's biggest tech IPO so far. But years ago, it burned through hundreds of millions working on a chip many believed impossible.",
+      "published": "2026-05-16 15:00",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "NPR’s Manoush Zomorodi talks about living with too much tech",
+      "url": "https://www.theverge.com/report/930171/manoush-zomorodi-body-electric-npr-questionnaire",
+      "summary": "Manoush Zamorodi is an accomplished reporter, podcast host, and author. Her new book, Body Electric, takes a comprehensive look at how technology is impacting our physical health. It's a collaboration between NPR and Columbia University Medical Center that picks up where her first title, Bored and Brilliant, left off. That book looked at how technology [&#8230;]",
+      "published": "2026-05-16 15:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Users turn to jailbreaking their older Kindles as Amazon ends support",
+      "url": "https://techcrunch.com/2026/05/16/users-turn-to-jailbreaking-their-older-kindles-as-amazon-ends-support/",
+      "summary": "It may be possible to jailbreak an older, end-of-support Kindle and continue adding books to it. But doing so carries risks.",
+      "published": "2026-05-16 14:00",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Turtle Beach made a good SteelSeries headset clone that’s $50 less",
+      "url": "https://www.theverge.com/gadgets/930828/turtle-beach-stealth-pro-2-steelseries-arctis-nova-pro-omni-gaming-headset-hands-on",
+      "summary": "I really liked the SteelSeries Arctis Nova Pro Wireless, so the company didn't have to say much to get me excited about its successor. The $399 Nova Pro Omni that came out on May 5th has a similar design to the 2022 model, but with some new and improved features - support for wireless hi-res [&#8230;]",
+      "published": "2026-05-16 14:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Here are 40 of our favorite deals from REI’s massive Anniversary Sale",
+      "url": "https://www.theverge.com/gadgets/931274/rei-anniversary-sale-2026",
+      "summary": "REI’s annual Anniversary Sale — the retailer’s biggest of the year — has arrived, bringing with it discounts on all kinds of outdoor essentials. If you’ve got a camping trip coming up, now is a good time to stock up on the basics, whether it be a tent, sleeping pad, or stove. If your summer [&#8230;]",
+      "published": "2026-05-16 13:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
+      "url": "https://nvlabs.github.io/Sana/WM/",
+      "summary": "",
+      "published": "2026-05-16 12:06",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Mixtape is a musical portrait of teenage life",
+      "url": "https://www.theverge.com/games/925580/mixtape-review-ps5-xbox-series-x-s-nintendo-switch-2-pc",
+      "summary": "Playing Mixtape is like playing a video game version of a high school movie. Kids banter about the meaning of life and the theme songs that would play when they walk in a room. They're worried about looking cool at a big party. They're obsessed with finding booze. But under all of those tropes is [&#8230;]",
+      "published": "2026-05-16 12:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The app you need to clean up your computer",
+      "url": "https://www.theverge.com/tech/931586/mole-bartender-mac-utilities-installer",
+      "summary": "Hi, friends! Welcome to Installer No. 128, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, sorry this one's so Mac-heavy, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about David Attenborough and screenwriters-turned-AI-trainers and the Subway Takes [&#8230;]",
+      "published": "2026-05-16 12:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "These are the laptops I recommend for pretty much anyone",
+      "url": "https://www.theverge.com/gadgets/931638/best-laptops-macbooks-windows-gaming-2026",
+      "summary": "Need a new laptop? It’s a tough decision. If you’re like most people, a laptop is one of the most expensive tech purchases you’ll make, and it’s something you’ll use and live with nearly every day for years to come. So there’s a lot riding on this pricey expense. I’ve tested all kinds of laptops, [&#8230;]",
+      "published": "2026-05-16 12:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "海南自贸港封关以来“零关税”进口货值超过22亿元",
+      "url": "https://36kr.com/newsflashes/3811800705555975?f=rss",
+      "summary": "中共海南省委深改办（自贸港工委办）副主任王奉利15日在“高标准建设海南自由贸易港”重庆市专场新闻发布会上说，海南自贸港封关以来，“零关税”进口货值超过22亿元。他表示，海南自贸港将继续优化和完善政策制度体系，特别是对接国际高标准经贸规则，在进一步优化和调整各类政策清单，深入推动内外资准入协同，以及稳步推动简税制改革等方面加大推进力度，加快构建与高水平自由贸易港相适应的政策制度体系。（e公司）",
+      "published": "2026-05-16 10:04",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "比特币跌破78000美元，日内跌1.42%",
+      "url": "https://36kr.com/newsflashes/3811773519683330?f=rss",
+      "summary": "比特币跌破78000美元，日内跌1.42%。（每经网）",
+      "published": "2026-05-16 09:36",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "Moving away from Tailwind, and learning to structure my CSS",
+      "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
+      "summary": "",
+      "published": "2026-05-16 09:14",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "阿里健康正式发布医学AI助手“氢离子”",
+      "url": "https://36kr.com/newsflashes/3811712103423746?f=rss",
+      "summary": "36氪获悉，近日，阿里健康正式发布医学AI助手“氢离子”，同时宣布与英国BMJ集团达成独家合作。据了解，BMJ旗下70本医学期刊过去十年的内容资源接入氢离子，这是国际顶级期刊首次与中国AI平台达成此类合作。氢离子聚焦循证医学，采用四层架构：PICO+GRADE结构化理解、检索增强、模型微调、专家评审闭环。超300位中国临床专家参与共建评价标准，黄晓军、肖瑞平、于金明等10位顶级专家把关学术方向。",
+      "published": "2026-05-16 08:34",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "马斯克称他不会出售任何SpaceX股票",
+      "url": "https://36kr.com/newsflashes/3811678834089475?f=rss",
+      "summary": "马斯克称他不会出售任何SpaceX股票。（华尔街见闻）",
+      "published": "2026-05-16 08:15",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "网易新闻、网易小蜜蜂宣布已接入DeepSeek-V4",
+      "url": "https://36kr.com/newsflashes/3811663965560329?f=rss",
+      "summary": "36氪获悉，近日，网易传媒旗下网易新闻、网易小蜜蜂正式宣布接入DeepSeek-V4大模型。全面升级新闻资讯分发、智能内容创作、社区互动服务、AI工具辅助及个性化推荐等核心场景。据了解，网易小蜜蜂近期即将推出“校园龙虾养成计划”，创新地将前沿人工智能技术融入年轻用户日常社交场景。",
+      "published": "2026-05-16 08:01",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "为什么我觉得好的东西，媒体评测却给了低分？",
+      "url": "https://sspai.com/post/109777",
+      "summary": "为什么我觉得好玩的游戏，你却要给出这么低的分？为什么最后在使用中出了问题的产品，你却要在首发评测中大肆吹捧？<a href=\"https://sspai.com/post/109777\" target=\"_blank\">查看全文</a>",
+      "published": "2026-05-16 07:38",
+      "source": "sspai.com",
+      "lang": "zh_cn",
       "category": "科技"
     },
     {
@@ -84,47 +327,11 @@
       "category": "科技"
     },
     {
-      "title": "How to Write to SSDs [pdf]",
-      "url": "https://www.vldb.org/pvldb/vol19/p1469-lee.pdf",
-      "summary": "",
-      "published": "2026-05-15 22:23",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Windows 11 tests an adjustable taskbar and resizable Start menu",
-      "url": "https://www.theverge.com/tech/931817/windows-11-movable-taskbar-start-button",
-      "summary": "Microsoft's latest Windows 11 test will allow you to reposition the taskbar and change the size of the Start menu. The update, which is rolling out to Windows 11 Insiders in the Experimental channel, lets you place the taskbar on the bottom, top, left, or right side of the screen. Microsoft first teased its movable [&#8230;]",
-      "published": "2026-05-15 21:14",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "ArXiv will ban researchers who upload papers full of AI slop",
-      "url": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
-      "summary": "ArXiv, a popular platform for preprint academic research, is taking a new step to attempt to reduce the volume of papers that include AI slop. If a paper has \"incontrovertible evidence that the authors did not check the results of LLM generation,\" such as hallucinated references or \"meta-comments\" left by an LLM, authors will be [&#8230;]",
-      "published": "2026-05-15 20:38",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
       "title": "RJ Scaringe has raised more than $12B across three startups and investors still want more",
       "url": "https://techcrunch.com/2026/05/15/rj-scaringe-has-raised-more-than-12-billion-across-three-startups-and-investors-still-want-more/",
       "summary": "Investors can't seem to get enough of RJ Scaringe or his ideas. Storytelling and communication are one of his superpowers, according to Jiten Behl, who joined Rivian when the company had just a handful of employees.",
       "published": "2026-05-15 20:30",
       "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "I believe there are entire companies right now under AI psychosis",
-      "url": "https://twitter.com/mitchellh/status/2055380239711457578",
-      "summary": "",
-      "published": "2026-05-15 20:26",
-      "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
@@ -147,33 +354,6 @@
       "category": "科技"
     },
     {
-      "title": "The Analogue 3D is finally getting save states",
-      "url": "https://www.theverge.com/tech/931615/analogue-3d-nintendo-64-console-memories-save-state",
-      "summary": "Analogue has released a new firmware update for its Analogue 3D console that adds the Memories save state feature. Memories, which was first introduced with its handheld Analogue Pocket, allows you to save at any moment and resume from that exact spot later on, rather than having to reach a specific point in a game [&#8230;]",
-      "published": "2026-05-15 18:43",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "The Zulip Foundation",
-      "url": "https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/",
-      "summary": "",
-      "published": "2026-05-15 18:37",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "OpenAI keeps shuffling its executives in bid to win AI agent battle",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle",
-      "summary": "OpenAI announced yet another reorganization Friday, consolidating certain areas and making company president Greg Brockman the official lead of all things product. In a memo viewed by The Verge, Brockman wrote that since OpenAI's product strategy for this year is to go all-in on AI agents, the company is combining its products to \"invest in [&#8230;]",
-      "published": "2026-05-15 18:21",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
       "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
       "url": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
       "summary": "Lake Tahoe, Silicon Valley's favorite vacation spot, is about to get hit with higher energy prices as AI drives demand for electricity.",
@@ -183,190 +363,10 @@
       "category": "科技"
     },
     {
-      "title": "One of Intel’s fastest desktop CPUs is $50 off",
-      "url": "https://www.theverge.com/gadgets/931495/intel-ultra-7-270k-plus-cpu-deal-sale",
-      "summary": "The Intel Core Ultra 7 270K Plus was billed by the company in late March as one of its “fastest gaming desktop processor ever.” That hype was evidently accurate, as benchmarks done by Gamers Nexus show the processor giving AMD’s pricier X3D cache-equipped Ryzen 9000-series CPUs a run for their money. The Ultra 7 270K [&#8230;]",
-      "published": "2026-05-15 17:46",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
       "title": "Tesla reveals two Robotaxi crashes involving teleoperators",
       "url": "https://techcrunch.com/2026/05/15/tesla-reveals-two-robotaxi-crashes-involving-teleoperators/",
       "summary": "Newly unredacted crash reports reveal some of the troubles Tesla has had as it tries to scale its robotaxis.",
       "published": "2026-05-15 17:13",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "AI radio hosts demonstrate why AI can’t be trusted alone",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies",
-      "summary": "Andon Labs has been running a series of experiments in which AI agents run businesses without human intervention. Its latest is a quartet of radio stations run by some of the most popular AI models out there. \"Thinking Frequencies\" is run by Claude, \"OpenAIR\" by ChatGPT, \"Backlink Broadcast\" by Google's Gemini, and \"Grok and Roll [&#8230;]",
-      "published": "2026-05-15 17:09",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Does Trump Mobile know how many stripes are on the American flag?",
-      "url": "https://www.theverge.com/gadgets/931347/trump-mobile-t1-phone-logo-flag-stars-stripes",
-      "summary": "Where's the Trump phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump phone's whereabouts. This week, despite our best hopes, we still don't have our phone - but we do have some fresh doubts about the company's patriotic credentials. This has been a momentous [&#8230;]",
-      "published": "2026-05-15 16:47",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Google updates its spam rules to include attempts to ‘manipulate’ AI",
-      "url": "https://www.theverge.com/tech/931416/google-ai-search-spam-policy",
-      "summary": "Google updated its spam policy to mark attempts to \"manipulate\" its AI model in search results as spam, including results in AI Overview or AI Mode in Search, as Search Engine Land reports: \"In the context of Google Search, spam refers to techniques used to deceive users or manipulate our Search systems into featuring content [&#8230;]",
-      "published": "2026-05-15 16:42",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Project Gutenberg – keeps getting better",
-      "url": "https://www.gutenberg.org/",
-      "summary": "",
-      "published": "2026-05-15 16:15",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
-      "url": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
-      "summary": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments.",
-      "published": "2026-05-15 16:00",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Power prices are up 76% on America’s biggest grid, and a watchdog is pointing fingers",
-      "url": "https://techcrunch.com/2026/05/15/power-prices-are-up-76-on-americas-biggest-grid-and-a-watchdog-is-pointing-fingers/",
-      "summary": "The price spike is a reminder of a deeper problem: The U.S. power grid was not designed for the electricity demands of an AI-driven economy, and the gap between what the grid can deliver and what the industry needs is widening.",
-      "published": "2026-05-15 15:45",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "US orders travelers on Air Force One to throw away gifts, pins, and burner phones after China trip",
-      "url": "https://techcrunch.com/2026/05/15/us-orders-travelers-on-air-force-one-to-throw-away-gifts-pins-and-burner-phones-after-china-trip/",
-      "summary": "While the summit appeared cordial, China remains a key adversary of the United States, given its advanced intelligence and espionage capabilities.",
-      "published": "2026-05-15 15:42",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Additive Blending on the Nintendo 64",
-      "url": "https://phoboslab.org/log/2026/05/n64-additive-blending",
-      "summary": "",
-      "published": "2026-05-15 14:39",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Runway started by helping filmmakers — now it wants to beat Google at AI",
-      "url": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
-      "summary": "AI video-generation startup Runway is betting that video generation is the path to world models. And that being an AI outsider is an advantage, not a liability.",
-      "published": "2026-05-15 14:00",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Even GoPro is pivoting to defense",
-      "url": "https://techcrunch.com/2026/05/15/even-gopro-is-pivoting-to-defense/",
-      "summary": "The action camera maker, like so many other companies these days, is looking to defense applications as it evaluates a possible sale.",
-      "published": "2026-05-15 13:14",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Meridian Ventures launched a $35M fund with a focus on MBA-deferred founders",
-      "url": "https://techcrunch.com/2026/05/15/meridian-ventures-launched-35m-fund-to-back-mba-deferred-founders/",
-      "summary": "This new fund will back founders building enterprise technology in the United States. Meridian is agnostic, co-founder Devon Gethers said, noting that the firm has already invested in companies in fintech, logistics, healthcare, and of course, AI.",
-      "published": "2026-05-15 13:00",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "热门中概股美股盘前集体走弱，阿里巴巴跌超3%",
-      "url": "https://36kr.com/newsflashes/3810557255425542?f=rss",
-      "summary": "36氪获悉，热门中概股美股盘前集体走弱，截至发稿，阿里巴巴、百度、哔哩哔哩跌超3%，理想汽车、小鹏集团、网易跌超2%，京东、蔚来跌超1%，拼多多跌0.65%。",
-      "published": "2026-05-15 12:59",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "美股大型科技股盘前普跌，英特尔跌超5%",
-      "url": "https://36kr.com/newsflashes/3810550979436293?f=rss",
-      "summary": "36氪获悉，美股大型科技股盘前普跌，截至发稿，英特尔跌超5%，英伟达跌超3%，特斯拉跌超2%，苹果、亚马逊、谷歌、Meta跌超1%，微软涨0.38%。",
-      "published": "2026-05-15 12:52",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "先锋新材：公司及相关当事人收到《行政处罚事先告知书》",
-      "url": "https://36kr.com/newsflashes/3810532133740293?f=rss",
-      "summary": "36氪获悉，先锋新材公告，2026年5月15日，公司及相关当事人收到中国证监会宁波监管局下发的《行政处罚事先告知书》（甬证监告字[2026]5号）。卢先锋收到中国证监会宁波监管局下发的《行政处罚事先告知书》（甬证监告字[2026]4号）。宁波先锋新材料股份有限公司、卢先锋涉嫌信息披露违法违规一案，已由中国证监会宁波监管局调查完毕，中国证监会宁波监管局依法拟作出行政处罚。",
-      "published": "2026-05-15 12:45",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "巨力索具：因涉嫌信息披露误导性陈述违法违规被证监会立案",
-      "url": "https://36kr.com/newsflashes/3810538747649798?f=rss",
-      "summary": "36氪获悉，巨力索具公告，公司收到中国证监会下发的《立案告知书》，因涉嫌信息披露误导性陈述违法违规，中国证监会决定对公司立案。目前公司经营状况正常，将积极配合调查并履行信息披露义务。",
-      "published": "2026-05-15 12:40",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "招商轮船：子公司拟追加8.03亿元增持安通控股股份",
-      "url": "https://36kr.com/newsflashes/3810529206328838?f=rss",
-      "summary": "36氪获悉，招商轮船公告，公司全资子公司中外运集运拟追加8.03亿元投资额度，继续择机增持安通控股股份，并授权董事长及其书面授权人开展增持工作。中外运集运拟自2026年5月18日起12个月内，通过大宗交易、协议转让、集中竞价等方式增持安通控股股份，拟增持金额为4.075亿元至8.15亿元。本次交易构成关联方共同投资，已获股东会审议通过。",
-      "published": "2026-05-15 12:39",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "麦肯锡推行人工智能时代薪酬改革，削减合伙人现金分红比例",
-      "url": "https://36kr.com/newsflashes/3810508672458248?f=rss",
-      "summary": "为简化薪酬体系、扩充资本金规模，并抵御咨询行业市场波动风险，麦肯锡计划下调合伙人可直接现金支取的利润分成比例。据知情人士透露，这家顶尖咨询机构已告知全体合伙人，未来薪酬中将有更大比例以股权形式发放，以此增厚公司资金储备，部分合伙人收入因此变动金额可达数万美元。（新浪财经）",
-      "published": "2026-05-15 12:31",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "长春高新：子公司GenSci161注射液获美国FDA批准开展临床试验",
-      "url": "https://36kr.com/newsflashes/3810507192639235?f=rss",
-      "summary": "36氪获悉，长春高新公告，公司子公司金赛药业收到美国FDA批准文件，同意GenSci161注射液在美国开展临床试验，用于治疗化脓性汗腺炎。该药品为全人源化双特异性抗体，可同时靶向IL-1α和IL-1β，有望改善中重度患者治疗效果。此前，该药在国内已获批用于子宫内膜异位症等适应症的临床试验。",
-      "published": "2026-05-15 12:25",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "Osaurus brings both local and cloud AI models to your Mac",
-      "url": "https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/",
-      "summary": "Osaurus￼ combines local and cloud AI models in a Mac app that keeps users’ memory, files, and tools on their own hardware.",
-      "published": "2026-05-15 12:19",
       "source": "techcrunch.com",
       "lang": "en",
       "category": "科技"
@@ -426,10 +426,10 @@
       "category": "科技"
     },
     {
-      "title": "Naturally Occurring Quasicrystals",
-      "url": "https://johncarlosbaez.wordpress.com/2026/05/14/naturally-occurring-quasicrystals/",
+      "title": "The Third Hard Problem",
+      "url": "https://mmapped.blog/posts/48-the-third-hard-problem",
       "summary": "",
-      "published": "2026-05-14 14:32",
+      "published": "2026-05-14 13:00",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
@@ -462,12 +462,12 @@
       "category": "科技"
     },
     {
-      "title": "AI 潮来，翻译何为",
-      "url": "https://sspai.com/post/108816",
-      "summary": "AI醒来了，那就let it be——「让它是」，是其所应是的，我们就「顺其自然」。<a href=\"https://sspai.com/post/108816\" target=\"_blank\">查看全文</a>",
-      "published": "2026-05-14 03:34",
-      "source": "sspai.com",
-      "lang": "zh_cn",
+      "title": "A molecule with half-Möbius topology",
+      "url": "https://www.science.org/doi/10.1126/science.aea3321",
+      "summary": "",
+      "published": "2026-05-12 15:28",
+      "source": "Hacker News",
+      "lang": "en",
       "category": "科技"
     }
   ]
