@@ -1,122 +1,401 @@
 {
-  "last_updated": "2026-05-26 01:57:57",
+  "last_updated": "2026-05-27 02:05:59",
   "total": 52,
   "articles": [
     {
-      "title": "深成指跌超1%",
-      "url": "https://36kr.com/newsflashes/3825470931276679?f=rss",
-      "summary": "36氪获悉，深成指跌超1%。",
-      "published": "2026-05-26 01:50",
+      "title": "沪深两市成交额突破1万亿元",
+      "url": "https://36kr.com/newsflashes/3826895833027460?f=rss",
+      "summary": "36氪获悉，沪深两市成交额突破1万亿元。",
+      "published": "2026-05-27 01:59",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "现货白银下跌3%",
-      "url": "https://36kr.com/newsflashes/3825465508008585?f=rss",
-      "summary": "36氪获悉，现货白银下跌3%，至每盎司75.69美元。",
-      "published": "2026-05-26 01:44",
+      "title": "英国石油公司BP董事长因公司治理问题突遭解雇",
+      "url": "https://36kr.com/newsflashes/3826891889562242?f=rss",
+      "summary": "BP公司刚刚上任几个月的董事长Albert Manifold突遭解雇，该公司给出的原因是对“治理标准、监督和行为”存在严重担忧，这导致该英国石油公司的波折局面持续。（新浪财经）",
+      "published": "2026-05-27 01:55",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "今年我国养老机器人市场规模将破百亿元",
-      "url": "https://36kr.com/newsflashes/3825463530574466?f=rss",
-      "summary": "今天（26日），中国软件评测中心发布了《智能养老服务机器人产业演进与未来趋势研究》报告。报告显示，我国养老服务机器人产业已初步形成体系，正在从“技术验证”阶段向“规模化应用”过渡的关键期，但技术与复杂养老场景的适配性仍是当前面临的核心挑战。据预测，今年我国养老服务机器人市场规模将突破100亿元。（央视新闻）",
-      "published": "2026-05-26 01:42",
+      "title": "恒生科技指数升破5000点关口",
+      "url": "https://36kr.com/newsflashes/3826882048709510?f=rss",
+      "summary": "36氪获悉，恒生科技指数延续上涨，升破5000点关口，涨幅扩大至1.22%。",
+      "published": "2026-05-27 01:45",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "科创板IPO“折戟”4个月后，亚电科技再谋上市",
-      "url": "https://36kr.com/newsflashes/3825462902756226?f=rss",
-      "summary": "5月26日消息，据证监会网站披露，江苏亚电科技股份有限公司（以下简称“亚电科技”）于2026年5月25日在江苏证监局办理辅导备案登记，拟首次公开发行股票并上市，辅导券商为中信建投证券。回溯来看，这已非亚电科技首次冲刺资本市场。2025年6月，亚电科技科创板IPO获受理；2025年7月，公司接受问询；2026年1月，因主动申请撤回上市申请文件，上交所决定终止其IPO审核。（界面）",
-      "published": "2026-05-26 01:42",
+      "title": "阿维塔：已筹备重新递交招股书，IPO进程不受影响",
+      "url": "https://36kr.com/newsflashes/3826879145841283?f=rss",
+      "summary": "针对公司于2025年11月27日递交的港股招股书因满6个月进入失效状态，阿维塔科技相关人士今日透露，此次失效为IPO过程中常见技术性流程，公司正根据要求更新招股书，将尽快重新递交，整体上市推进节奏不受影响。（财联社）",
+      "published": "2026-05-27 01:42",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "腾讯应用宝Mac版正式开启公测",
-      "url": "https://36kr.com/newsflashes/3825456004305800?f=rss",
-      "summary": "36氪获悉，5月26日，腾讯应用宝Mac版正式开启公测。本次公测版本支持安卓应用与手游在Mac上运行；支持EXE文件上传与运行。应用宝Mac版支持4K高清分辨率，并采用HiDPI+视网膜屏幕技术，实现最高120帧的刷新率，键鼠点击毫秒级响应。",
-      "published": "2026-05-26 01:35",
+      "title": "国家统计局：1-4月份规模以上原材料制造业利润同比增长88.1%",
+      "url": "https://36kr.com/newsflashes/3826873622090625?f=rss",
+      "summary": "36氪获悉，国家统计局数据显示，1-4月份，规模以上原材料制造业利润同比增长88.1%，较1-3月份加快10.2个百分点，拉动全部规模以上工业企业利润增长10.3个百分点。从行业看，国际原油价格上行带动相关产业链条产品价格上涨，石油加工行业同比扭亏为盈，实现利润总额404.2亿元，化工行业利润增长73.4%，较1—3月份加快18.9个百分点；新能源、人工智能、新一代信息技术等新兴产业快速发展，带动铝、铜、金、锂等有色金属需求大幅增长，推动有色行业利润增长117.8%，加快1.1个百分点。",
+      "published": "2026-05-27 01:37",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "中指研究院：核心城市5月二手房成交继续放量",
-      "url": "https://36kr.com/newsflashes/3825452263068292?f=rss",
-      "summary": "中指研究院统计，进入5月后，重点城市二手房成交仍保持较高活跃度，1日-24日20城二手住宅成交10.7万套，同比增长19.5%，增幅较4月继续扩大。价格方面，去年四季度核心城市经历加速下行，而今年3-4月上海已实现环比连涨，北京、深圳等城市跌幅也较去年四季度显著收窄。成交放量与挂牌趋稳、价格企稳同步出现，是本轮修复与去年“以价换量”模式的重要区别。（证券时报）",
-      "published": "2026-05-26 01:31",
+      "title": "国家统计局：1-4月份规模以上工业企业利润较快增长",
+      "url": "https://36kr.com/newsflashes/3826872576070280?f=rss",
+      "summary": "36氪获悉，国家统计局工业司首席统计师于卫宁解读2026年1—4月份工业企业利润数据。1-4月份，在以习近平同志为核心的党中央坚强领导下，各地区各部门认真贯彻落实党中央、国务院决策部署，有效实施更加积极有为的宏观政策，工业生产较快增长，工业品价格回升，带动工业企业利润增长加快，装备制造业和高技术制造业等新动能行业引领作用明显，工业企业效益持续改善。",
+      "published": "2026-05-27 01:36",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "央行今日开展2490亿元7天期逆回购操作",
-      "url": "https://36kr.com/newsflashes/3825451955278466?f=rss",
-      "summary": "36氪获悉，2026年5月26日中国人民银行以固定利率、数量招标方式开展了2490亿元7天期逆回购操作，全额满足了一级交易商需求。操作利率1.40%。",
-      "published": "2026-05-26 01:30",
+      "title": "创业板指涨逾1%",
+      "url": "https://36kr.com/newsflashes/3826872098067330?f=rss",
+      "summary": "36氪获悉，指数分化，创业板指拉升涨逾1.00%，沪指跌0.08%，深成指涨0.26%。光伏、电力、芯片等方向涨幅居前，沪深京三市上涨个股近2600只。",
+      "published": "2026-05-27 01:35",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "A股三大指数集体低开，先进封装概念走强",
-      "url": "https://36kr.com/newsflashes/3825448652395143?f=rss",
-      "summary": "36氪获悉，A股三大指数集体低开，沪指低开0.37%，深成指低开0.44%，创业板指低开0.45%；光伏玻璃、超硬材料、服务器概念跌幅居前，拓日新能、四方达跌超2%，寒武纪、紫光股份跌超1%；先进封装、宇树机器人、GPU概念领涨，华天科技涨停，中大力德涨超5%，通富微电涨超4%。",
-      "published": "2026-05-26 01:27",
+      "title": "N长进涨超1500%，单签盈利达30万",
+      "url": "https://36kr.com/newsflashes/3826870274757248?f=rss",
+      "summary": "36氪获悉，N长进光子大涨1500%，股价突破680元，一签盈利近30万。",
+      "published": "2026-05-27 01:33",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "恒指开盘涨0.06%，恒生科技指数涨1.9%",
-      "url": "https://36kr.com/newsflashes/3825443323466376?f=rss",
-      "summary": "36氪获悉，恒指开盘涨0.06%，恒生科技指数涨1.9%；半导体、机械板块领涨，华虹半导体涨超14%，潍柴动力涨超4%；石油石化、零售板块跌幅居前，山东墨龙跌超6%，京东健康跌超1%。",
-      "published": "2026-05-26 01:22",
+      "title": "国家统计局：1-4月份全国规模以上工业企业利润同比增长18.2%",
+      "url": "https://36kr.com/newsflashes/3826868988826496?f=rss",
+      "summary": "36氪获悉，国家统计局数据显示，1—4月份，全国规模以上工业企业利润同比增长18.2%，较1—3月份加快2.7个百分点。从三大门类看，1—4月份，采矿业、制造业分别增长26.0%、20.4%，较1—3月份分别加快9.8个、1.3个百分点；电力、热力、燃气及水生产和供应业下降1.9%，降幅较1—3月份收窄1.3个百分点。4月份，全国规模以上工业企业利润增长24.7%。",
+      "published": "2026-05-27 01:32",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "工信部：前4个月电信业务收入累计完成5941亿元，同比下降1.7%",
-      "url": "https://36kr.com/newsflashes/3825439208526728?f=rss",
-      "summary": "36氪获悉，工信部发布2026年前4个月通信业经济运行情况，前4个月，电信业务收入累计完成5941亿元，同比下降1.7%。按照上年不变价计算的电信业务总量同比增长8%。",
-      "published": "2026-05-26 01:17",
+      "title": "三星电子工会称成员批准初步薪资协议",
+      "url": "https://36kr.com/newsflashes/3826864944485253?f=rss",
+      "summary": "据报道，三星电子工会5月27日表示，工会成员已批准上周劳资双方达成的初步薪资协议，投票支持率为73.7%。（界面）",
+      "published": "2026-05-27 01:28",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "巴西央行连续十一周上调今年通胀预期",
-      "url": "https://36kr.com/newsflashes/3825435261981321?f=rss",
-      "summary": "当地时间25日，巴西中央银行发布报告，将巴西2026年通胀预期由4.92%上调至5.04%。由于中东局势导致燃油价格上涨，巴西央行已连续十一周上调通胀预期。此前，巴西国家货币委员会将巴西2024年至2026年的通胀管理目标设定为3%，允许上下浮动1.5个百分点。（央视新闻）",
-      "published": "2026-05-26 01:13",
+      "title": "A股三大指数开盘涨跌不一，贵金属板块领跌",
+      "url": "https://36kr.com/newsflashes/3826863197508225?f=rss",
+      "summary": "36氪获悉，A股三大指数开盘涨跌不一，沪指低开0.16%，深成指低开0.05%，创业板指高开0.26%；通信设备、贵金属、电力板块领跌，大连热电、晓程科技跌超3%，太辰光跌超2%；电脑硬件、半导体、文化传媒板块走强，江波龙、扬杰科技涨超4%，引力传媒涨超2%。",
+      "published": "2026-05-27 01:26",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "芭田股份：近期磷矿及肥料产品随行就市小幅调高价格",
-      "url": "https://36kr.com/newsflashes/3825433594499968?f=rss",
-      "summary": "36氪获悉，芭田股份在互动平台表示，近期磷矿及肥料产品随行就市小幅调高价格，整体波动幅度不大。",
-      "published": "2026-05-26 01:12",
+      "title": "央行今天将在香港发行两期300亿元央票",
+      "url": "https://36kr.com/newsflashes/3826859899802501?f=rss",
+      "summary": "36氪获悉，为丰富香港高信用等级人民币金融产品，完善香港人民币收益率曲线，今天（27日）中国人民银行将通过香港金融管理局债务工具中央结算系统（CMU）债券投标平台，招标发行2026年第四期和第五期中央银行票据。发行量均为人民币150亿元。",
+      "published": "2026-05-27 01:23",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "Using AI to write better code more slowly",
-      "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+      "title": "Stripe is friendly to \"friendly fraud\"",
+      "url": "https://www.gingerlime.com/2026/stripe-seem-friendly-to-friendly-fraud/",
       "summary": "",
-      "published": "2026-05-25 23:16",
+      "published": "2026-05-27 00:40",
       "source": "Hacker News",
       "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Did the Pope use AI to write about the dangers of AI?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
+      "summary": "It's possible that AI was used to write parts of Pope Leo XIV's latest encyclical about AI's impact on humanity. An analysis by Linch Zhang posted on the forum LessWrong found certain paragraphs of Magnifica Humanitas to be between 40 percent and 100 percent written by AI, according to the popular AI detector Pangram. The [&#8230;]",
+      "published": "2026-05-27 00:38",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Erin Brockovich made a map to track data centers around the country",
+      "url": "https://www.niemanlab.org/2026/05/erin-brockovich-made-a-map-to-track-data-centers-around-the-country/",
+      "summary": "",
+      "published": "2026-05-27 00:36",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "AI Tools Are Only as Good as Your Judgment – and That's the Point",
+      "url": "https://theaileverageweekly.com/posts/your-ai-tools-are-only-as-good-as-your-judgment-and-that-s-the-point.html",
+      "summary": "",
+      "published": "2026-05-27 00:00",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "派早报：法拉利发布首款纯电跑车 Luce、森海塞尔发布 Momentum 5 耳机等",
+      "url": "https://sspai.com/post/110297",
+      "summary": "Spotify 音频杂志文章功能开启测试，摩托罗拉海外版系统被存在重定向劫持行为等。<a href=\"https://sspai.com/post/110297\" target=\"_blank\">查看全文</a>",
+      "published": "2026-05-26 23:51",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "UK Visa Portal spilled thousands of applicants’ passports and selfies online — and hasn’t fixed the leak",
+      "url": "https://techcrunch.com/2026/05/26/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/",
+      "summary": "The third-party website exposed applicants' sensitive documents as part of the U.K. visa application process. Instead of fixing the issue, the company sent attorneys.",
+      "published": "2026-05-26 23:49",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Cloudflare Flagship",
+      "url": "https://developers.cloudflare.com/flagship/",
+      "summary": "",
+      "published": "2026-05-26 23:36",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "What we’re looking for in Startup Battlefield 2026, and how to apply in time for the May 27 deadline",
+      "url": "https://techcrunch.com/2026/05/26/what-were-looking-for-in-startup-battlefield-2026-and-how-to-apply-in-time-for-the-may-27-deadline/",
+      "summary": "Startup Battlefield applications are due tomorrow, so now's the time to put the finishing touches on your submission!",
+      "published": "2026-05-26 22:55",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Trump administration permits Volvo to keep selling connected cars in the US",
+      "url": "https://techcrunch.com/2026/05/26/trump-administration-permits-volvo-to-keep-selling-connected-cars-in-the-us/",
+      "summary": "Volvo, which is majority owned by China's Geely Holdings, said it can now move forward with its expansion plans for its U.S. factory.",
+      "published": "2026-05-26 22:55",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Trump administration wants nuclear startups to use plutonium for their reactors",
+      "url": "https://techcrunch.com/2026/05/26/trump-administration-wants-nuclear-startups-to-use-plutonium-for-their-reactors/",
+      "summary": "The U.S. government is sitting on dozens of tons of weapons-grade plutonium. It's hoping startups can find a use for it.",
+      "published": "2026-05-26 22:37",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
+      "url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
+      "summary": "Google overhauled Search at I/O 2026, replacing blue links with AI agents. The backlash has been swift. DuckDuckGo app installs spiked 30% as users seek a way out.",
+      "published": "2026-05-26 22:32",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "NASA&#8217;s permanent Moon base plans start with three missions this year",
+      "url": "https://www.theverge.com/science/937775/nasa-moon-base-moonfall-updates",
+      "summary": "On Tuesday, NASA announced several upcoming lunar missions to the Moon's South Pole region. These missions will pave the way for the crewed Artemis landing slated for 2028, starting with three Moon Base missions NASA says are \"the first of more than a dozen missions that will be announced this year.\" In addition to the [&#8230;]",
+      "published": "2026-05-26 22:24",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Starship’s path to reusability looks murky after SpaceX’s S-1",
+      "url": "https://techcrunch.com/2026/05/26/starships-path-to-reusability-looks-murky-after-spacexs-s-1/",
+      "summary": "SpaceX's recent IPO and Starship rocket test flight delivered two big data points that offer a realistic vision for the coming years — and one that may disappoint both the company's boosters and its critics.",
+      "published": "2026-05-26 21:03",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Chemistry behind the Garden Grove chemical tank",
+      "url": "https://www.science.org/content/blog-post/methyl-methacrylate-tank",
+      "summary": "",
+      "published": "2026-05-26 19:25",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Google Health is here, but a lot of people want their Fitbit app back instead",
+      "url": "https://www.theverge.com/gadgets/937534/google-health-fitbit-app-ai",
+      "summary": "The Fitbit app is no more. Along with the launch of the new Fitbit Air (which you can expect a full review of once we've spent more time with it), Google has officially replaced it with Google Health, as previously announced, and many of the responses we've seen so far are full of confusion, frustration, [&#8230;]",
+      "published": "2026-05-26 19:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "GE’s nugget ice maker is nearly half off if you buy it refurbished",
+      "url": "https://www.theverge.com/gadgets/937560/ge-profile-opal-ultra-nugget-ice-maker-deal-sale",
+      "summary": "If you’re looking for ways to make staying cool and hydrated easier this summer, Woot is currently selling a refurbished GE Profile Opal 2.0 Ultra Nugget Ice Maker for $264.99 through June 3rd. That’s $184 less than buying new at its full price, and comes with a 90-day warranty. If you want a brand new [&#8230;]",
+      "published": "2026-05-26 18:50",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "SpaceX’s Starlink nabs American Airlines contract, another win for its IPO",
+      "url": "https://techcrunch.com/2026/05/26/spacexs-starlink-nabs-american-airlines-contract-another-win-for-its-ipo/",
+      "summary": "American Airlines said Tuesday it plans to install Starlink on more than 500 Airbus aircraft, the latest carrier win for IPO-bound SpaceX.",
+      "published": "2026-05-26 18:48",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "OpenRouter more than doubles valuation to $1.3B in a year",
+      "url": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
+      "summary": "OpenRouter has raised a $113 million Series B led by CapitalG. Its 5x growth in usage over six months indicates the multi-AI-model future is here.",
+      "published": "2026-05-26 18:33",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Sony’s sloppy Spider-Man universe gets even messier with Spider-Noir",
+      "url": "https://www.theverge.com/entertainment/936358/amazon-spider-noir-review",
+      "summary": "After years of it seeming like the Spider-Man film rights might be better off in Marvel's hands alone, Into the Spider-Verse came along and proved that Sony was still capable of telling phenomenal stories featuring everyone's favorite webhead. Into the Spider-Verse's sumptuous visuals and focus on a different web-slinging New Yorker made it unlike any [&#8230;]",
+      "published": "2026-05-26 16:30",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The best Memorial Day sales you can still shop",
+      "url": "https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026",
+      "summary": "The long weekend is over, but many of the best Memorial Day deals are still available. Many of our favorite portable speakers are discounted, as are other outdoorsy products we like, including a set of solar lights. You can also find deals on everything from 4K OLED TVs and noise-canceling earbuds to laptops, and plenty [&#8230;]",
+      "published": "2026-05-26 16:10",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "American Airlines is getting Starlink Wi-Fi",
+      "url": "https://www.theverge.com/transportation/937439/american-airlines-starlink-wifi-speed",
+      "summary": "American Airlines is planning to install SpaceX's Starlink Wi-Fi in hundreds of its airplanes, the airline announced today. American says the deployment will start in the first quarter of 2027, and will span more than 500 aircraft, including its new A321XLR and A321neo planes from Airbus. Starlink will join Viastat and SES (previously known as [&#8230;]",
+      "published": "2026-05-26 16:07",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "This startup is betting India’s gig economy can train the world’s robots",
+      "url": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
+      "summary": "Human Archive, a startup founded by UC Berkeley and Stanford researchers, is paying gig workers in India to wear camera-equipped caps and sensor devices to collect the real-world physical training data that AI and robotics labs are racing to acquire.",
+      "published": "2026-05-26 16:00",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Memory V re-creates the Memorymoog without the massive headaches or price tag",
+      "url": "https://www.theverge.com/entertainment/937054/arturia-memory-v-memorymoog-synthesizer",
+      "summary": "The Memorymoog is legendary for being an absolutely massive-sounding synth and being incredibly unreliable. But now you can enjoy its classic Moog sound without the headaches or the sky-high vintage price, thanks to Arturia's Memory V emulator. The Memorymoog was only made between 1982 and 1985, and was the last polyphonic synth made by Moog [&#8230;]",
+      "published": "2026-05-26 16:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Dutch government blocks US company from acquisition, citing ‘risk to public interest’",
+      "url": "https://techcrunch.com/2026/05/26/dutch-government-blocks-us-company-from-acquisition-citing-risk-to-public-interest/",
+      "summary": "The move to block the acquisition of the cloud company that hosts the Dutch digital ID service comes as Europe continues to reduce its reliance on U.S. technology.",
+      "published": "2026-05-26 15:44",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Saving for a Switch 2 is easier with Newegg’s gift card deal",
+      "url": "https://www.theverge.com/gadgets/937183/nintendo-gift-card-switch-2-apple-studio-display-deal-sale",
+      "summary": "If you foresee a bunch of Nintendo purchases in your future, Newegg’s deal on Nintendo gift cards might just help save your wallet. The retailer is offering a deal that lets gamers get $200 worth of credit towards games, consoles, and accessories for just $170. Best of all, the gift cards can stack in your [&#8230;]",
+      "published": "2026-05-26 15:33",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Ghost hackers: the cybersecurity mystery that nobody has solved",
+      "url": "https://techcrunch.com/2026/05/26/ghost-hackers-the-cybersecurity-mystery-that-nobody-has-solved/",
+      "summary": "A shadowy group that stole and dumped the NSA’s most powerful hacking tools still has implications for how companies think about digital risk today.",
+      "published": "2026-05-26 15:27",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Iranian hackers blamed for breach of Los Angeles transit system that took weeks to recover",
+      "url": "https://techcrunch.com/2026/05/26/iranian-hackers-blamed-for-breach-of-los-angeles-transit-system-that-took-weeks-to-recover/",
+      "summary": "An Israeli cybersecurity firm said Iran’s government is behind Ababil of Minab, a fake hacktivist persona that has claimed a series of data breaches after the start of the war in Iran.",
+      "published": "2026-05-26 15:26",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Oppo’s Bubble is a thin round screen for taking rear camera selfies",
+      "url": "https://www.theverge.com/tech/937067/oppo-bubble-wireless-screen-remote-selfie-magnetic",
+      "summary": "Oppo launched a new smartphone accessory that makes it easier to snap selfies using your smartphone's rear cameras that typically feature better sensors than front-facing cameras. The Bubble offers similar functionality to the recently announced Insta360 Snap with a screen providing live camera previews so you can properly frame shots, plus remote camera controls and [&#8230;]",
+      "published": "2026-05-26 15:07",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "社区速递 142 | 派友的四月「情绪账单」、换壳重生的鼠标与仿真柠檬树",
+      "url": "https://sspai.com/post/110184",
+      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/110184\" target=\"_blank\">查看全文</a>",
+      "published": "2026-05-26 09:00",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "Hyrox 首战攻略：从新手到完赛，普通人亦可澎湃赛场",
+      "url": "https://sspai.com/post/110152",
+      "summary": "献给和我们当初一样跃跃欲试的朋友们。<a href=\"https://sspai.com/post/110152\" target=\"_blank\">查看全文</a>",
+      "published": "2026-05-26 07:00",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "A portentous reunion",
+      "url": "https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/",
+      "summary": "",
+      "published": "2026-05-26 05:57",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "App+1 | 有太多香水不知道用哪个？我做了一款能帮你选香水的记录 App",
+      "url": "https://sspai.com/post/109227",
+      "summary": "Kaori 不仅是为了香水爱好者而设计，如果你有日常喷香水的习惯，不妨通过 Kaori 来记录你的日常和一闪而过与香水有关的想法。<a href=\"https://sspai.com/post/109227\" target=\"_blank\">查看全文</a>",
+      "published": "2026-05-26 02:59",
+      "source": "sspai.com",
+      "lang": "zh_cn",
       "category": "科技"
     },
     {
@@ -129,155 +408,11 @@
       "category": "科技"
     },
     {
-      "title": "How Shamir's Secret Sharing Works",
-      "url": "https://ente.com/blog/how-shamirs-secret-sharing-works/",
+      "title": "A few interesting modern pixel fonts",
+      "url": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
       "summary": "",
-      "published": "2026-05-25 22:37",
+      "published": "2026-05-25 20:41",
       "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Taking a walk may lead to more creativity than sitting, study finds (2014)",
-      "url": "https://www.apa.org/news/press/releases/2014/04/creativity-walk",
-      "summary": "",
-      "published": "2026-05-25 22:30",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Sennheiser’s new Momentum 5 headphones have upgraded ANC and a replaceable battery",
-      "url": "https://www.theverge.com/tech/936127/sennheiser-momentum-5-wireless-headphones-anc-lossless-bluetooth",
-      "summary": "Nearly four years after the last version of Sennheiser's Momentum headphones debuted with a redesign that traded a retro aesthetic for a more contemporary and comfortable design, the company has announced its Momentum 5 Wireless headphones. They look very similar to their predecessors, the Momentum 4, with large ear cups and a design that doesn't [&#8230;]",
-      "published": "2026-05-25 22:00",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Ferrari reveals its first EV, with design help from Jony Ive",
-      "url": "https://www.theverge.com/transportation/937066/ferrari-luce-ev-jony-ive-marc-newson-lovefrom",
-      "summary": "After months of teasers, Ferrari is offering the first full view of its Luce electric vehicle. The Luce is notable not just for being Ferrari's first EV, but for being designed in collaboration with Jony Ive and Mark Newson at their collective LoveFrom. It's also going to be Ferrari's second four-door car and its first [&#8230;]",
-      "published": "2026-05-25 21:33",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Ferrari Luce",
-      "url": "https://www.ferrari.com/en-EN/auto/ferrari-luce",
-      "summary": "",
-      "published": "2026-05-25 21:00",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Norway's 2 petabytes of Huawei flash storage and LLM training",
-      "url": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
-      "summary": "",
-      "published": "2026-05-25 19:37",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Cox Media fined after bragging it spied on users through their phones",
-      "url": "https://www.theverge.com/policy/937027/cox-media-marketing-ai-powered-phone-spying-ads-ftc-fine",
-      "summary": "An exceptionally weird controversy has come back to haunt Cox Media and a pair of marketing firms, which claimed they were secretly listening to users via phones and smart devices - despite little evidence they actually could. On Thursday the Federal Trade Commission announced that Cox, MindSift, and 1010 Digital Works would pay a total [&#8230;]",
-      "published": "2026-05-25 18:28",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "California moves to exempt Linux from its age-verification law after backlash",
-      "url": "https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law",
-      "summary": "",
-      "published": "2026-05-25 18:19",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Exit IP VPN servers mitigation rollout",
-      "url": "https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout",
-      "summary": "",
-      "published": "2026-05-25 17:45",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "What ClickUp’s mass layoff tells us about the future of work",
-      "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
-      "summary": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.",
-      "published": "2026-05-25 16:00",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "The best Memorial Day sales you can shop this weekend",
-      "url": "https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026",
-      "summary": "Memorial Day is here, meaning the seasonal sales are in full swing. If your plans over the long weekend involve pool parties or barbecues, now is a great time to pick up a portable speaker or set of solar lights, as many of our favorite models are currently on sale. You can also find deals [&#8230;]",
-      "published": "2026-05-25 15:33",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "The pope’s AI encyclical isn’t really about AI",
-      "url": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
-      "summary": "Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the world to its own advantage.",
-      "published": "2026-05-25 15:09",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Pope Leo calls for being ‘profoundly human’ in the age of AI",
-      "url": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare",
-      "summary": "Pope Leo XIV warned of the risks of AI and unconstrained technological power in his first major papal document released on Monday. Magnifica Humanitas is the pope's manifesto on \"safeguarding the human person in the time of artificial intelligence,\" in which he discusses the dangers of AI-powered warfare, the effects of AI on labor, and [&#8230;]",
-      "published": "2026-05-25 15:05",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "The pitch trick that helped an eSports startup raise $20M when VCs only wanted AI",
-      "url": "https://techcrunch.com/2026/05/25/the-pitch-trick-that-helped-an-esports-startup-raise-20m-when-vcs-only-wanted-ai/",
-      "summary": "Earlier this year, Lucra Sports founder and CEO Dylan Robbins did something that no one else has ever done. And he shared several secrets on how he did it.",
-      "published": "2026-05-25 15:00",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Startup Battlefield 200 applications close in days: Apply before May 27",
-      "url": "https://techcrunch.com/2026/05/25/startup-battlefield-200-applications-close-in-days-apply-before-may-27/",
-      "summary": "The deadline to apply or nominate for Startup Battlefield 200 is May 27. This is your shot at VC access, global visibility, TechCrunch coverage, and $100,000. Apply now.",
-      "published": "2026-05-25 14:30",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "5 days left: Save up to $410 on TechCrunch Disrupt 2026 passes before prices increase",
-      "url": "https://techcrunch.com/2026/05/25/5-days-left-save-up-to-410-on-techcrunch-disrupt-2026-passes-before-prices-increase/",
-      "summary": "Early Bird savings for TechCrunch Disrupt 2026 in San Francisco end May 29 at 11:59 p.m. PT. Register now to save up to $410 before prices increase.",
-      "published": "2026-05-25 14:00",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Here are our favorite last-minute deals from REI’s giant Anniversary Sale",
-      "url": "https://www.theverge.com/gadgets/931274/rei-anniversary-sale-2026",
-      "summary": "REI’s annual Anniversary Sale — the retailer’s biggest of the year — is still going strong, letting you save on all kinds of outdoor essentials. If you’ve got a camping trip coming up, now is a good time to stock up on the basics, whether it be a tent, sleeping pad, or stove. If your [&#8230;]",
-      "published": "2026-05-25 13:40",
-      "source": "www.theverge.com",
       "lang": "en",
       "category": "科技"
     },
@@ -327,147 +462,12 @@
       "category": "科技"
     },
     {
-      "title": "Everyone is navigating AI security in real time — even Google",
-      "url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
-      "summary": "We're in the transition period -- all of us.",
-      "published": "2026-05-24 21:39",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Xreal, Google’s smartglasses partner, thinks it has finally mastered this notoriously tricky industry",
-      "url": "https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/",
-      "summary": "Chi Xu, the founder and CEO of XREAL, thinks the smart glasses business has finally reached a turning point.",
-      "published": "2026-05-24 19:00",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "6 kitchen gadgets that make adulting feel easier",
-      "url": "https://techcrunch.com/2026/05/24/6-kitchen-gadgets-that-make-adulting-feel-easier/",
-      "summary": "From a robot stirring your soup to a bread machine that kneads your dough, here are 6 gadgets that may make you feel like you’ve won adulthood.",
-      "published": "2026-05-24 17:00",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "TechCrunch Mobility: Robotaxi reality check",
-      "url": "https://techcrunch.com/2026/05/24/techcrunch-mobility-robotaxi-reality-check/",
-      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
-      "published": "2026-05-24 16:05",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "On Trails is a wandering tale that blends hiking, science, and history",
-      "url": "https://www.theverge.com/entertainment/936860/robert-moor-on-trails-book-review",
-      "summary": "Hiking is one of life's great joys. Turning off the screens and stepping out into nature for an extended period of time, perhaps even several days, is rejuvenating. Unfortunately, as someone with two young kids and a bad back, I'm not really able to go backpacking anymore. So I often find myself trying to live [&#8230;]",
-      "published": "2026-05-24 15:15",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
-      "url": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
-      "summary": "Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety.",
-      "published": "2026-05-24 15:00",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Apple’s latest MacBook Air is $200 off in both sizes for Memorial Day",
-      "url": "https://www.theverge.com/gadgets/936610/apple-macbook-air-m5-memorial-day-2026-deal-sale",
-      "summary": "If you’re looking for a laptop that’ll still perform well several years from now, Apple’s latest MacBook Air is hard to beat. Now, in particular, is a good time to pick one up, as you can currently buy the 13-inch MacBook Air at Amazon in the run-up to Memorial Day with an M5 chip, 16GB [&#8230;]",
-      "published": "2026-05-24 15:00",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Squares in Squares",
-      "url": "https://kingbird.myphotos.cc/packing/squares_in_squares.html",
+      "title": "I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline",
+      "url": "https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/",
       "summary": "",
-      "published": "2026-05-24 13:20",
+      "published": "2026-05-22 17:17",
       "source": "Hacker News",
       "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "The Dreamie alarm clock got me to stop using my phone in bed",
-      "url": "https://techcrunch.com/2026/05/24/the-dreamie-alarm-clock-got-me-to-stop-using-my-phone-in-bed/",
-      "summary": "What sets Dreamie apart from all of the other fancy alarm clocks is laughably simple: It can play podcasts.",
-      "published": "2026-05-24 13:00",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Hackers are learning to exploit chatbot &#8216;personalities&#8217;",
-      "url": "https://www.theverge.com/column/935545/hackers-ai-chatbots",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI mischief, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Hacking the first generation of AI chatbots was a laughably simple affair. [&#8230;]",
-      "published": "2026-05-24 12:00",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Why Nuro thinks being a robotaxi ‘second mover’ gives it an advantage",
-      "url": "https://www.theverge.com/transportation/936126/nuro-robotaxi-dave-ferguson-interview-uber-lucid-waymo",
-      "summary": "Waymo is the undisputed leader in the robotaxi space, operating a fleet of over 3,000 driverless cars in at least 10 cities across the US. A number of companies, including Tesla, Zoox, Avride, and Motional, are racing to catch up with the Alphabet-owned firm. But what if being No. 2 was actually better? Nuro, the [&#8230;]",
-      "published": "2026-05-24 11:00",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "capcap：一键搞定截图、标注与图床，免费、开源的 macOS 截图工具",
-      "url": "https://sspai.com/post/109741",
-      "summary": "一个常驻菜单栏的小工具，双击 ⌘ 就能截图、标注、长截、美化、上传图床——纯 AppKit、零依赖、零订阅、零遥测。<a href=\"https://sspai.com/post/109741\" target=\"_blank\">查看全文</a>",
-      "published": "2026-05-24 06:21",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "SolarSquare in talks to raise up to $60M as India’s rooftop solar market draws major VC interest",
-      "url": "https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/",
-      "summary": "SolarSquare could be valued at up to $500 million in the financing expected to close next month.",
-      "published": "2026-05-23 20:03",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "这个周末，来深圳文博会和少数派打个卡吧",
-      "url": "https://sspai.com/post/110052",
-      "summary": "熟悉少数派的朋友都知道，我们一直在研究怎么让数字生活变得更好玩、更高效。今天（5月22日），这件事有了新的进展。第二十二届中国（深圳）国际文化产业博览交易会之元匠坊分会场正式开幕。这一次，少数派不仅参 ...<a href=\"https://sspai.com/post/110052\" target=\"_blank\">查看全文</a>",
-      "published": "2026-05-23 03:29",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "本周看什么 | 最近值得一看的 7 部作品",
-      "url": "https://sspai.com/post/110046",
-      "summary": "📅本周新预告《死神千年血战篇-祸进谭-》正式预告5月19日，TV动画《死神千年血战篇-祸进谭-》发布了正式预告，第1-3集将于6月21日在日本影院先行上映，7月开始播出。田口智久担任总导演，村田光执导 ...<a href=\"https://sspai.com/post/110046\" target=\"_blank\">查看全文</a>",
-      "published": "2026-05-22 10:12",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "浏览器扩展合集：我们为你找到了这 6 款实用、有趣的「新玩意」",
-      "url": "https://sspai.com/post/110044",
-      "summary": "在浏览器扩展这边，近期又有哪些好用、有趣的「新玩意」呢？<a href=\"https://sspai.com/post/110044\" target=\"_blank\">查看全文</a>",
-      "published": "2026-05-22 07:37",
-      "source": "sspai.com",
-      "lang": "zh_cn",
       "category": "科技"
     }
   ]
