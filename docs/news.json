@@ -1,41 +1,374 @@
 {
-  "last_updated": "2026-05-30 01:54:03",
+  "last_updated": "2026-05-31 02:07:26",
   "total": 52,
   "articles": [
     {
-      "title": "丰田汽车计划11月在巴西开设新工厂",
-      "url": "https://36kr.com/newsflashes/3831096744142726?f=rss",
-      "summary": "丰田汽车5月29日表示，计划11月初在巴西圣保罗州索罗卡巴市开设其在巴西的第二家工厂，届时该市将成为丰田在巴西的主要工业中心。新工厂是丰田此前宣布的到2030年投资110亿巴西雷亚尔（约合21.8亿美元）计划的一部分。（财联社）",
-      "published": "2026-05-30 01:37",
+      "title": "智元机器人合伙人姚卯青：今年上半年智元海外收入占比已近20%",
+      "url": "https://36kr.com/newsflashes/3832506045818500?f=rss",
+      "summary": "在BEYOND Expo 2026上，智元机器人合伙人、具身业务部总裁姚卯青采访中透露，未来海外收入将成为公司业绩的很大一块。去年全年海外收入贡献占比不到10%。今年上半年的话，这个数字已经接近20%。其中，北美、欧洲、日韩是公司计划未来进行大规模突破的市场。（财联社）",
+      "published": "2026-05-31 01:58",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "百胜据悉与LongRange就出售必胜客独家洽谈",
-      "url": "https://36kr.com/newsflashes/3831092160407429?f=rss",
-      "summary": "据报道，百胜餐饮集团正与LongRange Capital就出售必胜客连锁业务独家洽谈。知情人士透露，双方正就一项潜在协议深入磋商，该协议可能在几周内达成。知情人士称，目前尚无法保证最终能够达成协议。（界面新闻）",
-      "published": "2026-05-30 01:20",
+      "title": "欧洲央行管委佩雷拉：必须尽早应对通胀",
+      "url": "https://36kr.com/newsflashes/3832504586577798?f=rss",
+      "summary": "欧洲央行管理委员会成员、葡萄牙央行行长阿尔瓦罗・桑托斯・佩雷拉周六接受采访时表示，欧洲央行应当尽早出手应对通胀问题。佩雷拉称：“当前我们的首要关切是通胀，必须密切关注各项数据。结合过往经验来看，我们需要尽早采取行动，避免通胀产生更严重的二次传导效应。”（新浪财经）",
+      "published": "2026-05-31 01:28",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "MiniMax启动A股上市辅导",
-      "url": "https://36kr.com/newsflashes/3831103200192134?f=rss",
-      "summary": "MiniMax于5月29日同中信证券签署辅导协议，正式启动A股IPO进程。（每经网）",
-      "published": "2026-05-30 01:19",
+      "title": "小米技术：MiMo-V2.5实现五大核心突破，降价后仍能实现收支平衡",
+      "url": "https://36kr.com/newsflashes/3832525007284097?f=rss",
+      "summary": "36氪获悉，小米MiMo大模型团队在官方技术博客发布文章，首次完整公开MiMo-V2.5系列大模型API永久降价背后的技术路径。文章称，MiMO-V2.5实现了KVCache双池+SWA-aware前缀树、GCache分布式缓存、KVCache亲和调度、Decode阶段MTP加速、多模态推理优化五大核心突破，降价后仍能维持收支平衡。此外，4月28日推出的“百万亿Token创造者激励计划”，总申请人数超过54万人，累计发放100万亿免费Token，折合人民币超6500万元。",
+      "published": "2026-05-31 01:26",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "美股三大股指集体收涨，戴尔大涨近33%创最大单日涨幅",
-      "url": "https://36kr.com/newsflashes/3831088984057732?f=rss",
-      "summary": "36氪获悉，5月29日收盘，美股三大股指集体上涨，道琼斯指数涨0.72%，标普500指数涨0.22%，纳斯达克综合指数涨0.20%。AI服务器制造商涨幅居前，戴尔大涨近33%，创最大单日涨幅；超微电脑涨超11%，慧与科技涨近13%。SaaS板块延续强势表现，ServiceNow涨超14%，赛富时涨超8%，Adobe涨超7%，微软涨超5%。",
-      "published": "2026-05-30 01:05",
+      "title": "丰田回应将中止雷克萨斯下一代纯电轿车开发",
+      "url": "https://36kr.com/newsflashes/3832495904171908?f=rss",
+      "summary": "近日有消息称，丰田将中止高档车品牌“雷克萨斯”纯电动轿车“LF-ZC”的量产车型开发。丰田方面回应称，该信息属实，本次车型开发中止的原因是“考虑到市场需求的变化，对公司整体车辆开发项目进行调整的一部分”。丰田还强调，公司只是调整了部分车辆的开发规划，并不代表放弃BEV（纯电动汽车）。（第一财经）",
+      "published": "2026-05-31 01:15",
       "source": "36kr.com",
       "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "我国成功发射卫星互联网技术试验卫星",
+      "url": "https://36kr.com/newsflashes/3832495203657606?f=rss",
+      "summary": "北京时间2026年5月31日02时07分，我国在西昌卫星发射中心使用长征二号丁运载火箭，成功将卫星互联网技术试验卫星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。该卫星主要用于开展手机宽带直连卫星、天地网络融合等技术试验验证。此次任务是长征系列运载火箭的第646次飞行。（新华社）",
+      "published": "2026-05-31 00:55",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "Anyone can build a platform now. Almost nobody can get people to find it",
+      "url": "https://claudefolio.com/blog/anyone-can-build-a-platform-now-almost-nobody-can-get-people-to-find-it",
+      "summary": "",
+      "published": "2026-05-31 00:55",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Microsoft degrades functionality of perpetually-licensed offline products",
+      "url": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
+      "summary": "",
+      "published": "2026-05-30 23:26",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Shantell Sans",
+      "url": "https://shantellsans.com/process",
+      "summary": "",
+      "published": "2026-05-30 22:06",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "SoftBank says it will invest up to €75 billion to build French data centers",
+      "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
+      "summary": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.",
+      "published": "2026-05-30 21:45",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "This weekend’s two biggest movies were both directed by YouTubers",
+      "url": "https://techcrunch.com/2026/05/30/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/",
+      "summary": "The YouTube-to-prestige-horror pipeline is looking very strong.",
+      "published": "2026-05-30 21:12",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack",
+      "url": "https://github.com/wolfSSL/wolfCOSE",
+      "summary": "",
+      "published": "2026-05-30 20:42",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Domain expertise has always been the real moat",
+      "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
+      "summary": "",
+      "published": "2026-05-30 20:40",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Jef Raskin, the Visionary Behind the Mac (2013)",
+      "url": "https://lowendmac.com/2013/jef-raskin-the-visionary-behind-the-mac/",
+      "summary": "",
+      "published": "2026-05-30 19:42",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Snap alums unveil Ghost Angels fund",
+      "url": "https://techcrunch.com/2026/05/30/snap-alums-unveil-ghost-angels-fund/",
+      "summary": "A group of 20 Snap alumni has come together to launch a fund called Ghost Angels to back the next generation of social media.",
+      "published": "2026-05-30 17:00",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Backrooms is a certified blockbuster with a $38 million opening day",
+      "url": "https://www.theverge.com/entertainment/940421/backrooms-blockbuster-38-million-opening",
+      "summary": "The Kane Parsons' film Backrooms is expected to earn up to $90 million in its opening weekend after pulling down $38 million on Friday alone. That's not only above expectations, but absolutely obliterates A24's previous opening weekend record of $25.5 million for Alex Garland's Civil War. It's also a better opening day than The Mandalorian [&#8230;]",
+      "published": "2026-05-30 16:58",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
+      "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+      "summary": "The golden age of Microsoft's Github Copilot appears to be at an end.",
+      "published": "2026-05-30 16:30",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Accenture to acquire Ookla",
+      "url": "https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises",
+      "summary": "",
+      "published": "2026-05-30 16:28",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Welcome to Night Vale host Cecil Baldwin shares his tech pet peeves",
+      "url": "https://www.theverge.com/entertainment/939930/welcome-to-night-vale-host-cecil-baldwin-shares-his-tech-pet-peeves",
+      "summary": "Cecil Baldwin's r&#233;sum&#233; includes appearances on Gravity Falls, narrating the documentary Scream, Queen! My Nightmare on Elm Street, and performing as part of the New York Neo-Futurists theater company. But he is best known as the host of the podcast Welcome to Night Vale, a long-running fiction show that blends macabre Lovecraftian horror with absurdist [&#8230;]",
+      "published": "2026-05-30 16:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Meta is reportedly developing an AI pendant",
+      "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+      "summary": "Meta seems to be making big bets on AI-powered hardware.",
+      "published": "2026-05-30 15:59",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
+      "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+      "summary": "Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it’s unclear why Google made it a separate product.",
+      "published": "2026-05-30 15:30",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Microsoft is threatening legal action for disclosing exploits",
+      "url": "https://www.theverge.com/tech/940416/microsoft-nightmare-eclipse-zero-day-vulnerability",
+      "summary": "Microsoft is facing criticism for its handling of zero-day exploits. Someone going by the name Nightmare Eclipse has been publicly feuding with the company, posting proof-of-concept exploit code. Some of their posts suggest that they're a disgruntled former employee. But what caught cyber security researcher Kevin Beaumont's eye was how Microsoft has responded. Microsoft suggests [&#8230;]",
+      "published": "2026-05-30 15:19",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Two of our favorite art TVs are more than 40 percent off this weekend",
+      "url": "https://www.theverge.com/gadgets/940211/samsung-frame-hisense-canvastv-art-tv-sale-deal",
+      "summary": "Art TVs aren’t exactly known for being affordable, which is why Woot’s latest sale is notable. Now through June 26th, the retailer is discounting Samsung&#8217;s 2025 Frame TV and Hisense&#8217;s 2025 CanvasTV. The 65-inch CanvasTV is down to $779.99 ($520 off) — its best price of the year — while Samsung’s like-minded Frame TV is [&#8230;]",
+      "published": "2026-05-30 15:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The groupthink boom: what three top VCs really think about the AI frenzy",
+      "url": "https://techcrunch.com/2026/05/30/the-groupthink-boom-what-three-top-vcs-really-think-about-the-ai-frenzy/",
+      "summary": "\"If you're 22 years old in San Francisco and building something in AI, there may be a seed term sheet in your inbox — but if you're 19, oh my God, this means you're really good; you might already have a Series A [offer],\" said one, half-kiddingly.",
+      "published": "2026-05-30 14:49",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Listen to the new Steam Controller buzz to the tune of Doom",
+      "url": "https://www.theverge.com/games/940157/valve-steam-controller-singing-music-doom",
+      "summary": "You may have heard that Valve's new Steam Controller can ring like a telephone or do the Wilhelm scream. But did you know it can sing songs, too? Let me show you. Here's the new Steam Controller performing the \"Ground Theme\" from Super Mario Bros. 2: Here is \"Still Alive\" from Portal - fitting for [&#8230;]",
+      "published": "2026-05-30 14:02",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Pebblebee’s Halo watches my back and my belongings",
+      "url": "https://www.theverge.com/gadgets/938254/pebblebee-halo-bluetooth-tracker-personal-safety-hands-on-review",
+      "summary": "I live in a part of Los Angeles where I feel safer bringing pepper spray on walks. The problem is, I don't always remember to bring it with me, and it's not legal to carry it everywhere I go. Pebblebee's $59.99 Halo Bluetooth tracker surprised me by being a suitable replacement because it doubles as [&#8230;]",
+      "published": "2026-05-30 14:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The Arduboy FX-C is an excellent time killer you might forget you’re carrying",
+      "url": "https://www.theverge.com/tech/939782/arduboy-fx-c-arduino-handheld-hands-on",
+      "summary": "As handheld consoles continue to grow and push the limits of what you can actually hold in your hands, the Arduboy FX-C comes in a refreshingly pocketable package.&#160; It manages to squeeze the best features of past models and some welcome upgrades into a handheld that’s still no larger or thicker than a few credit [&#8230;]",
+      "published": "2026-05-30 14:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026",
+      "url": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
+      "published": "2026-05-30 13:00",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "This $300 pizza oven can easily help elevate your summer pizza nights",
+      "url": "https://techcrunch.com/2026/05/30/this-300-pizza-oven-can-easily-help-elevate-your-summer-pizza-nights/",
+      "summary": "The Ninja Artisan Outdoor Pizza Oven is aimed at people who want delicious pizza nights without having to deal with things like propane or wood pellets, unlike many other pizza ovens.",
+      "published": "2026-05-30 13:00",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "TikTok’s road to becoming a super app",
+      "url": "https://techcrunch.com/2026/05/30/tiktoks-road-to-becoming-a-super-app/",
+      "summary": "TikTok may be working to become the app that people use for most of their digital activities.",
+      "published": "2026-05-30 13:00",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "How one founder’s bet on ‘the old school web’ is paying off",
+      "url": "https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai",
+      "summary": "Craig Campbell walked away from the river of investor money flowing into AI to create, of all things, a website. Sure, Campbell probably could have started an AI company. He's a former engineer at Meta and an experienced tech founder who in 2022 sold his last venture - an e-commerce tool for businesses that use [&#8230;]",
+      "published": "2026-05-30 13:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "AI grifters are creating fake Black people to sell Shein junk",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping",
+      "summary": "Aliyah, a light-skinned Black woman dressed in country-western gear, is struggling to sell metal buckles she handmade on TikTok. In a video for the social media platform from March, she cries to the camera and pleads for views: \"Even as a black woman, I have more faith that white women will stay 13 seconds [on [&#8230;]",
+      "published": "2026-05-30 13:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Sometimes, a short game hits the spot",
+      "url": "https://www.theverge.com/games/937499/slots-and-daggers-review-nintendo-switch-ps5-xbox-series-x-s-pc",
+      "summary": "Slots &#38; Daggers, a low-key, fantasy-themed slot machine roguelike, was one of my favorite games last year. That may sound like a complicated description, but the game mixes ideas from deckbuilding roguelikes with slot machines to create an engrossing loop, and there's steady meta-progression that helps you push further with just about every run. Perhaps [&#8230;]",
+      "published": "2026-05-30 12:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "6.24亿日元，乐奇AI眼镜创日本Makuake平台众筹新纪录",
+      "url": "https://36kr.com/newsflashes/3831673401190273?f=rss",
+      "summary": "北京时间5月30日，乐奇AI眼镜在日本第一的众筹平台Makuake创下了全新纪录，截至目前，该项目已累计斩获超6.24亿日元的销售额，成为同品类历史最高众筹额，刷新了该平台成立13年以来的全品类最高销售纪录。据了解，Rokid的此次众筹将于北京时间今晚21:00（日本时间22:00）正式收官。",
+      "published": "2026-05-30 10:59",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "新包装矿泉水停止销售，胖东来：系设计方面重大失误，正重新设计",
+      "url": "https://36kr.com/newsflashes/3831607848363912?f=rss",
+      "summary": "5月29日晚，许昌市胖东来超市有限公司发文表示：胖东来新包装DL饮用天然矿泉水，在上市前发现与市面上现有同品类产品的瓶型外观有视觉近似的可能，我们立即暂停上市并主动与相关品牌生产商进行沟通，经双方沟通后于5月10日上市。此次出现的情况是我们在设计方面的重大失误。基于对知识产权原创的尊重和保护，也为了避免给对方品牌市场造成影响，经过胖东来集团公司商品委员会商议决定：第一批次生产的新包装DL饮用天然矿泉水于5月31日销售完毕后停止销售，原包装DL饮用天然矿泉水继续正常销售。我们也会加快新包装的重新设计，计划3个月完成设计，争取在9月份上市与大家见面。（界面新闻）",
+      "published": "2026-05-30 10:31",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "央企科技成果产业化联合体成立",
+      "url": "https://36kr.com/newsflashes/3831601284982660?f=rss",
+      "summary": "中央企业科技成果产业化联合体（下称“联合体”）5月30日在北京成立。该联合体由国务院国资委指导、国家能源集团牵头组建、全体中央企业参与共建，并广泛吸纳科研院所、高校、产业链上下游骨干企业、创新型民营企业等多元主体，聚焦国家战略部署，推动科技创新和产业创新深度融合，搭建一站式、全链条的科技成果产业化服务体系。（第一财经）",
+      "published": "2026-05-30 10:18",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "中国汽车流通协会奔驰、宝马、保时捷三大品牌经销商分会正式成立",
+      "url": "https://36kr.com/newsflashes/3831572328785796?f=rss",
+      "summary": "2026年5月27日，在“2026中国汽车经销商大会”召开期间，中国汽车流通协会宣布成立奔驰经销商分会、宝马经销商分会、保时捷经销商分会，并分别召开了成立大会。（证券时报）",
+      "published": "2026-05-30 09:50",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "乘联分会崔东树：2026年1-4月中国占世界汽车份额31%",
+      "url": "https://36kr.com/newsflashes/3831568959989637?f=rss",
+      "summary": "5月30日，乘联分会秘书长崔东树发文表示，2025年全球汽车销量9689万台，同比增长6%。2026年4月的世界汽车销量达到799万台，同比增4%。2026年1-4月世界汽车销量达到3096万台，同比增1%。随着美国、中国车市的年初相对负增长，2026年1-4月世界车市销量增长不强。2025年中国达到世界汽车的35.4%的份额；2026年初的中国份额30.9%，年初较低是春节因素的异常体现。随着政策刺激效果逐步恢复显现，下半年开始中国车市预计逐步走强。（新浪财经）",
+      "published": "2026-05-30 09:24",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "AI 如何影响你的审美？",
+      "url": "https://sspai.com/post/110172",
+      "summary": "去感受、去思考、去创作吧，这是只有身为人类的你能做到的事情。<a href=\"https://sspai.com/post/110172\" target=\"_blank\">查看全文</a>",
+      "published": "2026-05-30 09:04",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "6月5日起国内航线燃油附加费将下调",
+      "url": "https://36kr.com/newsflashes/3831494431532931?f=rss",
+      "summary": "记者从多家航空公司了解到，自2026年6月5日起销售的国内航线客票燃油附加费将下调。调整标准为成人旅客：800公里以上航线每位旅客收取150元燃油附加费，800公里（含）以下航线每位旅客收取80元燃油附加费。相较于调整前降低了20元和10元。此次燃油附加费下调将在一定程度上降低旅客出行成本。 (央视新闻)",
+      "published": "2026-05-30 09:00",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "宁德时代：巧克力换电累计落站1650座 2026年预计超3000座",
+      "url": "https://36kr.com/newsflashes/3831493084063367?f=rss",
+      "summary": "据宁德时代消息，截至2026年5月，巧克力换电站在全国范围内落1650座，覆盖127城。不到半年，新增落站超600站、覆盖82城。高速网络建设方面，计划2027年将形成“11纵9横”高速换电网络。根据规划，2026年底巧克力换电站将突破3000座，全国范围内覆盖近190城。（财联社）",
+      "published": "2026-05-30 08:40",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "Founders seize on Indian court ruling to revive criticism of Google’s ad business",
+      "url": "https://techcrunch.com/2026/05/29/founders-seize-on-indian-court-ruling-to-revive-criticism-of-googles-ad-business/",
+      "summary": "The ruling drew support from founders, while lawyers said it could force platforms to revisit how they handle trademarked keywords.",
+      "published": "2026-05-30 02:00",
+      "source": "techcrunch.com",
+      "lang": "en",
       "category": "科技"
     },
     {
@@ -43,321 +376,6 @@
       "url": "https://techcrunch.com/2026/05/29/i-went-to-the-so-called-steroid-olympics-to-understand-why-silicon-valley-is-obsessed-with-peptides/",
       "summary": "The Enhanced Games — a singular sporting competition where a majority of the athletes were on performance enhancing drugs — may herald a new business model that the tech industry is ready to embrace.",
       "published": "2026-05-30 00:39",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Nvidia, Microsoft, and Arm are all teasing Nvidia’s new N1X laptop processors",
-      "url": "https://www.theverge.com/news/940275/nvidia-n1x-laptop-processor-arm-microsoft-teaser",
-      "summary": "It's the world's worst kept secret that Nvidia is about to announce its own Arm-powered laptop chips at Computex this weekend, and now Microsoft, Nvidia, and Arm are all openly teasing the announcement. The Windows and Nvidia GeForce accounts on X both posted \"A new era of PC\" earlier today, and now Arm has followed [&#8230;]",
-      "published": "2026-05-29 23:03",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "MCP is dead?",
-      "url": "https://www.quandri.io/engineering-blog/mcp-is-dead",
-      "summary": "",
-      "published": "2026-05-29 22:56",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "SpaceX awarded $6.45B in Space Force contracts ahead of IPO",
-      "url": "https://techcrunch.com/2026/05/29/spacex-awarded-6-45b-in-space-force-contracts-ahead-of-ipo/",
-      "summary": "SpaceX already generated one-fifth of its 2025 revenue from government contracts, the company revealed in its IPO filing.",
-      "published": "2026-05-29 22:21",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Coders are refusing to work without AI — and that could come back to bite them",
-      "url": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
-      "summary": "While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road for them.",
-      "published": "2026-05-29 22:14",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "SpaceX gets $4 billion contract to build missile-tracking ‘Golden Dome’ satellites",
-      "url": "https://www.theverge.com/science/940207/spacex-golden-dome-satellite-contract",
-      "summary": "The Pentagon awarded SpaceX a $4.16 billion contract to build missile-tracking satellites linked with President Donald Trump's planned \"Golden Dome\" defense system, as reported earlier by Bloomberg. In an announcement on Friday, the US Space Force says the sensor-equipped satellites will allow it to detect and track targets from space. The Elon Musk-owned SpaceX - [&#8230;]",
-      "published": "2026-05-29 21:48",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Shift will clean homes for free to train future robots",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
-      "summary": "",
-      "published": "2026-05-29 19:16",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Acer’s launching a Linux handheld for streaming your PC games",
-      "url": "https://www.theverge.com/games/940091/acer-nitro-blaze-link-linux-handheld",
-      "summary": "The Acer Nitro Blaze Link might run on Linux, but it's no Steam Deck. Acer says it's a \"streaming-first handheld and companion device,\" like a PlayStation Portal for your PC. Announced ahead of Computex on Friday, it's launching in Q4 2026 with a 7-inch (1920 x 1200) display, Wi-Fi 6, just 1GB of LPDDR4 RAM, [&#8230;]",
-      "published": "2026-05-29 19:01",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
-      "url": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-      "published": "2026-05-29 18:49",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "What happens when companies become too AI-pilled?",
-      "url": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
-      "summary": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of &#8220;AI psychosis.” Indeed, ClickUp recently cut 22% of its workforce for AI agents, tech layoffs in 2026 are already nearly matching all of 2025, [&#8230;]",
-      "published": "2026-05-29 17:57",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "SQLite is all you need for durable workflows",
-      "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
-      "summary": "",
-      "published": "2026-05-29 17:54",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Tech companies desperately want to film you doing chores",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data",
-      "summary": "This week, an AI training startup called Shift said it would clean New Yorkers' homes for free. It has plans to expand into other cities as well, including London, and looking around my flat, I get the appeal. But there's a catch. There's always a catch. In exchange for the cleaning, Shift wants footage of [&#8230;]",
-      "published": "2026-05-29 17:37",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
-      "url": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
-      "summary": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, per Axios.",
-      "published": "2026-05-29 17:27",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Microsoft under fire for threatening security researcher with criminal investigation",
-      "url": "https://techcrunch.com/2026/05/29/microsoft-under-fire-for-threatening-security-researcher-with-criminal-investigation/",
-      "summary": "A public spat between Microsoft and an independent security researcher reopens a long-running debate over who is responsible for securing software.",
-      "published": "2026-05-29 17:03",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "The Verge’s 2026 high school graduation gift guide",
-      "url": "https://www.theverge.com/gadgets/932602/best-high-school-graduation-gift-ideas",
-      "summary": "High school graduation is a time of change that might be felt more deeply by family members than by the grads themselves. While some grads may immediately embark on a career path, many continue their education and delve deeper into their studies at college. Either way, they'll be taking on more responsibility, meaning it's up [&#8230;]",
-      "published": "2026-05-29 17:00",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Microsoft delays Fable (again) to avoid GTA VI",
-      "url": "https://www.theverge.com/games/939991/microsoft-fable-xbox-delay-gta-vi",
-      "summary": "Microsoft has delayed its upcoming Fable reboot once again. The game was set to launch in autumn 2026, but Microsoft now says that Fable will come out in February 2027. However, it will show a \"new look\" at the game at its Xbox Games Showcase on June 7th. \"&#8203;&#8203;This is year is packed with incredible [&#8230;]",
-      "published": "2026-05-29 16:51",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Notes from the Mistral AI Now Summit",
-      "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
-      "summary": "",
-      "published": "2026-05-29 16:22",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Microsoft teases new Surface hardware and ‘a new era of PC’",
-      "url": "https://www.theverge.com/news/939960/microsoft-computex-teaser-surface-nvidia-windows-rumors",
-      "summary": "I pondered the other day what's next for Microsoft's Surface PC lineup, and it looks like we're about to find out. Windows and Surface chief Pavan Davuluri has just teased \"something new is coming for developers,\" complete with a mysterious image of what looks like a curved display edge. Davuluri notes that whatever is coming [&#8230;]",
-      "published": "2026-05-29 16:21",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans",
-      "url": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
-      "summary": "Cognition makes Devin, the first and arguably most successful AI coding agent. But famed coder Wu says it isn't designed to supplant human programmers.",
-      "published": "2026-05-29 16:13",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "The dead economy theory",
-      "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
-      "summary": "",
-      "published": "2026-05-29 15:46",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Trump’s mass deportations are only possible with racial profiling",
-      "url": "https://www.theverge.com/policy/939434/trump-ice-racial-profiling-dhs-mass-deportations",
-      "summary": "Border security czar Tom Homan keeps threatening to \"flood\" New York City with ICE agents. But a new investigation shows that ICE has been quietly ramping up arrests in the New York area already - and disproportionately targeting Latino neighborhoods. The City, a local nonprofit news organization, found 430 street arrests in the metropolitan area [&#8230;]",
-      "published": "2026-05-29 15:00",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "At $549, Lenovo’s Legion Go S gaming handheld is suddenly a good deal",
-      "url": "https://www.theverge.com/gadgets/939842/lenovo-legion-go-s-windows-gaming-handheld-deal-sale",
-      "summary": "This week, the Steam Deck OLED with 512GB of storage went from $549 to $789, putting it even further out of reach for those who were considering getting one as they came back in stock after months of unavailability. I consider it a tiny consolation that there’s a decent PC gaming handheld that is currently [&#8230;]",
-      "published": "2026-05-29 14:59",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "It's hard to justify buying a Framework 12",
-      "url": "https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/",
-      "summary": "",
-      "published": "2026-05-29 14:55",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "You can buy two of Anker’s Qi2 wireless chargers for under $25",
-      "url": "https://www.theverge.com/gadgets/939445/anker-zolo-magnetic-wireless-charger-ue-wonderboom-4-speaker-deal-sale",
-      "summary": "If you’re looking for a fast iPhone or AirPods charger that’s easy to toss into your purse, backpack, or carry-on, Anker’s Zolo Magnetic Wireless Charger is a smart pick. It’s tiny and comes with a built-in USB-C cable, and you currently can buy two for $23.99 ($16 off) at Amazon and Anker (with code WS7DV2PK68EW), [&#8230;]",
-      "published": "2026-05-29 14:46",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Today is the last day to apply to speak at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/05/29/today-is-the-last-day-to-apply-to-speak-at-techcrunch-disrupt-2026/",
-      "summary": "Submit your session topic before today ends for a chance to speak at TechCrunch Disrupt 2026. Apply now to share your insight and help shape the conversations defining the tech industry.",
-      "published": "2026-05-29 14:15",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Final 24 hours to save up to $410 on your TechCrunch Disrupt 2026 ticket",
-      "url": "https://techcrunch.com/2026/05/29/final-24-hours-to-save-up-to-410-on-your-techcrunch-disrupt-2026-ticket/",
-      "summary": "You now have until tonight at 11:59 p.m. PT to lock in Early Bird savings of up to $410 for TechCrunch Disrupt 2026 before prices increase. Join 10,000+ tech leaders in October for one of the most anticipated tech events of the year. Register now.",
-      "published": "2026-05-29 14:00",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Kiwibit’s AI-powered bird feeder is my new backyard buddy",
-      "url": "https://techcrunch.com/2026/05/29/kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy/",
-      "summary": "If you're looking for a fun way to connect with nature while collecting bird species on an app like Pokémon, give this smart feeder a try.",
-      "published": "2026-05-29 13:00",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "热门中概股美股盘前多数下跌，名创优品涨超3%",
-      "url": "https://36kr.com/newsflashes/3830375933912713?f=rss",
-      "summary": "36氪获悉，热门中概股美股盘前多数下跌，截至发稿，理想汽车跌超3%，阿里巴巴、微博、蔚来跌超1%；名创优品涨超3%，新东方涨超1%。",
-      "published": "2026-05-29 12:59",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "美股大型科技股盘前涨跌不一，甲骨文涨超4%",
-      "url": "https://36kr.com/newsflashes/3830373796357767?f=rss",
-      "summary": "36氪获悉，美股大型科技股盘前涨跌不一，截至发稿，甲骨文涨超4%，英特尔、微软涨超1%，英伟达涨0.28%，奈飞涨0.23%；谷歌跌超1%，亚马逊跌0.98%，特斯拉跌0.65%，Meta跌0.52%，苹果跌0.2%。",
-      "published": "2026-05-29 12:57",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "飞船返回舱成功着陆，神二十一乘组凯旋",
-      "url": "https://36kr.com/newsflashes/3830355996534404?f=rss",
-      "summary": "据中国载人航天工程办公室消息，北京时间2026年5月29日20时11分，神舟二十一号航天员乘组搭乘神舟二十二号载人飞船在东风着陆场成功着陆，现场医监医保人员确认航天员张陆、武飞、张洪章身体状态良好，任务取得圆满成功。（央视新闻）",
-      "published": "2026-05-29 12:39",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "国家网信办等五部门联合公布《互联网信息内容多渠道分发服务管理规定》",
-      "url": "https://36kr.com/newsflashes/3830353504921478?f=rss",
-      "summary": "36氪获悉，据网信中国，5月29日，国家网信办、公安部、文化和旅游部、市场监管总局、广电总局联合公布《互联网信息内容多渠道分发服务管理规定》（以下简称《规定》），自2026年9月1日起施行。国家网信办有关负责人表示，《规定》旨在促进互联网信息内容多渠道分发服务规范健康发展，保障公民、法人和其他组织的合法权益，营造良好网络生态。",
-      "published": "2026-05-29 12:37",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "恒基达鑫：控股股东拟减持公司不超3%股份",
-      "url": "https://36kr.com/newsflashes/3830349061678727?f=rss",
-      "summary": "36氪获悉，恒基达鑫公告，控股股东珠海实友化工有限公司计划以集中竞价及大宗交易方式，减持公司股份合计不超过1210.33万股（占剔除公司回购专用账户股份后总股本的3%）。",
-      "published": "2026-05-29 12:32",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "中富电路：拟定增募资不超8.5亿元，用于AI用PCB产线改扩建等项目",
-      "url": "https://36kr.com/newsflashes/3830344040589188?f=rss",
-      "summary": "36氪获悉，中富电路公告，拟定增募资不超8.5亿元，扣除发行费用后的募集资金净额将用于鹤山中富AI用PCB产线改扩建项目、数字化升级建设项目及补充流动资金。",
-      "published": "2026-05-29 12:27",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "通业科技：终止购买思凌科半导体公司91.69%股权事项",
-      "url": "https://36kr.com/newsflashes/3830339810240132?f=rss",
-      "summary": "36氪获悉，通业科技公告，此前，公司拟以现金方式购买北京思凌科半导体技术有限公司91.69%的股权。当前并购重组进展及预期较筹划初期已发生较大变化，交易可行性降低，公司决定终止此次重大资产重组事项。",
-      "published": "2026-05-29 12:23",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "东方雨虹：拟约5.42亿元收购印尼两公司各55%股权",
-      "url": "https://36kr.com/newsflashes/3830324322657924?f=rss",
-      "summary": "36氪获悉，东方雨虹公告，为积极推进国际化战略，公司控股子公司印尼东方雨虹拟合计出资约14263.88亿印尼卢比（折合人民币约5.42亿元），分别以增资及股权收购方式取得PT IALK 55%股权，以股权收购方式取得PT ACUM 55%股权。上述交易完成后，印尼东方雨虹将分别持有PT IALK及PT ACUM 55%的股权",
-      "published": "2026-05-29 12:07",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "This chip startup just raised $135M on a bet that AI’s biggest bottleneck isn’t compute — it’s memory",
-      "url": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/",
-      "summary": "South Korean chip startup XCENA is betting that AI's real bottleneck is not compute, but memory.",
-      "published": "2026-05-29 12:00",
       "source": "techcrunch.com",
       "lang": "en",
       "category": "科技"
@@ -396,6 +414,15 @@
       "published": "2026-05-29 02:57",
       "source": "sspai.com",
       "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "I found a seashell in the middle of the desert",
+      "url": "https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert",
+      "summary": "",
+      "published": "2026-05-29 02:49",
+      "source": "Hacker News",
+      "lang": "en",
       "category": "科技"
     },
     {
@@ -441,33 +468,6 @@
       "published": "2026-05-28 00:30",
       "source": "sspai.com",
       "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "客制化键盘｜近期值得一看的套件与键帽：怪诞主题、复古创新与静电容",
-      "url": "https://sspai.com/post/108618",
-      "summary": "客制化键盘新品信息速览。<a href=\"https://sspai.com/post/108618\" target=\"_blank\">查看全文</a>",
-      "published": "2026-05-27 09:38",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "Snowboard Kids 2 is 100% Decompiled",
-      "url": "https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/",
-      "summary": "",
-      "published": "2026-05-26 19:12",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer",
-      "url": "https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/",
-      "summary": "",
-      "published": "2026-05-26 18:05",
-      "source": "Hacker News",
-      "lang": "en",
       "category": "科技"
     }
   ]
