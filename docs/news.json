@@ -1,122 +1,419 @@
 {
-  "last_updated": "2026-06-03 02:34:30",
+  "last_updated": "2026-06-04 02:31:13",
   "total": 52,
   "articles": [
     {
-      "title": "创业板指盘中涨近3%，创历史新高",
-      "url": "https://36kr.com/newsflashes/3836834293838977?f=rss",
-      "summary": "36氪获悉，创业板指盘中涨近3%，最高触及4170.39点，创历史新高。",
-      "published": "2026-06-03 02:29",
+      "title": "今夏国家电网最大用电负荷将超13亿千瓦，同比增约6%",
+      "url": "https://36kr.com/newsflashes/3838246360811779?f=rss",
+      "summary": "今天从国家电网了解到，据测算，今夏国家电网经营区最大用电负荷将超过13亿千瓦，比去年同期增长约6%。为全力保障电网安全运行和电力可靠供应，国家电网加快保供能力建设，持续完善电力市场化交易，促进清洁能源高效利用，目前，168项迎峰度夏重点工程正在加快建设。（央视新闻）",
+      "published": "2026-06-04 02:26",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "长三角铁路端午假期5天预计发送旅客1745万人次",
-      "url": "https://36kr.com/newsflashes/3836830635472006?f=rss",
-      "summary": "记者从中国铁路上海局集团有限公司（以下简称上铁集团）获悉，长三角铁路2026年端午假期旅客运输方案近日出台。今年端午假期铁路运输期限为6月18日至22日，合计5天。其间，上铁集团预计发送旅客1745万人次，日均发送旅客达349万人次，客流同比增长8%。其中，端午节当天（6月19日）为客流最高峰日，预计发送旅客420万人次，有望创下端午假期运输单日旅客发送量新高。（央视新闻）",
-      "published": "2026-06-03 02:25",
+      "title": "台积电魏哲家：预计今年全年营收成长仍将超过30%",
+      "url": "https://36kr.com/newsflashes/3838242373667077?f=rss",
+      "summary": "台积电召开股东会，针对AI需求，董事长魏哲家指出，从生成式AI、查询模式，进一步转向代理式AI与指令行动模式，正推升大型语言模型处理文本所需的token消耗量，也使运算能力需求持续成长，进一步支撑先进半导体需求。公司客户以及客户的客户，仍持续给予对AI产业的正面展望。魏哲家强调，台积电仍对未来数年AI大趋势保持信心，半导体需求也具备根本性支撑。在技​​术差异化与广泛客户群支持下，公司维持强劲信心，若以美元计算，预计今年全年营收成长仍将超过30%。（界面）",
+      "published": "2026-06-04 02:22",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "微信将推出一款AI智能体？腾讯人士回应",
-      "url": "https://36kr.com/newsflashes/3836820673574024?f=rss",
-      "summary": "昨日，媒体报道称，微信将推出一款AI（人工智能）智能体，计划最快将于本月启动公开上线前所需的合规审批流程。腾讯人士表示，目前无法确定微信AI智能体何时推出，其上线时间很大程度上取决于监管方对智能体的审批进度，微信14亿的用户体量，合规流程可能比其他产品更加严格。关于微信智能体，腾讯相关负责人表示暂无回应。（财经）",
-      "published": "2026-06-03 02:15",
+      "title": "台积电：先进制程技术需求持续强劲，将继续支撑业绩表现",
+      "url": "https://36kr.com/newsflashes/3838241251805699?f=rss",
+      "summary": "台积电召开股东会，董事长魏哲家重申本季展望，合并营收将介于390亿美元至402亿美元，毛利率约65.5%至67.5%。台积电表示，先进制程技术需求持续强劲，将继续支撑业绩表现。展望后市，公司将持续关注零组件价格上涨带来的影响，尤其是消费品与价格敏感的终端市场；同时，中东地区近期情势也为总体经济带来更多不确定性，台积电将审慎规划业务，并持续专注基本面，进一步强化竞争地位。（界面）",
+      "published": "2026-06-04 02:20",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "联讯仪器股价突破2000元大关",
-      "url": "https://36kr.com/newsflashes/3836810028512389?f=rss",
-      "summary": "36氪获悉，联讯仪器盘中大涨超10%，股价突破2000元大关。",
-      "published": "2026-06-03 02:04",
+      "title": "深成指率先翻红",
+      "url": "https://36kr.com/newsflashes/3838222499006722?f=rss",
+      "summary": "36氪获悉，深成指率先翻红，沪指、创业板指跌幅同步收窄。",
+      "published": "2026-06-04 02:01",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "“星源智”完成新一轮融资",
-      "url": "https://36kr.com/newsflashes/3836806137738377?f=rss",
-      "summary": "36氪获悉，具身大脑公司“星源智”宣布完成新一轮融资，至今已累计融资10亿元人民币。本轮投资方包括松禾资本、创东方、华控基金等机构，中车资本、北工投资、国君创新投、江西金控等国资以及产业方埃泰克、恒兴集团、奇安投资，同时，老股东元生创投连续三轮追加投资；北京智源研究院持续加持。本轮融资将重点投入三大方向：下一代具身大脑与世界模型的核心技术研发、产品规模化量产落地、顶尖人才引进与团队建设。",
-      "published": "2026-06-03 02:01",
+      "title": "香港推出首个生产力级超级智能体",
+      "url": "https://36kr.com/newsflashes/3838218104604936?f=rss",
+      "summary": "香港生成式人工智能研发中心（HKGAI）3日举行“HKGAIV3大模型发布暨生态合作大会”，正式发布最新版本的本地大模型HKGAIV3，并推出香港首个生产力级超级智能体，助力香港人工智能发展。（新华社）",
+      "published": "2026-06-04 01:57",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "创业板指日内涨幅扩大至2%",
-      "url": "https://36kr.com/newsflashes/3836796285416583?f=rss",
-      "summary": "36氪获悉，创业板指日内涨幅扩大至2%。铜缆高速连接、光纤、CPO、半导体等方向领涨。",
-      "published": "2026-06-03 01:51",
+      "title": "恒生指数跌幅扩大至1%",
+      "url": "https://36kr.com/newsflashes/3838209507428612?f=rss",
+      "summary": "36氪获悉，恒生指数跌幅扩大至1%，恒生科技指数现跌1.36%。",
+      "published": "2026-06-04 01:48",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "中国5月RatingDog服务业PMI 54.4",
-      "url": "https://36kr.com/newsflashes/3836791425824132?f=rss",
-      "summary": "36氪获悉，中国5月RatingDog服务业PMI 54.4，前值52.6。",
-      "published": "2026-06-03 01:46",
+      "title": "现代汽车与英伟达商讨在韩设立人工智能研发中心",
+      "url": "https://36kr.com/newsflashes/3838197819672840?f=rss",
+      "summary": "韩国经济日报援引匿名政府及业内人士消息：现代汽车联合韩国政府正与英伟达就落地韩国人工智能技术中心进入最终磋商阶段，新万金成为选址首选。该研发中心将是英伟达级别顶尖的研发基地，这类高规格基地目前仅布局在新加坡、中国台湾等少数地区；英伟达去年10月已与现代汽车签署谅解备忘录，约定供应GPU芯片并共建AI研发中心。（新浪财经）",
+      "published": "2026-06-04 01:36",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "创业板指涨超1%",
-      "url": "https://36kr.com/newsflashes/3836782607316353?f=rss",
-      "summary": "36氪获悉，创业板指涨超1%。",
-      "published": "2026-06-03 01:37",
+      "title": "央行今日7天期逆回购操作量为零",
+      "url": "https://36kr.com/newsflashes/3838190393428226?f=rss",
+      "summary": "36氪获悉，央行公告，根据公开市场业务一级交易商的需求，今日7天期逆回购操作量为零。",
+      "published": "2026-06-04 01:29",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "央行6月3日7天期逆回购操作量为零",
-      "url": "https://36kr.com/newsflashes/3836776944924035?f=rss",
-      "summary": "36氪获悉，央行6月3日7天期逆回购操作量为零。今日有1776亿元逆回购到期。",
-      "published": "2026-06-03 01:31",
+      "title": "A股三大指数集体低开，光模块概念领跌",
+      "url": "https://36kr.com/newsflashes/3838188370856201?f=rss",
+      "summary": "36氪获悉，A股三大指数集体低开，沪指低开0.74%，深成指低开1.05%，创业板指低开1.22%；光模块、半导体领跌，剑桥科技、长光华芯跌超4%，联讯仪器、天孚通信跌超3%；水产、机械涨幅居前，百洋股份涨超6%，中国动力涨超3%。",
+      "published": "2026-06-04 01:27",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "A股三大指数开盘涨跌不一，贵金属板块下挫",
-      "url": "https://36kr.com/newsflashes/3836772731254146?f=rss",
-      "summary": "36氪获悉，A股三大指数开盘涨跌不一，沪指低开0.17%，深成指高开0.36%，创业板指高开0.82%；贵金属、煤炭、电力板块跌幅居前，大唐发电跌超9%，新集能源跌超4%，招金黄金跌超2%；通信设备、电子元器件、半导体板块领涨，一博科技涨停，卓胜微涨超7%，太辰光涨超5%。",
-      "published": "2026-06-03 01:27",
+      "title": "恒指开盘跌0.66%，恒生科技指数跌1.23%",
+      "url": "https://36kr.com/newsflashes/3838184547371529?f=rss",
+      "summary": "36氪获悉，恒指开盘跌0.66%，恒生科技指数跌1.23%；电气设备、消费板块领涨，宁德时代涨近2%，泡泡玛特涨近1%；汽车、有色金属板块跌幅居前，蔚来、比亚迪股份跌超3%，紫金矿业、洛阳钼业跌超2%。",
+      "published": "2026-06-04 01:23",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "恒指开盘跌0.33%，恒生科技指数跌0.7%",
-      "url": "https://36kr.com/newsflashes/3836769708782729?f=rss",
-      "summary": "36氪获悉，恒指开盘跌0.33%，恒生科技指数跌0.7%；半导体板块走强，华虹半导体涨超2%，中芯国际涨超1%；汽车股下挫，蔚来跌超3%，小鹏集团、理想汽车跌超2%。",
-      "published": "2026-06-03 01:23",
+      "title": "人民币兑美元中间价报6.8203，下调19点",
+      "url": "https://36kr.com/newsflashes/3838179124250886?f=rss",
+      "summary": "36氪获悉，人民币兑美元中间价报6.8203，下调19点；上一交易日中间价6.8184，上一交易日官方收盘价6.7720，上日夜盘报收6.7793。",
+      "published": "2026-06-04 01:17",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "6月3日人民币对美元中间价调升3个基点",
-      "url": "https://36kr.com/newsflashes/3836765453120645?f=rss",
-      "summary": "36氪获悉，6月3日，人民币对美元中间价调升3个基点，报6.8184，上一交易日中间价6.8187。",
-      "published": "2026-06-03 01:19",
+      "title": "Uber对自动驾驶创企Nuro的承诺投资总额据悉近5亿美元",
+      "url": "https://36kr.com/newsflashes/3838168530815236?f=rss",
+      "summary": "据报道，知情人士称，Uber对自动驾驶初创公司Nuro的承诺投资总额已接近5亿美元。Uber此前曾宣布计划向Nuro投资数亿美元，其中包括参与后者的2.03亿美元融资轮。（界面）",
+      "published": "2026-06-04 01:13",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "I Don't Want My Search Engine to Think for Me",
-      "url": "https://searchzee.com/blog/search-without-ai-summaries",
+      "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
+      "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
       "summary": "",
-      "published": "2026-06-03 00:29",
+      "published": "2026-06-04 00:56",
       "source": "Hacker News",
       "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "U.S. to Dismantle System Tracking Atlantic Currents That Are at Risk of Collapse",
+      "url": "https://e360.yale.edu/digest/trump-ooi-amoc",
+      "summary": "",
+      "published": "2026-06-04 00:44",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "派早报：豆包确认将推出付费版服务、樱桃发布 UWB 键盘等",
+      "url": "https://sspai.com/post/110698",
+      "summary": "OpenAI 扩展 Codex 的使用场景、华米推出 Amazfit Balance 3 智能手表等。<a href=\"https://sspai.com/post/110698\" target=\"_blank\">查看全文</a>",
+      "published": "2026-06-04 00:36",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "Quick commerce FirstClub doubles valuation to $255M in nine months",
+      "url": "https://techcrunch.com/2026/06/03/firstclub-doubles-valuation-to-255m-in-nine-months-on-quality-first-grocery-bet/",
+      "summary": "The Bengaluru startup has crossed 1 million orders and reached a $50 million annualized GMV run rate within a year of launch.",
+      "published": "2026-06-04 00:30",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The ways we contain Claude across products",
+      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+      "summary": "",
+      "published": "2026-06-04 00:27",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Nintendo confirms it will sell a new Switch 2 with replaceable battery in the EU",
+      "url": "https://www.theverge.com/games/942808/nintendo-switch-2-replaceable-battery-eu",
+      "summary": "Nintendo is planning to launch versions of Switch 2 hardware in the EU that will let users easily replace the battery. To meet its obligations from a new EU regulation that's set to go into effect on February 18th, 2027, Nintendo says on its website that it is \"implementing measures to comply with these requirements [&#8230;]",
+      "published": "2026-06-04 00:04",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "\"They're made out of weights\"",
+      "url": "https://maxleiter.com/blog/weights",
+      "summary": "",
+      "published": "2026-06-03 23:37",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
+      "url": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
+      "summary": "Lovable and Google signed an expanded multiyear deal that involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude.",
+      "published": "2026-06-03 22:56",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Apple is bringing age verification to Texas this week",
+      "url": "https://www.theverge.com/tech/942761/apple-texas-age-verification-app-store",
+      "summary": "Apple will introduce age verification in the App Store for users in Texas starting on Thursday, June 4th. The move, as spotted by MacRumors, comes just days after a federal appeals court allowed Texas' App Store Accountability Act to go into effect while a lawsuit against it proceeds. People in Texas who are creating a [&#8230;]",
+      "published": "2026-06-03 21:49",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "WiiM expands its whole-home ecosystem with a new soundbar",
+      "url": "https://www.theverge.com/tech/942748/wiim-releases-first-soundbar",
+      "summary": "WiiM, the audio company that's challenged the idea that audiophile-level performance requires a small loan, is expanding its whole-home ecosystem with the WiiM Bar, which releases in July. Much like its other speakers and audio components, the WiiM Bar supports a bunch of streaming options and expandability at an affordable price - in this case, [&#8230;]",
+      "published": "2026-06-03 21:12",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Defense tech is flooded with money, but who’s built to last?",
+      "url": "https://techcrunch.com/video/defense-tech-is-flooded-with-money-but-whos-built-to-last/",
+      "summary": "Defense tech is red hot right now.&#160;Anduril&#160;and&#160;Mach Industries&#160;just doubled and quadrupled their valuations, respectively,&#160;and the U.S.&#160;government is proposing&#160;a&#160;40% increase&#160;in defense budget. A wave of new startups&#160;is&#160;chasing those government contracts, but according to Ross Fubini, the venture investor who wrote Anduril’s first check, most of them&#160;will get lost in the Valley of Death between prototype contract [&#8230;]",
+      "published": "2026-06-03 20:51",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Uber to put 500 data-collection vehicles on the road this year",
+      "url": "https://techcrunch.com/2026/06/03/uber-to-put-500-data-collection-vehicles-on-the-road-this-year/",
+      "summary": "The modified Ioniq 5 will be loaded with sensors to capture data for Uber's new AV Labs division.",
+      "published": "2026-06-03 20:08",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Nvidia is already planning N2X and N3X chips — the goal is the Star Trek computer",
+      "url": "https://www.theverge.com/tech/942588/nvidia-rtx-spark-n2x-n3x-r2-d2-star-trek-star-wars-plan",
+      "summary": "Just in case you were wondering, Nvidia's RTX Spark isn't supposed to be a one-off. The company is not just flirting with becoming the fifth high-profile vendor of consumer laptop chips to see if people bite. At Computex 2026 in Taipei, Nvidia CEO Jensen Huang confirmed at least two additional generations of RTX Spark are [&#8230;]",
+      "published": "2026-06-03 20:03",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
+      "url": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
+      "summary": "If Alphabet's record-breaking $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow.",
+      "published": "2026-06-03 19:38",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Meta mercifully spun out VR fitness game Supernatural instead of just killing it",
+      "url": "https://techcrunch.com/2026/06/03/meta-mercifully-spun-out-vr-fitness-game-supernatural-instead-of-just-killing-it/",
+      "summary": "Meta appears to have listened to the Supernatural users who protested the app's sad fate after sweeping layoffs.",
+      "published": "2026-06-03 19:22",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Substack’s new ‘Reply Rules’ feature lets creators control how people respond",
+      "url": "https://techcrunch.com/2026/06/03/substacks-new-reply-rules-feature-lets-creators-control-how-people-respond/",
+      "summary": "Substack's new Reply Rules feature is currently available for all English-language publications and is designed to give creators greater control over how their audiences respond.",
+      "published": "2026-06-03 19:08",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
+      "url": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
+      "summary": "Dreambeans is a curated list of AI-illustrated \"stories\" culled from the personal data in your Google account.",
+      "published": "2026-06-03 19:07",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Elixir v1.20: Now a gradually typed language",
+      "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
+      "summary": "",
+      "published": "2026-06-03 19:02",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The best Bluetooth trackers for Apple and Android phones",
+      "url": "https://www.theverge.com/23769840/best-bluetooth-trackers",
+      "summary": "Some people rarely lose things. Wallets are always exactly where they’re supposed to be, keys never go missing, and remotes never slip between the couch cushions. And then there’s the rest of us — the folks who can’t ever seem to find the thing that was right there a few seconds ago. For us, Bluetooth [&#8230;]",
+      "published": "2026-06-03 19:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The best Qi2 batteries for iPhone and Pixel",
+      "url": "https://www.theverge.com/gadgets/939362/best-magsafe-qi2-2-batteries-power-banks",
+      "summary": "Compact power banks have gotten a lot faster in the past year — and it’s not just their USB-C charging speeds that have received a boost. The newest Qi2.2-certified models can wirelessly charge an iPhone 16 or later at up to 25W. Combine that with their ability to magnetically snap on via MagSafe, and you’ve [&#8230;]",
+      "published": "2026-06-03 18:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Artificial intelligence is not conscious – Ted Chiang",
+      "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
+      "summary": "",
+      "published": "2026-06-03 17:51",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "As AI gets better, it reveals an empty promise",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise",
+      "summary": "This week we've got tandem hands-ons with Google's new Gemini AI agent - Spark - from my colleagues David Pierce and Jay Peters. Their takeaways are similar: It's so effective that it's scary. Spark knew that David's dog is named Frida and knew the first name of Jay's wife, even though neither of them explicitly [&#8230;]",
+      "published": "2026-06-03 17:45",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Ultrahuman says hackers accessed customers’ wellness data via internal tool",
+      "url": "https://techcrunch.com/2026/06/03/ultrahuman-says-hackers-accessed-customers-wellness-data-via-internal-tool/",
+      "summary": "The breach at wearable ring maker Ultrahuman stemmed from credentials stolen from a malware-infected employee laptop.",
+      "published": "2026-06-03 17:30",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Carvana ties up with Bezos-backed Slate Auto as it plans new car sales",
+      "url": "https://techcrunch.com/2026/06/03/carvana-ties-up-with-bezos-backed-slate-auto-as-it-plans-new-car-sales/",
+      "summary": "Carvana was granted a warrant to buy shares in Slate last year, according to documents obtained by TechCrunch. Guggenheim Partners CEO Mark Walter is heavily invested in both companies.",
+      "published": "2026-06-03 17:25",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Instagram is alerting users who were targeted by hackers during AI chatbot attacks",
+      "url": "https://techcrunch.com/2026/06/03/instagram-is-alerting-users-who-were-targeted-by-hackers-during-ai-chatbot-attacks/",
+      "summary": "Hackers appeared to take over victims’ accounts even after Meta said it fixed its AI-powered support chatbot, which granted hackers access to victims’ accounts.",
+      "published": "2026-06-03 16:12",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Amazon&#8217;s search bar will invent AI-generated products you can&#8217;t buy",
+      "url": "https://www.theverge.com/tech/942547/amazon-search-bar-ai-images",
+      "summary": "Amazon's updated search bar will now show you AI-generated images of products as you describe them. For now, the in-app feature only surfaces AI images of clothing and home goods, allowing you to tap on the image that best matches what you're looking for and search for similar-looking items. In a blog post, Amazon positions [&#8230;]",
+      "published": "2026-06-03 16:07",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+      "summary": "",
+      "published": "2026-06-03 16:04",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Amazon will show AI product images when you search for some reason",
+      "url": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
+      "summary": "Amazon will use visual search and AI to show AI-generated product images that match your search queries. The retailer says it will help guide users to products.",
+      "published": "2026-06-03 15:50",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "PlayStation is getting back to what it’s good at",
+      "url": "https://www.theverge.com/games/942520/playstation-wolverine-god-of-war-laufey-state-of-play-june-2026",
+      "summary": "PlayStation used its most recent State of Play showcase to make it clear where its focus is. After a series of costly live-service stumbles, it's getting back to focusing on premium, narrative-driven, single-player games. That statement was made clear with how it started and ended the hourlong show. The showcase began with an extended look [&#8230;]",
+      "published": "2026-06-03 15:30",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Supernatural isn’t dead after all",
+      "url": "https://www.theverge.com/news/941816/supernatural-health-meta-quest-vr",
+      "summary": "A few months ago, Meta effectively handed Supernatural, a popular VR fitness game on the Meta Quest, a death sentence. As part of overarching VR layoffs, the company announced the game would no longer get any new content, enraging its tightly knit, devoted community. Now it looks like Supernatural is getting a second chance. Today, [&#8230;]",
+      "published": "2026-06-03 15:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "I was recently diagnosed with anti-NMDA receptor encephalitis",
+      "url": "https://burntsushi.net/encephalitis/",
+      "summary": "",
+      "published": "2026-06-03 14:10",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "小车车里的大世界：车模收藏入坑指南",
+      "url": "https://sspai.com/post/110114",
+      "summary": "从小时候第一台保时捷卡宴车模，到工作后重新入坑小米 SU7，本文的作者把自己这些年收藏车模的经验整理成了一篇新手指南。文章从 1:18、1:43、1:64 等常见的车模比例谈起，涵盖了品牌选择、购买渠道、创意玩法等，很适合新手入坑。车模不只是玩具，也是一种能放在桌面上的汽车梦。<a href=\"https://sspai.com/post/110114\" target=\"_blank\">查看全文</a>",
+      "published": "2026-06-03 09:00",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "让原生体验「接地气」：Pixel Text 与「原点系列」工具集",
+      "url": "https://sspai.com/post/110458",
+      "summary": "「原点系列」希望能在那些真正影响使用的地方做一些细致的修补，这个名字也代表着我对工具应用的一点执念。一个工具最好有清楚的边界，知道自己要解决什么，也知道自己不应该做什么。<a href=\"https://sspai.com/post/110458\" target=\"_blank\">查看全文</a>",
+      "published": "2026-06-03 07:00",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "App+1 | 零基础 3 分钟在线搞定产品演示视频：Mockup Studio",
+      "url": "https://sspai.com/post/110059",
+      "summary": "既不用安装客户端，也不用学习剪辑，Mockup Studio 帮你轻松制作产品演示视频。<a href=\"https://sspai.com/post/110059\" target=\"_blank\">查看全文</a>",
+      "published": "2026-06-03 03:19",
+      "source": "sspai.com",
+      "lang": "zh_cn",
       "category": "科技"
     },
     {
@@ -126,258 +423,6 @@
       "published": "2026-06-03 00:12",
       "source": "sspai.com",
       "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "AI outperforms law professors in Stanford Law study",
-      "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
-      "summary": "",
-      "published": "2026-06-02 23:43",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Squishmallows, dentures, and an ‘I Heart Hot Dads’ bag: Uber has found thousands of items left in robotaxis",
-      "url": "https://techcrunch.com/2026/06/02/squishmallows-dentures-and-an-i-heart-hot-dads-bag-uber-has-found-thousands-of-items-left-in-robotaxis/",
-      "summary": "Even in a future of robot taxis, someone still has to return the things passengers leave behind.",
-      "published": "2026-06-02 23:25",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
-      "url": "https://github.com/c0dejedi/nbd-vram",
-      "summary": "",
-      "published": "2026-06-02 22:55",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses",
-      "url": "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/",
-      "summary": "The cybersecurity company is nearing a $300 million round led by Evolution Equity Partners.",
-      "published": "2026-06-02 22:50",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "God of War Laufey is coming to the PS5",
-      "url": "https://www.theverge.com/entertainment/941516/god-of-war-laufey-ps5-trailer",
-      "summary": "Sony ended its big State of Play showcase with a major reveal: the next God of War. The new title is called God of War Laufey, and is once again developed by Sony's Santa Monica Studio. Currently, the game doesn't have a date, but it's coming to the PS5 whenever it does launch. This time, [&#8230;]",
-      "published": "2026-06-02 22:16",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Remedy’s Control sequel launches in September",
-      "url": "https://www.theverge.com/games/942113/remedy-control-resonant-release-date-trailer",
-      "summary": "Control Resonant, the upcoming sequel to Remedy Entertainment's Control, will be released on September 24th, 2026, according to a trailer that premiered during Tuesday's PlayStation State of Play show. The trailer also gave a preview of the game's story, which stars Dylan Faden, who was imprisoned for much of the first game. He will be [&#8230;]",
-      "published": "2026-06-02 21:55",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Here&#8217;s seven bloody minutes of Wolverine on the PS5",
-      "url": "https://www.theverge.com/games/939378/marvels-wolverine-playstation-trailer-state-of-play-june-2026",
-      "summary": "At its big State of Play show on Tuesday, Sony shared new look Marvel's Wolverine, the next big title from Insomniac Games that's launching exclusively on PS5 on September 15th. Dressed in the iconic yellow Wolverine outfit, Logan slunk around and stabbed his way through a bunch of enemies, using his blades to take them [&#8230;]",
-      "published": "2026-06-02 21:11",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "PlayStation State of Play June 2026: All the news and trailers",
-      "url": "https://www.theverge.com/entertainment/940913/playstation-state-of-play-june-2026-news-trailers",
-      "summary": "While the majority of Summer Game Fest takes place over the weekend, Sony is getting a jump on things with its next State of Play showcase, which airs on June 2nd at 5PM ET. It&#8217;s coming at a pivotal time for the PlayStation brand: The PS5 keeps getting more expensive and Sony&#8217;s big bet on [&#8230;]",
-      "published": "2026-06-02 20:40",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "CT scans of BYD car parts",
-      "url": "https://www.lumafield.com/scan-of-the-month/byd",
-      "summary": "",
-      "published": "2026-06-02 20:30",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Cyberdecks are having a moment, rejecting big tech surveillance with style and substance",
-      "url": "https://techcrunch.com/2026/06/02/cyberdeck-tiktok-trend-reject-big-tech/",
-      "summary": "Over the last few months, these DIY hardware communities have exploded in popularity as people on social media show off their solar-powered game emulators, pocket-sized ereaders, and clamshell purse computers.",
-      "published": "2026-06-02 20:20",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "I held the next-gen handheld",
-      "url": "https://www.theverge.com/games/941360/intel-arc-g3-extreme-msi-claw-next-gen-handheld-preview",
-      "summary": "Intel couldn't catch a break. Layoffs. Shakedowns. Crashing CPUs torpedoing its reputation, sending desktop gamers fleeing to AMD. Apple and Qualcomm pushing Intel out of multiple flagship laptops. A gaming graphics card going MIA. But its Panther Lake laptop chip, the first on its all-important 18A process, turned out excellent - and a handheld version [&#8230;]",
-      "published": "2026-06-02 19:56",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "My thoughts after using Clojure for about a month",
-      "url": "https://www.acdw.net/clojure/",
-      "summary": "",
-      "published": "2026-06-02 19:56",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Gmail thinks I'm stupid, so I left",
-      "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
-      "summary": "",
-      "published": "2026-06-02 19:27",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Microsoft Build 2026: The 7 biggest announcements",
-      "url": "https://www.theverge.com/tech/941738/microsoft-build-2026-biggest-announcements",
-      "summary": "Microsoft just kicked off Build 2026 with a keynote from CEO Satya Nadella and other company leaders. As expected, it was filled with announcements, ranging from new Surface hardware to an always-on personal assistant and updates across Microsoft's in-house AI models. If you didn't watch the event live, you can catch up on all the [&#8230;]",
-      "published": "2026-06-02 19:23",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Uber caps employee AI spending after blowing through budget in 4 months",
-      "url": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
-      "summary": "Uber's cutback has occurred after the company had reportedly encouraged staff to use AI as much as possible.",
-      "published": "2026-06-02 19:11",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
-      "url": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
-      "summary": "Microsoft on Tuesday took the wraps off Adaptive Spec-driven Scoring for Evaluation and Regression Testing, an open source framework for spinning up AI evaluations.",
-      "published": "2026-06-02 19:02",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "MAI-Code-1-Flash",
-      "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
-      "summary": "",
-      "published": "2026-06-02 18:47",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Trump signs executive order to review AI models before they’re released",
-      "url": "https://www.theverge.com/policy/941775/trump-ai-executive-order",
-      "summary": "President Donald Trump signed an executive order Tuesday creating a \"voluntary framework\" for AI companies to share their frontier models with the federal government before they're released \"to promote secure innovation and strengthen the cybersecurity of critical infrastructure.\" The order says the US AI industry has succeeded in part \"because we refuse to stifle this [&#8230;]",
-      "published": "2026-06-02 18:33",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "A startup, Everand, is now bundling e-books, audiobooks, and book clubs in challenge to Amazon",
-      "url": "https://techcrunch.com/2026/06/02/a-startup-everand-is-now-bundling-ebooks-audiobooks-and-book-clubs-in-challenge-to-amazon/",
-      "summary": "A new reading subscription from Everand offers access to both e-books and audiobooks, and Fable's book club community.",
-      "published": "2026-06-02 18:31",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI",
-      "url": "https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/",
-      "summary": "The caveat is that one of the world's most famous living directors is using the tech solely for storyboarding.",
-      "published": "2026-06-02 18:16",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Microsoft’s next-gen quantum chip cuts timeline to useful quantum computing",
-      "url": "https://www.theverge.com/news/940874/microsoft-majorana-2-quantum-chip-build",
-      "summary": "Microsoft claimed last year that it had made a key breakthrough in quantum computing with Majorana 1, the company's first quantum processor. While physicists were immediately skeptical of Microsoft's claims, the software giant is announcing Majorana 2 today, the next generation of its topological quantum chip. Majorana 2 contains qubits, a unit of information in [&#8230;]",
-      "published": "2026-06-02 18:15",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Microsoft’s first advanced reasoning AI is here",
-      "url": "https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026",
-      "summary": "Microsoft announced a bunch of new in-house AI models at Build 2026, including a new \"flagship\" model: MAI-Thinking-1. It's an ambitious step into model development for Microsoft, which introduced its initial in-house models last year - before then, it had relied on OpenAI's models. The two companies recently renegotiated their deal to loosen ties. According [&#8230;]",
-      "published": "2026-06-02 18:12",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "The durable, floatable UE Wonderboom 4 speaker is cheaper than ever",
-      "url": "https://www.theverge.com/gadgets/941763/ultimate-ears-wonderboom-fractal-design-scape-deal-sale",
-      "summary": "I like the UE Wonderboom 4 Bluetooth speaker so much that I bought two of them, though I wish I could have paid less for them. Fortunately, you can stock up on the cheap, so long as you like the color blue. The Wonderboom 4 is available in blue at Amazon for $51.49, and at [&#8230;]",
-      "published": "2026-06-02 18:05",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Microsoft launches Scout, an OpenClaw-inspired personal assistant",
-      "url": "https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/",
-      "summary": "Launched at Build, Microsoft Scout is a new AI assistant meant to bring the power and flexibility of OpenClaw into the Microsoft 365 system.",
-      "published": "2026-06-02 18:02",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Ex-Anduril engineer raises $42M to build the Amazon of composite parts",
-      "url": "https://techcrunch.com/2026/06/02/ex-anduril-engineer-raises-42m-to-build-the-amazon-of-composite-parts/",
-      "summary": "Layup Parts co-founder Zack Eakin has drawn on a motorsports background, and his experience working for Palmer Luckey and Elon Musk, to tackle making faster, cheaper, and better composites.",
-      "published": "2026-06-02 18:00",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Google rolls out fake call detection to protect against AI deepfake impersonation scams",
-      "url": "https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/",
-      "summary": "As people increasingly refuse to answer calls from unknown numbers, scammers are shifting their tactics by spoofing trusted phone numbers and using AI deepfake technology to sound like authority figures, family members, or employers.",
-      "published": "2026-06-02 18:00",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Microsoft offers devs a better way to control AI agent behavior",
-      "url": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/",
-      "summary": "The specification lets developer, compliance, and security teams define their own policies for agents to follow in portable policy files.",
-      "published": "2026-06-02 18:00",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Amazon faces class action lawsuit over Ring facial-recognition feature",
-      "url": "https://techcrunch.com/2026/06/02/amazon-faces-class-action-lawsuit-over-ring-facial-recognition-feature/",
-      "summary": "The class action lawsuit, filed in Seattle by Virginia resident Charles Sigwalt, claims that Ring's Familiar Faces feature stores images of passersby without consent.",
-      "published": "2026-06-02 17:47",
-      "source": "techcrunch.com",
-      "lang": "en",
       "category": "科技"
     },
     {
@@ -408,24 +453,6 @@
       "category": "科技"
     },
     {
-      "title": "派早报：英伟达、华硕等多个厂商在 COMPUTEX 2026 发布新品",
-      "url": "https://sspai.com/post/110592",
-      "summary": "少数派的近期动态少数派×飞傲多功能便携CD音箱一体机BEATBOX预售开启。火速入手可爱又好玩的经典萌物——监工水獭挂件复刻啦！会员点数也可兑换！给獭一个家首款MBTI定制墨水屏「口袋先知」预售进行中 ...<a href=\"https://sspai.com/post/110592\" target=\"_blank\">查看全文</a>",
-      "published": "2026-06-02 00:03",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "Are blue zones real? Answering that question is harder then ever",
-      "url": "https://www.statnews.com/2026/05/04/are-blue-zones-real-new-scrutiny-longevity-hot-spots/",
-      "summary": "",
-      "published": "2026-06-01 13:40",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
       "title": "派评 | 近期值得关注的 App",
       "url": "https://sspai.com/post/110547",
       "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀<a href=\"https://sspai.com/post/110547\" target=\"_blank\">查看全文</a>",
@@ -439,33 +466,6 @@
       "url": "https://sspai.com/post/110412",
       "summary": "有时候，完成比完美更重要。<a href=\"https://sspai.com/post/110412\" target=\"_blank\">查看全文</a>",
       "published": "2026-06-01 07:00",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "把一句经文放进每天：「一日一偈」的轻阅读尝试",
-      "url": "https://sspai.com/post/110094",
-      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/110094\" target=\"_blank\">查看全文</a>",
-      "published": "2026-06-01 03:01",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "本月玩什么｜混音青春、007 初露锋芒、归零巡礼、地平线 6",
-      "url": "https://sspai.com/post/110488",
-      "summary": "给你的快乐查漏补缺。<a href=\"https://sspai.com/post/110488\" target=\"_blank\">查看全文</a>",
-      "published": "2026-05-31 06:36",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "AI 如何影响你的审美？",
-      "url": "https://sspai.com/post/110172",
-      "summary": "去感受、去思考、去创作吧，这是只有身为人类的你能做到的事情。<a href=\"https://sspai.com/post/110172\" target=\"_blank\">查看全文</a>",
-      "published": "2026-05-30 09:04",
       "source": "sspai.com",
       "lang": "zh_cn",
       "category": "科技"
