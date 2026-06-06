@@ -1,112 +1,418 @@
 {
-  "last_updated": "2026-06-05 02:05:38",
+  "last_updated": "2026-06-06 01:57:03",
   "total": 52,
   "articles": [
     {
-      "title": "南向资金净买入额达20亿港元",
-      "url": "https://36kr.com/newsflashes/3839630825032192?f=rss",
-      "summary": "36氪获悉，南向资金净买入额达20亿港元。",
-      "published": "2026-06-05 01:54",
+      "title": "SpaceX IPO已获得2倍认购资金",
+      "url": "https://36kr.com/newsflashes/3841030859081984?f=rss",
+      "summary": "据两名知情人士周五透露，SpaceX本次IPO获约1500亿美元投资者认购资金，认购额度达募资计划的两倍。作为史上规模最大IPO，该认购热度已十分亮眼。知情人士提示，项目目前仍处于前期推介阶段，大型机构资金往往在 IPO申购末期才递交订单，当前统计数据仅为意向申购，并非最终配售额度，实际获配数量将在定价环节敲定。（第一财经）",
+      "published": "2026-06-06 01:38",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "泰国寻求6月底前与美国达成贸易协议，目标关税为10%",
-      "url": "https://36kr.com/newsflashes/3839625165769224?f=rss",
-      "summary": "泰国正努力在6月底前与美国完成贸易谈判。泰国商业部长素塔攀表示，泰国正寻求与美国达成互惠贸易协定，可能有助于将拟议的关税税率降低至10%。他表示，泰国仍有约25个悬而未决的问题需要解决，才能达成协议。政府将派遣贸易代表前往华盛顿，密切关注谈判的最后阶段。（新浪财经）",
-      "published": "2026-06-05 01:48",
+      "title": "花旗维持对美联储年内降息3次的预测",
+      "url": "https://36kr.com/newsflashes/3841029124016387?f=rss",
+      "summary": "6月6日，花旗维持对美联储年内降息3次的预测：美联储将在9月、10月和12月分别降息25个基点。（财联社）",
+      "published": "2026-06-06 01:36",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "小鹏机器人核心产品一号位施晓鑫6月初主动离职",
-      "url": "https://36kr.com/newsflashes/3839618628192773?f=rss",
-      "summary": "36氪独家获悉，小鹏机器人产品规划高级总监施晓鑫已于6月初正式离职。关于施晓鑫的下一步去向，目前尚不明确。多位信源透露，施晓鑫现阶段无求职意向。知情人士称，施晓鑫已婉拒多家头部机器人企业和造车新势力的邀约，短期暂停职场择业，优先休整。",
-      "published": "2026-06-05 01:42",
+      "title": "SpaceX与谷歌达成每月9.2亿美元的云服务协议",
+      "url": "https://36kr.com/newsflashes/3841028145236227?f=rss",
+      "summary": "6月6日，SpaceX和谷歌达成云服务协议。根据该协议，谷歌同意从2026年10月到2029年6月每月向SpaceX支付9.2亿美元。SpaceX提供的算力包括11万块英伟达GPU、CPU以及内存。（财联社）",
+      "published": "2026-06-06 01:35",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "5月份中国大宗商品价格指数继续上扬",
-      "url": "https://36kr.com/newsflashes/3839608231610631?f=rss",
-      "summary": "中国物流与采购联合会今天公布5月份中国大宗商品价格指数。随着国内需求稳定释放，企业生产活动保持扩张，大宗商品价格指数继续上扬，大宗商品市场整体运行平稳。5月份中国大宗商品价格指数为132.5点，环比上涨0.3%，同比上涨20.2%。在中国物流与采购联合会重点监测的50种大宗商品中，5月份价格环比上涨的大宗商品有21种。其中，碳酸锂、精炼锡和天然橡胶涨幅居前，环比分别上涨12.2%、9.9%和6.2%。（央视新闻）",
-      "published": "2026-06-05 01:31",
+      "title": "美股三大指数收盘集体下跌，纳指跌超4%",
+      "url": "https://36kr.com/newsflashes/3841026664204546?f=rss",
+      "summary": "36氪获悉，6月6日收盘，美股三大指数集体下跌，道指跌1.35%，纳指跌4.18%，标普500指数跌2.64%。大型科技股集体下跌，美光科技跌超13%，英伟达跌超6%，特斯拉跌超6%，Meta跌超5%，苹果跌超1%。热门中概股集体下跌，百度跌超9%，蔚来、小鹏跌超5%，阿里巴巴跌超3%，拼多多跌近1%。",
+      "published": "2026-06-06 01:34",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "A股三大指数集体低开，唯特偶跌超9%",
-      "url": "https://36kr.com/newsflashes/3839603838994693?f=rss",
-      "summary": "36氪获悉，A股三大指数集体低开，沪指低开0.32%，深成指低开0.42%，创业板指低开0.22%；半导体、电脑硬件、煤炭板块跌幅居前，唯特偶跌超9%，江波龙跌超5%，晋控煤业跌超2%；能源设备、生物科技、制药板块领涨，舒泰神、美诺华涨超4%，杰瑞股份涨超3%。",
-      "published": "2026-06-05 01:27",
+      "title": "Show HN: ABC Classic 100 Rankings visualised",
+      "url": "https://classic100.gotski.workers.dev/",
+      "summary": "",
+      "published": "2026-06-06 01:32",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The intracies of modern camera lens repair (2024)",
+      "url": "https://salvagedcircuitry.com/sigma-45mm.html",
+      "summary": "",
+      "published": "2026-06-06 00:33",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "More than a decade later, the team behind N++ is back with a multiplayer sequel",
+      "url": "https://www.theverge.com/entertainment/943194/metanet-n-plus-plus-multiplayer-sequel",
+      "summary": "Back in 2015, the two-person studio Metanet released N++, a brutally hard 2D platformer that was a decade in the making, building off of previous releases dating back to the freeware Flash title N. At the time, cofounder Raigan Burns issued some famous last words: \"We hope it's not another 10 years before we come [&#8230;]",
+      "published": "2026-06-05 23:25",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Grand Theft Auto VI is warping the video game release calendar",
+      "url": "https://www.theverge.com/entertainment/944229/grand-theft-auto-6-release-calendar-summer-game-fest",
+      "summary": "Who's afraid of the next GTA? Based on the last few days of Summer Game Fest, just about everyone. Grand Theft Auto VI hasn't been present at any of the keynote events, but its presence was felt every time a release date was announced. The month of November, when GTA VI launches, is virtually empty. [&#8230;]",
+      "published": "2026-06-05 23:05",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Final Fantasy VII&#8217;s remake trilogy will conclude with Revelation",
+      "url": "https://www.theverge.com/games/939396/final-fantasy-vii-revelation-remake-trilogy-third-game-announcement",
+      "summary": "Square Enix has officially announced the third and final game in its Final Fantasy VII remake trilogy: Final Fantasy VII Revelation. It will release on multiple platforms simultaneously - PC, PS5, Xbox Series X / S, and Nintendo Switch 2 - in spring 2027. In footage shown onstage at Summer Game Fest Live, there was [&#8230;]",
+      "published": "2026-06-05 22:52",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Reid Hoffman is leaving Microsoft’s board to go ‘founder mode’ with  startup Manus",
+      "url": "https://techcrunch.com/2026/06/05/reid-hoffman-is-leaving-microsofts-board-to-go-founder-mode-with-startup-manus/",
+      "summary": "After a very profitable decade on Microsoft's board, Reid Hoffman is stepping down to focus on his AI drug discovery startup Manus.",
+      "published": "2026-06-05 22:35",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Founders share VC horror stories, and some are naming names",
+      "url": "https://techcrunch.com/2026/06/05/founders-share-vc-horror-stories-and-some-are-naming-names/",
+      "summary": "A massive viral conversation sharing VC horror stories has taken place this week on X. Some are weird. Some are infuriating.",
+      "published": "2026-06-05 21:47",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Control Resonant is a sequel — and also a starting point",
+      "url": "https://www.theverge.com/games/944151/control-resonant-hands-on",
+      "summary": "Chronologically, Control Resonant is a sequel to 2019's Control. But in most other ways, the games aren't directly connected. To developer Remedy, they're more like two sides of the same coin. When Resonant was first revealed last year, creative director Mikael Kasurinen said you can play the games in any order. The world of Control [&#8230;]",
+      "published": "2026-06-05 21:45",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Congress still can’t decide what to do about warrantless surveillance",
+      "url": "https://www.theverge.com/policy/944615/section-702-senate-vote-fails-pulte",
+      "summary": "The deadline to reauthorize Section 702 of the Foreign Intelligence Surveillance Act is coming up a week from now on June 12th, and legislators seem no closer to reaching a deal. If this sounds like deja vu, it's because we've been here before. Congress reauthorized Section 702 in late April - but only for 45 [&#8230;]",
+      "published": "2026-06-05 21:15",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Summer Game Fest Live 2026: The biggest news, trailers, and announcements",
+      "url": "https://www.theverge.com/games/939484/summer-game-fest-live-2026-biggest-news-trailers-announcements",
+      "summary": "Geoff Keighley&#8217;s annual June showcase for videos games has officially happened, and it was a big one. Across a two hour event — and another hour for Day of the Devs — we got news about the third Final Fantasy VII remake game, a new look at Control Resonant, the reveal of Tupac for RGG [&#8230;]",
+      "published": "2026-06-05 20:40",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Former cyber executive turned whistleblower accuses IBM of covering up several data breaches",
+      "url": "https://techcrunch.com/2026/06/05/former-cyber-executive-turned-whistleblower-accuses-ibm-of-covering-up-several-data-breaches/",
+      "summary": "IBM and two of its subsidiary companies were allegedly breached during the mid-2010s — a lawsuit filed by a former cybersecurity executive accuses IBM of not disclosing and actively covering it up.",
+      "published": "2026-06-05 20:31",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Startup Battlefield 200 applications officially close in 3 days",
+      "url": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
+      "summary": "Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on the Disrupt Stage at TechCrunch Disrupt 2026 this October at San Francisco's Moscone West.",
+      "published": "2026-06-05 20:00",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Google will pay SpaceX $920M per month for compute",
+      "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+      "summary": "In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products.",
+      "published": "2026-06-05 18:57",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Gone in 60 minutes",
+      "url": "https://www.theverge.com/entertainment/944337/gone-in-60-minutes",
+      "summary": "It should have been the final straw. The new power couple of editorial failure - Bari Weiss and Nick Bilton - had fired legendary 60 Minutes journalist Scott Pelley. Why? Because he dared to question the fact that CBS had installed sycophants in its top ranks. Instead of standing in solidarity, correspondents Lesley Stahl, Bill [&#8230;]",
+      "published": "2026-06-05 18:44",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "GM’s electric future depends on a new battery — and this facility",
+      "url": "https://techcrunch.com/2026/06/05/gms-electric-future-depends-on-a-new-battery-and-this-building/",
+      "summary": "GM wants to slash EV prices by deploying new battery tech up to a year earlier than planned. This building is key to making that happen.",
+      "published": "2026-06-05 17:44",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "As VC-backed e-bike startups went bankrupt, bootstrapped Lectric grew",
+      "url": "https://techcrunch.com/2026/06/05/as-vc-backed-e-bike-startups-went-bankrupt-bootstrapped-lectric-grew/",
+      "summary": "Lectric, which says the U.S. market is ripe for competition and choice, has launched three new brands in the past six months.",
+      "published": "2026-06-05 17:38",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The most interesting startups right now want to get you off your phone",
+      "url": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
+      "summary": "While the AI fundraising machine&#160;keeps breaking its own records, some founders are building in the other direction.&#160; Mirror founder Brynn Putnam just raised money for&#160;Board, a startup focused on bringing people together through in-person games and social experiences.&#160;Cyberdeck creators are going viral&#160;crafting whimsical DIY computers that&#160;literally encourage&#160;users to touch grass. Unlike the&#160;AI-free browser crowd, this&#160;doesn&#8217;t&#160;just&#160;feel&#160;like&#160;backlash, [&#8230;]",
+      "published": "2026-06-05 17:17",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The Sonos Era 100 speaker is down to its lowest price in months",
+      "url": "https://www.theverge.com/gadgets/944095/sonos-era-100-google-nest-doorbell-deal-sale",
+      "summary": "Whether you’re considering starting a Sonos speaker setup, or adding to an existing group, the Sonos Era 100 is worth picking up. The compact, capable smart speaker is currently marked down to $189 ($30 off) at a variety of retailers, including Amazon, Best Buy, and directly from Sonos. If you want an even lower price, [&#8230;]",
+      "published": "2026-06-05 17:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "This is your laptop… on AI",
+      "url": "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast",
+      "summary": "We're now deep into developer conference season, and one of the themes so far is the relentless conviction from Big Tech companies that AI is going to change everything about how we do everything. Nvidia's Jensen Huang made that clearer than anyone this week, when he described a completely new way of using our laptops [&#8230;]",
+      "published": "2026-06-05 16:39",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Supabase doubles valuation to $10B in 8 months",
+      "url": "https://techcrunch.com/2026/06/05/supabase-doubles-valuation-to-10b-in-8-months/",
+      "summary": "Supabase, an example of an open source project becoming a fast-growing company, has greatly benefited from AI tools like Claude, Codex, and other vibe-coding platforms.",
+      "published": "2026-06-05 16:32",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
+      "summary": "",
+      "published": "2026-06-05 16:18",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "What happens when your phone is confiscated at the airport",
+      "url": "https://www.theverge.com/report/944076/cbp-airport-phone-searches-seizure-minneapolis-activists",
+      "summary": "Even if you've done nothing wrong, it's never a good idea to hand your phone to the cops. But international travelers at American airports often have no choice - even if they're US citizens. When Minnesota labor organizer Janette Zahia Corcelius returned home from a three-week trip to Europe in late April, she was detained [&#8230;]",
+      "published": "2026-06-05 16:15",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Google and FBI warn of ransomware group that sends fake IT workers to hack victims in person",
+      "url": "https://techcrunch.com/2026/06/05/google-and-fbi-warn-of-ransomware-group-that-sends-fake-it-workers-to-hack-victims-in-person/",
+      "summary": "Cybercriminals, part of a gang known as Silent Ransom Group, have sent people pretending to be IT support employees to law firms' offices, where the criminals have stolen data using USB drives or remote access tools.",
+      "published": "2026-06-05 16:07",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "pg_durable: Microsoft open sources in-database durable execution",
+      "url": "https://github.com/microsoft/pg_durable",
+      "summary": "",
+      "published": "2026-06-05 15:59",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "New method turns ocean water into drinking water, without waste",
+      "url": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
+      "summary": "",
+      "published": "2026-06-05 15:04",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
+      "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
+      "summary": "",
+      "published": "2026-06-05 15:00",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
+      "url": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
+      "summary": "\"The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?'\"",
+      "published": "2026-06-05 14:49",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "NASA briefly sheltered space station astronauts in SpaceX’s Dragon due to leaks",
+      "url": "https://techcrunch.com/2026/06/05/nasa-briefly-sheltered-space-station-astronauts-in-spacexs-dragon-due-to-leaks/",
+      "summary": "The space agency said Roscosmos discovered new leaks in the Russian service module.",
+      "published": "2026-06-05 14:42",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "热门中概股美股盘前多数下跌，百度跌超4%",
+      "url": "https://36kr.com/newsflashes/3840284182268417?f=rss",
+      "summary": "36氪获悉，热门中概股美股盘前多数下跌，截至发稿，百度跌超4%，拼多多、蔚来、小鹏集团跌超1%，网易跌0.91%，阿里巴巴跌0.74%，京东涨超1%，爱奇艺涨0.93%，哔哩哔哩涨0.56%。",
+      "published": "2026-06-05 12:59",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "央行今日开展2150亿元7天期逆回购操作",
-      "url": "https://36kr.com/newsflashes/3839601906207233?f=rss",
-      "summary": "36氪获悉，央行今日开展2150亿元7天期逆回购操作，操作利率为1.40%，与上期保持不变。今日有1230亿元7天期逆回购到期。",
-      "published": "2026-06-05 01:25",
+      "title": "欧盟一季度GDP环比下降0.1%",
+      "url": "https://36kr.com/newsflashes/3840280375773698?f=rss",
+      "summary": "当地时间6月5日，欧盟统计局公布的初步数据显示，经季节调整后，2026年第一季度欧盟国内生产总值（GDP）环比下降0.1%，欧元区GDP环比下降0.2%。而2025年第四季度，欧盟和欧元区经济均实现0.2%的环比增长。数据还显示，按年率计算，今年第一季度欧盟经济同比增长0.7%，欧元区同比增长0.3%，均低于上一季度分别1.4%和1.2%的增速，显示欧洲经济增长势头有所放缓。（央视新闻）",
+      "published": "2026-06-05 12:55",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "恒指开盘跌0.27%，恒生科技指数跌0.31%",
-      "url": "https://36kr.com/newsflashes/3839599515797760?f=rss",
-      "summary": "36氪获悉，恒指开盘跌0.27%，恒生科技指数跌0.31%；电气设备、医药生物板块领涨，天辰生物涨超50%，宁德时代涨超1%；半导体、硬件设备板块跌幅居前，联想集团跌超4%，华虹半导体跌超3%。",
-      "published": "2026-06-05 01:22",
+      "title": "美股大型科技股盘前涨跌不一，英特尔跌超3%",
+      "url": "https://36kr.com/newsflashes/3840277452654853?f=rss",
+      "summary": "36氪获悉，美股大型科技股盘前涨跌不一，截至发稿，英特尔跌超3%，英伟达跌超1%，英伟达跌0.96%，Meta跌0.6%，亚马逊跌0.59%，特斯拉涨0.63%，苹果涨0.54%，微软涨0.4%。",
+      "published": "2026-06-05 12:52",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "“原力灵机”完成新一轮融资",
-      "url": "https://36kr.com/newsflashes/3839587324037637?f=rss",
-      "summary": "36氪获悉，具身智能企业“原力灵机”近期完成新一轮融资，资方主要为数家大模型公司，包括智谱、阶跃星辰、商汤科技、阿里。此外，华勤、上汽恒旭等产业投资方持续加注。",
-      "published": "2026-06-05 01:10",
+      "title": "交易员预计美联储将到明年1月底前加息",
+      "url": "https://36kr.com/newsflashes/3840269897075208?f=rss",
+      "summary": "交易员预计美联储将到明年1月底前加息，此前预期到明年3月底前。（财联社）",
+      "published": "2026-06-05 12:44",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "“毫秒智控”完成数千万元天使+轮融资",
-      "url": "https://36kr.com/newsflashes/3839585708345606?f=rss",
-      "summary": "36氪获悉，线控底盘核心零部件供应商“毫秒智控”已于近期完成数千万元天使+轮融资，本轮投资方为松禾资本和苏高新融晟。这也是公司成立仅一年以来，继获得厚雪资本天使轮独家投资后，接连完成的第二轮融资。",
-      "published": "2026-06-05 01:08",
+      "title": "Did Claude increase bugs in rsync?",
+      "url": "https://alexispurslane.github.io/rsync-analysis/",
+      "summary": "",
+      "published": "2026-06-05 12:43",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "住建部就《住房公积金管理条例（修订征求意见稿）》公开征求意见",
+      "url": "https://36kr.com/newsflashes/3840263251364100?f=rss",
+      "summary": "36氪获悉，住房城乡建设部发布关于《住房公积金管理条例（修订征求意见稿）》公开征求意见的通知。职工有下列情形之一的，可以提取职工住房公积金账户内的存储余额：（一）支付房租的；（二）购买、建造、翻建、大修自住住房的；（三）偿还购房贷款本息的；（四）装修自住住房不超过一定额度的；（五）支付自住住房物业费的；（六）离休、退休的；（七）完全丧失劳动能力，并与单位终止劳动（人事）关系的；（八）出境定居的；（九）经国务院批准的其他住房消费情形。",
+      "published": "2026-06-05 12:37",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "商务部：1-4月我国服务进出口总额24853.2亿元",
-      "url": "https://36kr.com/newsflashes/3839582829840645?f=rss",
-      "summary": "2026年1-4月，我国服务进出口总额24853.2亿元（人民币，下同），同比增长4.9%。其中，出口9850亿元，增长15%；进口15003.2亿元，下降0.8%。服务贸易逆差5153.2亿元，比上年同期缩小1397.4亿元。（央视新闻）",
-      "published": "2026-06-05 01:05",
+      "title": "比特币暴跌致美国政府持仓市值缩水过半",
+      "url": "https://36kr.com/newsflashes/3840252580153864?f=rss",
+      "summary": "据区块链分析机构Glassnode数据，受加密货币行情走弱影响，美国政府所持比特币资产市值从10月峰值407亿美元跌至208亿美元。这批比特币全部来自罚没涉案资产。（新浪财经）",
+      "published": "2026-06-05 12:35",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "现货白银日内跌幅扩大至1%",
-      "url": "https://36kr.com/newsflashes/3839580441610752?f=rss",
-      "summary": "36氪获悉，现货白银日内跌幅扩大至1%，报72.95美元/盎司。",
-      "published": "2026-06-05 01:03",
+      "title": "美国5月非农就业人数增加17.2万人",
+      "url": "https://36kr.com/newsflashes/3840259317549318?f=rss",
+      "summary": "美国劳工统计局6月5日发布数据显示，美国5月非农就业人数增加17.2万人。（界面）",
+      "published": "2026-06-05 12:33",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "深圳华强：近期海思部分产品价格上涨，公司将做好相关产品推广",
-      "url": "https://36kr.com/newsflashes/3839577012046342?f=rss",
-      "summary": "36氪获悉，深圳华强在机构调研时表示，公司是华为海思主要授权分销商。近年来，海思陆续推出新产品，公司持续加大海思产品的应用方案研发与推广力度，促进海思产品的市场拓展，推动该产品线收入持续增长。近期，海思部分产品价格上涨，公司将进一步把握市场机遇，做好相关产品推广。",
-      "published": "2026-06-05 00:59",
+      "title": "天孚通信：2025年度权益分派10派7元转增4股",
+      "url": "https://36kr.com/newsflashes/3840240487303682?f=rss",
+      "summary": "36氪获悉，天孚通信公告，公司2025年度权益分派方案为：以现有总股本779,160,781股为基数，向全体股东每10股派发现金红利7.00元(含税)，合计派发5.45亿元(含税)，同时以资本公积金每10股转增4股，转增后总股本增至1,090,825,093股。股权登记日为2026年6月11日，除权除息日为2026年6月12日。",
+      "published": "2026-06-05 12:27",
       "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "本周看什么 | 最近值得一看的 8 部作品",
+      "url": "https://sspai.com/post/110786",
+      "summary": "📅本周新预告《逃出绝命街》正式预告6月1日，电影《逃出绝命街》发布了正式预告，将于8月14日在北美上映。大卫·罗伯特·米切尔执导，J·J·艾布拉姆斯制片，安妮·海瑟薇、伊万·麦克格雷格主演，一场雷暴之 ...<a href=\"https://sspai.com/post/110786\" target=\"_blank\">查看全文</a>",
+      "published": "2026-06-05 10:19",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "macOS 存储管理漫谈：去重是节约空间的最好方法",
+      "url": "https://sspai.com/prime/story/macos-storage-management-deduplication",
+      "summary": "虽然最近各种用LLM帮忙整理电脑里的文件、删除垃圾数据的帖子很火，但我天然对这种LLM用法抱有一丝警惕，我始终相信电脑里存在的文件都有自己的意义。所以我就想在这篇文章里和大家聊聊macOS里的存储管理 ...<a href=\"https://sspai.com/prime/story/macos-storage-management-deduplication\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a>，订阅后可阅读全文。</p>",
+      "published": "2026-06-05 10:00",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "31 位普通人，给一只背包开出了成绩单",
+      "url": "https://sspai.com/post/110666",
+      "summary": "写在前面一只背包，能不能让你体面地背去客户的会议室，也能陪你参加朋友聚会？装下两三天的差旅行李之后，它还能让你背得轻松吗？当包里同时塞着笔记本、平板和各种重设备，容量、舒适与防护，究竟能不能兼得？带着 ...<a href=\"https://sspai.com/post/110666\" target=\"_blank\">查看全文</a>",
+      "published": "2026-06-05 08:55",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "再谈响度战争：为什么你看的视频越来越「吵」了？",
+      "url": "https://sspai.com/post/109483",
+      "summary": "「看视频」这件事，本不应该是一场「战争」。<a href=\"https://sspai.com/post/109483\" target=\"_blank\">查看全文</a>",
+      "published": "2026-06-05 07:21",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "WWDC26 开幕在即，今年有哪些看点值得关注？",
+      "url": "https://sspai.com/post/110669",
+      "summary": "今年WWDC全球开发者大会即将在北京时间6月9日凌晨拉开帷幕，对Apple来说今年这一次活动是一个非常关键的节点：首先，2024年WWDC上画的饼至今没有兑现，而AI竞赛在2026年已经进入了白热化， ...<a href=\"https://sspai.com/post/110669\" target=\"_blank\">查看全文</a>",
+      "published": "2026-06-05 03:45",
+      "source": "sspai.com",
       "lang": "zh_cn",
       "category": "科技"
     },
@@ -117,258 +423,6 @@
       "published": "2026-06-05 00:52",
       "source": "sspai.com",
       "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "Meta enables adb on deprecated Portal devices",
-      "url": "https://fb.watch/HxPu0fSyeH/",
-      "summary": "",
-      "published": "2026-06-05 00:44",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Founders Fund launches game show starring Sam Altman, Palmer Luckey, and other tech elites",
-      "url": "https://techcrunch.com/2026/06/04/founders-fund-launches-game-show-starring-sam-altman-palmer-luckey-and-other-tech-elites/",
-      "summary": "The debut episode, moderated by Founders Fund chief marketing officer Mike Solana, included a star-studded cast of current tech luminaries.",
-      "published": "2026-06-05 00:06",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Open Code Review – An AI-powered code review CLI tool",
-      "url": "https://github.com/alibaba/open-code-review",
-      "summary": "",
-      "published": "2026-06-05 00:04",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Do transformers need three projections? Systematic study of QKV variants",
-      "url": "https://arxiv.org/abs/2606.04032",
-      "summary": "",
-      "published": "2026-06-04 23:11",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Valve says it&#8217;s ready to launch the Steam Machine this summer",
-      "url": "https://www.theverge.com/games/943657/valve-steam-machine-frame-summer-launch-verified",
-      "summary": "Valve now says that the delayed Steam Machine PC and Steam Frame VR headset are set to launch sometime this summer. In a Thursday blog post detailing its Verified programs for both pieces of hardware, Valve concludes by saying that \"We're excited for players to try your titles on the new Steam hardware once they [&#8230;]",
-      "published": "2026-06-04 22:48",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
-      "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
-      "summary": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory faces a real test, though.",
-      "published": "2026-06-04 22:43",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
-      "url": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
-      "summary": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready.",
-      "published": "2026-06-04 22:29",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Filtr is a new privacy tool that blocks ads in almost every iPhone and Mac app",
-      "url": "https://techcrunch.com/2026/06/04/filtr-is-a-new-privacy-tool-that-blocks-ads-in-almost-every-iphone-and-mac-app/",
-      "summary": "This popular ad blocker app for iPhones, iPads, and Macs can now block ads from loading inside apps, including web browsers, thanks to a new feature in the latest Apple software.",
-      "published": "2026-06-04 21:44",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
-      "url": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
-      "summary": "On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring some of the most consequential shifts taking place across venture capital, defense technology, artificial intelligence, and advanced industry. Secure your spot today.",
-      "published": "2026-06-04 21:30",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Startup Battlefield is returning to Australia — here’s what happened the last time we came to Sydney",
-      "url": "https://techcrunch.com/2026/06/04/startup-battlefield-is-returning-to-australia-heres-what-happened-the-last-time-we-came-to-sydney/",
-      "summary": "On August 19, Startup Battlefield is returning to Sydney in partnership with Stripe, one of the world's most iconic technology companies. We're taking over Stripe Tour Sydney for a night that the Australian startup ecosystem won't forget.",
-      "published": "2026-06-04 20:55",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
-      "url": "https://github.com/anthropics/defending-code-reference-harness",
-      "summary": "",
-      "published": "2026-06-04 20:11",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Cyberdecks used to look like little laptops, but now they&#8217;re getting more personal",
-      "url": "https://www.theverge.com/tech/943445/cyberdeck-tiktok",
-      "summary": "DIYer and TikTok user Annike Tan, who goes by @ubeboobey, can carry her cyberdeck around without anyone noticing because it doesn't look like a computer at all. Tan, who has been featured in The Cut and Wired, went viral earlier this year with a mermaid-themed cyberdeck she made inside an old purse. She has since [&#8230;]",
-      "published": "2026-06-04 20:07",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Meta steals a tactic from Tesla and builds data centers in tents",
-      "url": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/",
-      "summary": "Meta may have found one way to slash its massive data center bill: tents.",
-      "published": "2026-06-04 19:33",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
-      "url": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
-      "summary": "Poke, the startup that lets people use AI agents through simple text messages, has become the first AI agent approved for Apple’s Messages for Business platform.",
-      "published": "2026-06-04 19:20",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Helion, the Sam Altman-backed fusion startup, raises $465M to build a power plant for Microsoft",
-      "url": "https://techcrunch.com/2026/06/04/helion-the-sam-altman-backed-fusion-startup-raises-465m-to-build-a-power-plant-for-microsoft/",
-      "summary": "Fusion startup Helion is racing to complete a power plant for Microsoft by 2028. A fresh infusion of cash should help with that.",
-      "published": "2026-06-04 18:54",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Kevin O’Leary agrees to downsize massive Utah data center",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/943234/kevin-oleary-agrees-to-downsize-massive-utah-data-center",
-      "summary": "Kevin O'Leary agreed to halve the size of his planned 40,000-acre data center in Utah amid mounting pressure from residents and activists, as reported earlier by local affiliate ABC4. The Shark Tank star sent a letter to Utah Senate President J. Stuart Adams on Thursday, saying that he will remove 19,430 acres from the project, [&#8230;]",
-      "published": "2026-06-04 18:38",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Google is letting social media stars customize their search result page",
-      "url": "https://www.theverge.com/tech/943233/google-search-profiles-custom-page",
-      "summary": "Google now lets big creators and publishers in the US claim dedicated profiles in Search to highlight things like videos, articles, and their other profiles online. But this feature won't be available to most people or organizations; Google is limiting it to people with at least 100,000 YouTube subscribers, 100,000 followers on Instagram or X, [&#8230;]",
-      "published": "2026-06-04 18:32",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Amazon’s new plan for games: James Bond and AI Snoop Dogg",
-      "url": "https://www.theverge.com/games/943147/amazon-gaming-strategy-james-bond-snoop-dogg-luna",
-      "summary": "Amazon's gaming strategy has never really been clear. It's been very active in the space: acquiring Twitch, launching its Luna cloud gaming service nearly six years ago, investing heavily in MMOs during the peak of live-service wave, and having access to a huge slate of franchises through Prime Video and the MGM Studios library. Late [&#8230;]",
-      "published": "2026-06-04 17:01",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Meta’s Oversight Board says account bans lack due process, transparency",
-      "url": "https://techcrunch.com/2026/06/04/metas-oversight-board-says-account-bans-lack-due-process-transparency/",
-      "summary": "Meta's board cites \"due process\" concerns over account bans. It's also pushing Meta to offer clear information about violations and its use in AI in making its determinations.",
-      "published": "2026-06-04 16:47",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Meta rolls out a new AI creator assistant on Facebook",
-      "url": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
-      "summary": "Creators often have to parse through charts and dashboards to understand their performance, but with the new AI assistant, they can get quick answers to questions like \"When should I post?\" and \"What are people saying in my comments?\"",
-      "published": "2026-06-04 16:32",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
-      "url": "https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
-      "summary": "Apple's WWDC nears: Here's what you can look forward to.",
-      "published": "2026-06-04 16:31",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
-      "url": "https://www.anthropic.com/institute/recursive-self-improvement",
-      "summary": "",
-      "published": "2026-06-04 16:20",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Belkin’s new Joy-Con grips also boost the Switch 2’s battery life",
-      "url": "https://www.theverge.com/tech/942617/belkin-gaming-charging-grip-nintendo-switch-2-joy-con-controller",
-      "summary": "Most of Belkin's Switch 2 accessories are designed to either protect or power up Nintendo's latest handheld, like its Charging Case Pro that actually does both at the same time. Its new multitasking Charging Grip can also add three or four more hours of playtime through an included 10,000mAh battery pack, while improving the Switch [&#8230;]",
-      "published": "2026-06-04 16:00",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Cash App made a magic wand for contactless payments",
-      "url": "https://www.theverge.com/tech/942897/cash-app-tags-magic-wand-contactless-payments-price-launch",
-      "summary": "The convenience of contactless payments can already feel magical, but Cash App is really leaning into that with its latest accessory. The mobile payment service is launching the Cash App Wand: an NFC-enabled, iridescent, star-topped wand that allows users to make on-the-go payments without pulling out their phone or card. This plays on a popular [&#8230;]",
-      "published": "2026-06-04 16:00",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Windows is back on the Microsoft menu",
-      "url": "https://www.theverge.com/tech/943108/microsoft-build-2026-windows-love-notepad",
-      "summary": "I can't remember the last time Microsoft kicked off a Build keynote with Windows front and center, but that's exactly what CEO Satya Nadella did this week. Nadella didn't address the issues Microsoft is trying to fix in Windows 11 but chose to woo the audience with Microsoft's slick Surface RTX Spark Dev Kit instead, [&#8230;]",
-      "published": "2026-06-04 16:00",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Remarkable’s refurbished Paper Pro bundle is hundreds off",
-      "url": "https://www.theverge.com/gadgets/942999/remarkable-paper-pro-vizio-soundbar-marathon-deal-sale",
-      "summary": "Color E Ink tablets aren’t usually affordable. I’m not going to say that Woot’s price on a refurbished “good as new” Remarkable Paper Pro is cheap, but it’s pretty fantastic compared to buying one new. Normally $629 just for the tablet, you can get a bundle that includes the big 11.8-inch Paper Pro plus $139 [&#8230;]",
-      "published": "2026-06-04 15:46",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "TSMC struggles to keep up with AI demand: &#8216;We can only support so much&#8217;",
-      "url": "https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles",
-      "summary": "Taiwan Semiconductor Manufacturing Co. - the world's biggest semiconductor-maker - is struggling to meet demands from American customers even with its factory buildout in the US, according to reports from Reuters and Bloomberg. \"Customer demand is so high, and we can only support so much,\" TSMC CEO C.C. Wei said after a shareholder meeting on [&#8230;]",
-      "published": "2026-06-04 14:15",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "VoidZero Is Joining Cloudflare",
-      "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
-      "summary": "",
-      "published": "2026-06-04 13:00",
-      "source": "Hacker News",
-      "lang": "en",
       "category": "科技"
     },
     {
@@ -408,66 +462,12 @@
       "category": "科技"
     },
     {
-      "title": "小车车里的大世界：车模收藏入坑指南",
-      "url": "https://sspai.com/post/110114",
-      "summary": "从小时候第一台保时捷卡宴车模，到工作后重新入坑小米 SU7，本文的作者把自己这些年收藏车模的经验整理成了一篇新手指南。文章从 1:18、1:43、1:64 等常见的车模比例谈起，涵盖了品牌选择、购买渠道、创意玩法等，很适合新手入坑。车模不只是玩具，也是一种能放在桌面上的汽车梦。<a href=\"https://sspai.com/post/110114\" target=\"_blank\">查看全文</a>",
-      "published": "2026-06-03 09:00",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "让原生体验「接地气」：Pixel Text 与「原点系列」工具集",
-      "url": "https://sspai.com/post/110458",
-      "summary": "「原点系列」希望能在那些真正影响使用的地方做一些细致的修补，这个名字也代表着我对工具应用的一点执念。一个工具最好有清楚的边界，知道自己要解决什么，也知道自己不应该做什么。<a href=\"https://sspai.com/post/110458\" target=\"_blank\">查看全文</a>",
-      "published": "2026-06-03 07:00",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "App+1 | 零基础 3 分钟在线搞定产品演示视频：Mockup Studio",
-      "url": "https://sspai.com/post/110059",
-      "summary": "既不用安装客户端，也不用学习剪辑，Mockup Studio 帮你轻松制作产品演示视频。<a href=\"https://sspai.com/post/110059\" target=\"_blank\">查看全文</a>",
-      "published": "2026-06-03 03:19",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "Branchless Quicksort faster than std:sort and pdqsort with C and C++ API",
-      "url": "https://tiki.li/blog/blqsort",
+      "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows",
+      "url": "https://mouseless.click",
       "summary": "",
-      "published": "2026-06-02 20:00",
+      "published": "2026-06-03 13:22",
       "source": "Hacker News",
       "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Reverse-Engineered Userspace Driver for Asus ZenVision Lid OLED on Linux\"",
-      "url": "https://github.com/tarpediem/zenvision-linux",
-      "summary": "",
-      "published": "2026-06-02 10:29",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "得力管家还是多此一举？聊聊 macOS 后台进程管理工具 App Tamer",
-      "url": "https://sspai.com/prime/story/manage-macos-background-activities-with-app-tamer",
-      "summary": "AppTamer是St.ClairSoftware开发多年的一款菜单栏工具。它常驻后台、实时监控所有运行中的进程，主打以可视化的方式管控应用后台资源占用。通过AppTamer，用户既可以设定进程的CP ...<a href=\"https://sspai.com/prime/story/manage-macos-background-activities-with-app-tamer\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a>，订阅后可阅读全文。</p>",
-      "published": "2026-06-02 07:39",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "在视频时代，认真拍一张照片：OPPO Find X9 Ultra 影像漫谈",
-      "url": "https://sspai.com/post/110550",
-      "summary": "HDR 为静态图像的观看体验打开了一种新的可能。<a href=\"https://sspai.com/post/110550\" target=\"_blank\">查看全文</a>",
-      "published": "2026-06-02 06:57",
-      "source": "sspai.com",
-      "lang": "zh_cn",
       "category": "科技"
     }
   ]
