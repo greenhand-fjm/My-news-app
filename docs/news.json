@@ -1,95 +1,329 @@
 {
-  "last_updated": "2026-06-07 02:12:24",
+  "last_updated": "2026-06-08 02:15:06",
   "total": 52,
   "articles": [
     {
-      "title": "比特币升破61000美元，日内涨0.34%",
-      "url": "https://36kr.com/newsflashes/3842435675932928?f=rss",
-      "summary": "比特币升破61000美元，日内涨0.34%。（新浪财经）",
-      "published": "2026-06-07 01:58",
+      "title": "“绿色康成”完成数千万元pre-A轮融资",
+      "url": "https://36kr.com/newsflashes/3843894496528897?f=rss",
+      "summary": "36氪获悉，近日，生物制造企业“绿色康成”宣布完成数千万元pre-A轮融资。本轮由北京国管旗下的北京市绿色能源和低碳产业投资基金、以及未来科学城集团旗下的北京未来星科创业投资中心和北京昌建发投资管理中心联合投资。本轮融资将主要用于：加速高价值产品管线的工艺放大与产能建设；推进核心原料的国际认证及全球市场拓展；启动新一代规模化生产线的前期工程。",
+      "published": "2026-06-08 02:11",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "韩国投资者持续买入中国硬科技",
-      "url": "https://36kr.com/newsflashes/3842433670941190?f=rss",
-      "summary": "近期，韩国投资者正持续加码布局中国硬科技资产。数据显示，过去1个月，寒武纪、麦格米特、机器人ETF华夏、宁德时代等成为最受韩国投资者青睐的A股投资标的，AI芯片龙头寒武纪更是获得近2000万美元净买入。此外，多只在美上市的海外中国科技ETF也迎来资金显著净流入。多家外资机构认为，中国科技领域兼具高增长空间与估值优势，在全球资产配置中具备稀缺投资价值，海外资金正加速捕捉中国科技产业发展红利。 (上海证券报)",
-      "published": "2026-06-07 01:47",
+      "title": "南向资金净买入额达20亿港元",
+      "url": "https://36kr.com/newsflashes/3843891718687240?f=rss",
+      "summary": "36氪获悉，南向资金净买入额达20亿港元。",
+      "published": "2026-06-08 02:08",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
-      "url": "https://arxiv.org/abs/2601.14470",
+      "title": "京东旅行上线“宠物出行”专区",
+      "url": "https://36kr.com/newsflashes/3843877373200896?f=rss",
+      "summary": "36氪获悉，京东旅行正式上线“宠物出行”专区，成为国内首家宠物机酒门票一站式预订平台。",
+      "published": "2026-06-08 01:54",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "韩国宣布针对性措施遏制韩元跌势，并抑制投机行为",
+      "url": "https://36kr.com/newsflashes/3843869387376901?f=rss",
+      "summary": "韩元跌至2009年以来最低水平后，韩国政府公布针对性措施来支撑韩元，承诺对投机交易和其他被视为加剧近期波动性的活动采取有力行动。韩国财政部在与央行行长和金融监管机构负责人举行紧急会议后周日表示，首尔制定了一项应对计划，其中包括加强对离岸货币衍生品的监管、对涉嫌市场不当行为进行检查，以及调查潜在的非法外汇交易等。（新浪财经）",
+      "published": "2026-06-08 01:46",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "恒生指数日内跌幅扩大至2%",
+      "url": "https://36kr.com/newsflashes/3843863897246210?f=rss",
+      "summary": "36氪获悉，香港恒生指数日内跌幅扩大至2%。",
+      "published": "2026-06-08 01:40",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
+      "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
       "summary": "",
-      "published": "2026-06-07 01:37",
+      "published": "2026-06-08 01:39",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "我国乘用车12年胖了近400公斤 我国新能源车要减肥了",
-      "url": "https://36kr.com/newsflashes/3842413796624905?f=rss",
-      "summary": "数据显示，2024年，我国乘用车平均整备质量达1704公斤，比2012年足足“胖”了近400公斤。此外，2000年前后，市场常见的家用新能源汽车，车宽多在1.7米。2015年，宽度增加到1.8米。本周，动辄接近2吨重的家用车，正因为变大变胖，引发大家讨论。车企工程师表示，新能源汽车车身每增加10毫米宽度，大约能多塞进0.8度电。但专家说，车辆变“胖”不仅这一个原因。专家介绍：有些车企通过续航里程做卖点，号称车可以充一次电开800公里、1000公里，其实背后是要在车里面装一个很大的电池包，一个大的电池包可能有七八百公斤。甚至有些车企把马桶都设计到车里去了，就是为了让车企的产品在市场中脱颖而出。今年1月1日，一项针对电动汽车的强制性国标正式实施。凡是能耗不达标的新车型，工信部将不予备案，车辆无法生产、销售、上牌，引导车企遏制电动汽车日益“肥胖”的趋势。未来，新能源汽车，或将有望回归到标准身材。 (央视财经)",
-      "published": "2026-06-07 01:32",
+      "title": "A股三大指数集体低开，半导体板块跌幅居前",
+      "url": "https://36kr.com/newsflashes/3843850724592130?f=rss",
+      "summary": "36氪获悉，A股三大指数集体低开，沪指低开2.21%，深成指低开3.13%，创业板指低开3.48%；电脑硬件、通信设备、半导体板块跌幅居前，江波龙跌超9%，华虹宏力、长飞光纤跌超8%；摩托车、工程机械板块领涨，隆鑫通用涨超3%，三一重工涨超1%。",
+      "published": "2026-06-08 01:27",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "An Ohio Valley 100k-Watt FM Signal Is Severed in Broad Daylight – Radio World",
-      "url": "https://www.radioworld.com/news-and-business/headlines/an-ohio-valley-100000-watt-fm-signal-is-severed-in-broad-daylight",
+      "title": "Teenage Engineering: Introducing APC-2",
+      "url": "https://teenage.engineering/products/apc-2",
       "summary": "",
-      "published": "2026-06-07 01:24",
+      "published": "2026-06-08 01:27",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "国开行：前4月发放4406亿元贷款支持基础设施建设",
-      "url": "https://36kr.com/newsflashes/3842411503192576?f=rss",
-      "summary": "今年以来，国开行全面支持交通、物流、能源、水利、城市、信息、科技等领域基础设施建设，加力支持基础设施数字化、网络化、智能化发展，加强全生命周期金融服务。1—4月，共发放基础设施贷款4406亿元，有力支持了扩大有效投资。（央视新闻）",
-      "published": "2026-06-07 01:15",
+      "title": "恒指开盘跌1.52%，恒生科技指数跌2.43%",
+      "url": "https://36kr.com/newsflashes/3843846588942592?f=rss",
+      "summary": "36氪获悉，恒指开盘跌1.52%，恒生科技指数跌2.43%；煤炭、国防军工板块领涨，大陆航空科技控股涨超14%，中煤能源涨近1%；半导体、硬件设备板块跌幅居前，剑桥科技跌超8%，华虹宏力跌超6%。",
+      "published": "2026-06-08 01:22",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "2026年全国统一高考今天开考",
-      "url": "https://36kr.com/newsflashes/3842409471429125?f=rss",
-      "summary": "2026年全国统一高考今天开考，今年高考报名总人数为1290万人，全国共设7981个考点，34.8万个考场。高考首日的考试科目是语文和数学。根据安排，全国统一高考科目为语文、数学、外语3门，考试时间为6月7日至8日。目前，共有29个省份落地实施高考综合改革，这些地方的考生在结束语数外统考科目后，还将在6月9日、10日进行选考科目考试，各省份选考科目及具体考试时段由各省级招委会根据本地实际确定并发布。 (央视新闻)",
-      "published": "2026-06-07 01:08",
+      "title": "6月8日人民币对美元中间价调贬41个基点",
+      "url": "https://36kr.com/newsflashes/3843842709031428?f=rss",
+      "summary": "36氪获悉，6月8日，人民币对美元中间价调贬41个基点，报6.8198，上一交易日中间价6.8157。",
+      "published": "2026-06-08 01:19",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "包钢股份：成功研发并批量生产超高强稀土耐磨钢",
-      "url": "https://36kr.com/newsflashes/3842412186142985?f=rss",
-      "summary": "据包钢股份消息，近日，包钢股份成功研发并批量生产超高强稀土耐磨钢，打破了国外企业在该领域的技术垄断。目前，这款极寒超高强度稀土耐磨钢已完成工业化生产，首批订单经性能检测各项指标表现优异，即将交付客户投入实际应用。（界面）",
-      "published": "2026-06-07 01:03",
+      "title": "消息称三星晶圆代工事业部最快Q3扭亏为盈",
+      "url": "https://36kr.com/newsflashes/3843840328485380?f=rss",
+      "summary": "三星电子晶圆代工事业部最快有望在今年第三季度实现扭亏为盈。据业内消息，受良率提升和大型订单带动，三星电子晶圆代工事业部此前设定的扭亏时间点，有望从原先的“今年年底至明年”提前至今年第三季度。自2022年开始出现以万亿韩元计的营业亏损以来，这将是时隔约4年的业绩复苏。（财联社）",
+      "published": "2026-06-08 01:16",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "我国清洁低碳氢煤混烧技术取得重大突破",
-      "url": "https://36kr.com/newsflashes/3842408617658885?f=rss",
-      "summary": "记者今天（7日）从国家能源集团获悉，我国自主研发的氢煤混烧技术首次实现了50%绿氢大比例掺烧以及100%纯氢燃烧，标志着我国清洁低碳氢煤混烧技术取得重大突破。这项技术采用完全自主研发的氢煤混燃低氮燃烧器，构建了从氢气输送到炉膛燃烧的全流程安全防护系统，使氢与煤粉在锅炉内充分混合燃烧，并在该试验装置上实现50%热量比的掺氢燃烧。这意味着在使用绿氢的情况下，节煤减碳幅度可达50%，并对氮氧化物生成实现了有效控制。我国建有全球最大规模的煤电装机，煤电行业绿色低碳转型发展对于“双碳”目标达成具有重要现实意义。这项成果为我国未来燃煤机组实现大幅度碳减排验证了一条具有潜力的技术路径，对我国煤电绿色低碳转型、煤电与新能源融合发展具有重要意义。 (央视新闻)",
-      "published": "2026-06-07 01:00",
+      "title": "日经225指数跌幅扩大至4%",
+      "url": "https://36kr.com/newsflashes/3843838744463625?f=rss",
+      "summary": "36氪获悉，日经225指数日内跌幅扩大至4%。",
+      "published": "2026-06-08 01:14",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "Public Domain Image Archive",
-      "url": "https://pdimagearchive.org/",
+      "title": "“题渊科技”完成近千万元天使轮融资",
+      "url": "https://36kr.com/newsflashes/3843831257467394?f=rss",
+      "summary": "36氪获悉，“题渊科技”已于近日完成近千万元天使轮融资，投资方为宏泰智慧谷，本轮资金将主要用于市场推广和教育agent平台的持续技术研发。",
+      "published": "2026-06-08 01:07",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "全国小麦收获进度过六成",
+      "url": "https://36kr.com/newsflashes/3843826848794883?f=rss",
+      "summary": "农业农村部最新小麦机收进度显示，目前，全国小麦收获进度已过六成。山西夏粮小麦即将进入集中收获。（央视新闻）",
+      "published": "2026-06-08 01:02",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "The Smallest Brain You Can Build: A Perceptron in Python",
+      "url": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
       "summary": "",
-      "published": "2026-06-07 00:22",
+      "published": "2026-06-08 00:28",
       "source": "Hacker News",
       "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "A Matter Wi-Fi Light Bulb in Rust on the Raspberry Pi Pico 2 W",
+      "url": "https://github.com/melastmohican/rust-rpico2-embassy-examples",
+      "summary": "",
+      "published": "2026-06-08 00:17",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "派早报：乘用车越造越重，12 年增重近 400 公斤",
+      "url": "https://sspai.com/post/110847",
+      "summary": "<p>乘用车越造越重，12 年增重近 400 公斤</p><p>iFixit 拆解华强北山寨苹果产品</p><p>Cloudflare 收购 Vite 背后公司</p><p>rsync 疑因 AI 参与维护出现 bug，引发争议</p><p>OpenAI 与美国政府商讨捐赠股权</p><p>美国平均上路车龄达到 13 年</p><p>看看就行的简讯</p><p>少数派的近期动态</p><p>你可能错过的好文章</p><a href=\"https://sspai.com/post/110847\" target=\"_blank\">查看全文</a>",
+      "published": "2026-06-07 22:52",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "NASA will wear high-tech Prada long johns to the Moon",
+      "url": "https://www.theverge.com/design/945540/nasa-axiom-space-prada-lcvg-spacesuit-moon-artemis",
+      "summary": "We've seen Axiom Space and Prada's collaboration on the Axiom Extravehicular Mobility Unit (AxEMU) spacesuit. Now the company has revealed the Liquid Cooling and Ventilation Garment (LCVG) that astronauts will wear underneath it when Artemis IV returns humans to the Moon in 2028. The LCVG is the all-important base layer that will keep the crew [&#8230;]",
+      "published": "2026-06-07 22:16",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Is this the dawn of the Tokenpocalypse?",
+      "url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
+      "summary": "We're likely to see more price increases as the big AI companies plan to go public.",
+      "published": "2026-06-07 20:26",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "How's Linear so fast? A technical breakdown",
+      "url": "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown",
+      "summary": "",
+      "published": "2026-06-07 19:01",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The 7 biggest storylines from Summer Game Fest 2026",
+      "url": "https://www.theverge.com/entertainment/945445/summer-game-fest-2026-biggest-stories",
+      "summary": "The 2026 edition of Summer Game Fest just wrapped up, and it was surprisingly hectic. The nearly week-long event came at a challenging time for the games industry, and for the most part the big keynotes were used as a chance to show some strength through major announcements, while largely ignoring pesky details like hardware [&#8230;]",
+      "published": "2026-06-07 18:45",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Building from zero after addiction, prison, and a felony",
+      "url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
+      "summary": "",
+      "published": "2026-06-07 18:33",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Making peace with your unlived dreams (2023)",
+      "url": "https://nik.art/making-peace-with-your-unlived-dreams/",
+      "summary": "",
+      "published": "2026-06-07 18:15",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Persona 6 exists, and that’s all we know",
+      "url": "https://www.theverge.com/entertainment/945256/persona-6-teaser",
+      "summary": "This year's Summer Game Fest turned out to be a good one for fans of Japanese RPGs. First, the conclusion of the Final Fantasy VII remake trilogy was announced at SGF Live, and now we have the long-awaited return of the Persona series. Atlus confirmed Persona 6 exists with a brief teaser, but aside from [&#8230;]",
+      "published": "2026-06-07 18:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Notion restores access to Anthropic after service disruption",
+      "url": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
+      "summary": "Notion's head of product said he was \"astonished\" at “the amount of people RT-ing this.\"",
+      "published": "2026-06-07 17:56",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Microsoft’s Xbox 25th anniversary console comes in translucent green",
+      "url": "https://www.theverge.com/news/945359/microsoft-xbox-25th-anniversary-console-controller-release-date",
+      "summary": "Microsoft has created a special edition Xbox Series X to celebrate 25 years of the console. The Xbox 25th-anniversary console takes design cues from the original Xbox console, with both the console and controller featuring a translucent green design. \"For the first time, we're bringing a translucent design to Xbox Series X, drawing inspiration from [&#8230;]",
+      "published": "2026-06-07 17:45",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Minecraft Dungeons 2 gets a September release date",
+      "url": "https://www.theverge.com/games/939551/minecraft-dungeons-ii-2-release-date-trailer",
+      "summary": "Minecraft Dungeons 2, a sequel to Microsoft's dungeon crawler spinoff Minecraft Dungeons, will be released on September 29th. The company originally revealed the game in a brief trailer in March, promising a fall 2026 release window. Here's how Microsoft described it at the time: Return to the world of Minecraft Dungeons in an all new [&#8230;]",
+      "published": "2026-06-07 17:45",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Fable launches in late February after recent delay",
+      "url": "https://www.theverge.com/games/939536/fable-xbox-games-showcase-2026",
+      "summary": "Just a few days after pushing Fable out of 2026, Microsoft showed off more footage of Fable, the first new entry in the storied RPG franchise since 2010's Fable III, at its Xbox Games Showcase on Sunday. The company also announced a specific release date: February 23rd, 2027. Though if you get the Premium Edition, [&#8230;]",
+      "published": "2026-06-07 17:14",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Halo: Campaign Evolved arrives July 28th",
+      "url": "https://www.theverge.com/games/939564/halo-campaign-evolved-xbox-games-showcase-2026",
+      "summary": "As part of its Xbox Games Showcase on Sunday, Microsoft revealed new details about Halo: Campaign Evolved, the upcoming remake of Halo: Combat Evolved's campaign mode. The remake will debut on Xbox Series S / X, PC, and PS5 on July 28th. Today's mission trailer includes a first look at Operation: Meteorite, a new three-mission [&#8230;]",
+      "published": "2026-06-07 17:14",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Gears of War: E-Day isn’t coming to the PS5",
+      "url": "https://www.theverge.com/entertainment/945269/gears-of-war-e-day-ps5-launch",
+      "summary": "Apparently, the \"return of Xbox\" means a retreat from other platforms. At its Xbox Games Showcase today, Microsoft revealed that Gears of War: E-Day - which was previously rumored for a PS5 launch in addition to Xbox and PC - will not be coming to PlayStation. It'll be an Xbox console exclusive and is launching [&#8230;]",
+      "published": "2026-06-07 17:08",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The Verge Weekend Questionnaire",
+      "url": "https://www.theverge.com/entertainment/943285/the-verge-weekend-questionnaire",
+      "summary": "Have you ever wondered what the most indispensable app is for your favorite musician or how the world&#8217;s tech CEOs stay focused? Well, that&#8217;s the sort of thing we aim to uncover in our Verge Weekend Questionnaire. Think of it as a spiritual successor to Five Minutes on the Verge. Every Saturday, a different guest [&#8230;]",
+      "published": "2026-06-07 17:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Xbox Games Showcase 2026: All the news and trailers",
+      "url": "https://www.theverge.com/entertainment/944191/xbox-games-showcase-2026-news-trailers",
+      "summary": "The console industry is in a weird place, and both Xbox and PlayStation have a chance to change the narrative a bit with their showcases at Summer Game Fest. Sony did that by focusing on the single-player titles it’s known for, and then it was Microsoft&#8217;s turn. The Xbox Games Showcase was focused mainly on [&#8230;]",
+      "published": "2026-06-07 16:40",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "OpenAI is still working on that ‘super app’",
+      "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
+      "summary": "\"Chat is dead\" — at least, according to a senior OpenAI employee.",
+      "published": "2026-06-07 16:23",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "TechCrunch Mobility: Inside GM’s $900M EV battery gamble",
+      "url": "https://techcrunch.com/2026/06/07/inside-gms-900m-ev-battery-gamble/",
+      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "published": "2026-06-07 16:05",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Hacked, leaked, and held for ransom: the worst breaches of 2026 so far",
+      "url": "https://techcrunch.com/2026/06/07/the-worst-hacks-and-breaches-of-2026-so-far/",
+      "summary": "From a massive DOGE data breach and the hacking of critical energy and water systems to the hack of an FBI surveillance system, here are the most damaging security incidents and data breaches of 2026.",
+      "published": "2026-06-07 14:00",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "接住来自空间站的信号：如何用手台接收 SSTV？",
+      "url": "https://sspai.com/post/110108",
+      "summary": "它不是玄学，也不是单纯的浪漫。它是频率、传播、天线、轨道、多普勒效应，以及我们手中那一点点设备共同完成的一次小小实验。<a href=\"https://sspai.com/post/110108\" target=\"_blank\">查看全文</a>",
+      "published": "2026-06-07 08:34",
+      "source": "sspai.com",
+      "lang": "zh_cn",
       "category": "科技"
     },
     {
@@ -98,24 +332,6 @@
       "summary": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
       "published": "2026-06-06 20:32",
       "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
-      "url": "https://ntsc.rs/",
-      "summary": "",
-      "published": "2026-06-06 19:17",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
-      "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
-      "summary": "",
-      "published": "2026-06-06 18:35",
-      "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
@@ -129,38 +345,11 @@
       "category": "科技"
     },
     {
-      "title": "The first Story-Rich showcase was packed with narrative-driven games",
-      "url": "https://www.theverge.com/games/944406/fellow-traveller-story-rich-showcase-2026-announcements-trailers",
-      "summary": "Fellow Traveller, the publisher behind games like Titanium Court and 1000xResist, just wrapped up its Story-Rich Showcase, which featured a bunch of narrative-driven indie games. With more than 20 games on display, there was a lot to follow, but we've pulled together some of the most notable announcements below. You can also catch the full [&#8230;]",
-      "published": "2026-06-06 18:00",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "GOG apologizes for emailing people Nazi symbols",
-      "url": "https://www.theverge.com/games/945088/gog-apologizes-email-nazi-symbols-the-end-of-the-sun",
-      "summary": "GOG sent a newsletter about the game The End of the Sun on June 5th that included symbols associated with the Nazi SS. The Steam competitor issued a statement attributing the inclusion to a \"series of mistakes,\" including miscommunication with the German QA team, inconsistent font rendering, and being understaffed during a bank holiday, among [&#8230;]",
-      "published": "2026-06-06 17:59",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
       "title": "Sriram Krishnan is leaving his role as White House AI advisor",
       "url": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
       "summary": "Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy.",
       "published": "2026-06-06 17:42",
       "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "The cutest games from the Wholesome Direct 2026 showcase",
-      "url": "https://www.theverge.com/entertainment/943977/wholesome-direct-2026-cute-games-trailers",
-      "summary": "Every year at Summer Game Fest, nestled in between the splashy blockbuster showcases, the Wholesome Direct provides a nice change of pace. It's similarly packed with games - this year's edition had more than 50 - but the vibe is more chill and, well, wholesome. As in years past, I've pulled out some of the [&#8230;]",
-      "published": "2026-06-06 17:00",
-      "source": "www.theverge.com",
       "lang": "en",
       "category": "科技"
     },
@@ -174,129 +363,12 @@
       "category": "科技"
     },
     {
-      "title": "Summer Game Fest 2026: All the news from gaming&#8217;s busiest week",
-      "url": "https://www.theverge.com/games/939206/summer-game-fest-playstation-xbox-gaming-events-2026",
-      "summary": "Get ready for some gaming news. It&#8217;s officially June, which means splashy new events from PlayStation, Xbox, gaming hype man Geoff Keighley, and more. PlayStation kicked things off with a big event that was mostly about premium single-player games like the new God of War Laufey — a statement from PlayStation that it’s getting back [&#8230;]",
-      "published": "2026-06-06 16:14",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "4K Blu-rays are three for $33 ahead of Father’s Day",
-      "url": "https://www.theverge.com/gadgets/944347/4k-bluray-gruv-fathers-day-deal-sale",
-      "summary": "If you know a dad with a predilection for physical media, he might really dig what you buy for him with this deal at Gruv. Ahead of Father’s Day on June 21st, the online seller (operated by Universal Pictures, in case you didn’t know) is letting you check out with three movies from a large [&#8230;]",
-      "published": "2026-06-06 16:00",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "The mayor of Shelbyville, Indiana, says only people who live in ‘shitty houses’ oppose data center",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/944984/shelbyville-indiana-mayor-shitty-houses-data-center",
-      "summary": "A proposed $2 billion data center has become a political flashpoint in the small city of Shelbyville, Indiana. And the controversy has only grown more intense after the mayor, Scott Furgeson, was caught on camera saying of the \"No Data Center\" signs going up that, \"I've seen a lot of these all over town, but [&#8230;]",
-      "published": "2026-06-06 15:05",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
       "title": "Beyond Instagram: Introducing the next generation of social apps",
       "url": "https://techcrunch.com/2026/06/06/beyond-instagram-introducing-the-next-generation-of-social-apps/",
       "summary": "These newer social apps offer alternatives to Big Tech’s feeds, focusing on interests, creativity, and community.",
       "published": "2026-06-06 15:00",
       "source": "techcrunch.com",
       "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Benn Jordan longs for the days of tech that didn’t spy on you",
-      "url": "https://www.theverge.com/report/942609/benn-jordan-music-gear-cybersecurity-surveillance-questionnaire",
-      "summary": "Benn Jordan may have initially gained notoriety for his music as Flashbulb and later, reviewing synths and effects pedals on YouTube under Benn and Gear. But about five years ago, Benn decided to take his YouTube channel in a different direction. He didn't stop covering music gear overnight, but as time progressed, his channel became [&#8230;]",
-      "published": "2026-06-06 15:00",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Moving beyond fork() + exec()",
-      "url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
-      "summary": "",
-      "published": "2026-06-06 14:34",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "82-0 is the best basketball game, to hell with NBA 2K",
-      "url": "https://www.theverge.com/games/944975/82-0-perfect-basketball-stats-game",
-      "summary": "82-0 marries the stat nerd fun of fantasy basketball with instant gratification and a bit of dumb luck. The goal is to draft a team of players that could (theoretically) have a perfect 82-0 season. Obviously, if you just had free rein to pick whoever you wanted from throughout history, there would be little challenge. [&#8230;]",
-      "published": "2026-06-06 14:30",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Meta made its own AI-generated clickbait news feed",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles",
-      "summary": "Facebook has long been filled with feeds of clickbait articles. Now, Meta is making its own clickbait articles with AI. The standalone Meta AI app now has a \"For You\" section that populates a list of clickbait-style stories for you to read. But the topics, images, and text are all AI-generated - and as questionable [&#8230;]",
-      "published": "2026-06-06 14:00",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Kabuto Park captures the fleeting joy of summer vacation",
-      "url": "https://www.theverge.com/entertainment/944060/kabuto-park-review-xbox-nintendo-switch-steam",
-      "summary": "There are a lot of games that remind me of summer - hot days in the backseat with a copy of Dragon Warrior III, cooling off in the basement while grinding Gran Turismo races - but there aren't a lot of games that are actually about summer. That's part of what makes Kabuto Park so [&#8230;]",
-      "published": "2026-06-06 13:00",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "蜂巢能源1-4月动力电池装车量同比增长37.2%，排名升至全球第九",
-      "url": "https://36kr.com/newsflashes/3841563903740162?f=rss",
-      "summary": "日前，SNE Research发布2026年1-4月全球动力电池装车量数据。1-4月全球装机总量352.7GWh，同比增长13.8%。蜂巢能源装车量9.3GWh，同比增长37.2%，增速在TOP10中位列第二，排名升至全球第九。蜂巢能源叠片短刀累计出货超百万套，混合固液电池三季度达成量产。公司已进入Stellantis、VinFast等国际供应链，海外出货占比持续提升；储能产品覆盖30余国，持续入围BNEF Tier1。动力+储能双轮驱动，全年盈利目标可期。",
-      "published": "2026-06-06 10:40",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "吴清：过去五年公募基金投资于先进制造和科创领域股票超过6万亿元",
-      "url": "https://36kr.com/newsflashes/3841477677451778?f=rss",
-      "summary": "证监会主席吴清在中国证券投资基金业协会第四届会员代表大会上致辞。吴清表示，过去五年，私募股权创投基金为未上市未挂牌企业注入5.25万亿元创新资本，相当于同期境内企业股票融资规模的90%，公募基金投资于先进制造和科创领域股票超过6万亿元，有力促进了社会资本向产业资本的转化，有效带动了要素资源加快向创新领域集聚。（界面新闻）",
-      "published": "2026-06-06 09:13",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "聚杰微纤：无尘面料市场需求持续旺盛 业务增长态势良好",
-      "url": "https://36kr.com/newsflashes/3841456953755913?f=rss",
-      "summary": "聚杰微纤近日在机构调研时介绍了主营业务现状，公司主要业务为超细纤维面料的研发、生产与销售，产品应用领域涵盖服饰、汽车内饰、电子产品外包及无尘制品等。鉴于传统服饰面料业务增长乏力甚至面临下滑压力，公司正实施战略转型，加大产业面料的研发、生产与销售投入。其中，汽车内饰面料已通过多家知名汽车企业的认证，是公司未来重点发展的增长领域。无尘面料市场需求持续旺盛，业务增长态势良好。消费电子产品面料目前市场总量相对有限，但具备广阔的市场拓展空间。电子布作为公司战略转型后的核心业务，具有巨大的市场潜力。（证券时报）",
-      "published": "2026-06-06 08:52",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "特锐德：推出算力中心供电站“算电岛” Token成本可降低30%",
-      "url": "https://36kr.com/newsflashes/3841455348746496?f=rss",
-      "summary": "特锐德推出算力中心高压交直流预制舱供电站“算电岛”，重构智算中心供电底层架构，设备工厂模块化预制，可直入110/220kV高压，800V直流直供机房。建设周期缩至150天；依托碳化硅SST技术，供电效率98.5%；依托算电协同AI平台优化调度，Token用电成本下降约30%；800V母线直挂储能，实现绿电就地100%消纳；集成化方案使项目综合造价下降20%、运维成本降低40%。（财联社）",
-      "published": "2026-06-06 08:50",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "刘伟担任中基协新一届监事长",
-      "url": "https://36kr.com/newsflashes/3841428159301893?f=rss",
-      "summary": "上证报记者6月6日从中国证券投资基金业协会（下称“中基协”）第四届会员代表大会上获悉，刘伟担任中基协新一届监事长。（上海证券报）",
-      "published": "2026-06-06 08:22",
-      "source": "36kr.com",
-      "lang": "zh_cn",
       "category": "科技"
     },
     {
@@ -322,60 +394,6 @@
       "url": "https://techcrunch.com/2026/06/05/founders-share-vc-horror-stories-and-some-are-naming-names/",
       "summary": "A massive viral conversation sharing VC horror stories has taken place this week on X. Some are weird. Some are infuriating.",
       "published": "2026-06-05 21:47",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Former cyber executive turned whistleblower accuses IBM of covering up several data breaches",
-      "url": "https://techcrunch.com/2026/06/05/former-cyber-executive-turned-whistleblower-accuses-ibm-of-covering-up-several-data-breaches/",
-      "summary": "IBM and two of its subsidiary companies were allegedly breached during the mid-2010s — a lawsuit filed by a former cybersecurity executive accuses IBM of not disclosing and actively covering it up.",
-      "published": "2026-06-05 20:31",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Startup Battlefield 200 applications officially close in 3 days",
-      "url": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
-      "summary": "Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on the Disrupt Stage at TechCrunch Disrupt 2026 this October at San Francisco's Moscone West.",
-      "published": "2026-06-05 20:00",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Google will pay SpaceX $920M per month for compute",
-      "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
-      "summary": "In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products.",
-      "published": "2026-06-05 18:57",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Harness engineering: Leveraging Codex in an agent-first world",
-      "url": "https://openai.com/index/harness-engineering/",
-      "summary": "",
-      "published": "2026-06-05 18:20",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "GM’s electric future depends on a new battery — and this facility",
-      "url": "https://techcrunch.com/2026/06/05/gms-electric-future-depends-on-a-new-battery-and-this-building/",
-      "summary": "GM wants to slash EV prices by deploying new battery tech up to a year earlier than planned. This building is key to making that happen.",
-      "published": "2026-06-05 17:44",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "As VC-backed e-bike startups went bankrupt, bootstrapped Lectric grew",
-      "url": "https://techcrunch.com/2026/06/05/as-vc-backed-e-bike-startups-went-bankrupt-bootstrapped-lectric-grew/",
-      "summary": "Lectric, which says the U.S. market is ripe for competition and choice, has launched three new brands in the past six months.",
-      "published": "2026-06-05 17:38",
       "source": "techcrunch.com",
       "lang": "en",
       "category": "科技"
@@ -417,6 +435,15 @@
       "category": "科技"
     },
     {
+      "title": "Show HN: I Derived a Pancake",
+      "url": "https://www.absurdlyoptimized.com/recipes/pancakes/",
+      "summary": "",
+      "published": "2026-06-05 06:42",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
       "title": "WWDC26 开幕在即，今年有哪些看点值得关注？",
       "url": "https://sspai.com/post/110669",
       "summary": "今年WWDC全球开发者大会即将在北京时间6月9日凌晨拉开帷幕，对Apple来说今年这一次活动是一个非常关键的节点：首先，2024年WWDC上画的饼至今没有兑现，而AI竞赛在2026年已经进入了白热化， ...<a href=\"https://sspai.com/post/110669\" target=\"_blank\">查看全文</a>",
@@ -435,37 +462,10 @@
       "category": "科技"
     },
     {
-      "title": "Introducing Boron Buckyballs: Theory that B80 cages can’t be made is disproved",
-      "url": "https://cen.acs.org/materials/nanomaterials/buckyballs-boron-buckminster-fullerene-nanomaterials/104/web/2026/06",
-      "summary": "",
-      "published": "2026-06-04 22:58",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
       "title": "新玩意 243｜少数派的编辑们最近买了啥？",
       "url": "https://sspai.com/post/110736",
       "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...<a href=\"https://sspai.com/post/110736\" target=\"_blank\">查看全文</a>",
       "published": "2026-06-04 11:15",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "它不会是下一场新冠：简单了解汉坦病毒",
-      "url": "https://sspai.com/post/110717",
-      "summary": "人类研究了这么久流行病，虽说事故总难免，但还是有点本事在的，至少这回肯定控制得住。<a href=\"https://sspai.com/post/110717\" target=\"_blank\">查看全文</a>",
-      "published": "2026-06-04 07:00",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "比 ZeroTier 更好的选择：EasyTier 去中心化异地组网全平台部署",
-      "url": "https://sspai.com/post/110126",
-      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/110126\" target=\"_blank\">查看全文</a>",
-      "published": "2026-06-04 03:02",
       "source": "sspai.com",
       "lang": "zh_cn",
       "category": "科技"
