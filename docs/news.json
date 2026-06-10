@@ -1,167 +1,401 @@
 {
-  "last_updated": "2026-06-09 01:54:22",
+  "last_updated": "2026-06-10 02:05:26",
   "total": 52,
   "articles": [
     {
-      "title": "博睿康完成IPO辅导",
-      "url": "https://36kr.com/newsflashes/3845287792134657?f=rss",
-      "summary": "36氪获悉，证监会官网IPO辅导公示系统显示，脑机接口企业博睿康技术（上海）股份有限公司IPO辅导状态变更为“辅导工作完成”，辅导机构为中信证券。",
-      "published": "2026-06-09 01:49",
+      "title": "金饰价格集体跳水，跌破1300元",
+      "url": "https://36kr.com/newsflashes/3846694410816001?f=rss",
+      "summary": "6月10日亚洲早盘，黄金白银盘中持续下挫，均跌超1.4%。国际金价跌破4200美元关口。前一日，金银油亦全线下跌。现货黄金、COMEX黄金期货均跌超1%；现货白银、COMEX白银期货均跌超4%。6月10日，国内多家品牌金饰价格大幅下调，集体跌破1300元/克。周生生足金饰品报1277元/克，较前一日1322元/克大跌45元；老庙黄金足金饰品报1283元/克，相较前一日1317元/克大跌34元；老凤祥足金饰品报1276元/克，相较前一日1316/克大跌40元。（新浪财经）",
+      "published": "2026-06-10 01:59",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "途虎养车与腾讯在AI Agent领域达成合作",
-      "url": "https://36kr.com/newsflashes/3845282788919815?f=rss",
-      "summary": "近日，途虎养车已与腾讯在AI Agent领域展开合作，途虎养车小程序已作为首批内测开发者完成微信AI的初步接入，未来将围绕车辆故障诊断、门店推荐、养车下单等核心场景接入微信AI Agent，是目前汽车后市场领域唯一一家。下一步，途虎养车将结合自身汽车后市场全产业链资源、线下门店网络与数字化运营能力，围绕车辆养护、门店服务等核心场景推进智能化应用落地，持续打磨服务体验，为广大车主带来更便捷、智能的养车服务。",
-      "published": "2026-06-09 01:43",
+      "title": "科创50指数涨超3%，权重股海光信息涨超13%",
+      "url": "https://36kr.com/newsflashes/3846706127915272?f=rss",
+      "summary": "36氪获悉，科创50指数涨超3%，权重股海光信息涨超13%，中微公司、寒武纪涨超6%，中芯国际、华虹宏力等纷纷上扬。",
+      "published": "2026-06-10 01:51",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "创业板指涨超2%",
-      "url": "https://36kr.com/newsflashes/3845278180968964?f=rss",
-      "summary": "36氪获悉，创业板指涨超2%。",
-      "published": "2026-06-09 01:39",
+      "title": "子公司中标山铁数科5亿元算力服务器？华策影视：不属实",
+      "url": "https://36kr.com/newsflashes/3846697139931400?f=rss",
+      "summary": "36氪获悉，就“子公司上海华剧汇中标山铁数科5亿元算力服务器，是否属实”的问题，华策影视6月10日在互动平台回复称，不属实。",
+      "published": "2026-06-10 01:50",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "Perplexity：无论Anthropic与OpenAI上市进展如何，公司均计划2028年IPO",
-      "url": "https://36kr.com/newsflashes/3845275469973766?f=rss",
-      "summary": "Perplexity首席执行官阿拉温德・斯里尼瓦斯（Aravind Srinivas）表示，无论市场对Anthropic和OpenAI的上市反响如何，公司都计划在2028年启动上市。斯里尼瓦斯在周二播出的采访中称：“我们的上市规划原本就定在2028年，与这两家公司无关，目前该计划保持不变。”（新浪财经）",
-      "published": "2026-06-09 01:36",
+      "title": "科创50指数盘中涨超2%，半导体板块快速拉升",
+      "url": "https://36kr.com/newsflashes/3846694994757888?f=rss",
+      "summary": "36氪获悉，科创50指数盘中涨超2%，半导体板块快速拉升，海光信息涨超10%，沪硅产业涨超7%，寒武纪涨超4%。",
+      "published": "2026-06-10 01:40",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "A股三大指数集体高开，半导体板块走强",
-      "url": "https://36kr.com/newsflashes/3845265529899265?f=rss",
-      "summary": "36氪获悉，A股三大指数集体高开，沪指高开0.46%，深成指高开1.16%，创业板指高开1.41%；半导体、通信设备、电工电网板块领涨，盈方微涨超7%，麦格米特涨超6%，联特科技、兆易创新涨超4%；能源、白酒、生物科技板块走弱，蓝焰控股跌超3%，酒鬼酒、药明康德跌超2%。",
-      "published": "2026-06-09 01:26",
+      "title": "国家统计局：2026年5月份CPI总体平稳，PPI继续上涨",
+      "url": "https://36kr.com/newsflashes/3846692692216073?f=rss",
+      "summary": "36氪获悉，国家统计局城市司首席统计师董莉娟解读2026年5月份CPI和PPI数据。从环比看，全国CPI下降0.1%，上月为上涨0.3%，主要是受能源和服务价格变动影响。受国际油价传导影响，国内汽油价格由上月上涨12.6%转为下降0.3%，带动能源价格由上月上涨5.7%转为下降0.1%，对CPI环比的影响由上月上拉0.39个百分点转为下拉0.01个百分点。受“五一”节后出行季节性回落影响，服务价格由上月上涨0.5%转为下降0.1%，对CPI环比的影响由上月上拉0.22个百分点转为下拉0.03个百分点。其中，交通工具租赁和飞机票价格分别由上月上涨8.6%和29.2%转为下降6.8%和6.3%，合计影响CPI环比下降约0.04个百分点。夏装换季上新带动服装价格上涨0.6%，AI相关需求旺盛带动移动电话机和平板电脑价格分别上涨1.6%和1.1%，上述三项合计影响CPI环比上涨约0.05个百分点。",
+      "published": "2026-06-10 01:38",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "央行今日开展1530亿元7天逆回购操作",
-      "url": "https://36kr.com/newsflashes/3845262938212612?f=rss",
-      "summary": "36氪获悉，央行今日开展1530亿元7天逆回购操作，投标量1530亿元，中标量1530亿元，操作利率为1.40%，与此前持平。",
-      "published": "2026-06-09 01:23",
+      "title": "兆易创新推出全新光模块专用MCU",
+      "url": "https://36kr.com/newsflashes/3846676426672389?f=rss",
+      "summary": "36氪获悉，6月10日，兆易创新推出全新GD32E512和GD32E252系列光模块专用MCU，精准覆盖从传统低速到新一代高速光模块的多元应用场景。这两款新品的发布，将进一步拓宽兆易创新在光通信领域的产品矩阵，并将为AI算力中心及下一代网络基础设施的高速光互联产业升级提供强有力的底层硬件支撑。",
+      "published": "2026-06-10 01:35",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "恒指开盘跌0.43%，恒生科技指数跌0.26%",
-      "url": "https://36kr.com/newsflashes/3845262768474632?f=rss",
-      "summary": "36氪获悉，恒指开盘跌0.43%，恒生科技指数跌0.26%，软件服务、煤炭、医药生物板块领跌，智谱跌超4%，中煤能源、智云健康跌超1%；半导体、汽车、纺织服饰板块走强，澜起科技涨超6%，比亚迪股份、361度涨超1%。",
-      "published": "2026-06-09 01:23",
+      "title": "国家统计局：2026年5月份工业生产者出厂价格同比上涨3.9%，环比上涨0.5%",
+      "url": "https://36kr.com/newsflashes/3846687562320388?f=rss",
+      "summary": "36氪获悉，国家统计局数据显示，2026年5月份，全国工业生产者出厂价格同比上涨3.9%，环比上涨0.5%。工业生产者购进价格同比上涨5.8%，环比上涨1.3%。1—5月平均，工业生产者出厂价格比上年同期上涨1.0%，工业生产者购进价格上涨1.6%。",
+      "published": "2026-06-10 01:32",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "人民币兑美元中间价报6.8147",
-      "url": "https://36kr.com/newsflashes/3845255813335298?f=rss",
-      "summary": "36氪获悉，人民币兑美元中间价报6.8147，上调51点。",
-      "published": "2026-06-09 01:16",
+      "title": "国家统计局：2026年5月份居民消费价格同比上涨1.2%",
+      "url": "https://36kr.com/newsflashes/3846686002153987?f=rss",
+      "summary": "36氪获悉，国家统计局数据显示，2026年5月份，全国居民消费价格同比上涨1.2%。其中，城市上涨1.3%，农村上涨1.1%；食品价格下降1.7%，非食品价格上涨1.9%；消费品价格上涨1.6%，服务价格上涨0.8%。1­­—5月平均，全国居民消费价格比上年同期上涨1.0%。5月份，全国居民消费价格环比下降0.1%。其中，城市下降0.1%，农村下降0.1%；食品价格下降0.4%，非食品价格下降0.1%；消费品价格下降0.2%，服务价格下降0.1%。",
+      "published": "2026-06-10 01:31",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "今日起上海市汽车以旧换新补贴调整为即时摇号",
-      "url": "https://36kr.com/newsflashes/3845255592249605?f=rss",
-      "summary": "上海市汽车以旧换新补贴调整为即时摇号。6月8日夜间，上海市商务委发布《关于调整2026年上海市汽车以旧换新补贴活动摇号方式的公告》。《公告》称，自2026年6月9日至2026年9月30日，符合条件的个人消费者可在每日7：00-22：00通过“上海商务”微信公众号“政务服务-汽车以旧换新补贴申请”入口，报名参加即时摇号。（澎湃）",
-      "published": "2026-06-09 01:16",
+      "title": "A股三大指数集体低开",
+      "url": "https://36kr.com/newsflashes/3846681659165191?f=rss",
+      "summary": "36氪获悉，A股三大指数集体低开，沪指低开0.62%，深成指低开1.35%，创业板指低开1.62%；光模块、半导体领跌，天孚通信、罗博特科跌超5%，东山精密、中天科技跌超3%；贵金属板块走弱，赤峰黄金跌超3%。",
+      "published": "2026-06-10 01:26",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "葛兰素史克拟斥资超90亿美元收购癌症药物生产商Nuvalent",
-      "url": "https://36kr.com/newsflashes/3845253210966272?f=rss",
-      "summary": "据报道，葛兰素史克正洽谈斥资超90亿美元收购癌症药物生产商Nuvalent，双方目标在本周内达成协议。（界面）",
-      "published": "2026-06-09 01:13",
+      "title": "央行6月10日公开市场开展1590亿元7天期逆回购操作",
+      "url": "https://36kr.com/newsflashes/3846679237396737?f=rss",
+      "summary": "36氪获悉，央行6月10日公开市场开展1590亿元7天期逆回购操作，操作利率1.40%。",
+      "published": "2026-06-10 01:24",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "财政部将于6月在香港发行150亿元人民币国债",
-      "url": "https://36kr.com/newsflashes/3845246764435712?f=rss",
-      "summary": "36氪获悉，根据有关工作安排，财政部将于6月16日在香港特别行政区发行2026年第三期人民币国债，发行规模为150亿元，具体发行安排将在香港金融管理局债务工具中央结算系统（CMU）公布。",
-      "published": "2026-06-09 01:07",
+      "title": "恒指开盘跌0.5%，恒生科技指数跌0.38%",
+      "url": "https://36kr.com/newsflashes/3846678657485312?f=rss",
+      "summary": "36氪获悉，恒指开盘跌0.5%，恒生科技指数跌0.38%；半导体、有色板块领跌，赤峰黄金跌超4%，英诺赛科跌超3%，兆易创新、澜起科技跌超2%；软件服务、医疗设备板块涨幅居前，精锋医疗涨超5%，中国软件国际涨超4%。",
+      "published": "2026-06-10 01:23",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "两部门联合开展2026年度人形机器人与具身智能实景实训专项行动",
-      "url": "https://36kr.com/newsflashes/3845242479659524?f=rss",
-      "summary": "36氪获悉，工业和信息化部办公厅、国务院国资委办公厅发布关于联合开展2026年度人形机器人与具身智能实景实训专项行动的通知。坚持应用牵引，面向工业、特种、服务等领域重点场景，一体推进实景实训空间建设、创新应用联合体培育、作业技能攻关、应用部署验证等重点任务，通过真实场景训练，持续优化具身智能模型算法，积累高质量真机数据，提升本体关键部组件性能，探索构建人形机器人及具身智能产品全生命周期管理和保障机制。",
-      "published": "2026-06-09 01:02",
+      "title": "人民币兑美元中间价报6.8130，上调17点",
+      "url": "https://36kr.com/newsflashes/3846672872360452?f=rss",
+      "summary": "36氪获悉，人民币兑美元中间价报6.8130，上调17点；上一交易日中间价6.8147，上一交易日官方收盘价6.7702，上日夜盘报收6.7734。",
+      "published": "2026-06-10 01:17",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "Mercor’s Brendan Foody calls out Sequoia over ‘dual-pricing’ valuation tricks",
-      "url": "https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks/",
-      "summary": "Sequoia is just one of the top firms that sells same equity at two different prices.",
-      "published": "2026-06-09 00:45",
+      "title": "macOS Container Machines",
+      "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
+      "summary": "",
+      "published": "2026-06-10 00:29",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Google just fired a warning shot in the AI subscription price wars",
+      "url": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
+      "summary": "Google just made it significantly cheaper to enjoy its budget AI subscription tier.",
+      "published": "2026-06-10 00:26",
       "source": "techcrunch.com",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Instagram is finally letting everyone reorganize their profile grid",
-      "url": "https://www.theverge.com/tech/946458/instagram-is-finally-letting-everyone-reorganize-their-grid",
-      "summary": "Nearly a year after it was announced, Instagram says it's delivering the ability to rearrange the posts in your profile grid. It had been available to some people in test groups, but as of June 8th, it's rolling out widely via the Android and iPhone mobile apps. Until now, the posts on your Instagram profile [&#8230;]",
-      "published": "2026-06-08 23:58",
+      "title": "派早报：Apple 更新 App Store 审核与订阅规则、Anthropic 发布 Claude Fable 5 等",
+      "url": "https://sspai.com/post/110925",
+      "summary": "小米发布 MiMo V2.5-Pro-UltraSpeed，Marshall Stockwell III 发布等。<a href=\"https://sspai.com/post/110925\" target=\"_blank\">查看全文</a>",
+      "published": "2026-06-10 00:14",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "I tried Siri AI, and so far it actually works",
+      "url": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc",
+      "summary": "Parents want one thing, and one thing only, out of AI: to add a list of soccer games or \"spirit week\" theme days from an email or a poorly formatted flyer onto their calendar in one shot. And I have good news for parents with iPhones - the new Siri can finally do this. After [&#8230;]",
+      "published": "2026-06-09 23:43",
       "source": "www.theverge.com",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Apple’s Screen Time updates are too little, too late",
-      "url": "https://www.theverge.com/tech/946446/apples-screen-time-updates-are-too-little-too-late",
-      "summary": "Apple spending a big chunk of its WWDC keynote on parental controls was surprising for several reasons. But the biggest is that, despite all the airtime, it didn't announce much new beyond a redesigned interface. Almost all the features touted already exist or are upgrades to current options. Why Apple chose to do this isn't [&#8230;]",
-      "published": "2026-06-08 23:41",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "5 things I already love from the iOS 27 beta",
-      "url": "https://www.theverge.com/tech/946391/apple-ios-27-developer-beta-1-wwdc-2026-5-things",
-      "summary": "iOS 27 has only been out for a few hours, and I've been messing around with the developer beta on my iPhone 16 Pro. I was most interested in trying out the new Siri AI, but unfortunately, I'm still on Apple's waitlist for that. In the meantime, I've been poking around a bunch of features [&#8230;]",
-      "published": "2026-06-08 23:30",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says",
-      "url": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
-      "summary": "Tools for Humanity, Sam Altman's identity verification company, is reportedly struggling to generate revenue and will downsize its staff.",
-      "published": "2026-06-08 22:41",
+      "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
+      "url": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
+      "summary": "Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest in startups like Anthropic, Anduril, and SpaceX.",
+      "published": "2026-06-09 23:17",
       "source": "techcrunch.com",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Apple’s WWDC AI demos looked more real after $250M false ad settlement",
-      "url": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
-      "summary": "The vibe of Apple's 2026 WWDC keynote felt like a spouse proudly listing all the honey-do-list items tackled. One subtle example: the many AI demos of someone standing, phone in hand.",
-      "published": "2026-06-08 22:39",
+      "title": "RIP software hackathons. Long live the hardware hackathon",
+      "url": "https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/",
+      "summary": "",
+      "published": "2026-06-09 22:35",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Congress just gave DHS another $70 billion",
+      "url": "https://www.theverge.com/policy/947146/dhs-funding-congress-budget-reconciliation",
+      "summary": "Congress narrowly voted to fund President Donald Trump's mass deportation agenda, giving the Department of Homeland Security $70 billion over the next three years. The house voted 214 to 212 in favor of the reconciliation bill Tuesday, following the Senate's 52-47 vote last Friday morning. The vote fell largely along party lines. Sen. Lisa Murkowski [&#8230;]",
+      "published": "2026-06-09 21:34",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The App Store is going to add subscription bundles soon",
+      "url": "https://www.theverge.com/tech/947365/apple-subscription-bundles-app-store",
+      "summary": "Later this year, you will be able to get bundled subscriptions for iPhone apps, as Apple announced it's expanding App Store bundles so they can include offers from different companies. It's similar to streaming video bundles that have combined offers for Apple TV and Peacock, but it also could put together subscriptions for completely different [&#8230;]",
+      "published": "2026-06-09 21:30",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "If Claude Fable stops helping you, you'll never know",
+      "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
+      "summary": "",
+      "published": "2026-06-09 21:19",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Upcoming breaking changes for npm v12",
+      "url": "https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/",
+      "summary": "",
+      "published": "2026-06-09 21:01",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "GM joins race to build batteries for AI data centers and the grid",
+      "url": "https://techcrunch.com/2026/06/09/gm-bets-big-on-energy-storage-for-data-centers-and-the-grid/",
+      "summary": "GM is developing an entirely new sodium-ion battery chemistry for use in everything from data centers to its own factories.",
+      "published": "2026-06-09 21:00",
       "source": "techcrunch.com",
       "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "GM thinks EVs can help offset AI’s energy suck with vehicle-to-grid tech",
+      "url": "https://www.theverge.com/transportation/946820/gm-energy-ev-v2g-storage-sodium-ion",
+      "summary": "At an event in San Francisco today, General Motors made a series of announcements around EV batteries, energy storage, and grid resiliency in the face of growing electricity demand from AI data centers. The automaker announced that it would be activating new vehicle-to-grid capabilities for its current EV and home energy customers. It's releasing a [&#8230;]",
+      "published": "2026-06-09 21:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Hey, Siri, here’s what I actually want from AI",
+      "url": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
+      "summary": "I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my phone?",
+      "published": "2026-06-09 20:50",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Anthropic’s Fable 5 can make weirdly fun video games with the click of a button",
+      "url": "https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/",
+      "summary": "Anthropic's Claude Fable 5 is going to be a big hit with the web's vibe coders.",
+      "published": "2026-06-09 20:37",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Microsoft AI head calls out Anthropic for acting like Claude is conscious",
+      "url": "https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious",
+      "summary": "Microsoft AI CEO Mustafa Suleyman says it's \"really, really dangerous\" for Anthropic to speculate about Claude's consciousness inside its \"constitution,\" or the instructions that tell the model how to behave. During an episode of Decoder, Suleyman argues that this kind of speculation may have set up the chatbot to act as though it's conscious: I [&#8230;]",
+      "published": "2026-06-09 20:24",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
+      "url": "https://aarushgupta.io/posts/kan-fpga/",
+      "summary": "",
+      "published": "2026-06-09 19:21",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Nintendo is playing things too safe",
+      "url": "https://www.theverge.com/entertainment/947120/nintendo-direct-june-2026-analysis",
+      "summary": "Tuesday's Nintendo Direct showcase felt like an important moment for the company. With the Switch 2 heading into its second holiday season, one in which the hardware will be even more expensive thanks to a price hike, it was a chance for Nintendo to really sell new audiences on its latest console - but that's [&#8230;]",
+      "published": "2026-06-09 19:01",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Can tech companies learn to love cheaper AI models?",
+      "url": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
+      "summary": "If those same AI workloads can be handled by cheaper models without affecting quality, it would mean a massive shift in the economics of AI.",
+      "published": "2026-06-09 18:56",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
+      "url": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+      "summary": "Apple primarily made the case for an improved experience with its long-standing Siri assistant, which like most other announcements had a hefty helping of AI.",
+      "published": "2026-06-09 18:04",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "CISA gives US federal agencies three days to fix a VPN bug under attack by a ransomware gang",
+      "url": "https://techcrunch.com/2026/06/09/cisa-gives-us-federal-agencies-three-days-to-fix-a-vpn-bug-under-attack-by-a-ransomware-gang/",
+      "summary": "Check Point said hackers broke into dozens of organizations by exploiting a VPN bug in several of its products used across the government.",
+      "published": "2026-06-09 17:40",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Fitbit’s Charge 6 and Ace LTE are now as cheap as the new $100 Air",
+      "url": "https://www.theverge.com/gadgets/947063/fitbit-charge-6-ace-lte-air-deal-sale",
+      "summary": "Whether you&#8217;re shopping for Father&#8217;s Day or trying to keep your kids entertained over summer break, you don&#8217;t need to spend a fortune to get a great Fitbit right now. You can currently pick up the Fitbit Charge 6 for $50 off at Amazon, Best Buy, and Target, the Fitbit Ace LTE for $80 off [&#8230;]",
+      "published": "2026-06-09 17:35",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Apple wants Europe to blink",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/947051/apple-europe-dma-siri-ai",
+      "summary": "It took a few years, but Apple finally made its AI look useful. Now millions of iPhone users in Europe are being told they won't be getting Siri AI anytime soon, if ever - and Apple wants them to blame the EU. Apple says its new AI-powered Siri will not launch on iPhones and iPads [&#8230;]",
+      "published": "2026-06-09 17:13",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Anthropic’s Claude Fable 5 is a version of Mythos the public can access today",
+      "url": "https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/",
+      "summary": "Anthropic is releasing Claude Fable 5, its first Mythos-class model available to the public. The model comes with guardrails that block responses in high-risk areas like cybersecurity and biology.",
+      "published": "2026-06-09 17:00",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Anthropic releases its first Mythos-class model Claude Fable",
+      "url": "https://www.theverge.com/news/946725/anthropic-releases-claude-fable-5-mythos",
+      "summary": "Anthropic just announced Claude Fable 5, a new AI model it said is the most powerful model it has ever made widely available. According to the company, Fable 5 \"shows exceptional performance in software engineering, knowledge work, and vision,\" with its lead over other models growing as tasks become longer and more complex. Fable 5 [&#8230;]",
+      "published": "2026-06-09 17:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Claude Fable 5",
+      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "summary": "",
+      "published": "2026-06-09 16:58",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "SwitchBot’s E Ink Weather Station is already 20 percent off",
+      "url": "https://www.theverge.com/gadgets/946753/switchbot-weather-station-jackery-explorer-deal-sale",
+      "summary": "We’re only a few days since the SwitchBot Smart E Ink Weather Station launched, and you can already save $25 on the smart home gadget. Visit Amazon and clip the on-page coupon to bring the price down to $85 at checkout, or use coupon code APAP23 on the SwitchBot site. The 7.5-inch framed panel shows [&#8230;]",
+      "published": "2026-06-09 16:55",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Rivian starts deliveries of its all-important R2 SUV",
+      "url": "https://techcrunch.com/2026/06/09/rivian-starts-deliveries-of-its-all-important-r2-suv/",
+      "summary": "Founder and CEO RJ Scaringe has called it \"maybe the most important thing we've launched to date.\"",
+      "published": "2026-06-09 16:46",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Apple’s foldable iPhone could be just around the corner",
+      "url": "https://techcrunch.com/2026/06/09/apples-foldable-iphone-could-be-just-around-the-corner/",
+      "summary": "The iOS 27 developer beta includes code that references the fold state and screen angle of a device.",
+      "published": "2026-06-09 16:22",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "It’s not FAANG anymore. It’s MANGOS.",
+      "url": "https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/",
+      "summary": "With SpaceX, Anthropic, and OpenAI all eyeing massive public debuts, the tech industry may soon have a new class of corporate overlords — and a new acronym to match. Say goodbye to FAANG and hello to MANGOS.",
+      "published": "2026-06-09 16:09",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Making Graphics Like it's 1993",
+      "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
+      "summary": "",
+      "published": "2026-06-09 10:46",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "社区速递 144 | 听 AI 开「营养处方」、无感耳夹耳机与磁吸支架",
+      "url": "https://sspai.com/post/110907",
+      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/110907\" target=\"_blank\">查看全文</a>",
+      "published": "2026-06-09 09:06",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "众测招募｜灵犀 Linx 键盘功能共创计划开启",
+      "url": "https://sspai.com/post/110863",
+      "summary": "少数派联合思维重置与Akko共创的新产品「灵犀Linx键盘」即将上市。在产品正式发布前，我们希望邀请一批用户提前参与体验，共同验证功能设计和使用场景。本次将面向少数派社区招募10名体验用户。关于灵犀L ...<a href=\"https://sspai.com/post/110863\" target=\"_blank\">查看全文</a>",
+      "published": "2026-06-09 04:00",
+      "source": "sspai.com",
+      "lang": "zh_cn",
       "category": "科技"
     },
     {
@@ -174,60 +408,6 @@
       "category": "科技"
     },
     {
-      "title": "Apple is using AI to fix Safari’s extension problem",
-      "url": "https://www.theverge.com/tech/946345/apple-safari-ai-update-extensions",
-      "summary": "Apple is trying to solve one of Safari's biggest weaknesses with AI. Safari has long lacked the robust library of extensions that its rivals have, mainly due to the stringent development requirements from Apple. But now, Apple is inviting users to essentially vibe-code their own extensions. In a demo shared by Apple, the company showed [&#8230;]",
-      "published": "2026-06-08 22:14",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Where was tvOS 27 at WWDC?",
-      "url": "https://www.theverge.com/tech/946329/tvos-27-absent-wwdc",
-      "summary": "Every year, Apple's Worldwide Developers Conference gives us a first look at what's coming next to the company's many operating systems. But missing from today's keynote, apart from a single graphic listing all current Apple OSes next to a big \"27,\" was any mention of tvOS. The whole structure of this year's WWDC was different, [&#8230;]",
-      "published": "2026-06-08 22:04",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Apple’s new parental controls are for keeping Apple out of trouble",
-      "url": "https://www.theverge.com/policy/946331/apple-parental-controls-child-accounts-wwdc",
-      "summary": "When Apple put child safety front and center at WWDC on Monday, its stated goal was helping parents fine-tune their kids' online experiences and avoid excessive screen time. But amid a global debate over internet regulation, its latest updates also looked like a defensive move in a brewing fight against Meta and other app developers. [&#8230;]",
-      "published": "2026-06-08 21:48",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "OpenAI files for IPO, following Anthropic",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/946335/openai-ipo-s-1-confidential",
-      "summary": "OpenAI on Monday checked off a preliminary step in the IPO race that it and rival Anthropic have been competing in for the better part of a year: The company announced it has confidentially submitted a Form S-1 with the US Securities and Exchange Commission, following Anthropic's decision to do the same on June 1st. [&#8230;]",
-      "published": "2026-06-08 21:38",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "OpenAI files confidentially for IPO, following Anthropic",
-      "url": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
-      "summary": "The filing comes a little more than a week after its main rival, Anthropic, also filed to go public, ramping up the race between the two AI firms.",
-      "published": "2026-06-08 21:29",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Apple plays catch-up at WWDC",
-      "url": "https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/",
-      "summary": "Apple spent much of its WWDC keynote highlighting fixes, performance improvements, and long-requested features before unveiling its upgraded AI-powered Siri, signaling that the company wants users to see AI as just one part of a broader effort to improve its software.",
-      "published": "2026-06-08 21:15",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
       "title": "一图流 | Apple WWDC26 开幕式回顾",
       "url": "https://sspai.com/post/110887",
       "summary": "WWDC26 开幕式一图流来啦。<a href=\"https://sspai.com/post/110887\" target=\"_blank\">查看全文</a>",
@@ -237,165 +417,12 @@
       "category": "科技"
     },
     {
-      "title": "Apple bets cheaper AI will woo small developers",
-      "url": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
-      "summary": "As AI experimentation grows more expensive, Apple is waiving cloud API costs for developers with fewer than 2 million first-time App Store downloads.",
-      "published": "2026-06-08 20:53",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Waymo bought Apple’s self-driving car proving ground for $220M",
-      "url": "https://techcrunch.com/2026/06/08/waymo-bought-apples-self-driving-car-proving-ground-for-220m/",
-      "summary": "Waymo has acquired a massive 5,500-acre proving ground in Arizona owned by Route 14 Investment Partners LLC, a Delaware shell company associated with Apple, according to documents filed with Maricopa County.",
-      "published": "2026-06-08 20:50",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
       "title": "Liquid Glass 精调、Apple 智能大升级：WWDC26 发布会回顾",
       "url": "https://sspai.com/post/110888",
       "summary": "Apple 推出 iOS 27、iPadOS 27、watchOS 27 和 macOS Golden Gate，以及全新的 Apple 智能。<a href=\"https://sspai.com/post/110888\" target=\"_blank\">查看全文</a>",
       "published": "2026-06-08 20:47",
       "source": "sspai.com",
       "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "44 things coming to your Apple devices that you might have missed",
-      "url": "https://www.theverge.com/tech/946260/apple-wwdc-2026-ios-ipados-macos-watchos-visionos-27-features-missed",
-      "summary": "This year's WWDC keynote was all about AI. But with all the attention on Apple Intelligence and Siri AI, the company breezed by - or neglected to mention - a bunch of cool, smaller features across its new updates. I've rounded up a bunch of them right here. The new operating systems are available in [&#8230;]",
-      "published": "2026-06-08 20:26",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Microsoft’s open source tools were hacked to steal passwords of AI developers",
-      "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
-      "summary": "Microsoft shut down dozens of GitHub code repositories for Azure and AI coding tools after a reported hack.",
-      "published": "2026-06-08 20:03",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Apple drops support for a long list of Apple Watches with latest OS updates",
-      "url": "https://www.theverge.com/news/946147/apple-watchos-27-ipados-27-supported-devices-dropped",
-      "summary": "I hope you have a modern Apple Watch or iPad, because otherwise watchOS 27 and iPadOS 27 won't run on your device. Apple often drops support for older devices with its latest software updates, but this year it's culling even more device generations than ever before. Apple is dropping support for at least three generations [&#8230;]",
-      "published": "2026-06-08 19:45",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
-      "url": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
-      "summary": "Apple primarily made the case for an improved experience with its longstanding Siri assistant, which like most other announcements had a hefty helping of AI.",
-      "published": "2026-06-08 19:41",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Apple announces watchOS 27, now with Siri AI",
-      "url": "https://www.theverge.com/tech/943145/apple-watch-watchos-27-wwdc-2026",
-      "summary": "Apple just announced watchOS 27, the next version of its Apple Watch operating system, introducing support for Siri AI, a redesigned \"dynamic\" app grid, and improvements to health and fitness tracking. The watchOS 27 update will be available \"this fall,\" according to Apple, though support is notably limited - the new OS will only be [&#8230;]",
-      "published": "2026-06-08 19:34",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Apple reveals new AI architecture built around Google Gemini models",
-      "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
-      "summary": "",
-      "published": "2026-06-08 19:14",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Pentagon says Alibaba, Baidu, BYD, and Unitree support China’s military",
-      "url": "https://techcrunch.com/2026/06/08/pentagon-says-alibaba-baidu-byd-and-unitree-support-chinas-military/",
-      "summary": "The Trump administration released the updated version of the list four months ago and then quickly pulled it without explaining why",
-      "published": "2026-06-08 18:57",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Apple just taught your iPhone to finish your sentences, your photos, and your workflows",
-      "url": "https://techcrunch.com/2026/06/08/apple-just-taught-your-iphone-to-finish-your-sentences-your-photos-and-your-workflows/",
-      "summary": "Apple is adding new AI-powered features to Safari, Shortcuts, and Password apps.",
-      "published": "2026-06-08 18:48",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Apple Core AI Framework",
-      "url": "https://developer.apple.com/documentation/coreai/",
-      "summary": "",
-      "published": "2026-06-08 18:47",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Apple will let you build workflows using AI in its new Shortcuts app",
-      "url": "https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/",
-      "summary": "Shortcuts gets an AI upgrade, letting you describe the workflow you want in a prompt.",
-      "published": "2026-06-08 18:45",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Siri AI",
-      "url": "https://www.apple.com/apple-intelligence/",
-      "summary": "",
-      "published": "2026-06-08 18:17",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "EU-banned pesticides found in rice, tea and spices",
-      "url": "https://www.foodwatch.org/en/eu-banned-pesticides-found-in-rice-tea-and-spices",
-      "summary": "",
-      "published": "2026-06-08 15:59",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
-      "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
-      "summary": "",
-      "published": "2026-06-08 15:27",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Show HN: Performative-UI – A react component library of design tropes",
-      "url": "https://vorpus.github.io/performativeUI/",
-      "summary": "",
-      "published": "2026-06-08 14:05",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Anti-social: It's fads, not friends, which now dominate social media feeds",
-      "url": "https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social",
-      "summary": "",
-      "published": "2026-06-08 11:58",
-      "source": "Hacker News",
-      "lang": "en",
       "category": "科技"
     },
     {
@@ -435,37 +462,10 @@
       "category": "科技"
     },
     {
-      "title": "派早报：乘用车越造越重，12 年增重近 400 公斤",
-      "url": "https://sspai.com/post/110847",
-      "summary": "<p>乘用车越造越重，12 年增重近 400 公斤</p><p>iFixit 拆解华强北山寨苹果产品</p><p>Cloudflare 收购 Vite 背后公司</p><p>rsync 疑因 AI 参与维护出现 bug，引发争议</p><p>OpenAI 与美国政府商讨捐赠股权</p><p>美国平均上路车龄达到 13 年</p><p>看看就行的简讯</p><p>少数派的近期动态</p><p>你可能错过的好文章</p><a href=\"https://sspai.com/post/110847\" target=\"_blank\">查看全文</a>",
-      "published": "2026-06-07 22:52",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "接住来自空间站的信号：如何用手台接收 SSTV？",
-      "url": "https://sspai.com/post/110108",
-      "summary": "它不是玄学，也不是单纯的浪漫。它是频率、传播、天线、轨道、多普勒效应，以及我们手中那一点点设备共同完成的一次小小实验。<a href=\"https://sspai.com/post/110108\" target=\"_blank\">查看全文</a>",
-      "published": "2026-06-07 08:34",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "2026 Apple 设计奖正式揭晓，细数 12 款 App 的特别之处",
-      "url": "https://sspai.com/post/110763",
-      "summary": "Apple 设计大奖结果公布，而这 12 款 app 又有什么特别之处呢？<a href=\"https://sspai.com/post/110763\" target=\"_blank\">查看全文</a>",
-      "published": "2026-06-06 02:20",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "Looking Forward to Postgres 19: Query Hints",
-      "url": "https://www.pgedge.com/blog/looking-forward-to-postgres-19-query-hints",
+      "title": "More Molly Guards",
+      "url": "https://unsung.aresluna.org/more-molly-guards/",
       "summary": "",
-      "published": "2026-06-05 15:15",
+      "published": "2026-06-06 18:15",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
