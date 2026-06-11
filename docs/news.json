@@ -1,131 +1,410 @@
 {
-  "last_updated": "2026-06-10 02:05:26",
+  "last_updated": "2026-06-11 02:16:22",
   "total": 52,
   "articles": [
     {
-      "title": "金饰价格集体跳水，跌破1300元",
-      "url": "https://36kr.com/newsflashes/3846694410816001?f=rss",
-      "summary": "6月10日亚洲早盘，黄金白银盘中持续下挫，均跌超1.4%。国际金价跌破4200美元关口。前一日，金银油亦全线下跌。现货黄金、COMEX黄金期货均跌超1%；现货白银、COMEX白银期货均跌超4%。6月10日，国内多家品牌金饰价格大幅下调，集体跌破1300元/克。周生生足金饰品报1277元/克，较前一日1322元/克大跌45元；老庙黄金足金饰品报1283元/克，相较前一日1317元/克大跌34元；老凤祥足金饰品报1276元/克，相较前一日1316/克大跌40元。（新浪财经）",
-      "published": "2026-06-10 01:59",
+      "title": "今起儿童旅客可购买铁路旅游计次票，票价为成人旅客的5折",
+      "url": "https://36kr.com/newsflashes/3848134762697730?f=rss",
+      "summary": "今天起儿童旅客可购买铁路旅游计次票，并享受儿童优惠票政策，亲子、家庭旅游出行更加便捷实惠。此次推出的儿童旅游计次票是在既有成人旅游计次票基础上优化升级的服务产品。2023年6月开始实行的铁路旅游计次票产品，主要面向成人旅客发售，按照“1次购买、分段乘坐、15天有效”的模式运行，购票人可在指定的车站间自主选择2至10段行程出行，每段行程单次、单向、指定席别，票价均享受不同幅度的折扣优惠，最低为同径路同席别各车次平均执行票价的8.5折。（央视新闻）",
+      "published": "2026-06-11 02:05",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "科创50指数涨超3%，权重股海光信息涨超13%",
-      "url": "https://36kr.com/newsflashes/3846706127915272?f=rss",
-      "summary": "36氪获悉，科创50指数涨超3%，权重股海光信息涨超13%，中微公司、寒武纪涨超6%，中芯国际、华虹宏力等纷纷上扬。",
-      "published": "2026-06-10 01:51",
+      "title": "钉钉换帅，92年技术极客陈宇森接任钉钉CEO",
+      "url": "https://36kr.com/newsflashes/3848133613999106?f=rss",
+      "summary": "36氪获悉，6月11日，阿里巴巴宣布钉钉管理层调整：陈航卸任钉钉CEO，92年技术极客陈宇森接棒。接任钉钉CEO后，陈宇森成为阿里巴巴最年轻的事业部CEO。",
+      "published": "2026-06-11 02:03",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "子公司中标山铁数科5亿元算力服务器？华策影视：不属实",
-      "url": "https://36kr.com/newsflashes/3846697139931400?f=rss",
-      "summary": "36氪获悉，就“子公司上海华剧汇中标山铁数科5亿元算力服务器，是否属实”的问题，华策影视6月10日在互动平台回复称，不属实。",
-      "published": "2026-06-10 01:50",
+      "title": "智元推出灵犀X2 EDU（人人造）版本，面向科教实训等丰富场景",
+      "url": "https://36kr.com/newsflashes/3848126301541636?f=rss",
+      "summary": "36氪获悉，6月10日，智元推出灵犀X2 EDU（人人造）版本，面向科研教育、工程实训、机器人赛事开发等多元场景，聚焦设备拆装实训与软件二次开发。据介绍，灵犀X2 EDU（人人造）版本在硬件设计上强调可拆装、可扩展与可二次开发。",
+      "published": "2026-06-11 01:56",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "科创50指数盘中涨超2%，半导体板块快速拉升",
-      "url": "https://36kr.com/newsflashes/3846694994757888?f=rss",
-      "summary": "36氪获悉，科创50指数盘中涨超2%，半导体板块快速拉升，海光信息涨超10%，沪硅产业涨超7%，寒武纪涨超4%。",
-      "published": "2026-06-10 01:40",
+      "title": "创业板指涨超1%",
+      "url": "https://36kr.com/newsflashes/3848115744560389?f=rss",
+      "summary": "36氪获悉，创业板指涨超1%。",
+      "published": "2026-06-11 01:45",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "国家统计局：2026年5月份CPI总体平稳，PPI继续上涨",
-      "url": "https://36kr.com/newsflashes/3846692692216073?f=rss",
-      "summary": "36氪获悉，国家统计局城市司首席统计师董莉娟解读2026年5月份CPI和PPI数据。从环比看，全国CPI下降0.1%，上月为上涨0.3%，主要是受能源和服务价格变动影响。受国际油价传导影响，国内汽油价格由上月上涨12.6%转为下降0.3%，带动能源价格由上月上涨5.7%转为下降0.1%，对CPI环比的影响由上月上拉0.39个百分点转为下拉0.01个百分点。受“五一”节后出行季节性回落影响，服务价格由上月上涨0.5%转为下降0.1%，对CPI环比的影响由上月上拉0.22个百分点转为下拉0.03个百分点。其中，交通工具租赁和飞机票价格分别由上月上涨8.6%和29.2%转为下降6.8%和6.3%，合计影响CPI环比下降约0.04个百分点。夏装换季上新带动服装价格上涨0.6%，AI相关需求旺盛带动移动电话机和平板电脑价格分别上涨1.6%和1.1%，上述三项合计影响CPI环比上涨约0.05个百分点。",
-      "published": "2026-06-10 01:38",
+      "title": "深证成指转涨",
+      "url": "https://36kr.com/newsflashes/3848112409711616?f=rss",
+      "summary": "36氪获悉，深证成指转涨，半导体、工业金属板块走强。",
+      "published": "2026-06-11 01:42",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "兆易创新推出全新光模块专用MCU",
-      "url": "https://36kr.com/newsflashes/3846676426672389?f=rss",
-      "summary": "36氪获悉，6月10日，兆易创新推出全新GD32E512和GD32E252系列光模块专用MCU，精准覆盖从传统低速到新一代高速光模块的多元应用场景。这两款新品的发布，将进一步拓宽兆易创新在光通信领域的产品矩阵，并将为AI算力中心及下一代网络基础设施的高速光互联产业升级提供强有力的底层硬件支撑。",
-      "published": "2026-06-10 01:35",
+      "title": "小米推出AI 编程助手MiMo Code",
+      "url": "https://36kr.com/newsflashes/3848111404274945?f=rss",
+      "summary": "36氪获悉，6月11日，小米MiMo技术团队正式发布探索性AI编程助手——MiMo Code。这是小米MiMo首次进入Coding Agent领域，开始构建“模型+Agent”的生态闭环。",
+      "published": "2026-06-11 01:41",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "国家统计局：2026年5月份工业生产者出厂价格同比上涨3.9%，环比上涨0.5%",
-      "url": "https://36kr.com/newsflashes/3846687562320388?f=rss",
-      "summary": "36氪获悉，国家统计局数据显示，2026年5月份，全国工业生产者出厂价格同比上涨3.9%，环比上涨0.5%。工业生产者购进价格同比上涨5.8%，环比上涨1.3%。1—5月平均，工业生产者出厂价格比上年同期上涨1.0%，工业生产者购进价格上涨1.6%。",
-      "published": "2026-06-10 01:32",
+      "title": "OpenAI考虑大幅降价，以期在与Anthropic的用户争夺战中占据有利地位",
+      "url": "https://36kr.com/newsflashes/3848106407040265?f=rss",
+      "summary": "据报道，OpenAI正考虑大幅下调其产品的token收费标准，此举旨在应对主要竞争对手Anthropic预期中的类似降价举措，以争夺用户。（财联社）",
+      "published": "2026-06-11 01:36",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "国家统计局：2026年5月份居民消费价格同比上涨1.2%",
-      "url": "https://36kr.com/newsflashes/3846686002153987?f=rss",
-      "summary": "36氪获悉，国家统计局数据显示，2026年5月份，全国居民消费价格同比上涨1.2%。其中，城市上涨1.3%，农村上涨1.1%；食品价格下降1.7%，非食品价格上涨1.9%；消费品价格上涨1.6%，服务价格上涨0.8%。1­­—5月平均，全国居民消费价格比上年同期上涨1.0%。5月份，全国居民消费价格环比下降0.1%。其中，城市下降0.1%，农村下降0.1%；食品价格下降0.4%，非食品价格下降0.1%；消费品价格下降0.2%，服务价格下降0.1%。",
-      "published": "2026-06-10 01:31",
+      "title": "恒指、恒生科技指数转涨",
+      "url": "https://36kr.com/newsflashes/3848104893437191?f=rss",
+      "summary": "36氪获悉，恒指、恒生科技指数转涨。",
+      "published": "2026-06-11 01:34",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "A股三大指数集体低开",
-      "url": "https://36kr.com/newsflashes/3846681659165191?f=rss",
-      "summary": "36氪获悉，A股三大指数集体低开，沪指低开0.62%，深成指低开1.35%，创业板指低开1.62%；光模块、半导体领跌，天孚通信、罗博特科跌超5%，东山精密、中天科技跌超3%；贵金属板块走弱，赤峰黄金跌超3%。",
-      "published": "2026-06-10 01:26",
+      "title": "A股三大指数集体低开，能源股领涨",
+      "url": "https://36kr.com/newsflashes/3848096816223497?f=rss",
+      "summary": "36氪获悉，A股三大指数集体低开，沪指低开0.34%，深成指低开0.43%，创业板指低开0.4%；贵金属、发电设备、工业机械板块领跌，中重科技跌超8%，东方电气、招金黄金跌超2%；能源、教育、银行、海运板块走强，泰山石油涨超4%，中公教育涨超3%，国航远洋涨超2%，农业银行涨0.45%。",
+      "published": "2026-06-11 01:26",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "央行6月10日公开市场开展1590亿元7天期逆回购操作",
-      "url": "https://36kr.com/newsflashes/3846679237396737?f=rss",
-      "summary": "36氪获悉，央行6月10日公开市场开展1590亿元7天期逆回购操作，操作利率1.40%。",
-      "published": "2026-06-10 01:24",
+      "title": "央行今日开展1885亿元7天逆回购操作",
+      "url": "https://36kr.com/newsflashes/3848093587920134?f=rss",
+      "summary": "36氪获悉，央行今日开展1885亿元7天逆回购操作，操作利率为1.40%，与此前持平。",
+      "published": "2026-06-11 01:23",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "恒指开盘跌0.5%，恒生科技指数跌0.38%",
-      "url": "https://36kr.com/newsflashes/3846678657485312?f=rss",
-      "summary": "36氪获悉，恒指开盘跌0.5%，恒生科技指数跌0.38%；半导体、有色板块领跌，赤峰黄金跌超4%，英诺赛科跌超3%，兆易创新、澜起科技跌超2%；软件服务、医疗设备板块涨幅居前，精锋医疗涨超5%，中国软件国际涨超4%。",
-      "published": "2026-06-10 01:23",
+      "title": "恒指开盘跌0.11%，恒生科技指数跌0.2%",
+      "url": "https://36kr.com/newsflashes/3848093334213896?f=rss",
+      "summary": "36氪获悉，恒指开盘跌0.11%，恒生科技指数跌0.2%；有色金属、半导体、汽车板块领跌，潼关黄金跌超5%，英诺赛科、小鹏集团、理想汽车跌超1%；能源、传媒、软件服务板块走强，山东墨龙涨超14%，阅文集团涨超2%，知乎、B站涨超1%。",
+      "published": "2026-06-11 01:22",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "人民币兑美元中间价报6.8130，上调17点",
-      "url": "https://36kr.com/newsflashes/3846672872360452?f=rss",
-      "summary": "36氪获悉，人民币兑美元中间价报6.8130，上调17点；上一交易日中间价6.8147，上一交易日官方收盘价6.7702，上日夜盘报收6.7734。",
-      "published": "2026-06-10 01:17",
+      "title": "甲骨文CFO：公司积压订单达6380亿美元，体现市场对AI基建和云服务的需求旺盛",
+      "url": "https://36kr.com/newsflashes/3848088702260225?f=rss",
+      "summary": "美东时间周三盘后，甲骨文公司首席财务官希拉里・芭芭拉・马克森表示，在截至5月31日的财年末，公司剩余履约义务规模达6380亿美元，同比激增363%，预计其中12%将在未来12个月内确认为收入，另有34%将在未来13至36个月内确认。马克森表示：“这一创纪录的数值，依托客户长期合约支撑，充分体现了市场对人工智能基础设施、云服务的旺盛需求，也让我们对未来营收增长具备极高能见度。”（财联社）",
+      "published": "2026-06-11 01:18",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "macOS Container Machines",
-      "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
+      "title": "派早报：Insta360 发布首款手持云台相机 Luna Ultra 等",
+      "url": "https://sspai.com/post/110951",
+      "summary": "罗技发布首款折叠鼠标 Mobi Fold，雷蛇发布魔音海妖 V3 专业版麦克风等<a href=\"https://sspai.com/post/110951\" target=\"_blank\">查看全文</a>",
+      "published": "2026-06-11 00:47",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "AI agent runs amok in Fedora and elsewhere",
+      "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
       "summary": "",
-      "published": "2026-06-10 00:29",
+      "published": "2026-06-11 00:10",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Google just fired a warning shot in the AI subscription price wars",
-      "url": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
-      "summary": "Google just made it significantly cheaper to enjoy its budget AI subscription tier.",
-      "published": "2026-06-10 00:26",
+      "title": "Bluesky is getting ‘communities’",
+      "url": "https://www.theverge.com/tech/948215/bluesky-communities-at-protocol-atmosphere-reddit",
+      "summary": "Bluesky will be getting \"communities,\" which will function as smaller spaces where you can \"go deeper and hang out with people who care about the same stuff\" sometime this year, according to head of product Alex Benzer. They will be built on the decentralized AT Protocol that underpins Bluesky, with Benzer saying that \"it's a [&#8230;]",
+      "published": "2026-06-11 00:05",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Framework delays its first Laptop 13 Pro shipments by a month",
+      "url": "https://www.theverge.com/gadgets/948044/framework-laptop-13-pro-delay-shipment-july-august",
+      "summary": "The Framework Laptop 13 Pro is delayed. The new 13-inch Framework flagship was set to launch in June, but shipments from the first batch are now expected in July - and there's still a chance some shipments could slip to early August. If you're not in the first batch, your Laptop 13 Pro shifts from [&#8230;]",
+      "published": "2026-06-10 23:12",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Apple’s new Siri AI knows when to shut up",
+      "url": "https://www.theverge.com/tech/948155/apple-siri-ai-chatbot-personality",
+      "summary": "Apple's new Siri AI is finally here, and so far, it seems like it works. I have access and have been messing around with it, and my biggest impression so far is that Siri AI is quite curt - which I mean as a compliment. Many AI chatbots are cheery and wordy. While a more [&#8230;]",
+      "published": "2026-06-10 22:52",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+      "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
+      "summary": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO.",
+      "published": "2026-06-10 22:31",
       "source": "techcrunch.com",
       "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Why Andrew Yang is building instead of waiting for Washington",
+      "url": "https://techcrunch.com/video/why-andrew-yang-is-building-instead-of-waiting-for-washington/",
+      "summary": "Andrew Yang’s 2020 presidential campaign&#160;was based on a&#160;warning that automation and AI would hollow out the labor market and concentrate wealth in the hands of a few. At the time, ideas like Universal Basic Income felt fringe. Now Dario Amodei, Sam Altman, and Bernie Sanders are all&#160;saying versions&#160;of the same thing.&#160; An entrepreneur at heart, [&#8230;]",
+      "published": "2026-06-10 22:24",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "A Written Language for the Cherokee So Efficient It Was Thought to Be Magic",
+      "url": "https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/",
+      "summary": "",
+      "published": "2026-06-10 22:07",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Nearly a million passports and photo IDs were left unprotected on the public internet",
+      "url": "https://www.theverge.com/tech/947157/passports-data-breach-cannabis-club-systems-nefos-puffpal",
+      "summary": "Typing a few letters and numbers into my web browser, I find myself gaping at the identity documents of complete strangers. The passport of a young woman from Germany. The passport of a man from Spain with glasses resting on his head. The front and back of another man's driver's license, a stereotypically goofy expression [&#8230;]",
+      "published": "2026-06-10 21:55",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Cybercriminals claim breach of Oracle PeopleSoft servers at 100-plus organizations",
+      "url": "https://techcrunch.com/2026/06/10/cybercriminals-claim-breach-of-oracle-peoplesoft-servers-at-100-plus-organizations/",
+      "summary": "The ShinyHunters hacking gang claims to have compromised the Oracle PeopleSoft servers of more than 100 organizations, including many universities.",
+      "published": "2026-06-10 21:33",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Xbox warns of a &#8216;reset&#8217; as it prepares for layoffs",
+      "url": "https://www.theverge.com/games/948142/microsoft-xbox-layoffs-reset-asha-sharma",
+      "summary": "Microsoft's Xbox division will be hit with significant layoffs next month, according to people familiar with Microsoft's plans. The company has been preparing for the layoffs internally for weeks, with Xbox CEO Asha Sharma hinting about \"making hard choices\" last month. Sources suggest the cuts could even involve a studio closure, or changes to the [&#8230;]",
+      "published": "2026-06-10 21:28",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Apple, Google add support for Thread 1.4",
+      "url": "https://www.theverge.com/tech/947888/apple-google-add-support-for-thread-1-4",
+      "summary": "Apple and Google are updating their smart home streaming devices to Thread 1.4. As first spotted by Matter Alpha and 9to5 Google, the latest spec has arrived on compatible Apple TVs in the tvOS 27 developer beta and the Google TV Streamer through a software update. This lays the groundwork for these devices, which serve [&#8230;]",
+      "published": "2026-06-10 20:25",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Everyone wants a piece of Tesla’s battery business",
+      "url": "https://techcrunch.com/2026/06/10/everyone-wants-a-piece-of-teslas-battery-business/",
+      "summary": "Electricity demand from AI data centers is pushing everyone — including automakers like GM and Ford — into the energy storage business.",
+      "published": "2026-06-10 20:21",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
+      "url": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
+      "summary": "Companies are burning through exorbitant sums of money to keep pace in the AI arms race. Debt is climbing.",
+      "published": "2026-06-10 20:19",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Kalshi adds required employment verification for some prediction market bets",
+      "url": "https://www.theverge.com/business/948083/kalshi-prediction-markets-insider-trading",
+      "summary": "The CFTC is considering its first regulation for prediction markets, as arrests over \"insider trading\" on everything from military operations to Google Search data continue to stack up. As CoinDesk reports, a notice of proposed rulemaking says \"the proposal would establish a structured framework for evaluating whether such contracts involve an activity enumerated in Section [&#8230;]",
+      "published": "2026-06-10 20:18",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "North Koreans behind nearly half of US tech industry hacks, says CrowdStrike",
+      "url": "https://techcrunch.com/2026/06/10/north-koreans-behind-nearly-half-of-us-tech-industry-hacks-says-crowdstrike/",
+      "summary": "North Korean hackers posing as remote IT workers and recruiters remain a major threat to U.S., European, and Asian companies, accounting for about half of all attacks over the past 12 months.",
+      "published": "2026-06-10 19:57",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Wing drone delivery might not be a novelty anymore",
+      "url": "https://techcrunch.com/2026/06/10/wing-drone-delivery-might-not-be-a-novelty-anymore/",
+      "summary": "Wing is expanding into seven more U.S. cities through its partnership with Walmart.",
+      "published": "2026-06-10 19:52",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "πFS",
+      "url": "https://github.com/philipl/pifs",
+      "summary": "",
+      "published": "2026-06-10 18:54",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Claude Fable won’t answer basic biology questions",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions",
+      "summary": "Anthropic just released Claude Fable 5, calling it the most powerful AI model it has ever made widely available and praising its skills in biology, among others. But the model won't answer basic biology questions - the kind you'd expect a high schooler to handle. Instead, it hands off the query to the former flagship [&#8230;]",
+      "published": "2026-06-10 18:43",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Microsoft, like, totally gets why students are booing AI-pilled graduation speakers",
+      "url": "https://www.theverge.com/news/947831/college-speakers-booed-ai-microsoft",
+      "summary": "New college graduates around the country have been booing and heckling commencement speakers who hype up AI. Microsoft would like everyone to talk it out. In a blog post running more than 3,100 words, Microsoft vice chair and president Brad Smith addressed the recent spate of viral clips from graduation ceremonies, like former Google CEO [&#8230;]",
+      "published": "2026-06-10 17:45",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The future of AI regulation is courting the strangest, most anxious bedfellows",
+      "url": "https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms",
+      "summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers about tech politics, tech influence, and tech shenanigans in Washington, DC. (If you're not a subscriber, you can get on board here.) We're back after a two-week hiatus, during most of which I was gallivanting in the Netherlands for a family wedding, and a trip [&#8230;]",
+      "published": "2026-06-10 17:38",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "How JPL keeps the 13-year-old Curiosity rover doing science",
+      "url": "https://spectrum.ieee.org/curiosity-rover-jpl-mars-science",
+      "summary": "",
+      "published": "2026-06-10 17:30",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Netflix expands revamped mobile app across Asia and doubles down on kids’ gaming",
+      "url": "https://techcrunch.com/2026/06/10/netflix-expands-revamped-mobile-app-across-asia-and-doubles-down-on-kids-gaming/",
+      "summary": "The media giant is pushing to expand its mobile and gaming business.",
+      "published": "2026-06-10 17:13",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "‘AI-pilled’ firms spend $7,500 per employee each month on AI",
+      "url": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
+      "summary": "The most AI-obsessed firms are spending roughly $7,500 monthly per employee on AI, per Ramp AI Index. That's not more than an engineer's salary — yet.",
+      "published": "2026-06-10 17:07",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The Indian government got cold feet on Starlink just before SpaceX’s IPO",
+      "url": "https://techcrunch.com/2026/06/10/the-indian-government-got-cold-feet-on-starlink-just-before-spacexs-ipo/",
+      "summary": "Problems with Starlink's India expansion could challenge SpaceX's IPO growth story.",
+      "published": "2026-06-10 16:43",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
+      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+      "summary": "",
+      "published": "2026-06-10 16:42",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "How memory tools can make AI models worse",
+      "url": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
+      "summary": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies.",
+      "published": "2026-06-10 16:11",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Zest launches a restaurant discovery app powered by where people actually eat",
+      "url": "https://techcrunch.com/2026/06/10/zest-launches-a-restaurant-discovery-app-powered-by-where-people-actually-eat/",
+      "summary": "Backed by Alexis Ohanian’s 776 and Kindred Ventures, Zest uses transaction data and AI to generate restaurant recommendations based on users’ real dining habits and the places they frequent.",
+      "published": "2026-06-10 15:53",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" – AMA",
+      "url": "https://news.ycombinator.com/item?id=48477135",
+      "summary": "",
+      "published": "2026-06-10 14:47",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "线下活动｜周日到广州来，给你一张过去的 CD",
+      "url": "https://sspai.com/post/110911",
+      "summary": "故事的开端今年因为和飞傲合作多功能便携CD音箱一体机BeatBox，我们对CD以及CD文化的了解也加深了不少，也因此认识不少真正的CD、唱片收藏大佬，谢江川川哥就是其中一位。川哥是一家唱片店的老板，从 ...<a href=\"https://sspai.com/post/110911\" target=\"_blank\">查看全文</a>",
+      "published": "2026-06-10 09:30",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "又是一年 618：可以直接抄作业的护肤搭配清单",
+      "url": "https://sspai.com/post/110614",
+      "summary": "直接从搭配开始，为不同肤质、不同诉求的人群提供具体的产品搭配建议。<a href=\"https://sspai.com/post/110614\" target=\"_blank\">查看全文</a>",
+      "published": "2026-06-10 07:00",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "告别阅读焦虑：一份硬核科学阅读指南",
+      "url": "https://sspai.com/post/110557",
+      "summary": "阅读是个熟练功夫。<a href=\"https://sspai.com/post/110557\" target=\"_blank\">查看全文</a>",
+      "published": "2026-06-10 03:29",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "这些人用实测，给麦金獭钢化膜交了份真实答卷",
+      "url": "https://sspai.com/post/110868",
+      "summary": "编注：挑选钢化膜向来讲究贴合自身机型与使用习惯，优劣好坏仅凭介绍难以定论。麦金獭钢化膜上线已有一段时日，少数派编辑部汇总大量真实买家反馈，内容拆分为「用户体验」、「进阶体验」两部分，帮大家选购前摸清产 ...<a href=\"https://sspai.com/post/110868\" target=\"_blank\">查看全文</a>",
+      "published": "2026-06-10 03:00",
+      "source": "sspai.com",
+      "lang": "zh_cn",
       "category": "科技"
     },
     {
@@ -138,244 +417,10 @@
       "category": "科技"
     },
     {
-      "title": "I tried Siri AI, and so far it actually works",
-      "url": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc",
-      "summary": "Parents want one thing, and one thing only, out of AI: to add a list of soccer games or \"spirit week\" theme days from an email or a poorly formatted flyer onto their calendar in one shot. And I have good news for parents with iPhones - the new Siri can finally do this. After [&#8230;]",
-      "published": "2026-06-09 23:43",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
-      "url": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
-      "summary": "Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest in startups like Anthropic, Anduril, and SpaceX.",
-      "published": "2026-06-09 23:17",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "RIP software hackathons. Long live the hardware hackathon",
-      "url": "https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/",
+      "title": "Anthropic requires 30 day data retention for Fable and Mythos",
+      "url": "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models",
       "summary": "",
-      "published": "2026-06-09 22:35",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Congress just gave DHS another $70 billion",
-      "url": "https://www.theverge.com/policy/947146/dhs-funding-congress-budget-reconciliation",
-      "summary": "Congress narrowly voted to fund President Donald Trump's mass deportation agenda, giving the Department of Homeland Security $70 billion over the next three years. The house voted 214 to 212 in favor of the reconciliation bill Tuesday, following the Senate's 52-47 vote last Friday morning. The vote fell largely along party lines. Sen. Lisa Murkowski [&#8230;]",
-      "published": "2026-06-09 21:34",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "The App Store is going to add subscription bundles soon",
-      "url": "https://www.theverge.com/tech/947365/apple-subscription-bundles-app-store",
-      "summary": "Later this year, you will be able to get bundled subscriptions for iPhone apps, as Apple announced it's expanding App Store bundles so they can include offers from different companies. It's similar to streaming video bundles that have combined offers for Apple TV and Peacock, but it also could put together subscriptions for completely different [&#8230;]",
-      "published": "2026-06-09 21:30",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "If Claude Fable stops helping you, you'll never know",
-      "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
-      "summary": "",
-      "published": "2026-06-09 21:19",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Upcoming breaking changes for npm v12",
-      "url": "https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/",
-      "summary": "",
-      "published": "2026-06-09 21:01",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "GM joins race to build batteries for AI data centers and the grid",
-      "url": "https://techcrunch.com/2026/06/09/gm-bets-big-on-energy-storage-for-data-centers-and-the-grid/",
-      "summary": "GM is developing an entirely new sodium-ion battery chemistry for use in everything from data centers to its own factories.",
-      "published": "2026-06-09 21:00",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "GM thinks EVs can help offset AI’s energy suck with vehicle-to-grid tech",
-      "url": "https://www.theverge.com/transportation/946820/gm-energy-ev-v2g-storage-sodium-ion",
-      "summary": "At an event in San Francisco today, General Motors made a series of announcements around EV batteries, energy storage, and grid resiliency in the face of growing electricity demand from AI data centers. The automaker announced that it would be activating new vehicle-to-grid capabilities for its current EV and home energy customers. It's releasing a [&#8230;]",
-      "published": "2026-06-09 21:00",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Hey, Siri, here’s what I actually want from AI",
-      "url": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
-      "summary": "I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my phone?",
-      "published": "2026-06-09 20:50",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Anthropic’s Fable 5 can make weirdly fun video games with the click of a button",
-      "url": "https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/",
-      "summary": "Anthropic's Claude Fable 5 is going to be a big hit with the web's vibe coders.",
-      "published": "2026-06-09 20:37",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Microsoft AI head calls out Anthropic for acting like Claude is conscious",
-      "url": "https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious",
-      "summary": "Microsoft AI CEO Mustafa Suleyman says it's \"really, really dangerous\" for Anthropic to speculate about Claude's consciousness inside its \"constitution,\" or the instructions that tell the model how to behave. During an episode of Decoder, Suleyman argues that this kind of speculation may have set up the chatbot to act as though it's conscious: I [&#8230;]",
-      "published": "2026-06-09 20:24",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
-      "url": "https://aarushgupta.io/posts/kan-fpga/",
-      "summary": "",
-      "published": "2026-06-09 19:21",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Nintendo is playing things too safe",
-      "url": "https://www.theverge.com/entertainment/947120/nintendo-direct-june-2026-analysis",
-      "summary": "Tuesday's Nintendo Direct showcase felt like an important moment for the company. With the Switch 2 heading into its second holiday season, one in which the hardware will be even more expensive thanks to a price hike, it was a chance for Nintendo to really sell new audiences on its latest console - but that's [&#8230;]",
-      "published": "2026-06-09 19:01",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Can tech companies learn to love cheaper AI models?",
-      "url": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
-      "summary": "If those same AI workloads can be handled by cheaper models without affecting quality, it would mean a massive shift in the economics of AI.",
-      "published": "2026-06-09 18:56",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
-      "url": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
-      "summary": "Apple primarily made the case for an improved experience with its long-standing Siri assistant, which like most other announcements had a hefty helping of AI.",
-      "published": "2026-06-09 18:04",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "CISA gives US federal agencies three days to fix a VPN bug under attack by a ransomware gang",
-      "url": "https://techcrunch.com/2026/06/09/cisa-gives-us-federal-agencies-three-days-to-fix-a-vpn-bug-under-attack-by-a-ransomware-gang/",
-      "summary": "Check Point said hackers broke into dozens of organizations by exploiting a VPN bug in several of its products used across the government.",
-      "published": "2026-06-09 17:40",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Fitbit’s Charge 6 and Ace LTE are now as cheap as the new $100 Air",
-      "url": "https://www.theverge.com/gadgets/947063/fitbit-charge-6-ace-lte-air-deal-sale",
-      "summary": "Whether you&#8217;re shopping for Father&#8217;s Day or trying to keep your kids entertained over summer break, you don&#8217;t need to spend a fortune to get a great Fitbit right now. You can currently pick up the Fitbit Charge 6 for $50 off at Amazon, Best Buy, and Target, the Fitbit Ace LTE for $80 off [&#8230;]",
-      "published": "2026-06-09 17:35",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Apple wants Europe to blink",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/947051/apple-europe-dma-siri-ai",
-      "summary": "It took a few years, but Apple finally made its AI look useful. Now millions of iPhone users in Europe are being told they won't be getting Siri AI anytime soon, if ever - and Apple wants them to blame the EU. Apple says its new AI-powered Siri will not launch on iPhones and iPads [&#8230;]",
-      "published": "2026-06-09 17:13",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Anthropic’s Claude Fable 5 is a version of Mythos the public can access today",
-      "url": "https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/",
-      "summary": "Anthropic is releasing Claude Fable 5, its first Mythos-class model available to the public. The model comes with guardrails that block responses in high-risk areas like cybersecurity and biology.",
-      "published": "2026-06-09 17:00",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Anthropic releases its first Mythos-class model Claude Fable",
-      "url": "https://www.theverge.com/news/946725/anthropic-releases-claude-fable-5-mythos",
-      "summary": "Anthropic just announced Claude Fable 5, a new AI model it said is the most powerful model it has ever made widely available. According to the company, Fable 5 \"shows exceptional performance in software engineering, knowledge work, and vision,\" with its lead over other models growing as tasks become longer and more complex. Fable 5 [&#8230;]",
-      "published": "2026-06-09 17:00",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Claude Fable 5",
-      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-      "summary": "",
-      "published": "2026-06-09 16:58",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "SwitchBot’s E Ink Weather Station is already 20 percent off",
-      "url": "https://www.theverge.com/gadgets/946753/switchbot-weather-station-jackery-explorer-deal-sale",
-      "summary": "We’re only a few days since the SwitchBot Smart E Ink Weather Station launched, and you can already save $25 on the smart home gadget. Visit Amazon and clip the on-page coupon to bring the price down to $85 at checkout, or use coupon code APAP23 on the SwitchBot site. The 7.5-inch framed panel shows [&#8230;]",
-      "published": "2026-06-09 16:55",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Rivian starts deliveries of its all-important R2 SUV",
-      "url": "https://techcrunch.com/2026/06/09/rivian-starts-deliveries-of-its-all-important-r2-suv/",
-      "summary": "Founder and CEO RJ Scaringe has called it \"maybe the most important thing we've launched to date.\"",
-      "published": "2026-06-09 16:46",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Apple’s foldable iPhone could be just around the corner",
-      "url": "https://techcrunch.com/2026/06/09/apples-foldable-iphone-could-be-just-around-the-corner/",
-      "summary": "The iOS 27 developer beta includes code that references the fold state and screen angle of a device.",
-      "published": "2026-06-09 16:22",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "It’s not FAANG anymore. It’s MANGOS.",
-      "url": "https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/",
-      "summary": "With SpaceX, Anthropic, and OpenAI all eyeing massive public debuts, the tech industry may soon have a new class of corporate overlords — and a new acronym to match. Say goodbye to FAANG and hello to MANGOS.",
-      "published": "2026-06-09 16:09",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Making Graphics Like it's 1993",
-      "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
-      "summary": "",
-      "published": "2026-06-09 10:46",
+      "published": "2026-06-09 17:23",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
@@ -399,15 +444,6 @@
       "category": "科技"
     },
     {
-      "title": "派早报：WWDC26 全球开发者大会开幕等",
-      "url": "https://sspai.com/post/110889",
-      "summary": "少数派的近期动态少数派×AKKO联合共创带屏键盘即将上线，6月11日，来直播间一起共创。即刻预约可爱又好玩的经典萌物——监工水獭挂件复刻啦！会员点数也可兑换！给獭一个家首款MBTI定制墨水屏「口袋先知 ...<a href=\"https://sspai.com/post/110889\" target=\"_blank\">查看全文</a>",
-      "published": "2026-06-08 22:16",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
       "title": "一图流 | Apple WWDC26 开幕式回顾",
       "url": "https://sspai.com/post/110887",
       "summary": "WWDC26 开幕式一图流来啦。<a href=\"https://sspai.com/post/110887\" target=\"_blank\">查看全文</a>",
@@ -426,46 +462,10 @@
       "category": "科技"
     },
     {
-      "title": "派评｜近期值得关注的 App",
-      "url": "https://sspai.com/post/110874",
-      "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀<a href=\"https://sspai.com/post/110874\" target=\"_blank\">查看全文</a>",
-      "published": "2026-06-08 10:16",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "少数派正版软件 + 付费教程 618 促销活动限时开启",
-      "url": "https://sspai.com/post/110853",
-      "summary": "又到了每年的618购物节，少数派照例为大家带来了众多优质正版软件和实用教程的大型活动专场。如果你有心仪的软件或者教程，都可以趁着优惠果断出手。TL;DR:活动时间：2025年6月8日（周一）至6月22 ...<a href=\"https://sspai.com/post/110853\" target=\"_blank\">查看全文</a>",
-      "published": "2026-06-08 08:11",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "2026 美加墨世界杯观赛指南",
-      "url": "https://sspai.com/post/110681",
-      "summary": "四年一届的暑期大片，又要上演啦。<a href=\"https://sspai.com/post/110681\" target=\"_blank\">查看全文</a>",
-      "published": "2026-06-08 07:00",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "大语言模型正在变成大编程模型",
-      "url": "https://sspai.com/post/110746",
-      "summary": "大语言模型的语言能力，好像并没有随着基础模型的迭代而提升？<a href=\"https://sspai.com/post/110746\" target=\"_blank\">查看全文</a>",
-      "published": "2026-06-08 02:45",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "More Molly Guards",
-      "url": "https://unsung.aresluna.org/more-molly-guards/",
+      "title": "Klondike Solitaire game for curses in 5k of C",
+      "url": "https://nanochess.org/klondike_in_c.html",
       "summary": "",
-      "published": "2026-06-06 18:15",
+      "published": "2026-06-08 19:08",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
