@@ -1,103 +1,337 @@
 {
-  "last_updated": "2026-06-13 02:05:32",
+  "last_updated": "2026-06-14 02:15:46",
   "total": 52,
   "articles": [
     {
-      "title": "一季度全球前十大晶圆代工商营收季增3.7%",
-      "url": "https://36kr.com/newsflashes/3850890624849156?f=rss",
-      "summary": "据机构统计，今年一季度全球前十大晶圆代工商产值季增3.7%至479.5亿美元，再创新高，预计全球前十大晶圆代工商第二季产值将再创高峰。从排名来看，第一季度晶合集成排名从第九名提升至第八名。 根据TrendForce集邦咨询最新报告，晶圆代工厂商受益于AI HPC（高性能计算）与相关周边订单出货，第一季电视、电脑、笔记本电脑等供应链提前生产出货，提高周边IC库存，厂商陆续接获客户提前生产或加单订单。第一季全球前十大晶圆代工商产值季增3.7%至479.5亿美元，再创新高。（证券时报）",
-      "published": "2026-06-13 01:53",
+      "title": "联合国专家：国际社会应采取实际行动应对气候变化",
+      "url": "https://36kr.com/newsflashes/3852346353194243?f=rss",
+      "summary": "《联合国气候变化框架公约》附属机构第64届会议——即联合国六月气候会议正在德国波恩举行。联合国专家表示，当前极端天气正变得越来越频繁，国际社会应采取实际行动应对气候变化。",
+      "published": "2026-06-14 02:00",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "甲骨文赢得3.96亿美元联邦人力资源现代化合同",
-      "url": "https://36kr.com/newsflashes/3850888921404675?f=rss",
-      "summary": "美国人事管理办公室已授予甲骨文公司一份价值3.958亿美元的合同，用于为联邦政府打造统一的人力资源平台。该平台将覆盖约200万名美国联邦文职雇员，取代目前各机构使用的100多个分散的遗留系统。人事管理办公室主任斯科特·库珀在宣布该合同时表示，联邦政府的人力资源基础设施已变得不必要地分散，这份合同是对联邦劳动力管理未来的基础性投资。该项目名为“联邦人力资源2.0”，将采用甲骨文的Fusion Cloud HCM系统，计划于2026年秋季完成核心实施阶段。（新浪财经）",
-      "published": "2026-06-13 01:47",
+      "title": "第10届南博会现场签约超257亿元能源项目",
+      "url": "https://36kr.com/newsflashes/3852336977040389?f=rss",
+      "summary": "中国—南亚博览会执委会13日发布消息，第10届南博会绿色能源馆当天举行项目签约仪式，现场签约18个项目，协议总金额超257亿元，项目涵盖风电、光伏、抽水蓄能电站开发及跨境能源合作等领域。",
+      "published": "2026-06-14 01:19",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "美司法部批准派拉蒙收购华纳兄弟探索，称该交易不会损害竞争",
-      "url": "https://36kr.com/newsflashes/3850888205800712?f=rss",
-      "summary": "当地时间6月12日，美国司法部反垄断部门已批准派拉蒙天舞影业以1110亿美元收购华纳兄弟探索公司。反垄断部门在声明中表示，已完成对派拉蒙与华纳兄弟探索拟议合并的分析，并根据调查所得证据判定，该交易不太可能对竞争或美国消费者造成损害，具体涉及以下领域：(1) 订阅视频点播服务；(2) 线性电视；(3) 制片厂的电影开发、制作或院线发行。（界面）",
-      "published": "2026-06-13 01:39",
-      "source": "36kr.com",
-      "lang": "zh_cn",
+      "title": "4 things to know about the new sunscreen ingredient the FDA approved",
+      "url": "https://www.npr.org/2026/06/13/nx-s1-5856385/sunscreen-skin-protection-bemotrizinol",
+      "summary": "",
+      "published": "2026-06-14 01:10",
+      "source": "Hacker News",
+      "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Valve just imported 13 tons of VR headsets in one day",
-      "url": "https://www.theverge.com/news/949517/valve-vr-headset-import-records-steam-frame-steam-machine-game-console",
-      "summary": "On June 10th, the German container ship Posen docked in Los Angeles after a two-week voyage from Shanghai. As Valve watcher Brad Lynch notes, it was almost certainly carrying the first mass production shipments of the Steam Frame, Valve's new gaming headset. Import records show that Valve's distribution partner Ceva offloaded nearly 32 metric tons [&#8230;]",
-      "published": "2026-06-13 01:32",
+      "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
+      "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+      "summary": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed.",
+      "published": "2026-06-14 00:03",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "ReactOS (FOSS \"Windows\") achieves 3D-accelerated Half-Life on real hardware",
+      "url": "https://www.phoronix.com/news/ReactOS-Running-Half-Life",
+      "summary": "",
+      "published": "2026-06-13 23:22",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
+      "summary": "According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House. According to the report, the paper from Amazon claims that, through a series [&#8230;]",
+      "published": "2026-06-13 21:39",
       "source": "www.theverge.com",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "网易云音乐：近期回购近730万股，回购总额9.67亿港元",
-      "url": "https://36kr.com/newsflashes/3850396315784455?f=rss",
-      "summary": "36氪获悉，网易云音乐股份有限公司在港交所公告，今年2月12日至5月29日，该公司于香港联合交易所有限公司累计回购近730万股股份并持作库存股份，期间回购总额达9.67亿港元，且该等库存股份已于6月12日注销。公司大量回购并注销库存股份，有利于提升股东权益。",
-      "published": "2026-06-13 01:30",
-      "source": "36kr.com",
-      "lang": "zh_cn",
+      "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+      "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+      "summary": "Once again, AI proves to be an unreliable source of information about AI.",
+      "published": "2026-06-13 20:42",
+      "source": "techcrunch.com",
+      "lang": "en",
       "category": "科技"
     },
     {
-      "title": "具身智能行业5月融资额环比降近六成",
-      "url": "https://36kr.com/newsflashes/3850887488443392?f=rss",
-      "summary": "一路高歌猛进的具身智能行业，在一级市场的融资上出现了降温迹象。据行业机构高工人形机器人不完全统计，2026年5月，具身智能行业共发生51起融资事件，累计金额达86亿元人民币，同比增长145.50%，环比下滑58.65%。这一变化，也说明具身智能产业正在经历从概念追逐转向理性审视的必然阶段。（上证报）",
-      "published": "2026-06-13 01:24",
-      "source": "36kr.com",
-      "lang": "zh_cn",
+      "title": "X-Men ’97 has what Master of the Universe is missing",
+      "url": "https://www.theverge.com/entertainment/947064/xmen-97-season-2-disney-plus-marvel-masters-of-the-universe-mattel",
+      "summary": "In 2026, Marvel and Mattel are both releasing projects designed to capitalize on people's love for iconic animated heroes from their childhoods. Masters of the Universe has put a live-action He-Man on the big screen, and the second season of X-Men '97 is about to fling some of Charles Xavier's mutants into an apocalyptic future. [&#8230;]",
+      "published": "2026-06-13 20:00",
+      "source": "www.theverge.com",
+      "lang": "en",
       "category": "科技"
     },
     {
-      "title": "特朗普政府禁止境外主体获取Anthropic旗下最强人工智能模型",
-      "url": "https://36kr.com/newsflashes/3850886715446274?f=rss",
-      "summary": "特朗普政府禁止境外政府、企业及个人使用Anthropic旗下最先进的人工智能模型。此举意味着美国进一步将尖端人工智能系统视作国家安全核心资产，相关管控再度升级。（新浪财经）",
-      "published": "2026-06-13 01:17",
-      "source": "36kr.com",
-      "lang": "zh_cn",
+      "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+      "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+      "summary": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.",
+      "published": "2026-06-13 19:11",
+      "source": "techcrunch.com",
+      "lang": "en",
       "category": "科技"
     },
     {
-      "title": "美多州总检察长联合调查OpenAI",
-      "url": "https://36kr.com/newsflashes/3850885678306561?f=rss",
-      "summary": "据美国《华尔街日报》当地时间6月12日援引知情人士消息报道称，美国多个州的总检察长已对美国开放人工智能研究中心（OpenAI）展开联合调查。报道称，这家人工智能公司于当天收到传票，要求提供与其多项业务活动及其对用户影响相关的文件。OpenAI目前已面临多起诉讼，涉及其聊天机器人ChatGPT的设计问题导致用户自杀或对用户造成不良影响。部分起诉书中指出，ChatGPT的设计“优先考虑用户参与度而非安全性”。（CCTV国际时讯）",
-      "published": "2026-06-13 01:11",
-      "source": "36kr.com",
-      "lang": "zh_cn",
+      "title": "Sealed Super Mario Bros. sells for a record $3 million",
+      "url": "https://www.theverge.com/games/949593/super-mario-bros-3-million-auction",
+      "summary": "A copy of Super Mario Bros., still in the box and sealed with its original sticker, just sold at Heritage Auctions for $3 million. That absolutely crushes the previous record of $2 million, also for a copy of Super Mario Bros., in 2021. That sale also came hot on the heels of a controversial auction [&#8230;]",
+      "published": "2026-06-13 18:37",
+      "source": "www.theverge.com",
+      "lang": "en",
       "category": "科技"
     },
     {
-      "title": "5月份中国电商物流指数继续回升，总业务量同比增长超20%",
-      "url": "https://36kr.com/newsflashes/3850884647097608?f=rss",
-      "summary": "中国物流与采购联合会今天公布5月份中国电商物流指数。指数继续回升，行业景气度进一步提高。5月份中国电商物流指数为111.0点，环比上升0.4点。主要分项指数中，电商物流总业务量指数为128.3点，环比回升0.4点。另外，农村电商物流市场需求全面回暖，农村电商物流业务量指数止跌回升。其中，西部地区升幅最大。（央视新闻）",
-      "published": "2026-06-13 01:05",
-      "source": "36kr.com",
-      "lang": "zh_cn",
+      "title": "OpenAI faces investigation from state attorneys general",
+      "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+      "summary": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data.",
+      "published": "2026-06-13 16:47",
+      "source": "techcrunch.com",
+      "lang": "en",
       "category": "科技"
     },
     {
-      "title": "美股三大指数收盘集体上涨，SpaceX上市首日涨超19%",
-      "url": "https://36kr.com/newsflashes/3850879366943750?f=rss",
-      "summary": "36氪获悉，6月12日收盘，美股三大指数集体上涨，道指涨0.7%，纳指涨0.31%，标普500指数涨0.50%。SpaceX上市首日涨超19%，总市值报2.1万亿美元，总市值跃居至全球第六；大型科技股涨跌不一，特斯拉涨超1%，英伟达、谷歌、微软小幅上涨，苹果、亚马逊跌超1%，Meta小幅下跌。热门中概股多数上涨，理想汽车涨超3%，京东涨超1%，阿里巴巴、拼多多、网易、拼多多小幅上涨，百度、蔚来小幅下跌。",
-      "published": "2026-06-13 01:00",
-      "source": "36kr.com",
-      "lang": "zh_cn",
+      "title": "Microsoft hasn’t ruled out spinning off Xbox",
+      "url": "https://www.theverge.com/games/949584/microsoft-spinning-off-xbox",
+      "summary": "Microsoft is preparing to lay off a significant chunk of its Xbox division and is reevaluating the plans for its next-generation Project Helix console. It's apparently also considering dramatically restructuring its relationship with Xbox, and hasn't ruled out spinning it off into a separate company. A new report from The Information suggests that Microsoft has [&#8230;]",
+      "published": "2026-06-13 16:29",
+      "source": "www.theverge.com",
+      "lang": "en",
       "category": "科技"
     },
     {
-      "title": "US Government directive to suspend access to Fable 5 and Mythos 5",
-      "url": "https://www.anthropic.com/news/fable-mythos-access",
+      "title": "GLM 5.2 Is Out",
+      "url": "https://twitter.com/jietang/status/2065784751345287314",
       "summary": "",
-      "published": "2026-06-13 00:51",
+      "published": "2026-06-13 16:18",
       "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "This thin under-pillow speaker helped me fall asleep without earbuds",
+      "url": "https://techcrunch.com/2026/06/13/this-thin-under-pillow-speaker-helped-me-fall-asleep-without-earbuds/",
+      "summary": "I’ve struggled with insomnia since I was very young. Like many chronic overthinkers, I tend to fall asleep best when my mind is occupied by something else, such as podcasts, YouTube compilations, or my personal favorite: rain sounds. But earbuds can be uncomfortable, and playing audio out loud isn’t exactly considerate when I’m staying at [&#8230;]",
+      "published": "2026-06-13 16:00",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Bose’s latest QuietComfort Ultra are $70 off, marking a new low price",
+      "url": "https://www.theverge.com/gadgets/949190/bose-quietcomfort-ultra-headphones-deal-sale",
+      "summary": "If you’re planning on traveling anytime soon, Bose&#8217;s second-generation QuietComfort Ultra headphones are a great companion for long flights and train rides. Not only do they offer excellent noise cancellation, but they also retain the foldable design of their predecessor, making them easy to pack in a carry-on. They’re even easier to recommend today, now [&#8230;]",
+      "published": "2026-06-13 16:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "My first 24 hours with Siri AI on the Mac",
+      "url": "https://www.theverge.com/tech/949502/apple-macos-27-golden-gate-siri-ai-apple-intelligence",
+      "summary": "I turned off Siri on the Mac years ago and never looked back. Similarly, I found Apple Intelligence so fruitless I never engage with it. But the new Siri AI coming to macOS 27 Golden Gate has at least got me slightly rethinking things. I'm still early in testing Siri AI, as I've only had [&#8230;]",
+      "published": "2026-06-13 15:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Never Post’s Mike Rugnetta on the creative process and the value of reliable power",
+      "url": "https://www.theverge.com/report/949073/mike-rugnetta-youtube-never-post-podcast-questionnaire",
+      "summary": "Mike Rugnetta is a writer, podcast host, producer, audio engineer, educator, musician, sound designer, and father. In short, the man wears a lot of hats. He's the cocreator and host of the award-winning Never Post, an absolutely must-listen podcast about the internet, as well as Fun City, a TTRPG podcast where he's the GM. He's [&#8230;]",
+      "published": "2026-06-13 14:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Noise infusion banned from statistical products published by Census Bureau",
+      "url": "https://desfontain.es/blog/banning-noise.html",
+      "summary": "",
+      "published": "2026-06-13 13:54",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Treating pancreatic tumours may have revealed cancer's master switch",
+      "url": "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch",
+      "summary": "",
+      "published": "2026-06-13 13:34",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "My yard is dying, so I made an app for that",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
+      "summary": "When I returned to my computer five minutes after giving Gemini a lengthy prompt, I had two things: a functional app in a preview window, and a message about a bug. \"~ Channel is unrecoverably broken and will be disposed!\" Sounded bad! But right below it was a button to fix the bug. Pretty weird [&#8230;]",
+      "published": "2026-06-13 13:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
+      "summary": "On Friday evening, the government ordered Anthropic to block access to Fable 5 and Mythos 5 for all foreign nations, both inside and outside the US, due to national security concerns. That order included employees of Anthropic. To meet those demands, the company has completely cut off access to the models for all customers. In [&#8230;]",
+      "published": "2026-06-13 12:55",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "鲸鸿动能赋能鸿蒙开发者商业增长，2026年应用媒体收益同比增长37%",
+      "url": "https://36kr.com/newsflashes/3851525064217856?f=rss",
+      "summary": "HDC 2026期间，鲸鸿动能披露了广告联盟开发者收益最新数据：2026年应用媒体收益同比增长37%，游戏媒体收益同比增长69%，元服务媒体收益实现19倍增长。鲸鸿动能通过聚合SDK、统一投放平台及价值共创模式，让开发者在获得可持续收益的同时，为用户提供更少打扰、更优体验的广告服务，这已成为鸿蒙生态持续扩大的重要因素。",
+      "published": "2026-06-13 12:37",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "SpaceX业务呈现“一极盈利、两极亏损”格局",
+      "url": "https://36kr.com/newsflashes/3851534097896712?f=rss",
+      "summary": "SpaceX上市首个交易日，进入市场流通的股份仅占总股本的4.2%，筹码供不应求，认购热情高涨，股价短期冲高并不意外。但公司市销率已超过112倍，远超特斯拉的15倍和芯片巨头英伟达的近20倍。简单来讲，SpaceX的业务呈现“一极盈利、两极亏损”的格局。星链是当之无愧的“现金牛”。据招股书披露，这项卫星互联网业务去年营收达113.9亿美元，占SpaceX总营收的61%，截至2025年底已服务超1000万用户。火箭发射业务凭借复用技术在全球商业火箭发射市场占据约80%份额，但去年仍亏损6.57亿美元，且星舰若要实现载人登陆火星，仍需大量资金投入、推动技术迭代。xAI及未来的太空算力业务则被视为“烧钱黑洞”。根据招股说明书，SpaceX自2002年成立以来累计亏损达413亿美元。（央视财经）",
+      "published": "2026-06-13 12:18",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "鲸鸿动能系统拆解“主动式营销”框架，助广告主实现确定性增长",
+      "url": "https://36kr.com/newsflashes/3851524397536515?f=rss",
+      "summary": "在HDC 2026鸿蒙生态商业化峰会及面向多行业的系列分论坛上，鲸鸿动能围绕主动式营销框架展开系统拆解，该框架通过数据科学洞察广告主痛点，聚合全场景生态资源，构建AI加持的行业及客户解决方案，实现广告主的确定性增长，已在汽车、金融、文旅、快消、大健康等五大行业形成差异化解决方案。",
+      "published": "2026-06-13 12:09",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "Echo Isle is a pint-sized adventure inspired by classic Zelda",
+      "url": "https://www.theverge.com/games/947136/echo-isle-review-pc",
+      "summary": "Echo Isle is heavily inspired by The Legend of Zelda, and it's not afraid to show it: The retro graphics bear a striking resemblance to Link's Awakening, the main character wears a blue tunic and wields a sword, and he navigates dungeons to collect items and keys to fight bosses and gather magical MacGuffins. But [&#8230;]",
+      "published": "2026-06-13 12:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "吉利控股董事长李书福：集中资源做强吉利汽车上市公司",
+      "url": "https://36kr.com/newsflashes/3851548249412869?f=rss",
+      "summary": "6月13日，在2026年中国汽车重庆论坛上，吉利控股集团董事长李书福发表视频演讲时称，接下来将有序关停并转吉利汽车集团有限公司相关冗余主体，集中优势资源做强吉利汽车控股有限公司核心上市平台，从而构建治理架构更加清晰、权责更加明确、运转高效、全球合规的现代企业运营体系，让“一个吉利”从战略共识，全面转化为体系优势、治理优势、全球生存能力优势，为集中精力做强做大“一个吉利”创造良好的治理环境。近期，吉利汽车增长势头强劲，成为年初至今股价涨幅最大的港股汽车股。",
+      "published": "2026-06-13 11:57",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "A股投资者已超2.5亿",
+      "url": "https://36kr.com/newsflashes/3851531714680072?f=rss",
+      "summary": "中国证券登记结算有限责任公司6月12日发布了2025年年度报告。报告显示，2025年全年新增投资者1386.95万，其中新增自然人投资者1382.84万。2025年期末投资者数为25067.29万，比上年增加5.86%。中国结算解释称，期末投资者数量指持有未注销、未休眠的A股、B股账户的一码通账户数量。截至2025年末，中国结算登记存管的沪深证券交易所的证券总市值为137.80万亿元、北京证券交易所的证券总市值为8694.42亿元、全国股份转让系统的证券总市值为19780.21亿元。其中，沪深A股总市值107.84万亿元，B股总市值1114.09亿元。从中国结算公布的过往数据来看，近十年来，A股每年新增的投资者数量均超过1000万，高峰时期超过2000万。（券商中国）",
+      "published": "2026-06-13 11:55",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "雷军：小米汽车高度重视测试工作，目前整个测试团队有800多人",
+      "url": "https://36kr.com/newsflashes/3851530936521728?f=rss",
+      "summary": "36氪获悉，小米创办人、董事长兼CEO雷军在微博发文称，小米汽车高度重视测试工作，测试投入、规模巨大。目前，整个测试团队有800多人，其中45%以上，都是超过10年经验的专家。这支团队已经在300多个城市，累计完成超过3500万公里的测试。",
+      "published": "2026-06-13 11:45",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "Every Frame Perfect",
+      "url": "https://tonsky.me/blog/every-frame-perfect/",
+      "summary": "",
+      "published": "2026-06-13 11:40",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "HDC 2026：鲸鸿动能2025年广告主数增长200%，助力开发者与合作伙伴可持续增长",
+      "url": "https://36kr.com/newsflashes/3851524018001154?f=rss",
+      "summary": "HDC 2026期间，鸿蒙生态商业化峰会公布最新数据：搭载HarmonyOS 6的终端设备已达6600万台，鸿蒙注册开发者数量达1100万。依托鸿蒙生态的商业化土壤，鲸鸿动能通过数据科学、全域分发及聚合SDK等核心能力，助力开发者和合作伙伴实现可持续增长。鲸鸿动能已接入全球第三方媒体10.7万+，2025年广告主数增长200%。",
+      "published": "2026-06-13 11:32",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "The FBI built its own replica small town to simulate real-world cyberattacks",
+      "url": "https://techcrunch.com/2026/06/13/the-fbi-built-its-own-replica-small-town-to-simulate-real-world-cyberattacks/",
+      "summary": "Hidden inside a building in Alabama, the FBI has created its own small town as a dedicated cyber training ground for simulating cyberattacks.",
+      "published": "2026-06-13 11:00",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "“木头姐”买入逾4亿美元SpaceX股票",
+      "url": "https://36kr.com/newsflashes/3851373053056005?f=rss",
+      "summary": "“木头姐”旗下ARK方舟基金于6月12日（周五）公布了当日交易记录，显示出了投资策略的重大转变。最引人注目的操作是，旗下多只ETF合计买入3,291,184股SpaceX的股票，交易总额高达444,309,840美元，表明该基金对太空技术领域的兴趣日益浓厚。与此同时，方舟大幅减持AMD，通过ARKQ、ARKW和ARKX三只ETF共卖出80,536股，交易总值为39,337,809美元，延续了对AMD持仓的削减趋势。（新浪财经）",
+      "published": "2026-06-13 09:29",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "江丰电子：公司生产的先端存储芯片用高纯300mm硅靶已批量供货",
+      "url": "https://36kr.com/newsflashes/3851370635334919?f=rss",
+      "summary": "36氪获悉，江丰电子在互动平台表示，公司是全球少数几家同时具备技术领先优势与规模化供应能力的高纯金属溅射靶材制造商。公司生产的先端存储芯片用高纯300mm硅靶已批量供货，超高纯钨靶、铜锰合金靶等高端品类已应用于先进存储芯片制造中，目前只有公司及头部跨国企业掌握了生产上述产品的核心技术。",
+      "published": "2026-06-13 09:12",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "首尔禁止中小学生戴AI眼镜参加期末考试",
+      "url": "https://36kr.com/newsflashes/3851265277220103?f=rss",
+      "summary": "韩国首都首尔市教育厅12日说，已于前一日向该市中小学校及辖区教育部门下发通知，禁止考生戴AI智能眼镜参加期末考试。据韩国《中央日报》报道，首尔市教育厅担心学生利用AI眼镜在期末考试中作弊，因此将其列入考场违禁物品清单。这份通知要求学校提前告知学生及家长，如携带这类眼镜进入考场，将一律按作弊处理。 （新华社）",
+      "published": "2026-06-13 08:56",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
+      "url": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
+      "summary": "Andrew Yang made a list of everything Americans overpay for — housing, food, wireless — and thinks the next startup gold rush is giving that money back.",
+      "published": "2026-06-13 04:14",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "具透 | 除了 AI，iOS 27 首个开发者测试版中你不能错过的新功能",
+      "url": "https://sspai.com/post/110973",
+      "summary": "少数派在体验了新版系统之后，帮你整理了 iOS 27 中值得关注的新功能和新特性，希望帮你能了解新版系统的方方面面。<a href=\"https://sspai.com/post/110973\" target=\"_blank\">查看全文</a>",
+      "published": "2026-06-13 02:37",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+      "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+      "summary": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the company wrote in a blog post.",
+      "published": "2026-06-13 02:26",
+      "source": "techcrunch.com",
       "lang": "en",
       "category": "科技"
     },
@@ -120,24 +354,6 @@
       "category": "科技"
     },
     {
-      "title": "Twenty One Zero-Days in FFmpeg",
-      "url": "https://depthfirst.com/research/21-zero-days-in-ffmpeg",
-      "summary": "",
-      "published": "2026-06-12 22:13",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Renault: Electric motors with no rare earths",
-      "url": "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/",
-      "summary": "",
-      "published": "2026-06-12 22:08",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
       "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
       "url": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
       "summary": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.",
@@ -151,195 +367,6 @@
       "url": "https://techcrunch.com/2026/06/12/spacex-ipo-closes-up-19-and-delivers-the-worlds-first-trillionaire/",
       "summary": "The company made its heavily anticipated debut on Friday, trading higher than its initial $135 IPO price.",
       "published": "2026-06-12 20:20",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Nothing CEO says phone prices are going to keep going up",
-      "url": "https://www.theverge.com/gadgets/949403/nothing-carl-pei-ram-phone-prices",
-      "summary": "If you're thinking about upgrading your phone, \"the best time was yesterday,\" according to Nothing CEO and co-founder Carl Pei, echoing a message we heard during MWC. As Android Authority reports, Pei said in a post on X that the RAM shortage has already impacted Nothing's less expensive mid-range phone: \"For Phone 4A , memory [&#8230;]",
-      "published": "2026-06-12 20:02",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Swift at Apple: Migrating the TrueType hinting interpreter",
-      "url": "https://www.swift.org/blog/migrating-truetype-hinting-to-swift/",
-      "summary": "",
-      "published": "2026-06-12 19:54",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "SpaceX president Gwynne Shotwell just gave another hint at a Tesla merger",
-      "url": "https://techcrunch.com/2026/06/12/spacex-president-gwynne-shotwell-just-gave-another-hint-at-a-tesla-merger/",
-      "summary": "A SpaceX-Tesla merger seems inevitable.",
-      "published": "2026-06-12 19:28",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "The world’s first trillionaire is a killer",
-      "url": "https://www.theverge.com/tech/949259/the-worlds-first-trillionaire-is-a-killer",
-      "summary": "Elon Musk's SpaceX IPO will probably make him the richest person to ever walk the planet. And while his mountain of horrible personal conduct could fill multiple books, one fact in particular stands out: A year ago, Musk's actions directly led to the deaths of hundreds of thousands of people. He did it knowingly. And, [&#8230;]",
-      "published": "2026-06-12 18:46",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Mistral is rumored to be raising €3B at €20B valuation",
-      "url": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
-      "summary": "The funding round would value the company at around €20 billion (about $23.15 billion), nearly double its Series C valuation of €11.7 billion.",
-      "published": "2026-06-12 17:38",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "How to setup a local coding agent on macOS",
-      "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
-      "summary": "",
-      "published": "2026-06-12 17:34",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Siri is good now??",
-      "url": "https://www.theverge.com/podcast/949079/siri-ai-good-vergecast",
-      "summary": "You'd be forgiven for thinking this day would never come. Siri has spent a decade and half somewhere between \"sort of useful at a few things\" and \"utterly disastrous, why did I even try, can it honestly not even set a timer.\" But the wildest thing just happened: Apple put out a new version of [&#8230;]",
-      "published": "2026-06-12 17:17",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Robinhood sees ‘record-breaking’ traffic after SpaceX stock debuts",
-      "url": "https://techcrunch.com/2026/06/12/robinhood-sees-record-breaking-traffic-after-spacex-stock-debuts/",
-      "summary": "The trading platform says some customers experienced intermittent disruptions, but those issues have resolved.",
-      "published": "2026-06-12 17:05",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "A trillion dollars is a stupid amount of money",
-      "url": "https://www.theverge.com/tech/948917/elon-musk-trillionaire-how-much-visualization",
-      "summary": "Elon Musk is now officially the world's first trillionaire. That is a colossal amount of wealth (and by proxy, power) for one individual to have. Its scale - a thousand times more than a billion - is difficult to fathom for those of us who aren't among the 3,363 billionaires that currently exist in our [&#8230;]",
-      "published": "2026-06-12 16:26",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Elon Musk is the world&#8217;s first trillionaire",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/948409/elon-musk-trillionaire-spacex-ipo",
-      "summary": "Elon Musk's net worth has passed the trillion-dollar mark after SpaceX's IPO. His net worth, which was hovering around $800 billion before the IPO, includes the value of his 4.8 billion shares in SpaceX, along with his wealth from his other companies, like Tesla. Shares of SPCX opened at $150 and have remained well above [&#8230;]",
-      "published": "2026-06-12 16:24",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
-      "url": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
-      "summary": "The IPO market is back, and&#160;it&#8217;s&#160;not the same&#160;companies&#160;leading the charge. FAANG had a good run, but a&#160;new acronym is taking over: MANGOS&#160;— Meta (or Microsoft, depending on who you ask), Anthropic, Nvidia, Google, OpenAI, and SpaceX. Half&#160;of that&#160;bunch is heading to public markets in the same window,&#160;and&#160;it&#8217;s&#160;a stress test for investors, for valuations, and for [&#8230;]",
-      "published": "2026-06-12 16:23",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "I held the Trump phone",
-      "url": "https://www.theverge.com/tech/948464/trump-phone-t1-hands-on",
-      "summary": "Where's the Trump phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump phone's whereabouts. We don't have the phones we preordered yet, but this week included an unexpected in-person encounter with the T1. You see a lot of interesting phones when you're among tech [&#8230;]",
-      "published": "2026-06-12 16:05",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Elon Musk becomes the world’s first trillionaire after SpaceX’s historic IPO",
-      "url": "https://techcrunch.com/2026/06/12/elon-musk-becomes-the-worlds-first-trillionaire-after-spacexs-historic-ipo/",
-      "summary": "The SpaceX IPO has boosted Musk's paper wealth to more than $1,000,000,000,000 at a time when he is more hated -- and powerful -- than ever.",
-      "published": "2026-06-12 15:55",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "SpaceX美国IPO首日开盘报150美元",
-      "url": "https://36kr.com/newsflashes/3850365941715971?f=rss",
-      "summary": "36氪获悉，SpaceX美国IPO首日开盘报150美元，此前给出的IPO发行价为每股135美元。",
-      "published": "2026-06-12 15:54",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
-      "url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
-      "summary": "",
-      "published": "2026-06-12 15:15",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Govee&#8217;s rechargeable smart table lamp is down to $60",
-      "url": "https://www.theverge.com/gadgets/948806/govee-table-lamp-classic-jbl-charge-6-deal-sale",
-      "summary": "Whether you’re planning a backyard barbeque or a World Cup watch party, Govee’s Table Lamp Classic can help set the mood with color-changing lighting effects. Right now it&#8217;s down to just $59.99 ($20 off) at Amazon, which is its best price yet. The rechargeable lamp can last up to 30 hours on a single charge, [&#8230;]",
-      "published": "2026-06-12 15:07",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "SpaceX’s massive IPO: all the latest news",
-      "url": "https://www.theverge.com/business/948996/spacex-ipo-elon-musk",
-      "summary": "SpaceX&#8217;s IPO on Friday allows the public to buy shares of the combined rocket, AI, and social media company for the first time, and raised enough money to make Elon Musk the first trillionaire.  He has more wealth, on paper at least, than the economies of nations like Ireland, Sweden, or his home country of [&#8230;]",
-      "published": "2026-06-12 14:35",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Jeff Bezos’ AI startup aims to build an ‘artificial general engineer’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer",
-      "summary": "Amazon founder Jeff Bezos says his new AI startup will work toward developing an \"artificial general engineer,\" according to reports from The New York Times and CNBC. The startup, called Prometheus, aims to develop AI-powered engineering tools to aid in the design of physical products. The NYT first reported on Prometheus last November, but now [&#8230;]",
-      "published": "2026-06-12 14:03",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "SpaceX登陆纳斯达克",
-      "url": "https://36kr.com/newsflashes/3850249144259846?f=rss",
-      "summary": "36氪获悉，SpaceX登陆纳斯达克，开盘价报174美元，较IPO价格上涨29%。",
-      "published": "2026-06-12 13:55",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "壳牌宣布暂停30亿美元股票回购计划",
-      "url": "https://36kr.com/newsflashes/3850192117912579?f=rss",
-      "summary": "壳牌公司宣布，受相关证券法律法规限制，其股票回购计划将暂时中止。壳牌曾于2026年5月7日宣布启动一项总额为30亿美元、合同期约为三个月的股票回购计划。公司表示，随着ARC Resources股东大会通函的发布，受适用于壳牌的相关证券法规定限制，该回购计划将自2026年6月12日起暂停，直至ARC股东大会举行的计划日期——2026年7月14日收盘后。壳牌明确表示，因本次暂停而未执行的任何回购额度，将在董事会批准的前提下，顺延至2026年的后续回购计划中。（界面）",
-      "published": "2026-06-12 12:57",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "US surveillance law to expire for first time after lawmakers reject Trump’s controversial pick to lead spy agencies",
-      "url": "https://techcrunch.com/2026/06/12/us-spy-law-to-expire-for-first-time-after-lawmakers-reject-trumps-controversial-pick-to-lead-spy-agencies/",
-      "summary": "The spy law known as Section 702, which authorizes the NSA and FBI's warrantless surveillance, will all but certainly expire on Friday for the first time.",
-      "published": "2026-06-12 11:43",
       "source": "techcrunch.com",
       "lang": "en",
       "category": "科技"
@@ -372,24 +399,6 @@
       "category": "科技"
     },
     {
-      "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
-      "url": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
-      "summary": "Avataar AI's distilled video model is priced at $0.005 for every second of generation.",
-      "published": "2026-06-12 04:30",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Equal AI raises $30M to screen calls so Indians don’t have to",
-      "url": "https://techcrunch.com/2026/06/11/equal-ai-raises-30m-to-screen-calls-so-indians-dont-have-to/",
-      "summary": "Equal AI said that its AI-powered call assistant now has over a million monthly active users.",
-      "published": "2026-06-12 04:30",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
       "title": "WWDC 26 发布会上，Apple 没告诉你的那些事",
       "url": "https://sspai.com/post/110967",
       "summary": "除了大谈特谈的 AI，今年的 WWDC 开幕式上还有这些有趣的细节值得注意。<a href=\"https://sspai.com/post/110967\" target=\"_blank\">查看全文</a>",
@@ -408,10 +417,10 @@
       "category": "科技"
     },
     {
-      "title": "Malware developers added nuclear and biological weapons text to to their spyware",
-      "url": "https://twitter.com/jsrailton/status/2064661778978533571",
+      "title": "FreeOberon – Open-Source, Cross-Platform, Free Pascal/Turbo Pascal-Like Language",
+      "url": "https://github.com/kekcleader/FreeOberon",
       "summary": "",
-      "published": "2026-06-11 20:24",
+      "published": "2026-06-11 14:34",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
@@ -453,19 +462,10 @@
       "category": "科技"
     },
     {
-      "title": "派早报：Insta360 发布首款手持云台相机 Luna Ultra 等",
-      "url": "https://sspai.com/post/110951",
-      "summary": "罗技发布首款折叠鼠标 Mobi Fold，雷蛇发布魔音海妖 V3 专业版麦克风等<a href=\"https://sspai.com/post/110951\" target=\"_blank\">查看全文</a>",
-      "published": "2026-06-11 00:47",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "H.R. 6028 would fundamentally change the U.S. Copyright Office",
-      "url": "https://www.eff.org/deeplinks/2026/06/congress-just-rushed-through-disastrous-copyright-office-overhaul",
+      "title": "Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI",
+      "url": "https://blog.pyodide.org/posts/314-release/",
       "summary": "",
-      "published": "2026-06-11 00:00",
+      "published": "2026-06-09 15:54",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
