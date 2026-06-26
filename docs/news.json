@@ -1,130 +1,418 @@
 {
-  "last_updated": "2026-06-25 02:02:41",
+  "last_updated": "2026-06-26 02:04:21",
   "total": 52,
   "articles": [
     {
       "title": "沪深两市成交额突破1万亿元",
-      "url": "https://36kr.com/newsflashes/3867942821254400?f=rss",
-      "summary": "36氪获悉，沪深两市成交额突破1万亿元。",
-      "published": "2026-06-25 01:54",
+      "url": "https://36kr.com/newsflashes/3869357504795652?f=rss",
+      "summary": "36氪获悉，沪深两市成交额突破1万亿元，较上一个交易日此时缩量超470亿元。",
+      "published": "2026-06-26 01:53",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "创业板指涨逾2%，科创50涨超3%",
-      "url": "https://36kr.com/newsflashes/3867937485296642?f=rss",
-      "summary": "36氪获悉，指数走强，创业板指拉升涨逾2.00%，沪指涨0.14%，深成指涨1.47%，科创50指数拉升涨超3%。半导体芯片、超级电容、机场航运等方向涨幅居前，沪深京三市上涨个股近1600只。",
-      "published": "2026-06-25 01:49",
+      "title": "创业板指跌超2%",
+      "url": "https://36kr.com/newsflashes/3869353761871106?f=rss",
+      "summary": "36氪获悉，创业板指跌超2%，深成指跌1.6%，沪指跌0.9%；游戏、影视、稀土、军工等方向跌幅居前，沪深京三市下跌个股超4400只。",
+      "published": "2026-06-26 01:50",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "百度文心网站全面升级",
-      "url": "https://36kr.com/newsflashes/3867935531046151?f=rss",
-      "summary": "36氪获悉，6月25日，百度宣布对百度文心相关网站进行合并升级，统一整合为全新的百度文心网站，打造一站式AI服务入口。升级后，用户可在一个平台内便捷使用全部AI功能，大幅降低使用门槛，提升交互效率。",
-      "published": "2026-06-25 01:47",
+      "title": "新股N惠科涨近400%，触发二次临停",
+      "url": "https://36kr.com/newsflashes/3869348834710786?f=rss",
+      "summary": "36氪获悉，新股N惠科涨近400%，触发二次临停。",
+      "published": "2026-06-26 01:45",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "Bible as RAG Database",
-      "url": "https://www.crosscanon.com/",
+      "title": "1-5月我国全行业对外直接投资5069.5亿元人民币，同比增长3%",
+      "url": "https://36kr.com/newsflashes/3869344269095943?f=rss",
+      "summary": "36氪获悉，据商务部、外汇局统计，2026年1-5月，我国全行业对外直接投资5069.5亿元人民币，同比增长3%（以美元计为733.6亿美元，增长7.1%）。其中，我国境内投资者共对全球142个国家和地区的6081家境外企业进行了非金融类直接投资，累计投资3814.6亿元人民币，下降13.8%（以美元计为552亿美元，下降10.4%）。",
+      "published": "2026-06-26 01:40",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "恒生科技指数跌超2%",
+      "url": "https://36kr.com/newsflashes/3869337787553031?f=rss",
+      "summary": "36氪获悉，恒生科技指数日内跌超2%，恒指跌近1%。科技、GEO概念领跌，MINIMAX-WP跌超5%，阿里巴巴、智谱跌超4%。",
+      "published": "2026-06-26 01:33",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "A data race that doesn't compile",
+      "url": "https://corentin-core.github.io/posts/ruxe-type-level-disjointness/",
       "summary": "",
-      "published": "2026-06-25 01:42",
+      "published": "2026-06-26 01:33",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "创业板指涨逾1%，存储芯片领涨",
-      "url": "https://36kr.com/newsflashes/3867927205549316?f=rss",
-      "summary": "36氪获悉，指数分化，创业板指拉升涨逾1%，沪指跌0.41%，深成指涨0.65%。机场航运、半导体芯片、超级电容等方向涨幅居前，沪深京三市上涨个股近1100只。",
-      "published": "2026-06-25 01:39",
+      "title": "商络电子：部分AI服务器电源客户涉及液冷技术，公司与客户合作研发液冷项目",
+      "url": "https://36kr.com/newsflashes/3869336535028992?f=rss",
+      "summary": "36氪获悉，商络电子在互动平台表示，公司部分AI服务器电源客户涉及液冷技术，公司与客户合作研发液冷项目，为其供应元器件产品并提供配套技术方案。目前该类业务未来订单放量与业绩贡献存在不确定性，请投资者注意投资风险。",
+      "published": "2026-06-26 01:32",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "恒生科技指数跌幅扩大至1%",
-      "url": "https://36kr.com/newsflashes/3867925981008899?f=rss",
-      "summary": "36氪获悉，恒生科技指数跌幅扩大至1%，恒生指数现跌0.87%。",
-      "published": "2026-06-25 01:37",
+      "title": "A股三大指数集体低开，新股N惠科股份上市首日高开212.25%",
+      "url": "https://36kr.com/newsflashes/3869331213636613?f=rss",
+      "summary": "36氪获悉，A股三大指数集体低开，沪指低开0.52%，深成指低开0.81%，创业板指低开1.2%；新股N惠科股份上市首日高开212.25%，油气、白酒、贵金属领涨，百润股份涨超9%，贵州茅台、紫金矿业涨超1%；光模块、半导体跌幅居前，太辰光跌超7%，大普微跌超4%，长光华芯跌超3%。",
+      "published": "2026-06-26 01:27",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "更换辅导券商后，英得尔重启IPO",
-      "url": "https://36kr.com/newsflashes/3867925754959105?f=rss",
-      "summary": "36氪获悉，证监会网站披露，英得尔实业（广东）股份有限公司（以下简称“英得尔”）于2026年6月24日在广东证监局办理辅导备案登记，拟首次公开发行股票并上市，辅导券商为招商证券。",
-      "published": "2026-06-25 01:37",
+      "title": "央行今日开展2315亿元7天期逆回购操作",
+      "url": "https://36kr.com/newsflashes/3869329026487305?f=rss",
+      "summary": "36氪获悉，6月26日中国人民银行以固定利率、数量招标方式开展了2315亿元7天期逆回购操作，全额满足了一级交易商需求。操作利率1.40%。",
+      "published": "2026-06-26 01:25",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "“赛那德”完成3亿元C轮融资",
-      "url": "https://36kr.com/newsflashes/3867919491191809?f=rss",
-      "summary": "36氪获悉，近日，“赛那德”宣布完成3亿元人民币C轮融资。本轮融资引进了智慧物流生态平台满帮集团，以及海通开元、元禾璞华、华义创投、元禾厚望等一线机构，老股东达晨财智、长石资本、初辉资本持续超额跟投。",
-      "published": "2026-06-25 01:31",
+      "title": "恒指开盘跌0.54%，恒生科技指数跌0.78%",
+      "url": "https://36kr.com/newsflashes/3869326675645447?f=rss",
+      "summary": "36氪获悉，恒指开盘跌0.54%，恒生科技指数跌0.78%；科技、半导体板块领跌，阿里巴巴跌超3%，兆易创新、舜宇光学科技跌超2%；石化、煤炭板块涨幅居前，山东墨龙涨超3%，中国神华涨超1%。",
+      "published": "2026-06-26 01:22",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "A股三大指数开盘涨跌不一，半导体板块领涨",
-      "url": "https://36kr.com/newsflashes/3867915952117000?f=rss",
-      "summary": "36氪获悉，A股三大指数开盘涨跌不一，沪指低开0.18%，深证成指高开0.3%，创业板指高开0.63%；电脑硬件、半导体、电工电网板块领涨，雅克科技涨超6%，江波龙涨超5%，兆易创新涨超4%，中恒电气涨超3%；贵金属、生物科技、能源板块走弱，紫金矿业跌超4%，诺思兰德跌超3%，中国海油跌超2%。",
-      "published": "2026-06-25 01:27",
+      "title": "人民币兑美元中间价报6.8166，上调43点",
+      "url": "https://36kr.com/newsflashes/3869321028850953?f=rss",
+      "summary": "36氪获悉，人民币兑美元中间价报6.8166，上调43点。",
+      "published": "2026-06-26 01:16",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "央行今日开展3705亿元7天逆回购操作",
-      "url": "https://36kr.com/newsflashes/3867911331796231?f=rss",
-      "summary": "36氪获悉，央行今日开展3705亿元7天逆回购操作，操作利率为1.40%，与此前持平。",
-      "published": "2026-06-25 01:22",
+      "title": "索尼互动娱乐将削减Bungie工作室员工人数",
+      "url": "https://36kr.com/newsflashes/3869267145610246?f=rss",
+      "summary": "当地时间6月25日，索尼互动娱乐首席执行官Hermen Hulst在公司网站上发布的一封电子邮件中表示，在对游戏开发工作室Bungie的长期方向和发展重点进行评估后，公司决定对该工作室裁减大量岗位。  此次裁员将涉及Bungie《命运》团队的大多数成员，以及《失落星船：马拉松》团队的部分成员。此外，支持Bungie运营的索尼互动娱乐团队也有缩减。（界面）",
+      "published": "2026-06-26 01:13",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "恒指开盘跌0.1%，恒生科技指数涨0.41%",
-      "url": "https://36kr.com/newsflashes/3867911120507906?f=rss",
-      "summary": "36氪获悉，恒指开盘跌0.1%，恒生科技指数涨0.41%；半导体、软件服务、食品板块领涨，智谱涨超6%，联想集团涨超4%，B站涨超3%，中国旺旺涨超2%；有色金属、耐用消费品、汽车板块走弱，潼关黄金跌5%，长城汽车、万维智能科技跌超1%。",
-      "published": "2026-06-25 01:22",
+      "title": "宝丽迪：COFs产品在吸附除酸领域处于客户验证阶段，暂无批量销售计划",
+      "url": "https://36kr.com/newsflashes/3869316832678917?f=rss",
+      "summary": "36氪获悉，宝丽迪在互动平台表示，目前公司COFs产品在吸附除酸领域还处于客户验证阶段，暂时尚未有批量销售计划。",
+      "published": "2026-06-26 01:12",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "人民币兑美元中间价报6.8209",
-      "url": "https://36kr.com/newsflashes/3867905013601540?f=rss",
-      "summary": "36氪获悉，人民币兑美元中间价报6.8209，下调14点。",
-      "published": "2026-06-25 01:16",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "Ending All Respiratory Infections",
-      "url": "https://blog.interceptfund.com/p/ending-respiratory-infections",
+      "title": "Framework's 10G Ethernet module exposes USB-C's complexity",
+      "url": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
       "summary": "",
-      "published": "2026-06-25 01:14",
+      "published": "2026-06-26 01:10",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "美团陶雪璇：大众点评将在AI时代放大物理世界的真实信任",
-      "url": "https://36kr.com/newsflashes/3867902250161156?f=rss",
-      "summary": "6月24日，大众点评“必吃榜”在上海揭晓10周年成绩单，同日“必玩榜”焕新发布。美团副总裁、点评事业部总经理陶雪璇在现场表示，大众点评将在AI时代放大物理世界的真实信任。过去一年，有1.3亿用户在外出就餐后，在大众点评留下4亿条真实美食评价，体现了平台“用户推荐给用户”的社区底色。过去一年，大众点评持续推进星级评分体系升级，率先引入AI辅助评价审核，处理AIGC评价1161万条左右，进一步推动评价生态的社会共治，筑牢信任基础。",
-      "published": "2026-06-25 01:13",
-      "source": "36kr.com",
+      "title": "派早报：鸿蒙智行发布尊界 S800 Grand Design 典藏大观",
+      "url": "https://sspai.com/post/111541",
+      "summary": "Apple 调整产品价格，Figma 发布多项更新等。<a href=\"https://sspai.com/post/111541\" target=\"_blank\">查看全文</a>",
+      "published": "2026-06-26 00:55",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+      "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+      "summary": "penAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of to the broader public. The reason: the Trump administration told it to.",
+      "published": "2026-06-25 23:34",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "This year’s Prime Day deals on Apple products are the best I’ve seen",
+      "url": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
+      "summary": "Amazon&#8217;s Prime Day is now in its third day, and whether you&#8217;re looking for a new pair of wireless earbuds or a smartwatch, there’s a good chance you’ll find a discount. The Apple Watch Series 11 has already dropped to a new low price, while the AirPods Pro 3 are discounted to $179. With Apple [&#8230;]",
+      "published": "2026-06-25 23:04",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Android 17&#8217;s new foldable gaming mode could make flippy phones more fun",
+      "url": "https://www.theverge.com/tech/957450/android-17-foldable-gaming-mode-virtual-controller",
+      "summary": "Android 17 is getting a dedicated gaming mode for foldables that will put a virtual gamepad with touch controls on half of your screen to theoretically make it easier to play games. With foldable gaming mode, which is set to launch in the coming months, the virtual controller emulates physical button presses at a system [&#8230;]",
+      "published": "2026-06-25 22:33",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "YouTube updates Shorts to make it even more like TikTok",
+      "url": "https://www.theverge.com/streaming/957422/youtube-shorts-update-tiktok",
+      "summary": "YouTube is adding even more TikTok-like features to Shorts, including a new \"clear screen\" mode that removes the icons and text from the video you're watching. In a blog post on Thursday, YouTube says it's also replacing the \"thumbs-up\" button with a \"heart\" icon, and is introducing a new option that lets you watch Shorts [&#8230;]",
+      "published": "2026-06-25 22:08",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "YouTube Shorts are getting even shorter with an update that lets you double the playback speed",
+      "url": "https://techcrunch.com/2026/06/25/youtube-shorts-are-getting-even-shorter-with-an-update-that-lets-you-double-the-playback-speed/",
+      "summary": "YouTube Shorts is getting a makeover.",
+      "published": "2026-06-25 22:02",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "OpenAI will delay GPT-5.6 after Trump administration request",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
+      "summary": "The Trump administration, apprehensive of potential security issues, has reportedly asked OpenAI to stagger the release of its next big-ticket model, GPT-5.6. The Information reported that OpenAI CEO Sam Altman told employees Wednesday in a company Q&#38;A that it would release GPT-5.6 in limited preview form - granting access only to a small group of [&#8230;]",
+      "published": "2026-06-25 21:57",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The 'papers, please' era of the internet will decimate your privacy",
+      "url": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
+      "summary": "",
+      "published": "2026-06-25 21:44",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Framework has good news and bad news",
+      "url": "https://www.theverge.com/gadgets/957338/framework-laptop-13-pro-ssd-price-cpu",
+      "summary": "Thanks to the component crisis, it's a bad time to want a new computer. But if you are waiting on a preorder for the Framework Laptop 13 Pro - which Framework's CEO has called the \"MacBook Pro for Linux users\" - the company shared good news on Thursday that might mean yours will cost less [&#8230;]",
+      "published": "2026-06-25 21:23",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Un-0: Generating Images with Coupled Oscillators",
+      "url": "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/",
+      "summary": "",
+      "published": "2026-06-25 20:50",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Om Malik has died",
+      "url": "https://om.co/2026/06/24/1966-2026/",
+      "summary": "",
+      "published": "2026-06-25 20:33",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
+      "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+      "summary": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
+      "published": "2026-06-25 20:19",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Score a discounted Xbox console before the prices jump",
+      "url": "https://www.theverge.com/gadgets/957170/xbox-series-s-x-prime-day-deal-sale",
+      "summary": "Microsoft announced today that the price of all Xbox models will rise in August, the second time in less than a year as memory prices continue to wreak havoc on every industry from cars to computing. Thankfully, we&#8217;re already out looking for Prime Day deals, and we were able to find some discounts on both [&#8230;]",
+      "published": "2026-06-25 20:18",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Instagram wants to monopolize your attention",
+      "url": "https://www.theverge.com/tech/956456/instagram-for-tv-youtube-microdramas-longform-video",
+      "summary": "This week, Instagram launched a series of new features for its smart TV app that are all designed to get people to spend more time on the platform through the biggest screens in their homes. In addition to vertical Reels, Instagram for TV - which is currently available for Amazon Fire TV, Google TV, and [&#8230;]",
+      "published": "2026-06-25 20:10",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "RAMageddon just got extremely real",
+      "url": "https://www.theverge.com/tech/956950/ram-crisis-apple-price-increase",
+      "summary": "As far as prices go, Apple is kind of a reverse canary in the coal mine. With its famously generous margins and immense purchasing volume, it can afford to ride out price fluctuations in its supply chain in a way no other consumer tech company can. So when Apple raises prices across nearly all of [&#8230;]",
+      "published": "2026-06-25 20:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Polymarket says hackers stole users’ funds",
+      "url": "https://techcrunch.com/2026/06/25/polymarket-says-hackers-stole-users-funds/",
+      "summary": "The prediction market giant Polymarket said it's refunding users who had funds stolen due to a third-party breach.",
+      "published": "2026-06-25 19:58",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Xbox follows Apple with price increases",
+      "url": "https://techcrunch.com/2026/06/25/xbox-follows-apple-with-price-increases/",
+      "summary": "The company says the increases are being driven by rising memory and console storage prices, with costs more than 2.5x higher than previous levels.",
+      "published": "2026-06-25 19:39",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Notion Mail shuts down amid agent takeover",
+      "url": "https://techcrunch.com/2026/06/25/notion-mail-shuts-down-amid-agent-takeover/",
+      "summary": "The company said it is discontinuing its email inbox in favor of its AI agent offering as users are increasingly handing over the reins of their email to the agents.",
+      "published": "2026-06-25 19:14",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The 16 best robot vacuum deals available during Prime Day",
+      "url": "https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026",
+      "summary": "If you&#8217;ve been wanting to buy a robot vacuum but have been put off by how much it can cost to get a good one, now is not a bad time to start looking. We&#8217;re now on day three of Prime Day, and Amazon, along with retailers like Best Buy and Walmart, is offering discounts [&#8230;]",
+      "published": "2026-06-25 18:47",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "It&#8217;s a bad time to want a new computer",
+      "url": "https://www.theverge.com/tech/957151/ram-crisis-component-shortage-prices-computer-apple-microsoft-valve",
+      "summary": "It's not exactly surprising that RAMaggeddon is making new tech hardware really expensive. But if you've been in the market for things like a new computer or tablet, this week has been filled with sticker shock. Given how many companies announced price hikes related to component shortages, it seems unlikely things will get cheaper any [&#8230;]",
+      "published": "2026-06-25 18:20",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "a16z-backed Base Power is offering cheaper electricity to the power grid that needs it most",
+      "url": "https://techcrunch.com/2026/06/25/a16z-backed-base-power-is-offering-cheaper-electricity-to-the-power-grid-that-needs-it-most/",
+      "summary": "Base Power is skipping the PJM's troubled interconnection queue by placing its batteries at people's homes, offering backup services in exchange.",
+      "published": "2026-06-25 17:52",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
+      "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+      "summary": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
+      "published": "2026-06-25 17:38",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
+      "summary": "",
+      "published": "2026-06-25 17:38",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
+      "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+      "summary": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.",
+      "published": "2026-06-25 16:55",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
+      "url": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
+      "summary": "Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems.",
+      "published": "2026-06-25 16:48",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Hacked Klue says criminals are deleting stolen customer data, but now other hackers are making threats",
+      "url": "https://techcrunch.com/2026/06/25/hacked-klue-says-criminals-are-deleting-stolen-customer-data-but-now-other-hackers-are-making-threats/",
+      "summary": "Market research company Klue told customers that it believes the hacking group that stole their data is now deleting it. The company, however, warned about a second group of hackers wanting ransom.",
+      "published": "2026-06-25 16:40",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Rippling now wants to be your entire data stack",
+      "url": "https://techcrunch.com/2026/06/25/parker-conrad-knows-which-employees-are-worth-their-ai-spend-and-says-rippling-can-help-you-too/",
+      "summary": "\"There were employees doing things like, 'Claude is so helpful for me — it analyzes my calendar and my email and puts together a plan for me,'\" he says. \"That person was spending at a run rate of $30,000 a year for this.\"",
+      "published": "2026-06-25 16:00",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "An entire Herculaneum scroll has been read for the first time",
+      "url": "https://scrollprize.org/firstscroll",
+      "summary": "",
+      "published": "2026-06-25 15:48",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "新玩意 245｜少数派的编辑们最近买了啥？",
+      "url": "https://sspai.com/post/111518",
+      "summary": "关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。@克莱德：GoogleSta ...<a href=\"https://sspai.com/post/111518\" target=\"_blank\">查看全文</a>",
+      "published": "2026-06-25 10:49",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "给记忆一个归处：我为什么开始使用 Apple 手记",
+      "url": "https://sspai.com/post/111421",
+      "summary": "《手记》是Apple在iOS17.2中推出的原生日记应用，它可以帮助用户更轻松地记录生活、保存回忆、培养反思与感恩等习惯。今年以来，我频繁地使用手记这款应用。不过，我开始使用它的契机并不是为了写日记， ...<a href=\"https://sspai.com/post/111421\" target=\"_blank\">查看全文</a>",
+      "published": "2026-06-25 07:40",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "把心情贴在手机背面：XTREM INNO 极稚墨水屏手机壳体验",
+      "url": "https://sspai.com/post/111483",
+      "summary": "手机主屏幕的个性化，如今越发受到重视。遍观各大手机操作系统的更新，几乎都会提到主屏幕装扮方式的增加——从壁纸、时钟再到图标、挂件，几乎没有哪个角落是不能按自己喜好调整的。对比之下，手机背面反而成为了「 ...<a href=\"https://sspai.com/post/111483\" target=\"_blank\">查看全文</a>",
+      "published": "2026-06-25 06:08",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "风暖鸟声碎，日高花影重：我的昆明与腾冲行记",
+      "url": "https://sspai.com/post/111349",
+      "summary": "云南气候实在是太好了，昆明海拔将近两千，每次出门都有一种凉爽感包裹全身。而腾冲太适合旅居了，既有中高端的酒店可供享受奢靡之风，也有历史文化供我们反思来时的路，更好的去面对未来，还有拿上衣服就可以随地大小泡的温泉，美哉！<a href=\"https://sspai.com/post/111349\" target=\"_blank\">查看全文</a>",
+      "published": "2026-06-25 03:02",
+      "source": "sspai.com",
       "lang": "zh_cn",
       "category": "科技"
     },
@@ -135,249 +423,6 @@
       "published": "2026-06-25 00:51",
       "source": "sspai.com",
       "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "LuaJIT 3.0 proposed syntax extensions",
-      "url": "https://github.com/LuaJIT/LuaJIT/issues/1475",
-      "summary": "",
-      "published": "2026-06-25 00:41",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Europe is pushing back on Washington’s chip war",
-      "url": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
-      "summary": "As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools — gear first shipped about a decade ago — the same machines the MATCH Act would now put off limits.",
-      "published": "2026-06-25 00:08",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "The top tech Prime Day deals to shop on day two",
-      "url": "https://www.theverge.com/gadgets/955366/best-prime-day-2026-tech-deals-day-two-sale",
-      "summary": "Welcome to day two of Amazon&#8217;s four-day Prime Day event, which, if we&#8217;re being honest, looks a lot like day one. That&#8217;s actually good news, though, because many of the best deals are still around, and some new ones have joined them. If you&#8217;ve got a Prime subscription, whether through a free trial or a [&#8230;]",
-      "published": "2026-06-24 23:48",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Blogging can just be stating the obvious",
-      "url": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
-      "summary": "",
-      "published": "2026-06-24 23:46",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
-      "url": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
-      "summary": "Backed by Mayfield and Aramco Ventures, Vishal Sikka’s new venture brings together veterans from SAP, Infosys, and VianAI.",
-      "published": "2026-06-24 23:26",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Elon suffers another day short of trillionaire status",
-      "url": "https://techcrunch.com/2026/06/24/elon-suffers-another-day-short-of-trillionaire-status/",
-      "summary": "Right now he's merely a several-hundred-billionaire, according to Bloomberg's Billionaires Index.",
-      "published": "2026-06-24 23:09",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
-      "url": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
-      "summary": "In its first earnings report since going public, the AI chipmaker forecast a narrower gross margin in its core business, scaring investors.",
-      "published": "2026-06-24 22:41",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "This year’s Prime Day deals on Apple products are the best I’ve seen",
-      "url": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
-      "summary": "Amazon&#8217;s Prime Day is now in its second day, and whether you&#8217;re looking for a new pair of wireless earbuds or a smartwatch, there’s a good chance you’ll find a discount. The Apple Watch Series 11 has already dropped to a new low price, while the AirPods Pro 3 are discounted to $179. With Tim [&#8230;]",
-      "published": "2026-06-24 21:58",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
-      "url": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
-      "summary": "While AI dominates the layoff narrative, engineers are actually making up a larger share of new hires, according to SignalFire data.",
-      "published": "2026-06-24 21:56",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "The 16 best robot vacuum deals available during Prime Day",
-      "url": "https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026",
-      "summary": "If you&#8217;ve been wanting to buy a robot vacuum but have been put off by how much it can cost to get a good one, now is not a bad time to start looking. We&#8217;re now on day two of Prime Day, and Amazon, along with retailers like Best Buy and Walmart, is offering discounts [&#8230;]",
-      "published": "2026-06-24 21:51",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "AI researchers continue to leave Google for its rivals",
-      "url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
-      "summary": "Top AI researchers Jonas Adler and Alexander Pritzel are leaving Google for Anthropic, following departures from top scientists Noam Shazeer and John Jumper.",
-      "published": "2026-06-24 21:42",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Charlie Kirk&#8217;s legacy is a 30-year sentence for moving zines",
-      "url": "https://www.theverge.com/policy/956404/prairieland-sentencing-zines-trump-antifa",
-      "summary": "Just days after a gunman killed conservative activist Charlie Kirk, it became clear that President Donald Trump would use the assassination to fuel a crackdown on free speech. To avenge Kirk's death, the administration vowed to go after so-called \"antifa\" (otherwise known as antifascist) terrorists. Now that promise is bearing fruit. This week, eight Texas [&#8230;]",
-      "published": "2026-06-24 21:40",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Microsoft introduces cheaper Surface devices with half the memory",
-      "url": "https://www.theverge.com/tech/956504/microsoft-surface-pro-laptop-ram",
-      "summary": "Microsoft just added a cheaper 12-inch Surface Pro and 13-inch Surface Laptop to its lineup. Both models come equipped with 8GB of RAM instead of 16GB, costing $849 for the specced-down Surface Pro and $949 for the Surface Laptop, as spotted earlier by Windows Central. When the 12-inch Surface Pro and 13-inch Surface Laptop launched [&#8230;]",
-      "published": "2026-06-24 21:39",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "The memory chip crunch is paying off for this US company",
-      "url": "https://techcrunch.com/2026/06/24/the-memory-chip-crunch-is-paying-off-for-this-u-s-company/",
-      "summary": "Revenue quadrupled to $41.45 billion compared with the same period a year ago. The company's profit, meanwhile, rose from $1.88 billion to an incredible $28.2 billion year-over-year.",
-      "published": "2026-06-24 21:30",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "New website names and shames companies that still don’t offer passkeys to users",
-      "url": "https://techcrunch.com/2026/06/24/new-website-names-and-shames-companies-that-still-dont-offer-passkeys-to-users/",
-      "summary": "According to a new site, 24% of the most popular websites in the world don't offer support for passkeys, which are considered the most secure way to log in to apps and services.",
-      "published": "2026-06-24 21:04",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "A new paper argues Microsoft exaggerated its quantum claims a year ago",
-      "url": "https://www.theverge.com/tech/956450/nature-microsoft-quantum-computing-majorana-1-claims",
-      "summary": "A critique published in Nature Wednesday calls the basic technology behind Microsoft's \"breakthrough\" quantum computing chip the Majorana 1 into question. Microsoft unveiled the chip in February 2025 and said it featured a brand-new technology known as a topological qubit. Topological qubits, they said, would be the \"building blocks\" for their future quantum computer. Microsoft [&#8230;]",
-      "published": "2026-06-24 20:54",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
-      "url": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
-      "summary": "The tokenmaxxing era was brief. We now appear to be entering the era of token rationing.",
-      "published": "2026-06-24 20:09",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-      "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-      "summary": "",
-      "published": "2026-06-24 19:48",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Congresswoman denies staff used AI to write defense funding amendment",
-      "url": "https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude",
-      "summary": "Rep. Anna Paulina Luna (R-FL) says her staff used AI for \"spellcheck\" in an amendment summary for a major defense bill, but denies it was used for the bill text itself and says \"NO Legislation is ever drafted with AI.\" Luna issued the response after accounts on X began sharing screenshots of an amendment summary [&#8230;]",
-      "published": "2026-06-24 19:36",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Here’s why Slate changed the battery in its cheap EV truck",
-      "url": "https://techcrunch.com/2026/06/24/heres-why-slate-changed-the-battery-in-its-cheap-ev-truck/",
-      "summary": "While there was probably a moment when Slate’s leadership had to green-light the switch from one battery type to another, the momentum toward that decision had been building for years.",
-      "published": "2026-06-24 19:27",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "GTA VI is a worrying sign for the future of physical games",
-      "url": "https://www.theverge.com/games/956389/grand-theft-auto-6-gta-digital-code-in-box-physical-games",
-      "summary": "Rockstar Games has finally given Grand Theft Auto VI a price ahead of the game's November 19th launch. But while announcing that the game would cost $79.99, Rockstar also confirmed that the physical versions of GTA VI won't include a disc, and instead will only contain a download code inside the box. Not only is [&#8230;]",
-      "published": "2026-06-24 18:42",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "OpenAI unveils its first custom chip, built by Broadcom",
-      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-      "summary": "",
-      "published": "2026-06-24 17:47",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Google is finally opening the Play Store to outside payments",
-      "url": "https://www.theverge.com/policy/956296/google-play-app-store-alternative-billing-fee-antitrust",
-      "summary": "While the court still hasn't signed off on the massive settlement resolving Epic's antitrust lawsuit against Google for having a monopoly over Android's app store with Google Play, the tech giant says it will start rolling out changes to the way it handles billing for developers worldwide. As announced in March, the flat 30 percent [&#8230;]",
-      "published": "2026-06-24 17:36",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Prime Day deals under $50 that are really worth it",
-      "url": "https://www.theverge.com/gadgets/951543/best-prime-day-deals-under-50",
-      "summary": "If you’re looking for a good deal without spending hundreds, Prime Day discounts have pushed some of our favorite products under $50. You can pick up everything from Nintendo Switch games to Bluetooth speakers while sticking to your budget. We’ll keep this post updated throughout the sale as we find new deals and low prices, [&#8230;]",
-      "published": "2026-06-24 17:28",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Facebook rolls out an AI companion app for creators",
-      "url": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
-      "summary": "The new app, which is currently being tested with select creators, will have Facebook's recently launched AI creator assistant built into it.",
-      "published": "2026-06-24 17:16",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Deezer says its new feature lets fans remix songs with artist consent",
-      "url": "https://techcrunch.com/2026/06/24/deezer-says-its-new-feature-lets-fans-remix-songs-with-artist-consent/",
-      "summary": "Global music streaming service Deezer is taking a contrarian approach to AI, even as it adds a feature that lets fans remix songs.",
-      "published": "2026-06-24 17:14",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Qualcomm to Acquire Modular",
-      "url": "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/",
-      "summary": "",
-      "published": "2026-06-24 13:49",
-      "source": "Hacker News",
-      "lang": "en",
       "category": "科技"
     },
     {
@@ -408,12 +453,12 @@
       "category": "科技"
     },
     {
-      "title": "派早报：新款理想 L8 换代上市、Meta 发布 Meta Glasses 智能眼镜等",
-      "url": "https://sspai.com/post/111438",
-      "summary": "Cloudflare 联合主流浏览器厂商推进 PACT 协议，腾讯推出 TenPayGo 等。<a href=\"https://sspai.com/post/111438\" target=\"_blank\">查看全文</a>",
-      "published": "2026-06-23 23:49",
-      "source": "sspai.com",
-      "lang": "zh_cn",
+      "title": "A game where you're an OS and have to manage processes, memory and I/O events",
+      "url": "https://github.com/plbrault/youre-the-os",
+      "summary": "",
+      "published": "2026-06-23 09:35",
+      "source": "Hacker News",
+      "lang": "en",
       "category": "科技"
     },
     {
@@ -421,51 +466,6 @@
       "url": "https://sspai.com/post/111410",
       "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/111410\" target=\"_blank\">查看全文</a>",
       "published": "2026-06-23 09:00",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "运行在 macOS 中的「超采样」：HiDPI 与 Mac 显示溯源",
-      "url": "https://sspai.com/post/111261",
-      "summary": "2026 年让我们再谈 macOS 的画面缩放机制。<a href=\"https://sspai.com/post/111261\" target=\"_blank\">查看全文</a>",
-      "published": "2026-06-23 07:00",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "把面试变成一场「开卷推理」：我的全流程备战与复盘 SOP",
-      "url": "https://sspai.com/post/110947",
-      "summary": "当样本量积累到足够多时，面试其实是一场有迹可循的推理小游戏。<a href=\"https://sspai.com/post/110947\" target=\"_blank\">查看全文</a>",
-      "published": "2026-06-23 03:00",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "Dostoyevsky isn't difficult",
-      "url": "https://www.autodidacts.io/dostoyevsky-isnt-difficult/",
-      "summary": "",
-      "published": "2026-06-22 15:15",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "派评 | 近期值得关注的 App",
-      "url": "https://sspai.com/post/111360",
-      "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀<a href=\"https://sspai.com/post/111360\" target=\"_blank\">查看全文</a>",
-      "published": "2026-06-22 10:04",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "具透｜Android 17 正式版：大屏体验，先看 Google？",
-      "url": "https://sspai.com/post/108899",
-      "summary": "越来越不新鲜了呐我的山景城朋友！<a href=\"https://sspai.com/post/108899\" target=\"_blank\">查看全文</a>",
-      "published": "2026-06-22 08:23",
       "source": "sspai.com",
       "lang": "zh_cn",
       "category": "科技"
