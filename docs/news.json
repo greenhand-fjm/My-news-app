@@ -1,49 +1,328 @@
 {
-  "last_updated": "2026-06-27 01:58:13",
+  "last_updated": "2026-06-28 02:08:59",
   "total": 52,
   "articles": [
     {
-      "title": "美联储官员卡什卡里称出现广泛通胀迹象，美联储或需加息",
-      "url": "https://36kr.com/newsflashes/3870761159152903?f=rss",
-      "summary": "6月27日，明尼阿波利斯联储行长尼尔·卡什卡里表示，通胀普遍存在的迹象促使他在美联储本月早些时候公布的经济预测中预计今年将加息一次。“我对通胀感到关切，这不仅与中东局势有关，还有经济中存在更广泛通胀压力的迹象，”卡什卡里周五在科罗拉多州阿斯彭出席Aspen Ideas Festival期间表示。通胀在2025年基本保持不变后，年初曾再次显现降温迹象，但在过去三个月却大幅上升。虽然伊朗战争推高了油价，但许多其他商品的价格也出现了上涨。这加剧了部分美联储官员的担忧，他们认为通胀压力可能更加普遍和顽固，美联储可能需要采取更有力的行动。美联储上周政策会议后公布的利率预测显示，19名决策者中有9人预计今年至少加息一次。（财联社）",
-      "published": "2026-06-27 01:41",
+      "title": "央视曝手机测评作弊乱象",
+      "url": "https://36kr.com/newsflashes/3872143344817158?f=rss",
+      "summary": "记者调查发现，数码产品测评这个领域的高度技术化，长期以来处于“无人能实锤作弊乱象”的灰色地带。网络安全专家介绍，整套作弊体系分为三层，层层美化测评数据：第一层厂商专供测评博主的特供媒体机，硬件经过筛选优化；第二层固件内置识别程序，检测到博主身份并自动开启高性能模式；第三层云端远程控制，可实时下发测评作弊配置。当这套系统识别到某博主启动测评时，就会进入“作弊模式”，自动拉高CPU性能、调高屏幕亮度、优化后台加载逻辑，切换软件时仅加载界面而非完整应用，营造全程流畅的假象。边亮介绍，为了规避被发现的风险，这套测评作弊机制也经历了多轮迭代，隐蔽性越来越强。记者调查发现，由于特供样机、固件作弊、云端调控三重手段叠加，普通消费者很难分辨测评真假，这也导致数码测评公信力持续受损，而且技术造假取证难度极大，给监管带来很大难度。（界面）",
+      "published": "2026-06-28 02:00",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "国际油价26日显著下跌",
-      "url": "https://36kr.com/newsflashes/3870760450528512?f=rss",
-      "summary": "6月27日，国际油价26日显著下跌。截至当天收盘，纽约商品交易所8月交货的轻质原油期货价格下跌2.69美元，收于每桶69.23美元，跌幅为3.74%；8月交货的伦敦布伦特原油期货价格下跌3.27美元，收于每桶71.99美元，跌幅为4.34%。（财联社）",
-      "published": "2026-06-27 01:41",
+      "title": "近一周120多只个股获机构调研，广生堂调研机构数最多",
+      "url": "https://36kr.com/newsflashes/3872142280840197?f=rss",
+      "summary": "近一周（6月20日至26日）机构调研个股有120多只，广生堂调研机构数最多。广生堂有53家机构调研，包括6家基金公司、6家证券公司、8家私募等。胜宏科技、盛弘股份、联合化学、恒坤新材等个股均有20家以上机构评级，其中恒坤新材、广信材料、鼎龙股份等个股均有时下热门的光刻胶概念。从市场表现来看，近一周机构调研股平均跌超2%，东方钽业、京东方A、信德新材、汇成真空等个股均涨超10%。（人民财讯）",
+      "published": "2026-06-28 01:45",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "美股三大指数收盘集体下跌，大型科技股涨跌不一",
-      "url": "https://36kr.com/newsflashes/3870759042028806?f=rss",
-      "summary": "36氪获悉，6月27日收盘，美股三大指数集体下跌，道指跌0.09%，纳指跌0.24%，标普500指数跌0.06%。大型科技股涨跌不一，微软涨超5%，亚马逊涨超2%，Meta涨超1%，苹果涨超3%，特斯拉涨1.2%，谷歌跌超2%，英伟达跌1.6%。热门中概股涨跌不一，拼多多涨超4%，京东涨0.79%，百度涨0.22%，蔚来涨2.75%，理想涨1.78%，哔哩哔哩涨超2%，阿里巴巴跌0.27%，小鹏跌0.82%。",
-      "published": "2026-06-27 01:39",
+      "title": "华泰证券：5月工业企业利润总体向好，行业分化加剧",
+      "url": "https://36kr.com/newsflashes/3872141380080643?f=rss",
+      "summary": "华泰证券研报称，5月工业企业盈利增速较4月的24.7%略回落至21.1%，但仍高于一季度的15.5%且营收增速延续回升，显示企业盈利总体向好，其中能源及AI链相关行业为利润增长的主要支撑，而随着霍尔木兹海峡封锁超过三个月，供给冲击的影响深化，部分中下游企业产能利用率进一步走弱，行业盈利表现分化加剧。5月油价边际回落但整体上游石化链盈利增速仍在高位，而受益于全球AI投资需求强劲，电子计算机行业持续引领盈利及收入增长，对总体工业企业盈利的贡献从6.7个百分点提升至9.6个百分点，有色冶炼及化学制品分别贡献6.4、4.2个百分点，三者合计贡献约20.2个百分点，而内需相关下游制造业，利润增速仍偏弱，尤其是汽车、家具制造降幅进一步走阔。（界面）",
+      "published": "2026-06-28 01:27",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
-      "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
-      "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
-      "published": "2026-06-27 01:01",
+      "title": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
+      "url": "https://decomp-academy.dev",
+      "summary": "",
+      "published": "2026-06-28 01:21",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "国内首个第四代半导体材料全产业链项目落户郑州",
+      "url": "https://36kr.com/newsflashes/3872140630692872?f=rss",
+      "summary": "近日，郑州高新区与中科粉研（河南）超硬材料有限公司签署协议，中科粉研第四代半导体材料生产基地正式落户该区。该基地是国内首个第四代半导体材料全产业链项目，将为河南在全球独具优势的超硬材料产业链补上关键的一环。本次签约落地的生产基地，将依托中科粉研全球首条LPPHT微纳米金刚石产线的技术积累，为实现第四代半导体核心材料的自主研发、生产和规模量产打下坚实基础。 (河南日报)",
+      "published": "2026-06-28 01:15",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "今年前五个月我国物流需求平稳增长，社会物流总额超146万亿元",
+      "url": "https://36kr.com/newsflashes/3872139558507784?f=rss",
+      "summary": "中国物流与采购联合会今天公布今年1到5月物流运行数据。物流需求总体保持平稳增长，新旧动能加快转换，结构升级态势持续显现。1—5月份，全国社会物流总额146.6万亿元，同比增长5.2%。其中，工业品物流总额同比增长5.4%。行业分化特征持续显现，采矿、非金属矿物制品业等传统资源类物流需求持续低位运行，而随着新质生产力加快培育，高端制造领域物流需求保持较快增长。5月份，高技术制造业相关物流需求同比增长15.1%，装备制造业相关物流需求同比增长9.5%，较上月均有所加快。（财联社）",
+      "published": "2026-06-28 01:04",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "AMD Strix Halo RDMA Cluster Setup Guide",
+      "url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
+      "summary": "",
+      "published": "2026-06-28 00:46",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Choosing a Public DNS Resolver",
+      "url": "https://evilbit.de/dns-resolver-guide.html",
+      "summary": "",
+      "published": "2026-06-27 22:11",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Instagram is testing more ways to customize ‘Your Algorithm’",
+      "url": "https://techcrunch.com/2026/06/27/instagram-is-testing-more-ways-for-users-to-customize-your-algorithm/",
+      "summary": "Instagram users could soon see more ways to tune their content.",
+      "published": "2026-06-27 21:27",
       "source": "techcrunch.com",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "The 17 best robot vacuum deals you can still get before Prime Day ends",
-      "url": "https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026",
-      "summary": "If you&#8217;ve been wanting to buy a robot vacuum but have been put off by how much it can cost to get a good one, now is not a bad time to start looking. We&#8217;re now on the final day of Prime Day, and Amazon, along with retailers like Best Buy and Walmart, is still [&#8230;]",
-      "published": "2026-06-27 00:42",
+      "title": "Enhancing X11 Application Security with LXC",
+      "url": "https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/",
+      "summary": "",
+      "published": "2026-06-27 21:27",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Teenage Engineering adds lo-fi mode, USB audio, and more to its KO II sampler",
+      "url": "https://www.theverge.com/entertainment/958723/teenage-engineering-os-25-ep-133-ko-ii-sampler",
+      "summary": "Teenage Engineering has already issued multiple substantial updates for its surprisingly capable $329 EP-133 KO II sampler. Its latest is one of the biggest yet. OS 2.5 adds audio over USB, selectable sample rates for lo-fi fun, sample reverse, an arpeggiator, equal-length autochopping, and it extends the maximum length of a sample from 20 seconds [&#8230;]",
+      "published": "2026-06-27 21:20",
       "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
+      "url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
+      "summary": "Not everyone is buying Elon Musk’s vision for orbital data centers.",
+      "published": "2026-06-27 20:42",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
+      "summary": "Maraget Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at these things, the issue of AI came up, and Atwood didn't mince words. According to Deadline's recap, Atwood said she'd used an AI [&#8230;]",
+      "published": "2026-06-27 18:39",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Apple wants permission to buy memory from a blacklisted Chinese supplier",
+      "url": "https://www.theverge.com/tech/958707/apple-ram-buy-memory-blacklisted-china-cxmt",
+      "summary": "Apple is looking to alleviate some of the pressure on its supply chain by seeking an exception from the Trump administration to buy RAM chips from CXMT, a company blacklisted by the Pentagon over ties to the People's Liberation Army, according to the Financial Times. The skyrocketing prices of RAM and storage have driven Apple [&#8230;]",
+      "published": "2026-06-27 17:28",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+      "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+      "summary": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
+      "published": "2026-06-27 16:45",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The Guardian&#8217;s Kai Wright refuses to buy a new phone",
+      "url": "https://www.theverge.com/report/958695/kai-wright-npr-guardian-interview-questionnaire",
+      "summary": "Kai Wright is the co-host of Stateside with Kai and Carter over at the Guardian. But Wright has been bringing his unique insights to listeners for years. He's also hosted Notes From America, The United States of Anxiety, and Indivisible. He's a Peabody Award-winning journalist who has profiled powerful men, explored what it means to [&#8230;]",
+      "published": "2026-06-27 15:15",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+      "url": "https://github.com/bikini/exploitarium",
+      "summary": "",
+      "published": "2026-06-27 14:31",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
+      "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+      "summary": "When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.",
+      "published": "2026-06-27 14:00",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Indie developers got tired of waiting for a new Star Fox, so they’re making their own",
+      "url": "https://www.theverge.com/entertainment/957679/indie-developers-star-fox-games",
+      "summary": "Nostalgia remains a powerful force. So much so that, in exploring the echoes of a late-'90s childhood spent skimming the water of Corneria and sneering \"cocky little freaks!\" in time with a monkey encased in a Gundam suit, I'm simultaneously describing playing Star Fox 64 (Lylat Wars if you're nasty) in 1997 and streaming it [&#8230;]",
+      "published": "2026-06-27 14:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Why is Apple asking me to pay more for Big Tech’s AI obsession?",
+      "url": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
+      "summary": "Tim Cook recently said price increases were \"unavoidable\" and described the company's pricing as \"unsustainable.\" The 16-inch MacBook Pro saw its price go up by $300. The 11-inch iPad Air went from $599 to $749. Even the HomePod Mini got a $30 bump to $129. Cook squarely placed the blame at the feet of the [&#8230;]",
+      "published": "2026-06-27 13:30",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Inside the room where the smart home industry is still betting on Matter",
+      "url": "https://www.theverge.com/tech/958008/matter-unify-conference-csa-apple-google-amazon-samsung-smart-home-interoperability",
+      "summary": "Four years ago, overlooking a canal in Amsterdam, the smart home industry collectively launched Matter, the one interoperability standard to rule them all. Heralded as the solution to the industry's struggles, Matter was built on open standards and existing technologies and is the result of years of collaboration between traditional rivals, including Apple, Google, Amazon, [&#8230;]",
+      "published": "2026-06-27 13:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "OpenRA",
+      "url": "https://www.openra.net/",
+      "summary": "",
+      "published": "2026-06-27 12:10",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
+      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "summary": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
+      "published": "2026-06-27 12:00",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "This puzzle game&#8217;s simple premise hides surprising depth",
+      "url": "https://www.theverge.com/games/957474/whats-the-password-review-pc-ios-android",
+      "summary": "What's the Password? has a simple concept: To solve each of the game's more than 100 puzzles, you have to type in the right four-digit password on a number pad. That might sound like a limited constraint. But the simplicity gives solo developer Dan DiIorio, better known as TrampolineTales, lots of room to play with [&#8230;]",
+      "published": "2026-06-27 12:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "This might be the new best smart speaker",
+      "url": "https://www.theverge.com/tech/958127/google-home-speaker-star-fox-installer",
+      "summary": "Hi, friends! Welcome to Installer No. 134, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope you're okay in all this heat, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Polymarket lies and Jalen Brunson and [&#8230;]",
+      "published": "2026-06-27 12:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "俄西双城游记：莫斯科时代折叠，圣彼得堡文化巡礼",
+      "url": "https://sspai.com/post/111347",
+      "summary": "在莫斯科的时代折叠与彼得堡的文化巡礼之间，发现俄罗斯的不同面貌。<a href=\"https://sspai.com/post/111347\" target=\"_blank\">查看全文</a>",
+      "published": "2026-06-27 11:36",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "华为途灵平台完成3轮升级，覆盖鸿蒙智行五界",
+      "url": "https://36kr.com/newsflashes/3871321432527875?f=rss",
+      "summary": "36氪获悉，6月26日，鸿蒙智行举办了一场华为途灵平台专场TECH DAY技术沟通会。华为途灵平台依托华为在AI和通信领域的技术优势，将调校经验通过算法与软件沉淀，提升机械性能上限，并基于车型定位不断开放新的特性，快速迭代。在操控层面，华为途灵平台的全维感知系统融合了ADS感知信息、车辆状态信息、驾驶意图信息、云端数据信息、车身域信息和座舱域信息等多维度数据。底盘可以提前预判、主动调整。从2023年11月至今，华为途灵平台已完成3轮升级，覆盖鸿蒙智行五界车型。",
+      "published": "2026-06-27 11:11",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "Fintech Engineering Handbook",
+      "url": "https://w.pitula.me/fintech-engineering-handbook/",
+      "summary": "",
+      "published": "2026-06-27 10:28",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "功率半导体再启阶梯式调价，有厂商表示“AI相关的电源功率订单爆满，根本做不过来”",
+      "url": "https://36kr.com/newsflashes/3871215128237313?f=rss",
+      "summary": "据《科创板日报》27日消息，由于AI算力集群功耗激增，功率半导体正成为存储之后的产业新增长引擎，行业再掀起一轮涨价潮。“我们AI相关的电源功率订单‘爆满’，现在订单根本做不过来”。一家功率半导体厂商人士向《科创板日报》记者表示，“因为公司算是少数具备量产能力的国产厂商，无论是面向数据中心800V HVDC等一次电源、服务器二次电源等产品，都已进入多家头部客户供应链并实现规模量产，所以订单需求十分旺盛。”多位业内人士判断，本轮成本驱动的涨价周期仍将持续一段时间，并且行业将加速功率器件低端产能的出清，市场份额将向具备IDM全链条能力或与上游深度绑定，且涉足高景气赛道的头部芯片企业集中。（财联社）",
+      "published": "2026-06-27 09:23",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "具身世界模型“我悟”通过合规备案",
+      "url": "https://36kr.com/newsflashes/3871213411128577?f=rss",
+      "summary": "6月26日，北京人形机器人创新中心慧思开物平台的双大脑模型天鹕（Pelican-VL）和我悟（WoW）同步完成北京市网信办最新一批生成式人工智能服务备案。北京人形将正式启动慧思开物全系列模型Token服务，计划分阶段面向产业客户、科研机构、开发者全面开放API调用能力。（界面新闻）",
+      "published": "2026-06-27 09:21",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "兴业银行：上调代理上海黄金交易所个人贵金属买卖业务延期合约保证金比例",
+      "url": "https://36kr.com/newsflashes/3871212925588739?f=rss",
+      "summary": "6月27日，兴业银行发布公告，将在北京时间2026年6月29日（周一）收盘清算时起，调整代理上海黄金交易所个人贵金属买卖业务延期合约保证金比例，个人客户AU（T+D）、mAU（T+D）、AU（T+N1）、AU（T+N2）、AG（T+D）等延期合约的保证金比例由40%调整至120%。其它黄金投资产品不受影响。兴业银行后续还将调整相关延期合约交易保证金比例，具体另行通知。（每日经济新闻）",
+      "published": "2026-06-27 09:21",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "因利润腰斩，梅赛德斯-奔驰推迟9万名德国员工奖金并谋求无薪延长工时",
+      "url": "https://36kr.com/newsflashes/3871212322706690?f=rss",
+      "summary": "6月27日，据报道，由于利润大幅下滑，梅赛德斯-奔驰正被迫采取严厉的紧缩措施。公司已决定将约9万名加入工会的德国员工原定于2026年7月发放的“转型奖金”（相当于月薪的18.4%）推迟9个月至2027年4月发放，并保留在业务未见好转时完全取消该奖金的权利。此外，管理层还在公开探讨将每周工作时间从35小时延长至40小时且不支付额外加班费。梅赛德斯-奔驰今年2月公布的财报显示，2025年净利润从2024年的104亿欧元骤降至53亿欧元，降幅近50%。（界面新闻）",
+      "published": "2026-06-27 09:20",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "主力资金大调仓，超267亿元撤出“易中天”",
+      "url": "https://36kr.com/newsflashes/3871211760882689?f=rss",
+      "summary": "6月27日，本周（6月22日—26日），A股市场震荡调整。截至6月26日收盘，上证指数、深证成指、创业板指本周分别累计下跌1.55%、1.55%、1.37%，科创50指数本周累计大涨6.32%。资金面上，本周沪深两市主力资金合计净流出2169.35亿元。主力资金大幅流出科技股，本周“易中天”（新易盛、中际旭创、天孚通信）合计被抛售超267亿元。本周主力资金净流出方面，中际旭创净流出137.80亿元，位居首位。胜宏科技净流出81.61亿元；东山精密、天孚通信、光迅科技均净流出超70亿元；华工科技净流出62.67亿元；新易盛、铜冠铜箔均净流出超50亿元；中天科技、宁德时代均净流出超35亿元。（证券时报）",
+      "published": "2026-06-27 09:20",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "电影《给阿嬷的情书》总票房破19亿元",
+      "url": "https://36kr.com/newsflashes/3871210982053121?f=rss",
+      "summary": "36氪获悉，6月27日，据猫眼专业版数据，电影《给阿嬷的情书》上映59天，总票房破19亿元。",
+      "published": "2026-06-27 09:19",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "Prime Day is almost over, but these are still the best Apple deals I&#8217;ve seen",
+      "url": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
+      "summary": "Amazon&#8217;s Prime Day is now in its final hours, but whether you&#8217;re looking for a new pair of wireless earbuds or a smartwatch, there’s a good chance you’ll still find a discount. The Apple Watch Series 11 remains at its best price to date, while the AirPods Pro 3 are still on sale for $179. [&#8230;]",
+      "published": "2026-06-27 02:56",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
+      "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+      "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
+      "published": "2026-06-27 01:01",
+      "source": "techcrunch.com",
       "lang": "en",
       "category": "科技"
     },
@@ -57,128 +336,11 @@
       "category": "科技"
     },
     {
-      "title": "Anthropic&#8217;s Mythos 5 is back",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
-      "summary": "After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action - at least, somewhat, for a select group of organizations, according to a letter from the government to Anthropic that was viewed by The Verge. Fable 5, however - the public-facing Mythos-class [&#8230;]",
-      "published": "2026-06-27 00:33",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Prime Day&#8217;s final hours bring rare discounts on Philips Hue smart lights",
-      "url": "https://www.theverge.com/tech/957269/philips-hue-amazon-prime-day-2026-deal-sale",
-      "summary": "Philips Hue products don&#8217;t often see major discounts, which makes this year&#8217;s Prime Day deals especially notable. Prices have dropped significantly across much of the company&#8217;s smart lighting lineup, with deals on everything from smart bulb starter kits and sleep lamps to smart buttons. If you&#8217;ve been thinking about investing in Philips Hue, now is [&#8230;]",
-      "published": "2026-06-27 00:20",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Prime Day is almost over, but these are still the best Apple deals I&#8217;ve seen",
-      "url": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
-      "summary": "Amazon&#8217;s Prime Day is now in its final hours, but whether you&#8217;re looking for a new pair of wireless earbuds or a smartwatch, there’s a good chance you’ll still find a discount. The Apple Watch Series 11 remains at its best price to date, while the AirPods Pro 3 are still on sale for $179. [&#8230;]",
-      "published": "2026-06-26 23:41",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "It’s the last day of Prime Day — here are over 140 great deals to choose from",
-      "url": "https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four",
-      "summary": "We’ve arrived at the final day of Prime Day, which at this point should probably be called “Prime Week.” We’ve found discounts on all manner of gadgets, including TVs, smart home tech, chargers, headphones, and more. Some of the best deals have started selling out at some retailers, so if you’ve been craving a popular [&#8230;]",
-      "published": "2026-06-26 23:26",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "My favorite Govee smart lamps are at their lowest prices ever for Prime Day",
-      "url": "https://www.theverge.com/gadgets/958313/govee-table-lamp-2-classic-floor-uplighter-prime-day-2026-deal-sale",
-      "summary": "We&#8217;ve already rounded up the best Philips Hue deals of Prime Day, but if you&#8217;re looking for something a little more budget-friendly, Govee&#8217;s latest sale is worth checking out. The company has heavily discounted several of its color-changing smart lamps, including the Table Lamp 2&#160;($53.99, down from $79.99), Floor Lamp Basic ($59.99, regularly $99.99), the [&#8230;]",
-      "published": "2026-06-26 22:51",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "US allows Anthropic to release Mythos to 'trusted partners'",
-      "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/",
-      "summary": "",
-      "published": "2026-06-26 22:48",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
-      "url": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
-      "summary": "",
-      "published": "2026-06-26 22:43",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "AI in mathematics is forcing big questions",
-      "url": "https://spectrum.ieee.org/ai-in-mathematics",
-      "summary": "",
-      "published": "2026-06-26 22:36",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "After covering Prime Day for 36 hours over four days, this is the one thing I bought",
-      "url": "https://www.theverge.com/gadgets/958179/prime-day-what-i-bought-vampliers-stripped-screw-extractor",
-      "summary": "We&#8217;ve covered so many deals during Prime Day that my head is spinning. But after four days of doing our damndest to try and help folks save money, the thing I&#8217;m most hyped for is a simple tool for fixing my most egregious mistakes. I bought a pair of Vampliers. If you&#8217;re unfamiliar, Vampliers are [&#8230;]",
-      "published": "2026-06-26 22:09",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
       "title": "Corgi, the buzzy Y Combinator-backed insurance tech startup, says it didn’t steal an open source product",
       "url": "https://techcrunch.com/2026/06/26/corgi-the-buzzy-y-combinator-backed-insurance-tech-startup-says-it-didnt-steal-an-open-source-product/",
       "summary": "Corgi became embroiled in  controversy when Papermark accused it of stealing its software. Corgi says it did not, raising new questions about vibe coding.",
       "published": "2026-06-26 22:00",
       "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Our favorite Prime Day gadgets under $100 you don&#8217;t need but will really want",
-      "url": "https://www.theverge.com/gadgets/957473/prime-day-2026-fun-gadgets-under-100-deal-sale",
-      "summary": "Prime Day has a funny way of convincing you to buy things you weren&#8217;t shopping for in the first place. You sign on intending to buy something sensible you actually need, like a pack of USB-C cables, and an hour later you&#8217;ve also added a gadget that can press your coffee maker&#8217;s power button and [&#8230;]",
-      "published": "2026-06-26 21:25",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "A C++ implementation of a fast hash map and hash set using hopscotch hashing",
-      "url": "https://github.com/Tessil/hopscotch-map",
-      "summary": "",
-      "published": "2026-06-26 21:18",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "The gap between open weights LLMs and closed source LLMs",
-      "url": "https://blog.doubleword.ai/frontier-os-llm",
-      "summary": "",
-      "published": "2026-06-26 21:14",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "These are the best deals you can still get on MacBooks before Apple&#8217;s price hike kicks in",
-      "url": "https://www.theverge.com/gadgets/956830/prime-day-macbook-deals-apple-price-hikes",
-      "summary": "Apple just raised the prices on Macs and iPads in response to the rising costs of memory chips, right in the middle of Amazon Prime Day. That means existing discounts (even small ones) on Apple laptops like the MacBook Neo, MacBook Air, and MacBook Pro just became significantly better deals. As an example, the 13-inch [&#8230;]",
-      "published": "2026-06-26 19:42",
-      "source": "www.theverge.com",
       "lang": "en",
       "category": "科技"
     },
@@ -192,29 +354,11 @@
       "category": "科技"
     },
     {
-      "title": "Our 36 favorite gaming deals on Prime Day for Switch, PS5, and Xbox",
-      "url": "https://www.theverge.com/gadgets/951901/prime-day-video-games-switch-playstation-xbox-pc-deal-sale",
-      "summary": "There are some some sizable discounts on new and recent hits from the last few years for the Nintendo Switch 2, PlayStation 5, and the Xbox Series X / S for Prime Day. Most Amazon game deals are physical copies, but every so often there’s a better or equivalent price on digital versions, as well [&#8230;]",
-      "published": "2026-06-26 18:43",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
       "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
       "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
       "summary": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.”",
       "published": "2026-06-26 18:32",
       "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "U.S. government will decide who gets to use GPT-5.6",
-      "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
-      "summary": "",
-      "published": "2026-06-26 18:23",
-      "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
@@ -234,141 +378,6 @@
       "published": "2026-06-26 17:43",
       "source": "techcrunch.com",
       "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Russian hackers were behind $2.5B hack of Jaguar Land Rover: Report",
-      "url": "https://techcrunch.com/2026/06/26/russian-hackers-were-behind-2-5-billion-hack-of-jaguar-land-rover-report/",
-      "summary": "The hack on car giant Jaguar Land Rover last year was one of the most disrupting, damaging, and costly hacks of the last few years.",
-      "published": "2026-06-26 17:29",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Previewing GPT‑5.6 Sol: a next-generation model",
-      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
-      "summary": "",
-      "published": "2026-06-26 17:06",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Tesla settles FSD crash lawsuit as federal investigations continue",
-      "url": "https://techcrunch.com/2026/06/26/tesla-settles-fsd-crash-lawsuit-as-federal-investigations-continue/",
-      "summary": "The lawsuit was connected to a fatal 2023 crash involving a vehicle using the company's advanced driver assistance system known as Full Self-Driving.",
-      "published": "2026-06-26 16:32",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "TikTok’s road to becoming a super app",
-      "url": "https://techcrunch.com/2026/06/26/tiktoks-road-to-becoming-a-super-app/",
-      "summary": "TikTok may be working to become the app that people use for most of their digital activities.",
-      "published": "2026-06-26 16:29",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "It’s not about Anthropic vs. OpenAI anymore",
-      "url": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
-      "summary": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action.",
-      "published": "2026-06-26 16:24",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Xprize founder says ‘humans behave better when they’re being watched’",
-      "url": "https://techcrunch.com/2026/06/26/xprize-founder-says-humans-behave-better-when-theyre-being-watched/",
-      "summary": "Peter Diamandis is the latest tech executive to argue that global surveillance will make the world a better place, following Larry Ellison's comments in 2024.",
-      "published": "2026-06-26 15:46",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "热门中概股美股盘前多数下跌，小鹏集团跌超3%",
-      "url": "https://36kr.com/newsflashes/3870003257971976?f=rss",
-      "summary": "36氪获悉，热门中概股美股盘前多数下跌，截至发稿，百度、阿里巴巴、小鹏集团跌超3%，京东跌超2%，B站、蔚来、腾讯音乐、拼多多跌超1%；网易涨超3%。",
-      "published": "2026-06-26 12:50",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "美股大型科技股盘前涨跌不一，SpaceX跌超1%",
-      "url": "https://36kr.com/newsflashes/3870001895642113?f=rss",
-      "summary": "36氪获悉，美股大型科技股盘前涨跌不一，截至发稿，Arm跌超4%，SpaceX、特斯拉、英伟达跌超1%，谷歌跌0.36%；微软、奈飞涨超1%，苹果涨0.89%，Meta涨0.48%，亚马逊涨0.35%。",
-      "published": "2026-06-26 12:49",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "协创数据：拟定增募资不超80亿元，用于智算中心及数据存储项目等",
-      "url": "https://36kr.com/newsflashes/3869990301586434?f=rss",
-      "summary": "36氪获悉，协创数据公告，公司拟向不超过35名符合中国证监会规定条件的特定投资者发行不超过发行前公司总股本30%的A股股票，募集资金总额不超过80亿元（含本数）。扣除发行费用后的募集资金净额将用于“协创数据智算中心建设项目”、“数据存储拓展升级扩产项目”和补充流动资金及偿还银行贷款。",
-      "published": "2026-06-26 12:37",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "五洋自控：股东拟协议转让5.0979%股份给时培培",
-      "url": "https://36kr.com/newsflashes/3869982836626694?f=rss",
-      "summary": "36氪获悉，五洋自控公告，公司股东侯友夫、蔡敏、孙晋明与时培培签署股份转让协议，侯友夫、蔡敏、孙晋明拟将其持有的合计5691.18万股(占公司总股本5.0979%)通过协议转让方式转让给时培培，转让价格为7.20元/股，转让价款合计4.10亿元。本次权益变动不会导致公司控股股东、实际控制人发生变化。协议自受让方支付第一笔股份转让款之日起生效，尚需深交所合规性确认。",
-      "published": "2026-06-26 12:30",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "Quantum Cyber获批收购SpaceX部分股权",
-      "url": "https://36kr.com/newsflashes/3869966420743430?f=rss",
-      "summary": "据报道，Quantum Cyber获批收购SpaceX部分股权。（财联社）",
-      "published": "2026-06-26 12:13",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "预测市场平台Polymarket年化营收突破10亿美元",
-      "url": "https://36kr.com/newsflashes/3869966062114050?f=rss",
-      "summary": "据报道，预测市场平台Polymarket年化营收突破10亿美元。（界面）",
-      "published": "2026-06-26 12:13",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "万通发展：选举王薇为董事长",
-      "url": "https://36kr.com/newsflashes/3869958921917440?f=rss",
-      "summary": "36氪获悉，万通发展公告，因个人原因，王忆会辞去公司董事、董事长及董事会战略委员会主任委员、提名委员会委员职务。根据相关规定，王忆会的辞呈自送达公司董事会之日起生效。公司于6月26日召开第九届董事会第二十八次临时会议，选举董事王薇为董事长，根据《公司章程》规定，法定代表人变更为王薇。董事长的任期自本次董事会审议通过之日起至第九届董事会任期届满之日止。",
-      "published": "2026-06-26 12:05",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "杭州新剑机电传动股份有限公司创业板IPO获受理",
-      "url": "https://36kr.com/newsflashes/3869958230349062?f=rss",
-      "summary": "36氪获悉，杭州新剑机电传动股份有限公司创业板IPO获受理。",
-      "published": "2026-06-26 12:05",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "广东科杰技术股份有限公司创业板IPO获受理",
-      "url": "https://36kr.com/newsflashes/3869958059808001?f=rss",
-      "summary": "36氪获悉，广东科杰技术股份有限公司创业板IPO获受理。",
-      "published": "2026-06-26 12:04",
-      "source": "36kr.com",
-      "lang": "zh_cn",
       "category": "科技"
     },
     {
@@ -453,19 +462,10 @@
       "category": "科技"
     },
     {
-      "title": "派早报：豆包推出专业版、GTA VI 开启预售等",
-      "url": "https://sspai.com/post/111476",
-      "summary": "OpenAI 发布 AI 推理芯片 Jalapeño、Goodram 推出 SD 存储卡 PRO S6B0 等。<a href=\"https://sspai.com/post/111476\" target=\"_blank\">查看全文</a>",
-      "published": "2026-06-25 00:51",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
-      "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
+      "title": "AI learns the “dark art” of RFIC design",
+      "url": "https://spectrum.ieee.org/ai-radio-chip-design",
       "summary": "",
-      "published": "2026-06-23 09:39",
+      "published": "2026-06-24 14:02",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
