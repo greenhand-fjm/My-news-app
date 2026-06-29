@@ -1,76 +1,328 @@
 {
-  "last_updated": "2026-06-28 02:08:59",
+  "last_updated": "2026-06-29 02:07:22",
   "total": 52,
   "articles": [
     {
-      "title": "央视曝手机测评作弊乱象",
-      "url": "https://36kr.com/newsflashes/3872143344817158?f=rss",
-      "summary": "记者调查发现，数码产品测评这个领域的高度技术化，长期以来处于“无人能实锤作弊乱象”的灰色地带。网络安全专家介绍，整套作弊体系分为三层，层层美化测评数据：第一层厂商专供测评博主的特供媒体机，硬件经过筛选优化；第二层固件内置识别程序，检测到博主身份并自动开启高性能模式；第三层云端远程控制，可实时下发测评作弊配置。当这套系统识别到某博主启动测评时，就会进入“作弊模式”，自动拉高CPU性能、调高屏幕亮度、优化后台加载逻辑，切换软件时仅加载界面而非完整应用，营造全程流畅的假象。边亮介绍，为了规避被发现的风险，这套测评作弊机制也经历了多轮迭代，隐蔽性越来越强。记者调查发现，由于特供样机、固件作弊、云端调控三重手段叠加，普通消费者很难分辨测评真假，这也导致数码测评公信力持续受损，而且技术造假取证难度极大，给监管带来很大难度。（界面）",
-      "published": "2026-06-28 02:00",
+      "title": "我国纬度最高光热电站投产发电",
+      "url": "https://36kr.com/newsflashes/3873614125978883?f=rss",
+      "summary": "今天（6月29日），我国东北首座光热电站——中广核吉西基地10万千瓦光热电站在吉林省大安市投产发电，我国在高纬度严寒地区光热发电技术应用上取得新突破。该电站位于北纬45.36度严寒气候区，是我国纬度最高的光热电站，装机容量10万千瓦，储热时长可达8小时，具备24小时安全稳定连续运行的能力。这种电站主要通过大面积的反射镜阵列将太阳光聚焦到集热装置上，从而实现储能。（央视新闻）",
+      "published": "2026-06-29 02:04",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "近一周120多只个股获机构调研，广生堂调研机构数最多",
-      "url": "https://36kr.com/newsflashes/3872142280840197?f=rss",
-      "summary": "近一周（6月20日至26日）机构调研个股有120多只，广生堂调研机构数最多。广生堂有53家机构调研，包括6家基金公司、6家证券公司、8家私募等。胜宏科技、盛弘股份、联合化学、恒坤新材等个股均有20家以上机构评级，其中恒坤新材、广信材料、鼎龙股份等个股均有时下热门的光刻胶概念。从市场表现来看，近一周机构调研股平均跌超2%，东方钽业、京东方A、信德新材、汇成真空等个股均涨超10%。（人民财讯）",
-      "published": "2026-06-28 01:45",
+      "title": "破解代码迁移难题，国产“异算方舟”全栈计算平台正式发布",
+      "url": "https://36kr.com/newsflashes/3873613533156356?f=rss",
+      "summary": "今天（29日），由中国科学院计算机网络信息中心等单位联合研发的“异算方舟”国产计算系统软件生态全栈平台上线。该平台聚焦国产算力下软件适配难、代码迁移难、科研操作烦琐等痛点，为科学计算软件生态建设提供一体化解决方案。（央视新闻）",
+      "published": "2026-06-29 02:03",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "华泰证券：5月工业企业利润总体向好，行业分化加剧",
-      "url": "https://36kr.com/newsflashes/3872141380080643?f=rss",
-      "summary": "华泰证券研报称，5月工业企业盈利增速较4月的24.7%略回落至21.1%，但仍高于一季度的15.5%且营收增速延续回升，显示企业盈利总体向好，其中能源及AI链相关行业为利润增长的主要支撑，而随着霍尔木兹海峡封锁超过三个月，供给冲击的影响深化，部分中下游企业产能利用率进一步走弱，行业盈利表现分化加剧。5月油价边际回落但整体上游石化链盈利增速仍在高位，而受益于全球AI投资需求强劲，电子计算机行业持续引领盈利及收入增长，对总体工业企业盈利的贡献从6.7个百分点提升至9.6个百分点，有色冶炼及化学制品分别贡献6.4、4.2个百分点，三者合计贡献约20.2个百分点，而内需相关下游制造业，利润增速仍偏弱，尤其是汽车、家具制造降幅进一步走阔。（界面）",
-      "published": "2026-06-28 01:27",
+      "title": "周六福在上海成立新珠宝公司，注册资本100万",
+      "url": "https://36kr.com/newsflashes/3873603747632387?f=rss",
+      "summary": "36氪获悉，天眼查App显示，近日，臻沪爱珠宝（上海）有限公司成立，法定代表人为李伟蓬，注册资本100万人民币，经营范围包括珠宝首饰零售、珠宝首饰批发、珠宝首饰回收修理服务等，由周六福珠宝股份有限公司全资持股。",
+      "published": "2026-06-29 01:53",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
-      "url": "https://decomp-academy.dev",
+      "title": "科创50指数涨超4%，继续刷新历史新高",
+      "url": "https://36kr.com/newsflashes/3873600773919749?f=rss",
+      "summary": "36氪获悉，科创50指数涨超4%，继续刷新历史新高。",
+      "published": "2026-06-29 01:50",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "雅砻江流域水电开发公司增资至547亿",
+      "url": "https://36kr.com/newsflashes/3873598643377155?f=rss",
+      "summary": "36氪获悉，天眼查App显示，近日，雅砻江流域水电开发有限公司发生工商变更，注册资本由507亿人民币增至547亿人民币。该公司成立于1995年3月，法定代表人为孙文良，经营范围包括从事雅砻江流域水电站开发、建设、经营管理，从事为水电行业服务的咨询、物业等相关业务，风力发电，太阳能发电等，由国投电力、川投能源共同持股。",
+      "published": "2026-06-29 01:48",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "怡亚通在黄石成立新公司，注册资本100万",
+      "url": "https://36kr.com/newsflashes/3873597508359432?f=rss",
+      "summary": "36氪获悉，天眼查App显示，近日，黄石综保怡亚通供应链有限公司成立，法定代表人为姜伟，注册资本100万人民币，经营范围包括供应链管理服务、国际货物运输代理、国内货物运输代理等，由怡亚通全资持股。",
+      "published": "2026-06-29 01:47",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "五粮液回应宜宾地震影响",
+      "url": "https://36kr.com/newsflashes/3873595471189248?f=rss",
+      "summary": "6月29日0时12分，四川宜宾市高县发生5.5级地震。地图显示，此次地震中心高县距离宜宾五粮液酒厂直线距离只有60多公里。记者今日从五粮液了解到，目前地震未对企业造成影响，生产经营正常。（第一财经）",
+      "published": "2026-06-29 01:45",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "多家银行集体出手收紧代理上金所个人贵金属交易业务",
+      "url": "https://36kr.com/newsflashes/3873594957059332?f=rss",
+      "summary": "近期，国际贵金属市场剧烈震荡，为防范潜在的风险并保护投资者权益，国内商业银行正加速收紧代理上海黄金交易所（简称“上金所”）个人贵金属交易业务。6月27日，兴业银行公告，宣布上调代理上金所个人贵金属延期业务合约保证金比例。据券商中国记者梳理，6月以来，已有多家银行发布公告，宣布调整代理的上金所个人贵金属业务规则，建设银行、工商银行则明确将关停该业务。业内人士指出，银行此举既是对近期金价波动行情的及时响应，也符合近年来规范个人投资者衍生品业务的监管导向；但“关停杠杆炒金”并非“不让买黄金”，黄金作为长期资产配置标的，多元投资渠道依然通畅。（证券时报）",
+      "published": "2026-06-29 01:44",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "国家统计局：2025年全国文化产业实现营业收入208254亿元",
+      "url": "https://36kr.com/newsflashes/3873589840434178?f=rss",
+      "summary": "36氪获悉，国家统计局发布2025年全国文化及相关产业发展情况报告，随着文化产业体系、市场体系持续健全完善，我国文化及相关产业（以下简称“文化产业”）规模稳步扩大。2025年，全国文化产业实现营业收入208254亿元，规模突破20万亿元，再创历史新高，比上年增长8.8%。文化产业结构不断优化，文化服务业发挥支撑作用。2025年，文化服务业实现营业收入123052亿元，比上年增长12.8%；占全部文化产业营业收入的比重为59.1%，比上年提高2.1个百分点；文化服务业对文化产业营业收入增长的贡献率为82.7%。文化制造业、文化批发和零售业分别实现营业收入49919亿元和35283亿元，比上年增长0.6%和8.0%。",
+      "published": "2026-06-29 01:39",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "恒生科技指数盘中涨幅扩大至2%",
+      "url": "https://36kr.com/newsflashes/3873582694061063?f=rss",
+      "summary": "36氪获悉，恒生科技指数盘中涨幅扩大至2%。",
+      "published": "2026-06-29 01:32",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "A股三大指数开盘涨跌不一，银河微电涨停",
+      "url": "https://36kr.com/newsflashes/3873577655014659?f=rss",
+      "summary": "36氪获悉，A股三大指数开盘涨跌不一，沪指低开0.01%，深成指小幅低开，创业板指高开0.15%；石油化工、海运、通信设备板块跌幅居前，招商轮船跌超3%，恒力石化、天孚通信跌超2%；半导体、家电、燃气板块领涨，银河微电、长虹美菱涨停，胜通能源涨近7%。",
+      "published": "2026-06-29 01:26",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "恒指开盘涨0.69%，恒生科技指数涨1.6%",
+      "url": "https://36kr.com/newsflashes/3873574424548358?f=rss",
+      "summary": "36氪获悉，恒指开盘涨0.69%，恒生科技指数涨1.6%；零售、家电板块领涨，美团、京东集团涨超3%，美的集团涨超2%；半导体、交通运输板块跌幅居前，中远海能跌超5%，华虹宏力跌超1%。",
+      "published": "2026-06-29 01:23",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "Sophon PFG-1: a monolithic-3D AI ASIC with 330 GB of on-die DRAM and no HBM",
+      "url": "https://www.phantafield.com/whitepaper",
       "summary": "",
-      "published": "2026-06-28 01:21",
+      "published": "2026-06-29 01:23",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "国内首个第四代半导体材料全产业链项目落户郑州",
-      "url": "https://36kr.com/newsflashes/3872140630692872?f=rss",
-      "summary": "近日，郑州高新区与中科粉研（河南）超硬材料有限公司签署协议，中科粉研第四代半导体材料生产基地正式落户该区。该基地是国内首个第四代半导体材料全产业链项目，将为河南在全球独具优势的超硬材料产业链补上关键的一环。本次签约落地的生产基地，将依托中科粉研全球首条LPPHT微纳米金刚石产线的技术积累，为实现第四代半导体核心材料的自主研发、生产和规模量产打下坚实基础。 (河南日报)",
-      "published": "2026-06-28 01:15",
-      "source": "36kr.com",
+      "title": "派早报：微软改口称 8GB 足够运行 Windows 11",
+      "url": "https://sspai.com/post/111639",
+      "summary": "<p>微软改口称 8GB 足够运行 Windows 11</p><p>OpenAI 发布 GPT 5.6，称需美国政府批准提供对象</p><p>Notion Mail 宣布关闭</p><p>央视报道网络测评乱象</p><p>苹果、奥迪前员工推出豪华电瓶车</p><p>俄罗斯主流应用被苹果下架，克宫呼吁改用 Android</p><p>看看就行的简讯</p><p>少数派的近期动态</p><p>你可能错过的好文章</p><a href=\"https://sspai.com/post/111639\" target=\"_blank\">查看全文</a>",
+      "published": "2026-06-28 23:13",
+      "source": "sspai.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "今年前五个月我国物流需求平稳增长，社会物流总额超146万亿元",
-      "url": "https://36kr.com/newsflashes/3872139558507784?f=rss",
-      "summary": "中国物流与采购联合会今天公布今年1到5月物流运行数据。物流需求总体保持平稳增长，新旧动能加快转换，结构升级态势持续显现。1—5月份，全国社会物流总额146.6万亿元，同比增长5.2%。其中，工业品物流总额同比增长5.4%。行业分化特征持续显现，采矿、非金属矿物制品业等传统资源类物流需求持续低位运行，而随着新质生产力加快培育，高端制造领域物流需求保持较快增长。5月份，高技术制造业相关物流需求同比增长15.1%，装备制造业相关物流需求同比增长9.5%，较上月均有所加快。（财联社）",
-      "published": "2026-06-28 01:04",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "AMD Strix Halo RDMA Cluster Setup Guide",
-      "url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
+      "title": "Knowledge Distillation of Black-Box Large Language Models (2024)",
+      "url": "https://arxiv.org/abs/2401.07013",
       "summary": "",
-      "published": "2026-06-28 00:46",
+      "published": "2026-06-28 22:32",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Choosing a Public DNS Resolver",
-      "url": "https://evilbit.de/dns-resolver-guide.html",
+      "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+      "summary": "China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from Anthropic and OpenAI in other, more general tasks, it seems that China has dramatically reduced the gap in the capabilities between its models and those of [&#8230;]",
+      "published": "2026-06-28 21:42",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "California law targeting loud streaming ads takes effect on July 1",
+      "url": "https://techcrunch.com/2026/06/28/california-law-targeting-loud-streaming-ads-takes-effect-on-july-1/",
+      "summary": "Streaming ads might be getting a lot quieter.",
+      "published": "2026-06-28 21:34",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
+      "summary": "Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. Spark is their new incubator program for independent artists that provides grants, mentorship, and marketing support. To apply, artists need to be an unsigned singer, songwriter, or [&#8230;]",
+      "published": "2026-06-28 20:27",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
+      "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+      "summary": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”",
+      "published": "2026-06-28 19:05",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Historical memory prices 1960-2026",
+      "url": "https://dam.stanford.edu/memory-prices.html",
       "summary": "",
-      "published": "2026-06-27 22:11",
+      "published": "2026-06-28 18:32",
       "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "GLM 5.2 beats Claude in our benchmarks",
+      "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+      "summary": "",
+      "published": "2026-06-28 17:50",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "China claims the world&#8217;s fastest supercomputer",
+      "url": "https://www.theverge.com/tech/958768/china-claims-the-worlds-fastest-supercomputer",
+      "summary": "Despite trade restrictions, China has reclaimed the title of the world's fastest supercomputer for the first time since 2018. LineShine has pushed El Capitan out of number one on the TOP500 ranking. That's despite strict limits on what high-powered computing components can be sold to China by US firms, which dominate the list, with America [&#8230;]",
+      "published": "2026-06-28 17:20",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Writer Ian Bogost says ‘The Small Stuff’ can help us reclaim our lives from too much convenience",
+      "url": "https://techcrunch.com/2026/06/28/writer-ian-bogost-says-the-small-stuff-can-help-us-reclaim-our-lives-from-dematerialization/",
+      "summary": "Has Silicon Valley been building the wrong things?",
+      "published": "2026-06-28 17:03",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Professor denounces mass AI fraud on an exam at Brown",
+      "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
+      "summary": "",
+      "published": "2026-06-28 16:41",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "I used Claude Code to get a second opinion on my MRI",
+      "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+      "summary": "",
+      "published": "2026-06-28 16:35",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The Cube is Jim Henson’s little-known proto-Black Mirror masterpiece",
+      "url": "https://www.theverge.com/entertainment/958757/jim-henson-the-cube-black-mirror-tv-movie-review",
+      "summary": "I'm sure we're all familiar with Dark Crystal, so we know that Jim Henson can be weird and tackle slightly more mature subject matter. But there is little in his oeuvre that is quite as mind-bending as the Muppetless The Cube. This 1969 teleplay was produced for an NBC anthology series called Experiment in Television, [&#8230;]",
+      "published": "2026-06-28 16:30",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "TechCrunch Mobility: All eyes on Tesla FSD",
+      "url": "https://techcrunch.com/2026/06/28/techcrunch-mobility-all-eyes-on-tesla-fsd/",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+      "published": "2026-06-28 16:05",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
+      "url": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
+      "summary": "Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron.",
+      "published": "2026-06-28 15:00",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)",
+      "url": "https://pudding.cool/2026/06/menu-story/",
+      "summary": "",
+      "published": "2026-06-28 14:44",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
+      "summary": "Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history. To make their case, prosecutors turned to location data from his iPhone, security camera footage, and witness testimony. But they also turned to his ChatGPT logs. Prosecutors said that [&#8230;]",
+      "published": "2026-06-28 14:12",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Govee’s smart nugget ice maker makes every iced drink feel like a luxury",
+      "url": "https://techcrunch.com/2026/06/28/govees-smart-nugget-ice-maker-makes-every-iced-drink-feel-like-a-luxury/",
+      "summary": "For some people, the ice in a beverage is almost as important as the drink itself. That&#8217;s the audience Govee had in mind when designing its latest ice maker, the GoveeLife Smart Nugget Ice Maker Pro.&#160;This $500 premium smart home gadget is aimed at those who crave what&#8217;s called “the good ice,” the soft, chewable [&#8230;]",
+      "published": "2026-06-28 14:00",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Nest&#8217;s quest to fix your thermostat",
+      "url": "https://www.theverge.com/podcast/958735/nest-thermostat-version-history",
+      "summary": "The founding story of Nest is pretty much a perfect tech myth. A legendary product maker (in this case, Tony Fadell) helps create one of the most successful products ever (the iPhone) and then rides off into the sunset to enjoy the rest of his life, only to have an experience that drags him back [&#8230;]",
+      "published": "2026-06-28 12:02",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Ad-free streaming is a luxury now",
+      "url": "https://www.theverge.com/column/958379/streaming-industry-ads",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about the streaming industry, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Streaming was once a reprieve from cable. Not only could [&#8230;]",
+      "published": "2026-06-28 12:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "兜兜转转四款笔记软件，我终于为思考找到了安身之所",
+      "url": "https://sspai.com/post/110935",
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/110935\" target=\"_blank\">查看全文</a>",
+      "published": "2026-06-28 07:00",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "TMD’s keyless bike lock is a $280 solution to a $60 problem",
+      "url": "https://www.theverge.com/tech/957603/tmd-smart-keyless-bike-lock-review",
+      "summary": "I've seen lots of so-called \"smart\" bike locks over the years, but none so far could justify the added cost. A newcomer that got its start securing ATMs for banks is trying to change that. There's nothing wholly unique about the TMD Chain Lock, but the combination of materials, performance, and insurance-friendly ART-2 certification makes [&#8230;]",
+      "published": "2026-06-28 07:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Indian payments chief thinks AI will be heavily involved in next era of digital payment growth",
+      "url": "https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/",
+      "summary": "Dilip Asbe said that newer UPI apps could be more competitive with a viable commercial model",
+      "published": "2026-06-28 05:00",
+      "source": "techcrunch.com",
       "lang": "en",
       "category": "科技"
     },
@@ -80,15 +332,6 @@
       "summary": "Instagram users could soon see more ways to tune their content.",
       "published": "2026-06-27 21:27",
       "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Enhancing X11 Application Security with LXC",
-      "url": "https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/",
-      "summary": "",
-      "published": "2026-06-27 21:27",
-      "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
@@ -120,38 +363,11 @@
       "category": "科技"
     },
     {
-      "title": "Apple wants permission to buy memory from a blacklisted Chinese supplier",
-      "url": "https://www.theverge.com/tech/958707/apple-ram-buy-memory-blacklisted-china-cxmt",
-      "summary": "Apple is looking to alleviate some of the pressure on its supply chain by seeking an exception from the Trump administration to buy RAM chips from CXMT, a company blacklisted by the Pentagon over ties to the People's Liberation Army, according to the Financial Times. The skyrocketing prices of RAM and storage have driven Apple [&#8230;]",
-      "published": "2026-06-27 17:28",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
       "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
       "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
       "summary": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
       "published": "2026-06-27 16:45",
       "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "The Guardian&#8217;s Kai Wright refuses to buy a new phone",
-      "url": "https://www.theverge.com/report/958695/kai-wright-npr-guardian-interview-questionnaire",
-      "summary": "Kai Wright is the co-host of Stateside with Kai and Carter over at the Guardian. But Wright has been bringing his unique insights to listeners for years. He's also hosted Notes From America, The United States of Anxiety, and Indivisible. He's a Peabody Award-winning journalist who has profiled powerful men, explored what it means to [&#8230;]",
-      "published": "2026-06-27 15:15",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
-      "url": "https://github.com/bikini/exploitarium",
-      "summary": "",
-      "published": "2026-06-27 14:31",
-      "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
@@ -165,65 +381,11 @@
       "category": "科技"
     },
     {
-      "title": "Indie developers got tired of waiting for a new Star Fox, so they’re making their own",
-      "url": "https://www.theverge.com/entertainment/957679/indie-developers-star-fox-games",
-      "summary": "Nostalgia remains a powerful force. So much so that, in exploring the echoes of a late-'90s childhood spent skimming the water of Corneria and sneering \"cocky little freaks!\" in time with a monkey encased in a Gundam suit, I'm simultaneously describing playing Star Fox 64 (Lylat Wars if you're nasty) in 1997 and streaming it [&#8230;]",
-      "published": "2026-06-27 14:00",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Why is Apple asking me to pay more for Big Tech’s AI obsession?",
-      "url": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
-      "summary": "Tim Cook recently said price increases were \"unavoidable\" and described the company's pricing as \"unsustainable.\" The 16-inch MacBook Pro saw its price go up by $300. The 11-inch iPad Air went from $599 to $749. Even the HomePod Mini got a $30 bump to $129. Cook squarely placed the blame at the feet of the [&#8230;]",
-      "published": "2026-06-27 13:30",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Inside the room where the smart home industry is still betting on Matter",
-      "url": "https://www.theverge.com/tech/958008/matter-unify-conference-csa-apple-google-amazon-samsung-smart-home-interoperability",
-      "summary": "Four years ago, overlooking a canal in Amsterdam, the smart home industry collectively launched Matter, the one interoperability standard to rule them all. Heralded as the solution to the industry's struggles, Matter was built on open standards and existing technologies and is the result of years of collaboration between traditional rivals, including Apple, Google, Amazon, [&#8230;]",
-      "published": "2026-06-27 13:00",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "OpenRA",
-      "url": "https://www.openra.net/",
-      "summary": "",
-      "published": "2026-06-27 12:10",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
       "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
       "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
       "summary": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
       "published": "2026-06-27 12:00",
       "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "This puzzle game&#8217;s simple premise hides surprising depth",
-      "url": "https://www.theverge.com/games/957474/whats-the-password-review-pc-ios-android",
-      "summary": "What's the Password? has a simple concept: To solve each of the game's more than 100 puzzles, you have to type in the right four-digit password on a number pad. That might sound like a limited constraint. But the simplicity gives solo developer Dan DiIorio, better known as TrampolineTales, lots of room to play with [&#8230;]",
-      "published": "2026-06-27 12:00",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "This might be the new best smart speaker",
-      "url": "https://www.theverge.com/tech/958127/google-home-speaker-star-fox-installer",
-      "summary": "Hi, friends! Welcome to Installer No. 134, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope you're okay in all this heat, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Polymarket lies and Jalen Brunson and [&#8230;]",
-      "published": "2026-06-27 12:00",
-      "source": "www.theverge.com",
       "lang": "en",
       "category": "科技"
     },
@@ -234,150 +396,6 @@
       "published": "2026-06-27 11:36",
       "source": "sspai.com",
       "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "华为途灵平台完成3轮升级，覆盖鸿蒙智行五界",
-      "url": "https://36kr.com/newsflashes/3871321432527875?f=rss",
-      "summary": "36氪获悉，6月26日，鸿蒙智行举办了一场华为途灵平台专场TECH DAY技术沟通会。华为途灵平台依托华为在AI和通信领域的技术优势，将调校经验通过算法与软件沉淀，提升机械性能上限，并基于车型定位不断开放新的特性，快速迭代。在操控层面，华为途灵平台的全维感知系统融合了ADS感知信息、车辆状态信息、驾驶意图信息、云端数据信息、车身域信息和座舱域信息等多维度数据。底盘可以提前预判、主动调整。从2023年11月至今，华为途灵平台已完成3轮升级，覆盖鸿蒙智行五界车型。",
-      "published": "2026-06-27 11:11",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "Fintech Engineering Handbook",
-      "url": "https://w.pitula.me/fintech-engineering-handbook/",
-      "summary": "",
-      "published": "2026-06-27 10:28",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "功率半导体再启阶梯式调价，有厂商表示“AI相关的电源功率订单爆满，根本做不过来”",
-      "url": "https://36kr.com/newsflashes/3871215128237313?f=rss",
-      "summary": "据《科创板日报》27日消息，由于AI算力集群功耗激增，功率半导体正成为存储之后的产业新增长引擎，行业再掀起一轮涨价潮。“我们AI相关的电源功率订单‘爆满’，现在订单根本做不过来”。一家功率半导体厂商人士向《科创板日报》记者表示，“因为公司算是少数具备量产能力的国产厂商，无论是面向数据中心800V HVDC等一次电源、服务器二次电源等产品，都已进入多家头部客户供应链并实现规模量产，所以订单需求十分旺盛。”多位业内人士判断，本轮成本驱动的涨价周期仍将持续一段时间，并且行业将加速功率器件低端产能的出清，市场份额将向具备IDM全链条能力或与上游深度绑定，且涉足高景气赛道的头部芯片企业集中。（财联社）",
-      "published": "2026-06-27 09:23",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "具身世界模型“我悟”通过合规备案",
-      "url": "https://36kr.com/newsflashes/3871213411128577?f=rss",
-      "summary": "6月26日，北京人形机器人创新中心慧思开物平台的双大脑模型天鹕（Pelican-VL）和我悟（WoW）同步完成北京市网信办最新一批生成式人工智能服务备案。北京人形将正式启动慧思开物全系列模型Token服务，计划分阶段面向产业客户、科研机构、开发者全面开放API调用能力。（界面新闻）",
-      "published": "2026-06-27 09:21",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "兴业银行：上调代理上海黄金交易所个人贵金属买卖业务延期合约保证金比例",
-      "url": "https://36kr.com/newsflashes/3871212925588739?f=rss",
-      "summary": "6月27日，兴业银行发布公告，将在北京时间2026年6月29日（周一）收盘清算时起，调整代理上海黄金交易所个人贵金属买卖业务延期合约保证金比例，个人客户AU（T+D）、mAU（T+D）、AU（T+N1）、AU（T+N2）、AG（T+D）等延期合约的保证金比例由40%调整至120%。其它黄金投资产品不受影响。兴业银行后续还将调整相关延期合约交易保证金比例，具体另行通知。（每日经济新闻）",
-      "published": "2026-06-27 09:21",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "因利润腰斩，梅赛德斯-奔驰推迟9万名德国员工奖金并谋求无薪延长工时",
-      "url": "https://36kr.com/newsflashes/3871212322706690?f=rss",
-      "summary": "6月27日，据报道，由于利润大幅下滑，梅赛德斯-奔驰正被迫采取严厉的紧缩措施。公司已决定将约9万名加入工会的德国员工原定于2026年7月发放的“转型奖金”（相当于月薪的18.4%）推迟9个月至2027年4月发放，并保留在业务未见好转时完全取消该奖金的权利。此外，管理层还在公开探讨将每周工作时间从35小时延长至40小时且不支付额外加班费。梅赛德斯-奔驰今年2月公布的财报显示，2025年净利润从2024年的104亿欧元骤降至53亿欧元，降幅近50%。（界面新闻）",
-      "published": "2026-06-27 09:20",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "主力资金大调仓，超267亿元撤出“易中天”",
-      "url": "https://36kr.com/newsflashes/3871211760882689?f=rss",
-      "summary": "6月27日，本周（6月22日—26日），A股市场震荡调整。截至6月26日收盘，上证指数、深证成指、创业板指本周分别累计下跌1.55%、1.55%、1.37%，科创50指数本周累计大涨6.32%。资金面上，本周沪深两市主力资金合计净流出2169.35亿元。主力资金大幅流出科技股，本周“易中天”（新易盛、中际旭创、天孚通信）合计被抛售超267亿元。本周主力资金净流出方面，中际旭创净流出137.80亿元，位居首位。胜宏科技净流出81.61亿元；东山精密、天孚通信、光迅科技均净流出超70亿元；华工科技净流出62.67亿元；新易盛、铜冠铜箔均净流出超50亿元；中天科技、宁德时代均净流出超35亿元。（证券时报）",
-      "published": "2026-06-27 09:20",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "电影《给阿嬷的情书》总票房破19亿元",
-      "url": "https://36kr.com/newsflashes/3871210982053121?f=rss",
-      "summary": "36氪获悉，6月27日，据猫眼专业版数据，电影《给阿嬷的情书》上映59天，总票房破19亿元。",
-      "published": "2026-06-27 09:19",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "Prime Day is almost over, but these are still the best Apple deals I&#8217;ve seen",
-      "url": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
-      "summary": "Amazon&#8217;s Prime Day is now in its final hours, but whether you&#8217;re looking for a new pair of wireless earbuds or a smartwatch, there’s a good chance you’ll still find a discount. The Apple Watch Series 11 remains at its best price to date, while the AirPods Pro 3 are still on sale for $179. [&#8230;]",
-      "published": "2026-06-27 02:56",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
-      "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
-      "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
-      "published": "2026-06-27 01:01",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "FTC gives Musk the OK to acquire SpaceX alumni startup Mesh",
-      "url": "https://techcrunch.com/2026/06/26/ftc-gives-musk-the-ok-to-acquire-spacex-alumni-startup-mesh/",
-      "summary": "Mesh came out of stealth in February with a $50 million Series A.",
-      "published": "2026-06-27 00:38",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Corgi, the buzzy Y Combinator-backed insurance tech startup, says it didn’t steal an open source product",
-      "url": "https://techcrunch.com/2026/06/26/corgi-the-buzzy-y-combinator-backed-insurance-tech-startup-says-it-didnt-steal-an-open-source-product/",
-      "summary": "Corgi became embroiled in  controversy when Papermark accused it of stealing its software. Corgi says it did not, raising new questions about vibe coding.",
-      "published": "2026-06-26 22:00",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Novak Djokovic has a new job —  advisor to private equity firm General Atlantic",
-      "url": "https://techcrunch.com/2026/06/26/novak-djokovic-has-a-new-job-advisor-to-private-equity-firm-general-atlantic/",
-      "summary": "General Atlantic has tapped tennis legend Novak Djokovic to serve as a global strategic advisor.",
-      "published": "2026-06-26 19:13",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
-      "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
-      "summary": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.”",
-      "published": "2026-06-26 18:32",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
-      "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
-      "summary": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring.",
-      "published": "2026-06-26 18:19",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
-      "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
-      "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.&#160;&#160; OpenAI just shared its plans to spice things up with&#160;Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building their way out of single-supplier risk. The goal&#160;is&#160;less&#160;of&#160;a [&#8230;]",
-      "published": "2026-06-26 17:43",
-      "source": "techcrunch.com",
-      "lang": "en",
       "category": "科技"
     },
     {
@@ -444,28 +462,10 @@
       "category": "科技"
     },
     {
-      "title": "把心情贴在手机背面：XTREM INNO 极稚墨水屏手机壳体验",
-      "url": "https://sspai.com/post/111483",
-      "summary": "手机主屏幕的个性化，如今越发受到重视。遍观各大手机操作系统的更新，几乎都会提到主屏幕装扮方式的增加——从壁纸、时钟再到图标、挂件，几乎没有哪个角落是不能按自己喜好调整的。对比之下，手机背面反而成为了「 ...<a href=\"https://sspai.com/post/111483\" target=\"_blank\">查看全文</a>",
-      "published": "2026-06-25 06:08",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "风暖鸟声碎，日高花影重：我的昆明与腾冲行记",
-      "url": "https://sspai.com/post/111349",
-      "summary": "云南气候实在是太好了，昆明海拔将近两千，每次出门都有一种凉爽感包裹全身。而腾冲太适合旅居了，既有中高端的酒店可供享受奢靡之风，也有历史文化供我们反思来时的路，更好的去面对未来，还有拿上衣服就可以随地大小泡的温泉，美哉！<a href=\"https://sspai.com/post/111349\" target=\"_blank\">查看全文</a>",
-      "published": "2026-06-25 03:02",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "AI learns the “dark art” of RFIC design",
-      "url": "https://spectrum.ieee.org/ai-radio-chip-design",
+      "title": "Deciphering Basmala",
+      "url": "https://blog.plover.com/lang/bismillah.html",
       "summary": "",
-      "published": "2026-06-24 14:02",
+      "published": "2026-06-24 09:05",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
