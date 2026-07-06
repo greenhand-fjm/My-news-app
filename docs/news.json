@@ -1,86 +1,329 @@
 {
-  "last_updated": "2026-07-05 01:48:23",
+  "last_updated": "2026-07-06 01:54:01",
   "total": 52,
   "articles": [
     {
-      "title": "6月份中国大宗商品价格指数小幅回落",
-      "url": "https://36kr.com/newsflashes/3882068056076550?f=rss",
-      "summary": "中国物流与采购联合会今天（5日）公布6月份中国大宗商品价格指数。6月份中国大宗商品价格指数为130.3点，环比回落1.7%，同比增长17.6%。在中国物流与采购联合会重点监测的50种大宗商品中，6月份价格环比上涨的大宗商品有11种。其中，焦煤、焦炭和瓦楞纸涨幅居前，环比分别上涨20.3%、11.2%和5.3%。（央视新闻）",
-      "published": "2026-07-05 01:23",
+      "title": "创业板指涨超1%",
+      "url": "https://36kr.com/newsflashes/3883509810933763?f=rss",
+      "summary": "36氪获悉，创业板指涨超1%，深证成指涨0.95%，沪指涨0.36%，培育钻石、钛白粉概念、黄金概念涨幅居前。",
+      "published": "2026-07-06 01:50",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "光大证券：半导体与AI浪潮驱动含氟新材料进入高速成长期",
-      "url": "https://36kr.com/newsflashes/3882063262068998?f=rss",
-      "summary": "7月5日消息，光大证券研报认为，国内氟化工领军企业正加速布局含氟新材料，聚焦打造第二成长曲线。在半导体领域，高纯度（如G5级）电子级氢氟酸作为芯片制造不可或缺的关键湿电子化学品，过去长期被日美企业垄断。近年来，国内企业凭借产业链一体化优势突破了超净高纯工艺瓶颈，电子级氢氟酸顺利通过国内外一线晶圆代工厂的严苛认证，并进入规模化放量阶段。与此同时，AI、HPC和超大规模数据中心算力的快速攀升致使数据中心的热密度不断提高，传统风冷方案在高功率密度场景下已逐渐难以满足需求，液冷正在成为高效散热的必选方案。氟化工企业顺应高效散热趋势，积极布局全氟聚醚（PFPE）等高性能含氟冷却液，凭借其绝缘、不燃及优异的热管理性能，在浸没式液冷等高安全性、高功率场景中占据不可替代的地位。含氟新材料正推动氟化工企业向高技术壁垒、高附加值方向深度转型。（界面新闻）",
-      "published": "2026-07-05 01:18",
+      "title": "铭利达等在天津成立新能源科技公司",
+      "url": "https://36kr.com/newsflashes/3883508778872832?f=rss",
+      "summary": "36氪获悉，企查查App显示，近日，天津铭利达三电新能源科技有限公司成立，经营范围包含：家用电器制造；汽车零部件研发；汽车零部件及配件制造；汽车零配件零售等。企查查股权穿透显示，该公司由铭利达等共同持股。",
+      "published": "2026-07-06 01:49",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "美光科技投资93亿美元扩建先进存储芯片项目，预计2028下半年出货HBM",
-      "url": "https://36kr.com/newsflashes/3882061184413701?f=rss",
-      "summary": "美光科技当地时间周六（7月4日）正式启动其位于日本西部广岛工厂的扩建工程。这项总投资达1.5万亿日元（约合93亿美元）的项目，旨在生产包括高带宽存储器（HBM）在内的先进存储芯片，以满足人工智能（AI）浪潮带来的旺盛需求。HBM是英伟达AI处理器的关键组件，工厂预计将于2028年夏季左右开始出货。近期，美光、三星电子和SK海力士各自都宣布了扩充制造能力的计划。本周早些时候，SK海力士宣布，计划投资80万亿韩元（约合514.6亿美元），在韩国忠清北道首府清州市新建一座NAND存储芯片工厂。（财联社）",
-      "published": "2026-07-05 01:16",
+      "title": "韩国考虑利用半导体税收设立增长基金",
+      "url": "https://36kr.com/newsflashes/3883493008519169?f=rss",
+      "summary": "据报道，一名韩国政府高级官员表示，韩国正考虑利用其蓬勃发展的半导体行业带来的超额税收收入设立一只投资基金，以资助长期经济增长。（界面）",
+      "published": "2026-07-06 01:33",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "PC及内存硬盘价格持续高位：硬盘一天三个价，经销商喊出“非刚需别买”",
-      "url": "https://36kr.com/newsflashes/3882059983695877?f=rss",
-      "summary": "数码终端市场正在经历一场看不到尽头的结构性震荡。记者走访上海多个数码城，多位PC（个人电脑）经销商表示，目前零部件和整机的价格已经处于极端高位，但未来还要涨价，且至少在一年内看不到（涨价）尽头。这轮价格持续上涨已经持续相当长一段时间，最近的导火索就是苹果高调官宣涨价。一位PC经销商对记者表示，现在内存和硬盘价格都在疯涨，整机的价格在三年以内都很难下来：“起步涨幅就是800元到1000元。”另一位PC经销商则更加坦诚，建议记者“不是刚需就先别买”，尽管不知道什么时候才能降价：“（整机）这个月还要涨，特别是游戏本，涨得最厉害。我觉得至少在一年之内都不会降，会涨到明年这个时候。不急的话建议不要买，不是刚需就先别买。”（澎湃新闻）",
-      "published": "2026-07-05 01:15",
+      "title": "A股三大指数集体高开，硬件股领涨",
+      "url": "https://36kr.com/newsflashes/3883486652100868?f=rss",
+      "summary": "36氪获悉，A股三大指数集体高开，电脑硬件、半导体、通信设备板块领涨，联动科技涨超5%，朗科科技涨超4%，长飞光纤、寒武纪涨超2%；贵金属、制药、白酒板块走弱，晓程科技跌超5%，海思科跌超4%，酒鬼酒跌超1%。",
+      "published": "2026-07-06 01:26",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "加速走向全球，今年前5个月我国机器人出口近200亿元",
-      "url": "https://36kr.com/newsflashes/3882054748090626?f=rss",
-      "summary": "今年以来，我国机器人出口规模持续扩大，品类结构不断优化，为高端制造出海注入新动能。据海关统计，今年前5个月，国产机器人加速走向全球。各类单独列名的机器人合计出口1037.7万台，出口总值达199.9亿元，产品远销全球150多个国家和地区。其中，欧盟和东盟为主要出口目的地。从细分品类看，我国机器人出口已形成多元矩阵格局。清洁机器人领跑全品类，出口额达140亿元，占机器人出口总值的七成以上。依托自主导航、自动集尘、智能污水循环等核心技术，国产清洁机器人精准匹配海外差异化的居住环境，优势显著。在工业应用赛道，前5个月国产工业机器人出口约7万台，海外落地场景持续拓展。搭载视觉识别与智能算法的搬运机器人，广泛投入海外基建、交通等大型工程；具备自动扫描建模功能的焊接机器人，可实时测算最优工艺方案；协作机器人则在海外食品、医药、日化等轻工制造行业大显身手。在前沿新兴赛道，智能仿生机器人出口超8000台，覆盖设备巡检、科研教学、公共服务等多元场景。凭借国内完整齐备的产业链配套优势，国产机器人出口规模稳步扩容。（央视新闻）",
-      "published": "2026-07-05 01:10",
+      "title": "央行今日开展70亿元7天逆回购操作",
+      "url": "https://36kr.com/newsflashes/3883482645966854?f=rss",
+      "summary": "36氪获悉，央行今日开展70亿元7天逆回购操作，操作利率为1.40%，与此前持平。",
+      "published": "2026-07-06 01:22",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "Scientists reverse brain aging, with a nasal spray",
-      "url": "https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/",
+      "title": "恒指开盘涨0.23%，恒生科技指数涨0.55%",
+      "url": "https://36kr.com/newsflashes/3883482460582151?f=rss",
+      "summary": "36氪获悉，恒指开盘涨0.23%，恒生科技指数涨0.55%；半导体、汽车、传媒板块领涨，中芯国际、零跑汽车、美图公司涨超2%；能源、软件服务、煤炭板块走弱，智谱、优必选、中国石油股份跌超3%，中国神华跌1%。",
+      "published": "2026-07-06 01:22",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "人民币兑美元中间价报6.8066",
+      "url": "https://36kr.com/newsflashes/3883476325118215?f=rss",
+      "summary": "36氪获悉，人民币兑美元中间价报6.8066，下调19.00点。",
+      "published": "2026-07-06 01:16",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "宜安科技：台铃订单已开始向客户批量交付",
+      "url": "https://36kr.com/newsflashes/3883470778380545?f=rss",
+      "summary": "36氪获悉，宜安科技在互动平台表示，目前台铃的订单已开始向客户批量交付。",
+      "published": "2026-07-06 01:10",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "GPT-5.6 Sol Ultra will be in Codex",
+      "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
       "summary": "",
-      "published": "2026-07-04 23:41",
+      "published": "2026-07-06 01:04",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Reflections on the Guillotine",
-      "url": "https://theanarchistlibrary.org/library/albert-camus-reflections-on-the-guillotine",
+      "title": "华泰证券：关注港股高沽空叠加盈利预期改善的方向",
+      "url": "https://36kr.com/newsflashes/3883444946956551?f=rss",
+      "summary": "36氪获悉，华泰证券研报指出，港股短期建议关注沽空压力较重、盈利预期边际企稳或改善的超跌品种（创新药、电力公用事业等）及高股息防御（银行）。其中创新药基本面继续向上，全球风格再平衡中开始出现补涨，短期空头回补有望延续，建议重点关注业绩指引积极的CXO以及BD潜力大的龙头。对于AI硬件链，短期进一步增配的性价比不高，下一个关键窗口在7月的美股财报季，建议根据浮盈程度对应调整配置敞口。AI软件方面更多是模型领先的个股Alpha机会。",
+      "published": "2026-07-06 01:00",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "华泰证券：韩国出口高增表明全球AI链贸易仍处上行通道，亚洲AI供应链有望持续受益",
+      "url": "https://36kr.com/newsflashes/3883440823578889?f=rss",
+      "summary": "36氪获悉，华泰证券研报指出，AI链出口高景气继续推动韩国6月出口大超预期，贸易顺差再创历史新高。展望后续，领先指标显示AI链贸易维持高增，韩国出口有望延续亮眼表现，或推动韩国名义GDP维持较高增速。短期看，领先韩国半导体出口约四个月的费城半导体指数同比仍处高位，指向韩国半导体出口景气有望延续；同时，在AI需求强劲的背景下，存储价格仍在上涨，价格将继续支撑名义出口。韩国出口高增表明全球AI链贸易仍处上行通道，韩国、中国等亚洲AI供应链有望持续受益。",
+      "published": "2026-07-06 00:51",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "两市融资余额减少196.66亿元",
+      "url": "https://36kr.com/newsflashes/3883448455246084?f=rss",
+      "summary": "36氪获悉，截至7月3日，上交所融资余额报15017.64亿元，较前一交易日减少132.0亿元；深交所融资余额报14697.07亿元，较前一交易日减少64.66亿元；两市合计29714.71亿元，较前一交易日减少196.66亿元。",
+      "published": "2026-07-06 00:48",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "国金证券：锂电7月旺季在即，优选优势格局赛道",
+      "url": "https://36kr.com/newsflashes/3883431526510850?f=rss",
+      "summary": "36氪获悉，国金证券表示，当前锂电全产业链迈入新一轮周期触底反转窗口，随年内动储需求旺季临近，板块有望迎来量价共振的主升行情，产业链上、中、下游各环节均能充分分享行业上行红利。以细分赛道格局为研判核心，深耕细分领域盈利与市场份额稳健的龙头企业、实现技术突破的优质二线标的，核心筛选锂矿、动力电池、结构件、隔膜、铜箔、磷酸铁锂正极、大储、整车出海八大优质细分赛道。具体看，锂电产业链上中下游均呈现龙头强者恒强、新技术突围的格局。",
+      "published": "2026-07-06 00:41",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
+      "url": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt",
       "summary": "",
-      "published": "2026-07-04 23:36",
+      "published": "2026-07-06 00:04",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Jellyfish can heal wounds in minutes. Scientists want their secrets",
-      "url": "https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets",
+      "title": "Has_not_been_viewed_much",
+      "url": "https://iamwillwang.com/notes/has-not-been-viewed-much/",
       "summary": "",
-      "published": "2026-07-04 22:36",
+      "published": "2026-07-05 23:49",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-      "url": "https://github.com/openai/codex/issues/30364",
+      "title": "派早报：阿里禁用 Claude 模型",
+      "url": "https://sspai.com/post/111973",
+      "summary": "<p>阿里禁用 Claude 模型</p><p>索尼调整计划，2028 年前发售游戏可继续生产光盘</p><p>千问、豆包将下线智能体功能</p><p>Android 反垄断案欧洲终审败诉</p><p> 混动车、商用纯电车将不再免征车船税</p><p>电商法修正案征求意见</p><p>看看就行的小道消息</p><p>少数派的近期动态</p><p>你可能错过的好文章</p><a href=\"https://sspai.com/post/111973\" target=\"_blank\">查看全文</a>",
+      "published": "2026-07-05 23:40",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "Connections in Math: the two kinds of random",
+      "url": "https://stillthinking.net/posts/connections-in-math-two-kinds-of-random/",
       "summary": "",
-      "published": "2026-07-04 21:51",
+      "published": "2026-07-05 23:31",
       "source": "Hacker News",
       "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Some of the nation’s rich are letting AI teach their kids",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
+      "summary": "Most Americans don't trust AI. It's proven that it doesn't know what safe toppings for pizza are. People don't even want to listen to AI music. But none of that matters for some of America's wealthy, who are turning to AI to teach their kids instead of traditional schools. Companies like Forge Prep and Alpha [&#8230;]",
+      "published": "2026-07-05 22:30",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Uber’s European expansion plans may have hit a speed bump",
+      "url": "https://techcrunch.com/2026/07/05/ubers-european-expansion-plans-may-have-hit-a-speed-bump/",
+      "summary": "Back in February, Uber announced ambitious plans to launch in seven new European markets in 2026 — but now five of those launches are reportedly on hold.",
+      "published": "2026-07-05 21:35",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Show HN: Homegames. An open-source game platform I've been making for 8 years",
+      "url": "https://homegames.io",
+      "summary": "",
+      "published": "2026-07-05 21:32",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Completing a computer science degree on Coursera",
+      "url": "https://notesbylex.com/completing-a-computer-science-degree-on-coursera",
+      "summary": "",
+      "published": "2026-07-05 21:20",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "OpenPrinter",
+      "url": "https://www.opentools.studio/",
+      "summary": "",
+      "published": "2026-07-05 21:03",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Trump memecoin investors lost $3.8 billion, analysis finds",
+      "url": "https://techcrunch.com/2026/07/05/trump-memecoin-investors-lost-3-8-billion-analysis-finds/",
+      "summary": "Nearly 1 million people have lost a total of $3.8 billion after buying President Donald Trump’s $TRUMP memecoin, while Trump made $636 million.",
+      "published": "2026-07-05 20:29",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Mr. Lif’s Emergency Rations EP is post-9/11 hip hop at its most daring",
+      "url": "https://www.theverge.com/entertainment/961484/mr-lif-emergency-rations-ep-post-9-11-review",
+      "summary": "There was a period in the early aughts when Definitive Jux (nee: Def Jux) seemed like it was going to be the future of hip hop. While the label featured plenty of experimental, boundary-pushing, and politically minded acts, Lif stood out as the most \"conscious rapper\" in the traditional sense. It was clear though, that [&#8230;]",
+      "published": "2026-07-05 18:30",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Amazon will stop accepting new customers for Mechanical Turk",
+      "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+      "summary": "These may be the last days of Amazon’s Mechanical Turk.",
+      "published": "2026-07-05 17:43",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Where to preorder Grand Theft Auto VI",
+      "url": "https://www.theverge.com/gadgets/960838/grand-theft-auto-gta-6-vi-preorder-editions-buy",
+      "summary": "Rockstar's long-awaited Grand Theft Auto VI is launching November 19th, 2026 for PlayStation 5 and Xbox Series S/X consoles. The game will be available digitally at launch, with physical cases containing codes, not discs, so your options for preordering are straightforward. The preloading phase for the game begins on November 12th, which should give you [&#8230;]",
+      "published": "2026-07-05 16:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "5 desk gadgets that can make your workday better",
+      "url": "https://techcrunch.com/2026/07/05/5-desk-gadgets-that-can-make-your-workday-better/",
+      "summary": "The right desk gadgets can help you reduce clutter, stay focused, and add a little extra convenience to your day.",
+      "published": "2026-07-05 15:00",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
+      "summary": "\"Group project, but make it 1776.\" That's how a new commercial for Google Workspace opens. And things only get cringier from there. The clip imagines what it would be like if the founding fathers turned to Google's collaboration tools and Gemini to help them draft the Declaration of Independence. Ben Franklin texts Thomas Jefferson to [&#8230;]",
+      "published": "2026-07-05 14:23",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Organic Maps",
+      "url": "https://organicmaps.app/",
+      "summary": "",
+      "published": "2026-07-05 14:14",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The Sourdough Sidekick automates the boring bit of baking",
+      "url": "https://www.theverge.com/tech/959604/sourdough-sidekick-review-king-arthur-starter",
+      "summary": "Baking sourdough bread is inherently old-fashioned, relying on natural fermentation and wild yeast instead of the simple, predictable commercial stuff. So it might sound anathema to bring a gadget into the mix. The trick to the Sourdough Sidekick - backed and branded by King Arthur flour - is that it promises to automate the boring [&#8230;]",
+      "published": "2026-07-05 14:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "How Keurig saved — and ruined — your coffee",
+      "url": "https://www.theverge.com/podcast/961470/keurig-coffee-k-up-version-history",
+      "summary": "Before Keurig, the coffee in your office was almost certainly terrible. Old, burned, made by someone who would rather poorly eyeball than properly measure. Just altogether gross. After Keurig? You could make your own coffee, a cup at a time, exactly when you needed it. The single-cup brewer was an elegant solution to an extremely [&#8230;]",
+      "published": "2026-07-05 13:51",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "What is Bending Spoons? The little-known AOL and Vimeo owner that’s now public",
+      "url": "https://techcrunch.com/2026/07/05/what-is-bending-spoons-everything-to-know-about-aols-acquirer/",
+      "summary": "Bending Spoons remains largely unknown, even as its portfolio of products has served more than a billion people.",
+      "published": "2026-07-05 13:33",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Vizio accidentally made the best dumb TV on the market",
+      "url": "https://www.theverge.com/tech/960916/vizio-mini-led-quantum-tv-review",
+      "summary": "When I first started testing Vizio's 65-inch Mini LED Quantum TV, I thought the big story was that Vizio was back and that it had a quantum-dot TV for under $398 - the cheapest on the market. Vizio's been pretty quiet since it was acquired by Walmart in 2024, so putting out a TV with [&#8230;]",
+      "published": "2026-07-05 13:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Almost 90 new unicorns have been minted so far this year — here they are",
+      "url": "https://techcrunch.com/2026/07/05/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/",
+      "summary": "With AI igniting an investor frenzy, more startups are achieving unicorn status every month.",
+      "published": "2026-07-05 12:47",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Xbox is a disaster",
+      "url": "https://www.theverge.com/column/960600/xbox-is-a-disaster",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the bleak state of the video game industry, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Microsoft closed out Summer [&#8230;]",
+      "published": "2026-07-05 12:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "背单词更要背释义，FenyiDic 让你记住「熟悉的陌生人」",
+      "url": "https://sspai.com/post/111632",
+      "summary": "每个单词都认识，为什么还是读不懂英文？<a href=\"https://sspai.com/post/111632\" target=\"_blank\">查看全文</a>",
+      "published": "2026-07-05 09:08",
+      "source": "sspai.com",
+      "lang": "zh_cn",
       "category": "科技"
     },
     {
@@ -89,24 +332,6 @@
       "summary": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
       "published": "2026-07-04 20:55",
       "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Better Models: Worse Tools",
-      "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
-      "summary": "",
-      "published": "2026-07-04 20:16",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
-      "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
-      "summary": "",
-      "published": "2026-07-04 19:41",
-      "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
@@ -129,24 +354,6 @@
       "category": "科技"
     },
     {
-      "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
-      "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
-      "summary": "",
-      "published": "2026-07-04 16:51",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Leaking YouTube creators' private videos",
-      "url": "https://javoriuski.com/post/youtube",
-      "summary": "",
-      "published": "2026-07-04 16:45",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
       "title": "Alibaba reportedly bans employees from using Claude Code",
       "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
       "summary": "Alibaba has reportedly classified Claude Code as high-risk software.",
@@ -165,15 +372,6 @@
       "category": "科技"
     },
     {
-      "title": "Matic’s robot vacuum is getting a $250 price hike in September",
-      "url": "https://www.theverge.com/gadgets/960753/matic-robot-vacuum-mop-price-increase-cost-buy",
-      "summary": "The Matic is our favorite robot vacuum by a pretty comfortable margin. If you&#8217;ve been thinking about buying one, you may want to plan on doing it sooner than later. The company will raise its price by $250 on September 9th, going from $1,245 to $1,495. Matic told The Verge that the new price reflects [&#8230;]",
-      "published": "2026-07-04 16:00",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
       "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
       "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
       "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
@@ -183,120 +381,12 @@
       "category": "科技"
     },
     {
-      "title": "Flatbush Zombies’ Erick the Architect misses his BlackBerry keyboard",
-      "url": "https://www.theverge.com/entertainment/960958/flatbush-zombies-erick-the-architect-interview",
-      "summary": "Erick the Architect is a founding member of, and the primary producer for, the legendary Flatbush Zombies. He's toured the world, performed on Kimmel and Fallon, played Coachella, and collaborated with everyone from Joey Bada$$ and the Rza to James Blake and hardcore punk band Trash Talk. But perhaps the most unexpected collab was with [&#8230;]",
-      "published": "2026-07-04 15:00",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Hey number pad lovers, this is a keyboard we can finally agree on",
-      "url": "https://www.theverge.com/tech/960837/epomaker-rt98-mechanical-keyboard-modular-numpad-review",
-      "summary": "I know a vocal group of people who swear by the number pad on their keyboard. And yet, for years I haven't cared about using one - until I put my hands on the Epomaker RT98. It's a mechanical keyboard with a charming retro aesthetic, a fun CRT-like screen, VIA compatibility, a nice typing feel, [&#8230;]",
-      "published": "2026-07-04 14:00",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "The square-ish phone that I wanted to love",
-      "url": "https://www.theverge.com/tech/960509/ikko-mindone-pro-hands-on",
-      "summary": "The Ikko MindOne Pro is delightfully small. I keep calling it a square phone, which isn't quite right; the screen is square, but the phone itself is slightly rectangular. The camera flips up so you can use it for selfies - you can even open it partway to use as a stand or a kind [&#8230;]",
-      "published": "2026-07-04 13:00",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "The fanfiction community is at war with AI — and itself",
-      "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
-      "summary": "Over the past week, a new fanworks movement has kicked off, with the aim to root out authors using generative AI. But the detection methods being implemented are questionable, and any fanfic writer could be caught in the crossfire. Broad distaste around the use of Claude, ChatGPT, and other AI tools has long been a [&#8230;]",
-      "published": "2026-07-04 12:00",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "总投资15亿元，常州三大项目正式签约",
-      "url": "https://36kr.com/newsflashes/3881144991854594?f=rss",
-      "summary": "据常州发布，近日，常州三大用地项目成功签约，分别为：高端新型装饰材料智能研发生产项目、精密机床核心组件生产基地项目、塑编产装一体化智能制造项目。项目总投资超15亿元，用地约130亩，达产后预计年新增工业产值超17亿元。（人民财讯）",
-      "published": "2026-07-04 09:54",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "德国大陆集团 ：将向孤星基金出售康迪泰克集团业务板块",
-      "url": "https://36kr.com/newsflashes/3881124772704258?f=rss",
-      "summary": "德国大陆集团 ：将向孤星基金出售康迪泰克集团（Contitech Group）业务板块。本次交易企业价值为40亿欧元，此外最高可获得基于业绩表现的2.5亿欧元额外对价。出售康迪泰克后，集团将专注于核心轮胎业务。该交易尚待监管部门批准，有望在2026年底前完成（新浪财经）",
-      "published": "2026-07-04 09:36",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "广州白云国际机场口岸外籍客流占比突破四成创历史新高",
-      "url": "https://36kr.com/newsflashes/3881081194901508?f=rss",
-      "summary": "广州出入境边防检查总站4日发布消息，截至3日，广州白云国际机场口岸今年入出境外国人超390万人次，同比增长34%，占口岸出入境人员总量41%以上，数量与占比均创下历史新高。整体而言，该口岸出入境人员已超1000万人次，同比增长19.6%，较2025年提前34天突破千万大关。（财联社）",
-      "published": "2026-07-04 09:10",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "今年我国快递业务量已超1000亿件",
-      "url": "https://36kr.com/newsflashes/3881076577366272?f=rss",
-      "summary": "36氪获悉，国家邮政局监测数据显示，截至6月30日，今年我国快递业务量已超1000亿件，比2025年达到千亿件提前了9天。邮政快递业发展的韧性，折射出我国消费市场平稳增长、经济发展稳中有进的良好态势。",
-      "published": "2026-07-04 08:48",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "具身智能公司光象科技累计完成数亿元天使轮融资",
-      "url": "https://36kr.com/newsflashes/3881013448683785?f=rss",
-      "summary": "近日，光象科技宣布完成累计数亿元天使轮融资，最新一轮融资由珠海科技产业集团、兴证资本、松禾资本、顺禧基金、慕华科创、See Fund、亿宸资本、上市公司行云科技等头部财投与头部产投深度参与，老股东零一创投、L2F光源创业者基金等持续加注。据悉，本轮资金将重点投入物理原生基座模型的研发迭代，并推进具身智能机器人产品的商业化交付。（每日经济新闻）",
-      "published": "2026-07-04 08:25",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "宁德时代与北京绿交所等签署战略合作协议",
-      "url": "https://36kr.com/newsflashes/3881011627258116?f=rss",
-      "summary": "近日，宁德时代与北京绿色交易所、宁德交投集团、宁波亿衡碳签署战略合作协议。其中，宁德时代与北京绿交所将围绕碳减排方法学开发、供应链绿色金融创新以及国际绿色规则对接进行深度合作，助力产业高质量发展。（人民财讯）",
-      "published": "2026-07-04 08:07",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
       "title": "[送码] 聆听用户建议，1Capture 新增多项实用截图功能",
       "url": "https://sspai.com/post/111645",
       "summary": "各位少数派的朋友好，距离上一次在少数派介绍1Capture已经过去一年。过去这段时间里，我们开发的这款Mac截图与录屏工具继续做了多轮更新，也根据用户反馈补齐了一些更适合团队协作和产品展示的功能。市场 ...<a href=\"https://sspai.com/post/111645\" target=\"_blank\">查看全文</a>",
       "published": "2026-07-04 07:55",
       "source": "sspai.com",
       "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "规范引导情感陪伴人形机器人健康发展 两协会联合倡议",
-      "url": "https://36kr.com/newsflashes/3881009011945473?f=rss",
-      "summary": "中国人形机器人百人会和中国机械工业联合会今天联合发布关于规范和引导情感陪伴人形机器人发展的倡议，提倡共同践行科技向善、推动机器人产业健康发展。\n记者了解到，当前，我国人形机器人产业加速创新发展，正逐步融入工业、特种和服务等各类场景。近期，包括“情感陪伴人形机器人”等产品陆续对外发布，人形机器人正走进家庭、走向生活。\n倡议提出，行业应坚守服务人类福祉的初心，把安全伦理规范要求融入产品设计、研发、广告宣传、应用全过程。加强个人信息保护，筑牢用户隐私安全防线。强化质量管理，保障产品使用安全，切实防范对用户的人身伤害风险。同时聚焦关键核心技术，加大基础技术研发投入。立足实际应用场景推广应用，促进技术迭代升级，以创新驱动产品可靠性与实用性提升。协同搭建产业公共平台，凝聚产学研合力，稳步提升我国人形机器人产业竞争力。（央视新闻）",
-      "published": "2026-07-04 07:45",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "Qi fan fan",
-      "url": "https://www.theverge.com/tech/961332/qi-active-cooling-really-works",
-      "summary": "Despite my initial skepticism, I'm now sold on wireless Qi chargers that add integrated fans to keep your phone cool while charging. I figured they'd be too loud, or too weak, or too gimmicky, but I'm a convert after spending a week with the new $59.99 Kuxiu D5 Qi2.2 charging dock. Its active cooling system [&#8230;]",
-      "published": "2026-07-04 07:00",
-      "source": "www.theverge.com",
-      "lang": "en",
       "category": "科技"
     },
     {
@@ -314,42 +404,6 @@
       "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
       "published": "2026-07-03 18:43",
       "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "The Dune keypad device can be your meeting controller and more",
-      "url": "https://techcrunch.com/2026/07/03/the-dune-keypad-device-can-be-your-meeting-controller-and-more/",
-      "summary": "The gadget has three buttons, and it changes context based on what app you are looking at. For instance, in meeting apps and sites, it could be toggle mic, toggle video, and bring window to the front.",
-      "published": "2026-07-03 18:28",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Amazon updated 2023’s Fire HD 10 tablet with 4GB of RAM",
-      "url": "https://www.theverge.com/tech/961387/amazon-2023-fire-hd-10-tablet-4gb-update",
-      "summary": "The Fire HD 8 that launched in 2024 was the last new addition to Amazon's budget-minded tablet lineup, but the company has quietly updated the Fire HD 10 that debuted the year before. In 2023 it was offered with multiple storage configurations that each came with 3GB of RAM, but the 32GB version now ships [&#8230;]",
-      "published": "2026-07-03 17:33",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Chevy built an all-American EV truck — why is nobody buying it?",
-      "url": "https://techcrunch.com/2026/07/03/chevy-built-an-all-american-ev-truck-why-is-nobody-buying-it/",
-      "summary": "The Chevy Silverado EV is a solid first draft of an EV pickup truck. Here's what could make it better.",
-      "published": "2026-07-03 16:30",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "While you’re watching the World Cup, the feds may be watching you",
-      "url": "https://www.theverge.com/policy/961004/world-cup-america-250-surveillance-drones-cameras",
-      "summary": "It's a big year for America. It's the semiquincentennial, otherwise known as America250, and the United States is cohosting the World Cup. But spectators at these events - and the millions of people who live in the cities hosting them - may not realize that they, too, are being watched. From Kansas City to New [&#8230;]",
-      "published": "2026-07-03 15:00",
-      "source": "www.theverge.com",
       "lang": "en",
       "category": "科技"
     },
@@ -381,15 +435,6 @@
       "category": "科技"
     },
     {
-      "title": "Politician who investigated spyware abuses had his phone hacked with Pegasus spyware",
-      "url": "https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/",
-      "summary": "A government customer of NSO Group used the company's Pegasus spyware to hack into the phone of a European politician, who at the time was serving on an EU committee tasked with investigating the spyware industry.",
-      "published": "2026-07-03 05:05",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
       "title": "这四个工作习惯，或许也能帮你找到掌控感",
       "url": "https://sspai.com/post/111708",
       "summary": "无论你追求的是更高的职位、更自由的时间、还是某种更纯粹的成就感，有一件事大概是共通的：那就是尽量让自己的人生，少一点完全依赖运气的成分，多一点可被掌控、可被验证的路径。<a href=\"https://sspai.com/post/111708\" target=\"_blank\">查看全文</a>",
@@ -408,33 +453,6 @@
       "category": "科技"
     },
     {
-      "title": "Last chance to apply — Startup Battlefield Australia applications close July 6",
-      "url": "https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/",
-      "summary": "If you're going to apply for Startup Battlefield Australia, now is the time. Applications close July 6, and once the deadline passes, the opportunity is gone.",
-      "published": "2026-07-03 00:00",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
-      "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
-      "summary": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
-      "published": "2026-07-02 23:38",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Private space pilots are flying orbital missions for the US Space Force",
-      "url": "https://techcrunch.com/2026/07/02/private-space-pilots-are-flying-orbital-missions-for-the-us-space-force/",
-      "summary": "True Anomaly and Rocket Lab are performing Top Gun-style satellite fly-bys for the U.S. military.",
-      "published": "2026-07-02 23:01",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
       "title": "iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息",
       "url": "https://sspai.com/post/110950",
       "summary": "你一定有过这样的经历：在小红书刷到一篇感兴趣的笔记，复制链接想稍后再看，结果淹没在聊天记录里再也找不到了。微信群里有人分享了一个公众号文章，随手复制了链接，等真正有空时却想不起存到了哪里。收到快递取件 ...<a href=\"https://sspai.com/post/110950\" target=\"_blank\">查看全文</a>",
@@ -448,24 +466,6 @@
       "url": "https://sspai.com/post/111069",
       "summary": "近年来，伴随着复古浪潮的席卷而来，许多玩家似乎又重新关注起了一些老游戏、老设备。从2022年的3DS涨价风波，到后来层出不穷的所谓「开源掌机」，大家似乎都在寻找一个通往童年的入口，重新回味那些历久弥新 ...<a href=\"https://sspai.com/post/111069\" target=\"_blank\">查看全文</a>",
       "published": "2026-07-02 07:00",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "家用游戏机的新选择，Steam Machine 玩起来怎么样？",
-      "url": "https://sspai.com/post/111763",
-      "summary": "本文由IGN中国编译自IGNUS相关内容，原作者JacquelineThomas、编译者Tony，少数派经IGN中国授权转载，仅对文章格式略作调整。阅读原文>在经历八个月的等待之后，SteamMach ...<a href=\"https://sspai.com/post/111763\" target=\"_blank\">查看全文</a>",
-      "published": "2026-07-02 04:16",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "派早报：WhatsApp 开放用户名预留、PS 将取消实体光盘等",
-      "url": "https://sspai.com/post/111861",
-      "summary": "Gmail Live 进入测试阶段、大我推出 B251 PRO 显示器等。<a href=\"https://sspai.com/post/111861\" target=\"_blank\">查看全文</a>",
-      "published": "2026-07-02 00:34",
       "source": "sspai.com",
       "lang": "zh_cn",
       "category": "科技"
