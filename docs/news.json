@@ -1,356 +1,419 @@
 {
-  "last_updated": "2026-07-10 01:27:19",
+  "last_updated": "2026-07-11 01:22:35",
   "total": 52,
   "articles": [
     {
-      "title": "A股三大指数开盘涨跌不一",
-      "url": "https://36kr.com/newsflashes/3889148496362244?f=rss",
-      "summary": "剑桥科技涨超8%，浪潮信息涨近7%，赤峰黄金涨超1%；电脑硬件、通信设备、贵金属领涨，油气、煤炭、教育跌幅居前；沪指低开0.13%，深成指高开0.53%，创业板指高开0.59%。",
-      "published": "2026-07-10 01:26",
+      "title": "SK海力士CEO：美国在未来晶圆厂选址候选名单中，尚未做出决定",
+      "url": "https://36kr.com/newsflashes/3890532827052804?f=rss",
+      "summary": "据报道，SK海力士CEO郭鲁正表示，从供应角度来看，2027年将是内存短缺周期中最糟糕的一年，预计客户需求在2030年后仍将超过供应能力。郭鲁正表示，美国在未来晶圆厂选址候选名单中，但公司尚未做出决定。郭鲁正称，SK海力士将优先选择能够以具有竞争力单制造成本提供足够土地、电力、水和技术工人的地点，“如果满足这些条件，美国、日本和东南亚都在考虑范围内”。（界面）",
+      "published": "2026-07-11 01:12",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "恒指开盘涨0.76%，恒生科技指数涨1.25%",
-      "url": "https://36kr.com/newsflashes/3889145286425089?f=rss",
-      "summary": "36氪获悉，恒指开盘涨0.76%，恒生科技指数涨1.25%；半导体、有色金属板块领涨，兆易创新涨超5%，紫金矿业涨超2%；软件服务、化工板块跌幅居前，滨化股份跌超21%，智谱跌超8%，MINIMAX跌超5%。",
-      "published": "2026-07-10 01:23",
+      "title": "淘宝闪购骑士制服获法国设计奖，为该奖首次授予劳动职业制服",
+      "url": "https://36kr.com/newsflashes/3890549567159048?f=rss",
+      "summary": "7月10日，2026年法国设计奖（French Design Award）公布新一年获奖名单，淘宝闪购城市骑士制服以创新设计和人文关怀获评本届金奖。据了解，这是法国设计奖最高荣誉，全球产品金奖获奖率仅1%，这也是该奖项设立11年以来，首次授予一套面向劳动职业的制服。",
+      "published": "2026-07-11 01:11",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "MiniMax完成160亿港元股权类融资",
-      "url": "https://36kr.com/newsflashes/3889142872849157?f=rss",
-      "summary": "7月10日早间，MiniMax完成新一轮160亿港元融资，多家国际主权基金、长线基金、中资机构和多策略基金参与，覆盖亚太、欧洲和美国市场。本次交易共吸引百余家机构参与，实现7倍认购覆盖。最初发行规模约18亿美元，在机构需求推动下最终扩大至20亿美元以上。 （证券时报）",
-      "published": "2026-07-10 01:20",
+      "title": "苹果在重磅诉讼中起诉OpenAI窃取商业机密‌",
+      "url": "https://36kr.com/newsflashes/3890533737806343?f=rss",
+      "summary": "苹果公司以窃取商业机密为由起诉OpenAI，指控该公司通过协同行动窃取苹果未发布产品的相关信息。苹果称OpenAI鼓动其员工分享未发布产品的相关信息、零部件、图纸及其他资料，以此来开发自家的全系列硬件产品。苹果要求OpenAI停止相关行为、销毁所有苹果的专有资料，并重新设计其待发布产品，确保其中不包含任何苹果的技术。（财联社）",
+      "published": "2026-07-11 01:05",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "7月10日人民币对美元中间价调升47个基点",
-      "url": "https://36kr.com/newsflashes/3889141606988549?f=rss",
-      "summary": "36氪获悉，7月10日，人民币对美元中间价调升47个基点，报6.7989，上一交易日中间价6.8036。",
-      "published": "2026-07-10 01:19",
+      "title": "US cyber agency CISA had to build its incident playbook during the incident, agency reveals",
+      "url": "https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/",
+      "summary": "CISA said it \"missed\" an opportunity to get ahead of the security incident by not creating a response plan ahead of time.",
+      "published": "2026-07-11 01:01",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "美股三大指数集体收涨，SK海力士ADR上市首日涨超12%",
+      "url": "https://36kr.com/newsflashes/3890531785652998?f=rss",
+      "summary": "36氪获悉，7月10日收盘，美股三大指数集体上涨，道指涨0.29%，纳指涨0.29%，标普500指数涨0.42%。大型科技股多数下跌，SpaceX跌超4%，奈飞、英特尔跌超2%，Arm跌超1%，亚马逊、谷歌、苹果小幅下跌；Meta涨超5%，英伟达涨超4%，特斯拉、微软小幅上涨；SK海力士ADR在美股上市首日收涨超12%；热门中概股涨跌不一，名创优品涨超2%，京东、理想汽车、阿里巴巴涨超1%；网易跌超4%，老虎证券、小马智行跌超2%。",
+      "published": "2026-07-11 00:59",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "“他山科技”完成数亿元B轮融资",
-      "url": "https://36kr.com/newsflashes/3889136108419587?f=rss",
-      "summary": "36氪获悉，“他山科技”已于近期完成B轮融资，金额为数亿元。本轮投资方包括均胜电子、太平创新、奥克斯、鹏翎股份、Lavender Hill Capital Partners（LHCP）、洪山资本等产业方，老股东道氏技术、彬复资本追加投资。资金将主要用于触觉传感器及芯片迭代、场景化方案落地及触觉训练平台建设。",
-      "published": "2026-07-10 01:13",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "“Databento”完成9700万美元B轮融资",
-      "url": "https://36kr.com/newsflashes/3889130683464456?f=rss",
-      "summary": "36氪获悉，全球金融市场数据基础设施服务商“Databento”已完成9700万美元B轮融资。本轮由NEA领投，红点创投、DRW创投与Tribe Capital等现有投资方持续跟投。本轮融资将主要用于全球资产覆盖品类拓展、区域市场布局，以及底层数据基础设施的全面升级。公司计划将全球数据中心数量拓展至20余个，同时新增100+PB存储容量，使整体存储规模实现翻倍提升。",
-      "published": "2026-07-10 01:08",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "SK海力士赴美上市，华尔街投行合计佣金有望达1.4亿美元",
-      "url": "https://36kr.com/newsflashes/3889116670016000?f=rss",
-      "summary": "参与SK海力士上市项目的投行团队将斩获上亿美元丰厚佣金。这家市值突破万亿美元的韩国芯片巨头即将登陆美股，本次发行有望跻身史上规模最大IPO行列。两名熟悉该交易的人士透露，高盛、花旗等承销本次纳斯达克股票发行的投行，总佣金池规模或将突破1.4亿美元；佣金由两部分构成，一是募资总额0.5%的基础承销费，二是SK海力士另行支付的浮动激励奖金。（新浪财经）",
-      "published": "2026-07-10 00:54",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "交投放量与投行业务回暖驱动，券商纷纷预喜2026年半年度业绩",
-      "url": "https://36kr.com/newsflashes/3889115589016072?f=rss",
-      "summary": "国泰海通预计2026年上半年归母净利润为200.03亿元至205.11亿元；招商证券预计上半年归母净利润为100亿元至110亿元；中金公司预计上半年归母净利润为77.08亿元至82.27亿元……近期，多家券商预喜半年度业绩。中金公司研报预计，2026年上半年，42家上市券商合计实现归母净利润1425亿元，同比增长50%（扣除国泰海通2025年同期非经常性损益）。上半年，A股交投放量、投行业务回暖、券商自营业务发力是券商业绩高速增长的主要驱动力。在IPO回暖和科创行情的催化下，“含科量”正成为券商的核心竞争力。（上证报）",
-      "published": "2026-07-10 00:52",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "马斯克称低估Anthropic，表示不会因竞争切断其支持",
-      "url": "https://36kr.com/newsflashes/3889114964130307?f=rss",
-      "summary": "马斯克当地时间7月9日在社交平台表示，自己此前对人工智能公司Anthropic的判断“明显错误”，并称Anthropic“目前显然是AI领域的领先者”。马斯克说，“目前没有任何公司发布过像Mythos/Fable这样优秀的模型”。马斯克表示，即使Anthropic是竞争对手，他也不会采取会严重伤害该公司的措施。此前有社交平台用户称，Anthropic依赖从SpaceX租用的计算资源，并讨论如果SpaceX停止相关服务可能带来的影响，马斯克对此回应称不会采取类似行动。（界面）",
-      "published": "2026-07-10 00:52",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "银河证券：​PPI年内高点或将临近，价格传导仍待修复",
-      "url": "https://36kr.com/newsflashes/3889114487323136?f=rss",
-      "summary": "36氪获悉，银河证券认为，PPI年内高点或将临近，价格传导仍待修复：预计7月PPI极有可能为PPI同比读数的阶段性高点。一方面，当前原油价格已经接近冲突前水平，尽管仍受美伊局势扰动而反复，但若未出现原油供给和运输通道的实质性中断，地缘风险溢价对油价的支撑或更多表现为短期脉冲，石化产业链对PPI的拉动将边际减弱，甚至转为拖累。另一方面,PPI-CPI的剪刀差仍在扩大，反映上游涨价向下游终端传导不畅。本轮价格上行更多集中在成本端和部分景气行业，终端需求承接能力仍然不足，企业向居民消费端转嫁成本的能力有限，制约工业品价格的上行动能。",
-      "published": "2026-07-10 00:51",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "两市融资余额减少39.18亿元",
-      "url": "https://36kr.com/newsflashes/3889114034125319?f=rss",
-      "summary": "36氪获悉，截至7月9日，上交所融资余额报14792.47亿元，较前一交易日减少12.02亿元；深交所融资余额报14458.61亿元，较前一交易日减少27.16亿元；两市合计29251.08亿元，较前一交易日减少39.18亿元。",
-      "published": "2026-07-10 00:51",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "今年以来提前结募基金数量大增",
-      "url": "https://36kr.com/newsflashes/3889113739377411?f=rss",
-      "summary": "Wind数据显示，截至7月9日，今年以来提前结束募集的基金达244只。权益基金成为绝对主力，提前结束募集的产品中有被动指数型80只、增强指数型11只、主动偏股型46只，资金“借基入市”信号明确。值得关注的是，“日光基”批量涌现，首批中证REITs全收益指数基金集体一日售罄，多只公募量化基金和FOF同样遭抢购。业内人士称，提前结募旨在抢占建仓先机，结构性行情下，科技、创新药等主线机会稍纵即逝，晚一步可能踏空；与此同时，设置规模上限的产品快速募满，未设上限者提前结募可避免摊薄老持有人收益。（中证报）",
-      "published": "2026-07-10 00:51",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
-      "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
-      "summary": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
-      "published": "2026-07-10 00:16",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Don’t want to invest in Elon Musk? Two new ETFs explicitly exclude him",
-      "url": "https://techcrunch.com/2026/07/09/dont-want-to-invest-in-elon-musk-two-new-etfs-explicitly-exclude-him/",
-      "summary": "The new exchanged-traded funds exclude companies that are founded, controlled, or led by Elon Musk. That means no SpaceX or Tesla.",
-      "published": "2026-07-10 00:13",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Microsoft’s carbon emissions went up 25 percent last year",
-      "url": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
-      "summary": "Microsoft may once again be struggling to keep up with its own climate goals, according to its 2026 sustainability report. As reported by GeekWire, the report states that Microsoft's carbon emissions increased 25 percent in 2025, totalling 34 million metric tons \"without select interventions.\" Microsoft says this was \"driven primarily by the expansion of our [&#8230;]",
-      "published": "2026-07-10 00:04",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Fidji Simo steps down from OpenAI’s no. 2 role",
-      "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
-      "summary": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes a possible IPO and races to catch Anthropic in the enterprise market.",
-      "published": "2026-07-09 23:38",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Fidji Simo steps down from leading OpenAI’s AGI work due to illness",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
-      "summary": "OpenAI's Fidji Simo is departing her full-time role as the company's AGI chief and is transitioning to being a \"part-time advisor,\" she said on X. The news follows Simo's original announcement in April that she would take a few weeks of medical leave due to a neuroimmune condition, shortly after she had taken on the [&#8230;]",
-      "published": "2026-07-09 23:24",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Netflix reportedly considers adding always-on channels",
-      "url": "https://www.theverge.com/streaming/963733/netflix-always-on-channels-bundles",
-      "summary": "Netflix is thinking about adding always-on channels that would stream specific shows and movies, according to The Wall Street Journal. The move sounds like a Netflix version of always-on services like Pluto TV and Tubi, except the big hook for those is that they're free - because of the ads you have to watch. Netflix [&#8230;]",
-      "published": "2026-07-09 23:00",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "OpenAI launches its new family of models with GPT-5.6",
-      "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
-      "summary": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity.",
-      "published": "2026-07-09 22:24",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "An AI agent startup just let its agent run its $100M fundraise",
-      "url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
-      "summary": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works.",
-      "published": "2026-07-09 22:08",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
-      "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
-      "summary": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension.",
-      "published": "2026-07-09 22:03",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
-      "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
-      "summary": "Should Anthropic trust Elon Musk to host its models? With about $40 billion in revenue at stake, Musk insists that the company can.",
-      "published": "2026-07-09 21:57",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Can AI answer the $3 trillion question?",
-      "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
-      "summary": "The AI ROI debate has returned and the numbers are even bigger, as are, perhaps, the consequences.",
-      "published": "2026-07-09 21:47",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "The ChatGPT browser is already dead",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
-      "summary": "OpenAI is already shutting down ChatGPT Atlas, its browser that could do tasks for you on your behalf, less than a year after launching it. Atlas was announced in October, but as part of its wave of news about ChatGPT Work today, the company confirmed that it will be \"sunsetting\" Atlas and is targeting an [&#8230;]",
-      "published": "2026-07-09 20:34",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "The floatable, powerful Soundcore Boom 2 speaker is over half off",
-      "url": "https://www.theverge.com/gadgets/963537/anker-soundcore-boom-2-bluetooth-speaker-deal-sale",
-      "summary": "Bluetooth speakers with big sound and great features are hard to find for under $100, with most offerings being some variation of the same basic (and often small) design. Thankfully, through July 10th Woot has the Anker Soundcore Boom 2 on sale for $69.99, which is $20 cheaper than the discounted price at other retailers [&#8230;]",
-      "published": "2026-07-09 20:32",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Google will now tell you if an ad was made with AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label",
-      "summary": "You can see if ads on Google Search, Google Discover, and YouTube were made or edited using AI from a new section in Google's \"My Ad Center,\" as reported earlier by TechCrunch. The update, announced on Thursday, adds a \"created or edited with AI\" label under the \"how this ad was made\" tab. Users can [&#8230;]",
-      "published": "2026-07-09 20:11",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
-      "url": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
-      "summary": "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations — the kind of automation that enterprises are increasingly turning to AI companies to provide.",
-      "published": "2026-07-09 19:40",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Charles Hudson shares the common mistakes he’s seen after investing in 500+ startups",
-      "url": "https://techcrunch.com/2026/07/09/charles-hudson-shares-the-common-mistakes-hes-seen-after-investing-in-500-startups/",
-      "summary": "In this week’s episode of Build Mode,  Isabelle Johannessen talks with Precursor Ventures' Charles Hudson about the headwinds facing early-stage founders today and the most common mistakes founders should avoid in order to get funded.",
-      "published": "2026-07-09 19:26",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
-      "url": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
-      "summary": "News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions.",
-      "published": "2026-07-09 19:05",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Slate Auto teams up with Crayola to color its EV truck",
-      "url": "https://techcrunch.com/2026/07/09/slate-auto-teams-up-with-crayola-to-color-its-ev-truck/",
-      "summary": "Slate has an answer for owners who have always want to drive a truck with bright crayon colors.",
-      "published": "2026-07-09 19:01",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Google&#8217;s Nest Thermostat has hit its best price of the year",
-      "url": "https://www.theverge.com/gadgets/963475/google-nest-thermostat-deal-sale",
-      "summary": "If you&#8217;re looking for a relatively affordable way to cut down on cooling costs, Google&#8217;s Nest Thermostat can help. It’s packed with smart controls and energy-saving features, and right now it’s on sale in white for $79 ($50 off), which is its best price of the year, at Amazon.&#160; The smart thermostat is quick to [&#8230;]",
-      "published": "2026-07-09 17:33",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Interview with Mitchell Hashimoto about Ghostty and Zig",
-      "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
+      "title": "FreeCAD in the Browser",
+      "url": "https://magik.net/freecad/",
       "summary": "",
-      "published": "2026-07-09 17:17",
+      "published": "2026-07-11 00:44",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "GPT-5.6",
-      "url": "https://openai.com/index/gpt-5-6/",
+      "title": "Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn",
+      "url": "https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/",
+      "summary": "Phia, the shopping startup founded by Bill Gates’ daughter, Phoebe, and her friend, Sophia Kianni, is under fire for a practice known as “cookie stuffing,” which helped the product receive commissions and credit for sales it did not actually generate, per a Bloomberg investigation.",
+      "published": "2026-07-11 00:29",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Show HN: We beat Cloudflare's bot detection (open-source stealth browser)",
+      "url": "https://tilion.dev/blog/cloudflare-blocks-agents",
       "summary": "",
-      "published": "2026-07-09 17:04",
+      "published": "2026-07-11 00:26",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Microsoft’s patch Tuesdays are about to get bigger",
-      "url": "https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates",
-      "summary": "Windows 11 updates could soon include fixes for more security issues at once. Microsoft said in a blog post on Thursday that it's now using AI to \"identify potential issues earlier,\" which means \"customers will see a higher volume of security updates included in each security release.\" Hackers, even amateurs, have increasingly been using AI [&#8230;]",
-      "published": "2026-07-09 17:00",
+      "title": "No, Flock isn&#8217;t threatening people for debating surveillance",
+      "url": "https://www.theverge.com/tech/964425/flock-safety-cease-and-desist-letter",
+      "summary": "On Thursday, the Instagram account for a lecture series in Newport Beach, CA posted a photo of what appeared to be a cease and desist letter from the surveillance technology company Flock Safety. Flock has received significant backlash over its technology and work with law enforcement agencies, and this letter kicked off yet another wave [&#8230;]",
+      "published": "2026-07-11 00:10",
       "source": "www.theverge.com",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
-      "summary": "About two weeks after OpenAI's GPT-5.6 was caught up in regulatory drama - rolled out only to government-approved organizations during a \"limited preview\" period - the company has received the Trump administration's greenlight for a public rollout of the model. OpenAI CEO Sam Altman called it \"the best model we have ever produced.\" To celebrate, [&#8230;]",
-      "published": "2026-07-09 17:00",
+      "title": "Meta removes controversial AI feature on Instagram after backlash",
+      "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+      "summary": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no longer available.\"",
+      "published": "2026-07-10 23:55",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
+      "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+      "summary": "Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images based on content from public Instagram accounts just by tagging them. The feature, as originally set up, meant that content from any public Instagram account could be used in AI creations without the account owner's permission. [&#8230;]",
+      "published": "2026-07-10 23:49",
       "source": "www.theverge.com",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Schlage’s Sense Pro unlocks the door so I don’t have to",
-      "url": "https://www.theverge.com/tech/963100/schlage-sense-pro-review-apple-home-key-uwb-handsfree-unlock",
-      "summary": "The Schlage Sense Pro is a beautiful smart lock. Sleek, discreet, and simple to use, it's Schlage's smartest lock to date. Thanks to ultra-wideband (UWB), it unlocks as I walk up to my front door; I don't need to enter a code or tap my phone or press my finger against it. I've tested several [&#8230;]",
-      "published": "2026-07-09 15:45",
+      "title": "The FCC is cracking down on DJI tech that dodged the foreign drone ban",
+      "url": "https://www.theverge.com/policy/964342/fcc-crack-down-dji-front-companies-xtra-skyrover-sgs-lab",
+      "summary": "Last year, we told you about Xtra, the company that lets DJI sneak its popular cameras into the US, and Skyrover, a brand seemingly selling DJI drones in disguise. They're just two of the many firms DJI is suspected of starting to skirt the United States' foreign drone ban. But it appears the FCC is [&#8230;]",
+      "published": "2026-07-10 22:35",
       "source": "www.theverge.com",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Hy3",
-      "url": "https://hy.tencent.com/research/hy3",
+      "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
+      "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
       "summary": "",
-      "published": "2026-07-09 15:27",
+      "published": "2026-07-10 22:30",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Show HN: 18 Words",
-      "url": "https://18words.com/",
+      "title": "Bluesky’s interim CEO, Toni Schneider, drops the ‘interim’",
+      "url": "https://techcrunch.com/2026/07/10/blueskys-interim-ceo-toni-schneider-drops-the-interim/",
+      "summary": "Schneider, who formerly served as the CEO of Automattic and is a partner at True Ventures, says he is \"all in\" on the unconventional social media platform.",
+      "published": "2026-07-10 21:51",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
+      "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+      "summary": "Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance the AI startup's hardware plans. In its complaint, Apple says it uncovered \"a pattern of theft of Apple's trade secrets by OpenAI employees who were formerly at Apple.\" In addition to OpenAI, the lawsuit also names IO Products - Jony Ive's hardware startup, [&#8230;]",
+      "published": "2026-07-10 21:36",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Apple sues OpenAI over alleged trade secret theft",
+      "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "summary": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
+      "published": "2026-07-10 21:00",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+      "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
       "summary": "",
-      "published": "2026-07-09 12:48",
+      "published": "2026-07-10 20:47",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "EU Parliament greenlights Chat Control 1.0",
-      "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
+      "title": "A decade later, Pokémon Go finally made good on its original promise",
+      "url": "https://www.theverge.com/games/964022/pokemon-go-10th-anniversary-mewtwo-nyc-go-fest-2026",
+      "summary": "When Niantic dropped the first Pok&#233;mon Go trailer in 2015, it was hard to grasp how a bunch of players could work together to catch a pok&#233;mon like Mewtwo. But this week at the game's 10th anniversary event in New York City, Pok&#233;mon Go showed the world how it's done. Almost 2,000 players (many of [&#8230;]",
+      "published": "2026-07-10 19:51",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "An update on residential proxies and the scraper situation",
+      "url": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
       "summary": "",
-      "published": "2026-07-09 11:03",
+      "published": "2026-07-10 19:38",
       "source": "Hacker News",
       "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "ICE is threatening to deport witnesses of its latest shooting",
+      "url": "https://www.theverge.com/policy/964294/ice-shooting-houston-lorenzo-salgado-araujo",
+      "summary": "Advocates are demanding that the Department of Homeland Security release bodycam footage of the fatal shooting of Lorenzo Salgado Araujo, a Mexican immigrant who was killed by ICE officers in Houston during a traffic stop earlier this week. But DHS claims the agents involved in the shooting weren't wearing body cameras because of the lengthy [&#8230;]",
+      "published": "2026-07-10 19:20",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+      "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+      "summary": "",
+      "published": "2026-07-10 18:29",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Filing: College app Fizz accuses VC of sharing confidential startup information with rival Sidechat",
+      "url": "https://techcrunch.com/2026/07/10/filing-college-app-fizz-accuses-vc-of-sharing-confidential-startup-information-with-rival-sidechat/",
+      "summary": "Fizz has expanded its lawsuit against rival Sidechat, alleging that a Maveron VC shared its confidential information obtained during a fundraising meeting with the competing startup.",
+      "published": "2026-07-10 17:42",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Nvidia&#8217;s biggest RAM supplier just had a trillion-dollar debut on Wall Street",
+      "url": "https://www.theverge.com/tech/964121/sk-hynix-nvidia-ram-stock-market-debut",
+      "summary": "As the AI boom boosts demand for RAM, SK Hynix - one of the world's biggest suppliers of memory chips - launched on Wall Street Friday. The South Korean chipmaker opened at $170 per share and raised $26.5 billion, surpassing Alibaba's record as the largest debut of a foreign company, according to reports from The [&#8230;]",
+      "published": "2026-07-10 17:31",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+      "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+      "summary": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
+      "published": "2026-07-10 17:17",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "A new app, HyperTexting, turns the open web into a scrollable social media-like feed",
+      "url": "https://techcrunch.com/2026/07/10/a-new-app-hypertexting-turns-the-open-web-into-a-scrollable-social-media-like-feed/",
+      "summary": "HyperTexting's new app aims to make the open web feel more like social media by turning websites, blogs, newsletters, and podcasts into a scrollable feed, while also making it easier to post to your own website.",
+      "published": "2026-07-10 17:11",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Spotify will let you fine-tune your weekly Release Radar playlist",
+      "url": "https://www.theverge.com/entertainment/964021/spotify-release-radar-algorithm-controls",
+      "summary": "Spotify is giving listeners control to fine-tune what gets surfaced for them in Release Radar - one of its most popular weekly playlists. The new options allow you to narrow the playlist to a specific genre, focus on artists that are new to you, and more. Listeners can choose from up to five options like [&#8230;]",
+      "published": "2026-07-10 17:02",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "China is catching up to Elon Musk’s reusable rockets",
+      "url": "https://techcrunch.com/2026/07/10/china-is-catching-up-to-elon-musks-reusable-rockets/",
+      "summary": "China's state-owned space company recovered its first orbital rocket booster after launch.",
+      "published": "2026-07-10 16:51",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The tech of 'Terminator 2' – an oral history (2017)",
+      "url": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
+      "summary": "",
+      "published": "2026-07-10 16:48",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Disney+ is considering a free streaming tier, report says",
+      "url": "https://techcrunch.com/2026/07/10/disney-is-considering-a-free-streaming-tier-report-says/",
+      "summary": "The launch of free content would allow Disney+ to better compete with free services like YouTube and Tubi, which are capturing a growing share of consumers’ viewing time.",
+      "published": "2026-07-10 16:29",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Netflix is turning into YouTube",
+      "url": "https://www.theverge.com/podcast/964082/netflix-youtube-smart-glasses-vergecast",
+      "summary": "Netflix has shows and movies. And video games. And live sports. And podcasts. And also, apparently, YouTube videos? For a company that used to seem like the next big thing in TV, it all feels a little frenetic, and maybe a tad desperate. For a company that sees sleep as its primary competitor, it might [&#8230;]",
+      "published": "2026-07-10 16:29",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Dumb Co dared me to trade my iPhone for a hacked flip phone",
+      "url": "https://techcrunch.com/2026/07/10/dumb-co-dared-me-to-trade-my-iphone-for-a-hacked-flip-phone/",
+      "summary": "Dumb Co sells flip phones that sync to your smartphone, bridging the infinite connectivity of the iPhone and the unrealistic limitations of an early 2000s relic.",
+      "published": "2026-07-10 16:06",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "QuadRF can spot drones and see WiFi through my wall",
+      "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
+      "summary": "",
+      "published": "2026-07-10 15:59",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Disney Plus is reportedly looking into a free streaming tier",
+      "url": "https://www.theverge.com/streaming/964056/disney-plus-free-tier-report",
+      "summary": "Disney Plus is considering making some of its content free to watch, according to a report from Business Insider. A source tells the outlet that Adam Smith, Disney's chief product and technology officer, mentioned a free streaming tier during the company's town hall on Thursday. It's not clear which shows or movies the purported free [&#8230;]",
+      "published": "2026-07-10 15:33",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Oratomic raises $300M to build a viable quantum computer that needs only 20K qubits",
+      "url": "https://techcrunch.com/2026/07/10/oratomic-raises-300m-to-build-a-viable-quantum-computer-that-needs-only-20k-qubits/",
+      "summary": "The massive round was co-led by ARCH Venture Partners, Spark Capital, and Khosla Ventures.",
+      "published": "2026-07-10 15:00",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "热门中概股美股盘前普涨，阿里巴巴涨超2%",
+      "url": "https://36kr.com/newsflashes/3889827679402752?f=rss",
+      "summary": "36氪获悉，热门中概股美股盘前普涨，截至发稿，阿里巴巴、蔚来、理想汽车涨超2%，京东、小鹏集团涨超1%，百度涨0.46%，拼多多涨0.37%，哔哩哔哩涨0.28%。",
+      "published": "2026-07-10 12:57",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "美股大型科技股盘前涨跌不一，Meta涨超4%",
+      "url": "https://36kr.com/newsflashes/3889825362639365?f=rss",
+      "summary": "36氪获悉，美股大型科技股盘前涨跌不一，截至发稿，Meta涨超4%，微软涨近1%，亚马逊涨0.45%，特斯拉跌0.38%，苹果跌0.53%，英伟达跌0.5%，谷歌跌0.38%。",
+      "published": "2026-07-10 12:54",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "上交所：本周对恒尚节能、有研硅、中船特气等异常波动股票以及财通福鑫LOF等溢价较高的基金进行重点监控",
+      "url": "https://36kr.com/newsflashes/3889816222579456?f=rss",
+      "summary": "36氪获悉，上交所公告，2026年7月6日至2026年7月10日，上交所对277起拉抬打压、虚假申报等证券异常交易行为采取了自律监管措施，对恒尚节能、有研硅、中船特气等异常波动股票以及财通福鑫LOF等溢价较高的基金进行重点监控，对23起上市公司重大事项等进行专项核查，向证监会上报涉嫌违法违规案件线索1起。",
+      "published": "2026-07-10 12:45",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "深交所：本周共对197起证券异常交易行为采取了自律监管措施",
+      "url": "https://36kr.com/newsflashes/3889815436311296?f=rss",
+      "summary": "36氪获悉，深交所公告，2026年7月6日至7月10日，本所共对197起证券异常交易行为采取了自律监管措施，涉及盘中拉抬打压、虚假申报等异常交易情形；共对5起上市公司重大事项进行核查，并上报证监会1起涉嫌违法违规案件线索。",
+      "published": "2026-07-10 12:44",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "SK海力士本周五登陆纳斯达克，募资265亿美元跻身大型IPO",
+      "url": "https://36kr.com/newsflashes/3889804779731457?f=rss",
+      "summary": "韩国芯片巨头SK海力士将于本周五登陆科技股云集的纳斯达克交易所，此举将为其打通一条强力全新融资渠道，方便全球投资者布局高速增长的人工智能基础设施赛道。这家全球第二大存储芯片厂商计划通过在纳斯达克发行美国存托凭证（ADR）募资约40万亿韩元（折合265亿美元）。本次发行共计1.779亿份美国存托凭证，发行价定为每份149美元，1份ADR对应其在韩国首尔交易所上市普通股的十分之一。（新浪财经）",
+      "published": "2026-07-10 12:44",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "广汽集团：预计上半年净亏损40.6亿元-45.7亿元",
+      "url": "https://36kr.com/newsflashes/3889793585265415?f=rss",
+      "summary": "36氪获悉，广汽集团公告，预计2026年上半年归母净利润亏损40.6亿元-45.7亿元，上年同期亏损25.38亿元。报告期内，国内市场竞争加剧，公司自主品牌持续加大销售投入，加之产品销售结构变动、上游原材料成本上涨，导致自主品牌利润同比下滑。",
+      "published": "2026-07-10 12:30",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "紫光股份：预计上半年归母净利润同比增长83.50%-122.89%",
+      "url": "https://36kr.com/newsflashes/3889798601882120?f=rss",
+      "summary": "36氪获悉，紫光股份公告，预计2026年上半年归母净利润19.1亿元-23.2亿元，同比增长83.50%-122.89%。2026年上半年ICT市场继续保持快速增长。公司积极把握智算和国产化领域带来的市场机遇，持续深耕行业市场；加快产品研发和技术创新；强化供应链精细化管理和运作以保障供给的稳定与交付的连续，从而推动公司营业收入实现快速增长，带动了毛利水平的持续提升。",
+      "published": "2026-07-10 12:27",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "消息称AMD将于本月发布Venice CPU",
+      "url": "https://36kr.com/newsflashes/3889784854870537?f=rss",
+      "summary": "据报道，AMD将于7月22日至23日举行的Advancing AI活动上推出基于Zen 6架构的EPYC Venice CPU。据了解，EPYC Venice的性能和能效比其基于Zen 5的前代产品提升超过70%。（新浪财经）",
+      "published": "2026-07-10 12:22",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "本周看什么 | 最近值得一看的 8 部作品",
+      "url": "https://sspai.com/post/112169",
+      "summary": "📅本周新预告《恐怖游轮》内地定档7月17日7月8日，电影《恐怖游轮》发布了中国内地定档预告，将于7月17日上映。克里斯托弗·史密斯执导、编剧，梅利莎·乔治主演，单亲母亲杰西和一帮朋友乘游艇出海游玩，但 ...<a href=\"https://sspai.com/post/112169\" target=\"_blank\">查看全文</a>",
+      "published": "2026-07-10 09:44",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "安达卢西亚的日与夜：格拉纳达漫游指南",
+      "url": "https://sspai.com/post/112097",
+      "summary": "有些旅程就是这样，它最终并没有留在成百上千张照片里，而是长久地停留在某种气味与感官的记忆中。<a href=\"https://sspai.com/post/112097\" target=\"_blank\">查看全文</a>",
+      "published": "2026-07-10 07:00",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "Vibe Coding 时代，为什么降本不一定增效？",
+      "url": "https://sspai.com/post/111975",
+      "summary": "Vibe Coding 虽然可以更快地生成代码，但依然不能替我们定义问题、理解用户、设计架构并承担结果。<a href=\"https://sspai.com/post/111975\" target=\"_blank\">查看全文</a>",
+      "published": "2026-07-10 02:50",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "派早报：蔚来 ES8 大五座版正式上市等",
+      "url": "https://sspai.com/post/112143",
+      "summary": "OpenAI 发布 GPT-5.6 系列模型等，SpaceXAI 发布编程智能体模型 Grok 4.5。<a href=\"https://sspai.com/post/112143\" target=\"_blank\">查看全文</a>",
+      "published": "2026-07-10 00:56",
+      "source": "sspai.com",
+      "lang": "zh_cn",
       "category": "科技"
     },
     {
@@ -360,15 +423,6 @@
       "published": "2026-07-09 09:30",
       "source": "sspai.com",
       "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "Show HN: Getting GLM 5.2 running on my slow computer",
-      "url": "https://github.com/JustVugg/colibri",
-      "summary": "",
-      "published": "2026-07-09 08:05",
-      "source": "Hacker News",
-      "lang": "en",
       "category": "科技"
     },
     {
@@ -414,60 +468,6 @@
       "published": "2026-07-08 07:14",
       "source": "sspai.com",
       "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "好的桌面需要设备，更需要灯光：明基×少数派线下店体验空间升级",
-      "url": "https://sspai.com/post/110993",
-      "summary": "如果你最近正在考虑升级自己的桌面，或者想体验墨水屏显示器、屏幕挂灯、阅读灯在真实环境下的使用效果，欢迎来到少数派深圳线下体验店，坐下来试试看。<a href=\"https://sspai.com/post/110993\" target=\"_blank\">查看全文</a>",
-      "published": "2026-07-08 03:00",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "派早报：Nothing Ear (3a) 发布、Meta 推出 Muse 图像生成模型等",
-      "url": "https://sspai.com/post/112049",
-      "summary": "Google Voice 推出付费订阅方案并调整 Android 设备备份策略等。<a href=\"https://sspai.com/post/112049\" target=\"_blank\">查看全文</a>",
-      "published": "2026-07-07 23:48",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "家庭饮品 DIY 指南（二）：常用液体物料推荐",
-      "url": "https://sspai.com/prime/story/home-made-beverages-2",
-      "summary": "往期文章：（一）工欲善其事，必先利其器这一篇我来跟大家聊聊各类物料的选择方法。虽然是选择方法，但我依旧建议大家买少量的物料尝试一下口感，多找一些同类产品对比，找一个自己喜欢的口感的产品作为原料。另外会 ...<a href=\"https://sspai.com/prime/story/home-made-beverages-2\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a>，订阅后可阅读全文。</p>",
-      "published": "2026-07-07 09:22",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "社区速递 148 | 派友的全屋智能实操、水月雨布丁耳机与MUJI可调节毛巾枕",
-      "url": "https://sspai.com/post/112017",
-      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/112017\" target=\"_blank\">查看全文</a>",
-      "published": "2026-07-07 09:00",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "Triple Dragon Fractal (2020)",
-      "url": "https://paulbourke.net/fractals/tripledragon/",
-      "summary": "",
-      "published": "2026-07-06 13:36",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Train sim created by just one person is being called the best ever made",
-      "url": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
-      "summary": "",
-      "published": "2026-07-05 08:40",
-      "source": "Hacker News",
-      "lang": "en",
       "category": "科技"
     }
   ]
