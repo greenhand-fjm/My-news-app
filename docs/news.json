@@ -1,374 +1,428 @@
 {
-  "last_updated": "2026-07-16 01:20:26",
+  "last_updated": "2026-07-17 01:24:50",
   "total": 52,
   "articles": [
     {
-      "title": "人民币兑美元中间价报6.7909",
-      "url": "https://36kr.com/newsflashes/3897632557893505?f=rss",
-      "summary": "36氪获悉，人民币兑美元中间价报6.7909，上调1点；上一交易日中间价6.7910，上一交易日官方收盘价6.7711，上日夜盘报收6.7697。",
-      "published": "2026-07-16 01:16",
+      "title": "人民币兑美元中间价报6.7934，下调25点",
+      "url": "https://36kr.com/newsflashes/3899049535276937?f=rss",
+      "summary": "36氪获悉，人民币兑美元中间价报6.7934，下调25点；上一交易日中间价6.7909，上一交易日官方收盘价6.7678，上日夜盘报收6.7711。",
+      "published": "2026-07-17 01:18",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "中信证券：当前时点已上市的数据中心REITs值得持续重点关注",
-      "url": "https://36kr.com/newsflashes/3897619091736193?f=rss",
-      "summary": "36氪获悉，中信证券研报称，在AI应用带动的算力需求快速放量过程中，IDC在供给端受到核心区位、能源使用、资金投入三重核心约束，导致供给增长或难以满足需求放量的加速度，行业景气有望持续。在此背景下，头部运营商通过REITs平台上市的优质IDC资产具备稀缺性，预计即便在未来周期波动中，其稳健性也会相对更高，是攻守兼备的优质资产。同时，随着后续扩募进程有序推进，投资者回报或有望进一步增厚，当前时点已上市的数据中心REITs值得持续重点关注。",
-      "published": "2026-07-16 01:03",
+      "title": "微软CEO批评Anthropic对Fable模型的内容管控过于严苛",
+      "url": "https://36kr.com/newsflashes/3899021459834500?f=rss",
+      "summary": "微软CEO萨蒂亚·纳德拉周三表示，Anthropic对用户向其高端人工智能模型 Fable 提交的查询设置各类限制，这种做法毫无道理。根据纳德拉讲话的文字稿，他对微软Copilot人工智能工具的研发工程师说道：“如果你用过 Fable 就会发现，它会莫名其妙拒绝各类指令。试问你什么时候见过一款创作工具会受到如此严苛的内容管控？这完全说不通。”据一份技术支持页面显示，当终端用户向 Fable 询问大规模模型搭建相关问题或其他话题时，Anthropic有时会调用旧版本模型生成回复。（新浪财经）",
+      "published": "2026-07-17 01:10",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "工信部公开征求《大数据产品功能要求》等20项行业标准报批意见",
-      "url": "https://36kr.com/newsflashes/3897609971828609?f=rss",
-      "summary": "36氪获悉，据工信部官网，根据行业标准制修订计划，相关标准化技术组织已完成电子行业《大数据产品功能要求》等20项行业标准的编制工作。为进一步听取社会各界意见，现予以公示。",
-      "published": "2026-07-16 00:53",
+      "title": "智谱ARR达到10亿美元，半年增长15倍",
+      "url": "https://36kr.com/newsflashes/3899038887643012?f=rss",
+      "summary": "36氪从多个独立信源处获悉，截至2026年7月， 智谱的ARR（年度经常性收入）已经达到10亿美元。截至发稿前，针对上述信息，智谱未回复。据知情人士，在2026年1月到7月期间，智谱的ARR增长了15倍。智谱官方曾提到，大模型的商业价值可以理解为“智能上限 × Token 消耗规模”，只要模型能力继续领先，调用量就会不断增长。财报显示，今年Q1，GLM的API 价格累计调高约83%，海外订阅价格甚至接近Claude Code，但调用量仍增长约400%。",
+      "published": "2026-07-17 01:07",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "韩国央行将利率上调25个基点至2.75%",
-      "url": "https://36kr.com/newsflashes/3897607372523139?f=rss",
-      "summary": "韩国央行将利率上调25个基点至2.75%，为2023年1月以来首次加息，符合市场预期。（财联社）",
-      "published": "2026-07-16 00:51",
+      "title": "从“赚价差”到“赚时间价值”，基金投顾成券商财富管理关键抓手",
+      "url": "https://36kr.com/newsflashes/3899025108043652?f=rss",
+      "summary": "基金投顾试点稳步扩容。从业内获悉，西部证券、长江证券、东北证券、华福证券等多家券商已收到相关通知，正全力筹备牌照申请，预计8月底前集中递交申报材料。2019年基金投顾试点启动，如今试点机构已有60家。数据显示，截至2026年初，基金投顾行业管理规模约4500亿元，累计服务客户数近1000万。业内人士称，本轮试点扩容背后，一场从“赚价差”到“赚时间价值”的盈利模式代际更替正在发生。（上证报）",
+      "published": "2026-07-17 01:07",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "两市融资余额减少116.66亿元",
-      "url": "https://36kr.com/newsflashes/3897604334307207?f=rss",
-      "summary": "36氪获悉，截至7月15日，上交所融资余额报14447.83亿元，较前一交易日减少72.31亿元；深交所融资余额报14128.29亿元，较前一交易日减少44.35亿元；两市合计28576.12亿元，较前一交易日减少116.66亿元。",
-      "published": "2026-07-16 00:48",
+      "title": "因国税局税务稽查事宜与白宫产生冲突，美财政部最高税务官员遭解职",
+      "url": "https://36kr.com/newsflashes/3899024351823746?f=rss",
+      "summary": "据报道，多位知情人士透露，美国财政部首席税务政策官员遭强制离职，此前他曾警示白宫方面存在违反联邦法律的风险 —— 该法律禁止高级官员干预美国国税局税务稽查工作。财政部助理部长、美国国税局代理总法律顾问肯尼斯・基斯将于未来几周卸任上述两项职务。知情人士称，基斯曾多次在私下与白宫官员发生分歧。其中一名消息人士表示，在近期一场会议上，基斯提出，白宫一项拟议诉求将违反《国内税收法典》第 7217 条。该法条规定，总统、副总统、白宫工作人员以及部分机构负责人，不得直接或间接要求国税局启动或终止针对任何特定纳税人的稽查或调查。（新浪财经）",
+      "published": "2026-07-17 01:00",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "亚马逊Leo与南非企业达成协议，预计明年启动卫星互联网服务",
-      "url": "https://36kr.com/newsflashes/3897597349234561?f=rss",
-      "summary": "亚马逊旗下低轨卫星网络Leo当地时间7月15日宣布，与南非最大固定互联网服务提供商Herotel达成协议，通过一项名为evry的新服务将卫星互联网引入南非。Evry预计将于2027年正式上线，为南非的住宅用户提供网络连接。这是Amazon Leo在非洲达成的首项此类协议。（界面）",
-      "published": "2026-07-16 00:41",
+      "title": "成本攀升叠加需求显著增长，磷酸铁锂龙头宣布涨价",
+      "url": "https://36kr.com/newsflashes/3899022094943879?f=rss",
+      "summary": "上游硫磺、硫酸亚铁等原材料价格普涨，叠加下游需求显著增长，国内磷酸铁锂市场呈现出供不应求局面。近日，国内主要的锂离子电池正极材料供应商湖南裕能对外官宣调价方案，对全部磷酸铁锂产品在现有执行价基础上每吨上调2000元，新规将于今年8月1日正式生效。分析人士指出，本次调价折射出磷酸铁锂行业当前的深层矛盾，即上游成本全面攀升与下游需求刚性增长并存，行业正处于从产能过剩向供需紧平衡切换的关键周期。（证券时报）",
+      "published": "2026-07-17 00:57",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "中信证券：建议重点关注医疗健康产业投资机会",
-      "url": "https://36kr.com/newsflashes/3897582388856449?f=rss",
-      "summary": "36氪获悉，中信证券研报称，医药板块继续凸显出刚需的高确定性，同时叠加国内生物医药融资数据的持续高增长，中信证券认为医药创新企业和全球医药产业链企业有望在未来3-5年持续迎来业绩的稳健增长。同时叠加今年Q3开始，国产创新药核心管线即将迎来重磅数据读出催化、具有全球潜力的资产国际化价值有望加速兑现。同时政策大变革也开始逐步重新回归到临床价值和需求导向的市场价格定价体系，带来稳定且持续的国内医药市场环境和长坡厚雪的发展主基调，带来行业成长确定性较高的阿尔法和贝塔。建议重点关注医疗健康产业投资机会。",
-      "published": "2026-07-16 00:38",
+      "title": "AI板块遭遇抛售，日本芯片厂商铠侠市值较高点腰斩",
+      "url": "https://36kr.com/newsflashes/3899005204399749?f=rss",
+      "summary": "受市场愈发担忧人工智能带动的存储芯片板块涨幅过高影响，日本存储芯片企业铠侠控股在登顶日本市值最高企业仅一个月后，总市值直接腰斩。周五东京股市早盘，铠侠股价最大跌幅达14%，较上月峰值累计下跌51%，市值蒸发至少29.5万亿日元（折合1817亿美元）。6月中旬，受人工智能热潮下市场对内存、数据存储需求的乐观情绪推动，铠侠股价年内涨幅超600%，市值一举超越汽车巨头丰田汽车，登顶日本企业市值榜首。如今其市值排名已滑落至日本上市公司第四位。（新浪财经）",
+      "published": "2026-07-17 00:50",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "勃林格殷格翰上半年净销售额同比增长16.2%至158亿欧元",
-      "url": "https://36kr.com/newsflashes/3897582072874631?f=rss",
-      "summary": "7月15日，勃林格殷格翰发布2026年上半年业绩报告，集团净销售额同比增长16.2%，达到158亿欧元。其中，人用药品业务131亿欧元，同比增长20.1%；动物保健业务26亿欧元，同比增长0.4%。（界面）",
-      "published": "2026-07-16 00:32",
+      "title": "习近平将出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
+      "url": "https://36kr.com/newsflashes/3899020578342790?f=rss",
+      "summary": "2026世界人工智能大会暨人工智能全球治理高级别会议于7月17日在上海开幕。国家主席习近平将出席大会开幕式并发表主旨讲话。（央视新闻）",
+      "published": "2026-07-17 00:48",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "深圳等一线城市租房需求攀升，租金房价比持续抬升",
-      "url": "https://36kr.com/newsflashes/3897581281494662?f=rss",
-      "summary": "与房价相比，房租是和居民生活成本关联更为直接的指标。随着2026年暑期租赁高峰全面到来，深圳等一线城市租房需求快速攀升，租赁市场率先走出调整通道。近日，走访深圳市罗湖区、龙岗区、福田区多个住宅小区与城中村发现，伴随毕业季求职、换房需求集中释放，深圳租赁市场活跃度显著提升，城市人口吸引力与经济活力在租房数据中得到直观体现。从全国范围来看，今年上半年一线城市平均租金实现小幅上涨，正式结束此前连续两年的调整态势。（证券时报）",
-      "published": "2026-07-16 00:24",
+      "title": "两市融资余额减少285.86亿元",
+      "url": "https://36kr.com/newsflashes/3899019608819331?f=rss",
+      "summary": "36氪获悉，截至7月16日，上交所融资余额报14308.21亿元，较前一交易日减少139.61亿元；深交所融资余额报13982.04亿元，较前一交易日减少146.25亿元；两市合计28290.25亿元，较前一交易日减少285.86亿元。",
+      "published": "2026-07-17 00:47",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "中信证券：股权财政发挥更大作用客观需要权益市值大幅提升",
-      "url": "https://36kr.com/newsflashes/3897579567826819?f=rss",
-      "summary": "36氪获悉，中信证券研报称，土地财政逐步退坡，地方财政需要新的资金来源，股权财政有望形成增量贡献。可将股权财政大致分为一、二级市场运作。地方通过引导基金以投带引，参与一级市场投资，可发挥独特优势实现长期资本增值。二级以央国企分红与市值重估为抓手，提供即期增量。参照海外经验，股权财政发挥更大作用客观需要权益市值大幅提升。做大权益市场、保持慢牛因而是战略优先。股权财政重要性提升，推动A股长期配置价值显现。",
+      "title": "截至去年末中国独角兽企业达376家，总量稳步扩容",
+      "url": "https://36kr.com/newsflashes/3898997345716096?f=rss",
+      "summary": "“独角兽企业”一般指成立时间不超过10年、估值超过10亿美元，且具备独有核心技术、独特竞争优势的未上市企业，是衡量区域创新活力与产业竞争力的重要风向标。昨天（16日）发布的《中国独角兽企业研究报告2026》显示，2025年我国独角兽企业总量稳步增长，硬科技属性持续凸显，创新动能加速释放。报告显示，截至2025年末，中国独角兽企业总数达376家，较上一年增加35家；总估值达14467亿美元，平均估值38.5亿美元，较上年提升5.1亿美元。超级独角兽企业增至12家。（央视新闻）",
+      "published": "2026-07-17 00:45",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "M 3.9 Experimental Explosion – 147 Km ENE of Ponce Inlet, Florida",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive",
+      "summary": "",
+      "published": "2026-07-17 00:45",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "AI手机渗透率有望加速提升，18股获5家及以上机构评级",
+      "url": "https://36kr.com/newsflashes/3898995946538624?f=rss",
+      "summary": "近期，全球各头部智能手机品牌厂商均积极布局AI手机，推动AI大模型落地智能手机端侧。多家市场机构认为，AI手机市场规模有望快速扩大。从行业渗透率趋势来看，6月22日，Counterpoint Research发布的最新预测指出，2026年全球具备生成式人工智能功能的智能手机出货占比将攀升至45%，并有望在2027年突破半数关口达到52%，正式成为行业标配。AI手机概念股普遍获机构重点关注，统计显示，18股获5家及以上机构评级，占比接近总数的一半，蓝思科技、鹏鼎控股、科大讯飞评级机构家数居前，分别为20家、16家、15家。（证券时报）",
+      "published": "2026-07-17 00:42",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "中信证券：算电协同支撑国产算力高质量扩容",
+      "url": "https://36kr.com/newsflashes/3898994212669061?f=rss",
+      "summary": "36氪获悉，中信证券研报称，算电协同是国产算力扩容的关键基础设施，没有算电协同就没有国产算力的高质量发展。中国的能源体系可为国产算力提供广袤的可扩容空间，不受电网排队并网约束，每单位CAPEX可更高效地转化为实际算力。国家能源局指引2030年中国数据中心耗电量为8000亿度电，基于此指引预测中国数据中心“十五五”时期增量规模为78.5GW，对应资本开支为10.7万亿元。算电协同分为数据中心园区内外两侧，作为耦合电力与算力主要手段，预测对应总投资规模约为2万亿元。算电协同投资“十五五”CAGR约42%，迎来加速成长阶段。",
+      "published": "2026-07-17 00:38",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "San Francisco mayor pushes for tougher rules after the Waymo traffic fiasco",
+      "url": "https://techcrunch.com/2026/07/16/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco/",
+      "summary": "In the wake of a massive hours-long gridlock event, San Francisco mayor Daniel Lurie has told state regulators it's time to put more requirements on robotaxi operators like Waymo.",
+      "published": "2026-07-16 23:25",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "SpaceX suddenly aborts second Starship V3 launch after ignition",
+      "url": "https://techcrunch.com/2026/07/16/spacex-suddenly-aborts-second-starship-v3-launch-after-ignition/",
+      "summary": "The company didn't immediately say what went wrong. SpaceX's stock plunged more than 4% in after-hours trading before paring losses.",
+      "published": "2026-07-16 23:01",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The Little Book of Reinforcement Learning",
+      "url": "https://github.com/alxndrTL/little-book-rl/",
+      "summary": "",
+      "published": "2026-07-16 22:27",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Fortnite is getting a bunch of AI-powered ‘personas’",
+      "url": "https://www.theverge.com/games/966815/epic-games-fortnite-ai-powered-personas",
+      "summary": "Get ready for more AI characters in Fortnite. Developer Epic Games is going to let Fortnite creators publish experiences featuring characters with AI-powered voices starting on July 30th, and ahead of that launch, it's created 36 characters with \"consistent voices and personas\" that creators can use as NPCs. The characters include Fortnite staples like Agent [&#8230;]",
+      "published": "2026-07-16 21:30",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Coca-Cola suspended production at its Fairlife dairy after a ransomware attack",
+      "url": "https://techcrunch.com/2026/07/16/coca-cola-suspended-production-at-its-fairlife-dairy-after-a-ransomware-attack/",
+      "summary": "Coca Cola said dairy production at its Fairlife unit will \"remain suspended\" in the United States following a hack.",
+      "published": "2026-07-16 21:22",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Samsung’s 55-inch Frame art TV is $200 cheaper than usual",
+      "url": "https://www.theverge.com/gadgets/966613/samsung-the-frame-art-tv-deal-sale",
+      "summary": "Samsung’s Frame is different from your average 4K TV. Its biggest selling point involves what it does when you aren’t actively using it. It can display art, turning your living room into a gallery. The Frame has bezels that make it look like — you guessed it — framed art, and its matte finish can [&#8230;]",
+      "published": "2026-07-16 20:47",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Netflix says around 300 titles used generative AI",
+      "url": "https://www.theverge.com/streaming/966633/netflix-ai-titles-q2-2026-earnings",
+      "summary": "Netflix says roughly 300 titles on its platform used generative AI, most of which occurred in post-production. The streaming service revealed the news in its second-quarter earnings report released on Thursday, saying it's \"increasingly leveraging these tools to deliver higher quality output more quickly and at a lower cost.\" It also provided some examples of [&#8230;]",
+      "published": "2026-07-16 20:29",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "LM Studio Bionic: the AI agent for open models",
+      "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+      "summary": "",
+      "published": "2026-07-16 20:18",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her ‘Mafia’ skills)",
+      "url": "https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/",
+      "summary": "Ryan Beiermeister, who demonstrated cool analysis in the Founders Fund YouTube series \"Mafia,\" has joined the firm as a partner.",
+      "published": "2026-07-16 20:07",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+      "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+      "summary": "",
+      "published": "2026-07-16 20:03",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Why are people buying so many CDs?",
+      "url": "https://www.theverge.com/entertainment/966726/cd-sales-vinyl-physical-media-luminate",
+      "summary": "CD sales are apparently going up, reportedly thanks to fans realizing they're an affordable way to support their favorite artists. According to a new report from research firm Luminate, 16.3 million CDs were sold in the first half of 2026 in the US, a 16 percent increase year-over-year. The growth in CD sales was driven [&#8230;]",
+      "published": "2026-07-16 19:55",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Kalshi says it caught Trump&#8217;s teleprompter operator insider trading",
+      "url": "https://www.theverge.com/news/966676/trump-teleprompter-operator-kalshi-bets-mention-markets-investigation",
+      "summary": "Kalshi users betting on what President Donald Trump would say during his speeches were reportedly up against tough competition: the president's teleprompter operator. ABC News reports that federal investigators believe Gabriel Perez - Trump's teleprompter operator since 2016 - used inside information to make bets on Kalshi, a major prediction market platform that allows users [&#8230;]",
+      "published": "2026-07-16 18:43",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Google Vids now lets you star in your own AI videos",
+      "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+      "summary": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from prompts and reference images.",
+      "published": "2026-07-16 18:32",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
+      "url": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
+      "summary": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt.",
+      "published": "2026-07-16 18:22",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "New York governor says she&#8217;s using AI to analyze &#8216;every single rule&#8217; in the state",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
+      "summary": "New York Governor Kathy Hochul might have just signed a moratorium on new AI data centers in the state, but she's not against using the technology herself. During an interview with Bloomberg's Odd Lots podcast, Hochul said that her team is using \"AI to analyze every single rule, regulation, [and] policy\" to check for outdated [&#8230;]",
+      "published": "2026-07-16 17:58",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Ecovacs&#8217; self-cleaning Deebot X11 has hit a new low price",
+      "url": "https://www.theverge.com/gadgets/966651/ecovacs-deebot-x11-robot-vacuum-deal-sale",
+      "summary": "Sometimes it feels like keeping your floors clean is one of those never-ending chores, which is why it's nice to have a versatile robot vacuum take it off your hands. The Ecovacs Deebot X11 robovac / mop hybrid is designed to do just that, and it's now $699 ($400 off) at Amazon and directly from [&#8230;]",
+      "published": "2026-07-16 17:57",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Oil giant BP shutters its corporate venture arm after 20 years",
+      "url": "https://techcrunch.com/2026/07/16/oil-giant-bp-shutters-its-corporate-venture-arm-after-20-years/",
+      "summary": "BP Ventures is shutting down, ending a nearly 20-year run that was marked by reportedly lackluster returns.",
+      "published": "2026-07-16 17:37",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Uber’s $14.8B Delivery Hero deal would nearly double its global footprint",
+      "url": "https://techcrunch.com/2026/07/16/ubers-14-8b-delivery-hero-deal-would-nearly-double-its-global-footprint/",
+      "summary": "Uber has agreed to acquire Delivery Hero in a $14.8 billion all-stock deal that would nearly double the company’s global footprint and create one of the world’s largest food-delivery platforms outside China.",
+      "published": "2026-07-16 17:12",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Newsletter platform Beehiiv now lets subscribers chat with each other, adds AI",
+      "url": "https://techcrunch.com/2026/07/16/newsletter-platform-beehiiv-now-lets-subscribers-chat-with-each-other-adds-ai/",
+      "summary": "Beehiiv is launching an AI Copilot to help publishers with user growth and analytics.",
+      "published": "2026-07-16 17:00",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Google is better than Apple at playing the AI regulations game",
+      "url": "https://www.theverge.com/policy/966588/eu-dma-ai-android-siri-ai",
+      "summary": "Today, the European Union ordered Google to give its AI rivals greater access to Android, the open-source operating system that powers billions of devices worldwide. The demand is hardly surprising. It may look like a defeat on paper for Google, which has spent years resisting exactly this kind of access, but it is a regulatory [&#8230;]",
+      "published": "2026-07-16 16:55",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Roblox will let people use AI to make games on their phone",
+      "url": "https://www.theverge.com/games/966589/roblox-build-ai-phone-moblie-games",
+      "summary": "Roblox is about to let people make games with AI right inside its mobile app, which could make a platform that's already filled with content of questionable quality feel even more overloaded. The company has embraced AI with open arms, including a preview of an ambitious take on AI world models similar to Google's Project [&#8230;]",
+      "published": "2026-07-16 16:45",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "X cracks down on creators who steal content",
+      "url": "https://techcrunch.com/2026/07/16/x-cracks-down-on-creators-who-steal-content/",
+      "summary": "X will use Grok AI to better detect stolen content, redirect payouts to original creators, and crack down on engagement bait.",
+      "published": "2026-07-16 16:40",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Decoy Font",
+      "url": "https://www.mixfont.com/experiments/decoy-font",
+      "summary": "",
+      "published": "2026-07-16 16:18",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "AI-powered travel agency Fora hits unicorn status, raises $60M",
+      "url": "https://techcrunch.com/2026/07/16/ai-powered-travel-agency-fora-hits-unicorn-status-raises-60m/",
+      "summary": "Travel agency Fora announced a $60 million Series D round led by Forerunner and Tactile Ventures, valuing the company at $1 billion.",
+      "published": "2026-07-16 16:08",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "NotebookLM is now Gemini Notebook",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+      "summary": "",
+      "published": "2026-07-16 16:08",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Microsoft Comic Chat is now open source",
+      "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
+      "summary": "",
+      "published": "2026-07-16 16:06",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Google’s AI Mode now lets you link and interact with select apps",
+      "url": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
+      "summary": "With this new update, Google is expanding AI Mode beyond answering questions and into completing tasks across the apps they use regularly.",
+      "published": "2026-07-16 16:00",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Google is renaming NotebookLM to Gemini Notebook",
+      "url": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
+      "summary": "Google is giving its AI note-taking app a new name. The company announced on Thursday that NotebookLM is becoming Gemini Notebook, but will remain a standalone app even as it integrates more deeply across Gemini and Google Search. Google first revealed Gemini Notebook - then called Project Tailwind - in May 2023 before widely releasing [&#8230;]",
+      "published": "2026-07-16 16:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Kimi K3: Open Frontier Intelligence",
+      "url": "https://www.kimi.com/blog/kimi-k3",
+      "summary": "",
+      "published": "2026-07-16 14:46",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "新玩意 246｜少数派的编辑们最近买了啥？",
+      "url": "https://sspai.com/post/112400",
+      "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...<a href=\"https://sspai.com/post/112400\" target=\"_blank\">查看全文</a>",
+      "published": "2026-07-16 09:39",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "Apple 高校优惠活动开始了，今年有些不一样",
+      "url": "https://sspai.com/post/112386",
+      "summary": "又到了一年一度的Apple高校优惠活动季，高校师生们可以在活动期间，购买指定型号iPad或Mac设备，获得指定配件产品，享受到限时的教育优惠+买赠活动。与往年不同的是，今年的Apple高校优惠活动不论 ...<a href=\"https://sspai.com/post/112386\" target=\"_blank\">查看全文</a>",
+      "published": "2026-07-16 08:03",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "具透 | macOS 27 首个公开测试版来了，这些是值得你关注的新特性",
+      "url": "https://sspai.com/post/112375",
+      "summary": "全面 ARM 化后的第一个 macOS 版本，Golden Gate 27 还有这些变化。<a href=\"https://sspai.com/post/112375\" target=\"_blank\">查看全文</a>",
+      "published": "2026-07-16 07:00",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "翻译「世界杯」的赛事名称，为什么中文比日文更简洁？",
+      "url": "https://sspai.com/post/111086",
+      "summary": "国名也好、赛事名称也好，日语走上了片假名这条路——那为什么日本人不能像中文一样，直接造出「美加墨W杯」这样的简称？<a href=\"https://sspai.com/post/111086\" target=\"_blank\">查看全文</a>",
+      "published": "2026-07-16 02:58",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "派早报：国行版 Apple Intelligence 完成备案等",
+      "url": "https://sspai.com/post/112373",
+      "summary": "阿里发布实时语音模型 Qwen-Audio-3.0-Realtime、腾龙发布 12-20mm F2.8 镜头等。<a href=\"https://sspai.com/post/112373\" target=\"_blank\">查看全文</a>",
       "published": "2026-07-16 00:22",
-      "source": "36kr.com",
+      "source": "sspai.com",
       "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "Why Greylock capped its new fund at $1.5B when it says it could have raised more",
-      "url": "https://techcrunch.com/2026/07/15/why-greylock-capped-its-new-fund-at-1-5b-when-it-says-it-could-have-raised-more/",
-      "summary": "By keeping the number of investments to about 25 per fund, Greylock aims to remain what it calls \"the most important partner\" to its founders.",
-      "published": "2026-07-16 00:20",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "韩美半导体拟在韩国新建工厂",
-      "url": "https://36kr.com/newsflashes/3897576310785667?f=rss",
-      "summary": "韩国《每日经济新闻》援引对韩美半导体董事长郭东信的采访报道，鉴于预计从明年起AI半导体设备将出现供应短缺，韩美半导体正考虑投建第八座生产工厂，该工厂建成后将成为公司规模最大的厂区。郭东信预计，自明年起半导体设备需求将超过供给。规划中的第八工厂选址毗邻正在仁川施工的第七工厂。韩美半导体表示，随着全球芯片厂商扩大投资，公司热压键合机与混合键合机的市场需求将快速增长。企业计划于2026年底在加州圣何塞设立韩美美国子公司，强化技术配套服务。（新浪财经）",
-      "published": "2026-07-16 00:19",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "多家游戏企业预喜，行业收入保持增长",
-      "url": "https://36kr.com/newsflashes/3897575087736706?f=rss",
-      "summary": "近期，多家A股游戏公司相继披露2026年上半年业绩预告，世纪华通、巨人网络、恺英网络等均预计上半年净利润将实现明显增长。7月15日，A股游戏板块整体“飘红”，巨人网络、恺英网络等涨停。吉比特、完美世界、世纪华通等大涨，游戏ETF华泰柏瑞、游戏ETF华夏、游戏ETF国泰等ETF均涨超5%。港股游戏板块同日也整体走强。（证券时报）",
-      "published": "2026-07-16 00:18",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "Skullcandy’s bass-boosting Crusher headphones now come with Bose’s ANC",
-      "url": "https://www.theverge.com/tech/966022/skullcandy-cruser-1080-anc-bose-tuning-noise-cancelling-wireless-headphones",
-      "summary": "Skullcandy announced a new version of its Crusher wireless headphones today featuring a few of Bose's audio technologies including its QuietControl ANC and head-tracking spatial audio. The Crusher headphone line differentiates itself from the competition through the use of both full-range and dedicated bass drivers in each ear cup to boost deeper frequencies. Skullcandy admits [&#8230;]",
-      "published": "2026-07-16 00:00",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
-      "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
-      "summary": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.",
-      "published": "2026-07-15 23:59",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Nul Characters in Strings in SQLite",
-      "url": "https://sqlite.org/nulinstr.html",
-      "summary": "",
-      "published": "2026-07-15 23:03",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Metal-Organic Frameworks, Chemistry's New Miracle Materials",
-      "url": "https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials",
-      "summary": "",
-      "published": "2026-07-15 23:00",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "HP&#8217;s OLED-equipped 2-in-1 laptop is a solid back-to-school deal",
-      "url": "https://www.theverge.com/gadgets/966209/hp-omnibook-x-flip-oled-laptop-windows-11-deal-sale",
-      "summary": "With storage and memory prices still at an all-time high, we’re happy to tell you about a solid deal on a good laptop when we find one, rare as they are. Best Buy is selling the HP OmniBook X Flip 2 in 1 for $999.99 (usually $1,649.99) with an Intel Core 7 Ultra CPU, 16GB [&#8230;]",
-      "published": "2026-07-15 22:47",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "SQLite should have (Rust-style) editions",
-      "url": "https://mort.coffee/home/sqlite-editions/",
-      "summary": "",
-      "published": "2026-07-15 22:42",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Apple’s reportedly raising the price for AppleCare Plus on Macs and iPads",
-      "url": "https://www.theverge.com/tech/966219/apple-care-plus-price-increase",
-      "summary": "An AppleCare Plus subscription for a Mac or iPad will cost more soon, with prices going up by $0.50 per month or $5 per year for new sign-ups while remaining the same for existing subscribers, according to Bloomberg's Mark Gurman. Gurman says that under the new AppleCare Plus pricing, \"a plan for a new 13-inch [&#8230;]",
-      "published": "2026-07-15 22:39",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "LLM Networking with MikroTik",
-      "url": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
-      "summary": "",
-      "published": "2026-07-15 22:23",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Valve says iFixit will keep selling Steam Deck batteries after all",
-      "url": "https://www.theverge.com/games/966106/valve-ifixit-will-keep-selling-steam-deck-lcd-battery",
-      "summary": "Valve has been incredibly friendly to customers who need repairs - which is why it was so surprising to hear that Valve was already discontinuing the battery for the Steam Deck LCD handheld. It would have meant you could no longer just buy a battery from iFixit and install it yourself. Why would Valve stop [&#8230;]",
-      "published": "2026-07-15 22:16",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "xAI sues a man for using Grok to generate CSAM &#8216;deepfakes&#8217;",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
-      "summary": "The Elon Musk-owned xAI is suing a South Carolina man who allegedly used the company's Grok AI chatbot to generate child sexual abuse material (CSAM). In a lawsuit reported earlier by Reuters, xAI claims Terry Wayne Harwood \"knowingly and intentionally used Grok to circumvent safeguards, alter nonconsensual images, and generate and distribute CSAM,\" breaching the [&#8230;]",
-      "published": "2026-07-15 21:33",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Brendan Carr plans to let broadcast giants dominate the airwaves",
-      "url": "https://www.theverge.com/policy/966283/fcc-broadcast-ownership-cap-brendan-carr",
-      "summary": "The Federal Communications Commission will vote next month on whether a single company can own broadcast stations that reach more than 39 percent of US TV households. In a Breitbart op-ed on Wednesday, Republican Chair Brendan Carr announced an August 6th vote to end the national ownership cap rule, which was intended to prevent one [&#8230;]",
-      "published": "2026-07-15 21:30",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
-      "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
-      "summary": "",
-      "published": "2026-07-15 21:16",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Grok Build is open source",
-      "url": "https://github.com/xai-org/grok-build",
-      "summary": "",
-      "published": "2026-07-15 20:24",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms",
-      "url": "https://techcrunch.com/2026/07/15/tesla-driver-in-fatal-texas-crash-pressed-accelerator-100-ntsb-confirms/",
-      "summary": "The safety board confirmed Tesla's account of the crash, which the company shared days after it happened last month.",
-      "published": "2026-07-15 20:22",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Roblox is shutting down its video chat service",
-      "url": "https://www.theverge.com/games/966181/roblox-connect-video-chat-calling-service-shut-down",
-      "summary": "Roblox will be shutting down Roblox Connect, its video calling service introduced in 2023. Roblox Connect let you video chat with other people using your Roblox avatar, which would be able to mimic the movements you were making in real life. You could also run around with people on the call in a shared virtual [&#8230;]",
-      "published": "2026-07-15 20:02",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "AI slop movies are the new direct-to-video cash grabs",
-      "url": "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood",
-      "summary": "This weekend, cinephiles across the world will march to their local theaters to feast their eyes on Christopher Nolan's new adaptation of The Odyssey. It's on track to rake in anywhere between $80-$100 million in just a few days. People are clearly excited to see how Nolan uses cutting-edge filmmaking tech to make the Homeric [&#8230;]",
-      "published": "2026-07-15 20:00",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Daniel Ek’s body-scanning startup Neko Health raises another $700M",
-      "url": "https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/",
-      "summary": "Neko Health has developed proprietary body-scanning technology, which it couples with bloodwork, to assess a person's health.",
-      "published": "2026-07-15 19:46",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
-      "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
-      "summary": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.",
-      "published": "2026-07-15 19:41",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Microsoft patches bug in video game Age of Empires II",
-      "url": "https://techcrunch.com/2026/07/15/microsoft-patches-bug-in-video-game-age-of-empires-ii/",
-      "summary": "The vulnerability in the decades-old game could have allowed hackers to take over victims’ computers with a malicious game invite.",
-      "published": "2026-07-15 18:47",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Enshittification",
-      "url": "https://www.theverge.com/policy/966111/cyclospora-explosive-diarrhea-parasite-fda-cdc-taco-bell",
-      "summary": "Bryan, a food broker from Michigan, wasn't sure if he'd be able to make it to urgent care in time. He started feeling off on Thursday, and by Saturday, he was having to use the bathroom every 15 to 30 minutes. \"It's no joke about the explosive diarrhea,\" Bryan, who asked that his last name [&#8230;]",
-      "published": "2026-07-15 18:40",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Something&#8217;s glowing on the Pixel 11&#8217;s camera bar",
-      "url": "https://www.theverge.com/tech/966120/google-pixel-11-camera-bar-teaser",
-      "summary": "A new teaser for Google's upcoming Pixel 11 lineup reveals that the phones will feature some kind of glowing orb on the camera bar, as reported by 9to5Google. Google's store page for the Pixel 11 has a short video that shows the glowing, color-shifting orb to the one side of the camera bar. The store [&#8230;]",
-      "published": "2026-07-15 18:24",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Apple bans home services from its upcoming Maps ads",
-      "url": "https://techcrunch.com/2026/07/15/apple-quietly-reveals-how-its-maps-ads-will-differ-from-googles/",
-      "summary": "Apple has published the policies governing its upcoming Maps advertising business, revealing a strategy that differs from Google’s. The new rules prohibit home services businesses like plumbers, electricians, locksmiths, and roofers from advertising on Apple Maps, along with several other sensitive categories, suggesting Apple is taking a more curated approach to these ads.",
-      "published": "2026-07-15 18:21",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Inkling: Our Open-Weights Model",
-      "url": "https://thinkingmachines.ai/news/introducing-inkling/",
-      "summary": "",
-      "published": "2026-07-15 18:12",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
-      "url": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
-      "summary": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public.",
-      "published": "2026-07-15 18:06",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
-      "url": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
-      "summary": "It's the company's first public proof point after a year and a half spent building AI infrastructure largely out of public view.",
-      "published": "2026-07-15 18:04",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Phone maker OnePlus reportedly plans to wind down US and Europe operations",
-      "url": "https://techcrunch.com/2026/07/15/phone-maker-oneplus-reportedly-plans-to-wind-down-us-and-europe-operations/",
-      "summary": "OnePlus could also wind down its operations in India by 2027.",
-      "published": "2026-07-15 17:53",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Google’s biggest clean power project is 40 miles north of xAI’s unpermitted gas power plant",
-      "url": "https://techcrunch.com/2026/07/15/googles-biggest-clean-power-project-is-40-miles-north-of-xais-unpermitted-gas-power-plant/",
-      "summary": "Google's biggest solar and battery project stands in sharp contrast with xAI's nearby unpermitted power plant.",
-      "published": "2026-07-15 17:39",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
-      "url": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
-      "summary": "The hacker used an employee's credentials to access source code, which revealed how Suno scraped decades of audio.",
-      "published": "2026-07-15 17:00",
-      "source": "techcrunch.com",
-      "lang": "en",
       "category": "科技"
     },
     {
@@ -390,28 +444,10 @@
       "category": "科技"
     },
     {
-      "title": "Stripe and Advent have made a joint offer to acquire PayPal – sources",
-      "url": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
-      "summary": "",
-      "published": "2026-07-15 03:32",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
       "title": "角落新声｜从桌面「长」出来的创业空间，我靠这些好物「偷」一点清闲",
       "url": "https://sspai.com/post/112243",
       "summary": "编者按：本文是「角落新声」征文活动的入围文章。本次主题征文由声擎冠名，邀你前来分享那个让你放松娱乐、拥抱汩汩心流、逃离尘世纷扰、找回本真自我的理想一隅。8月7日前投稿参与，即有机会获得声擎Cyber5 ...<a href=\"https://sspai.com/post/112243\" target=\"_blank\">查看全文</a>",
       "published": "2026-07-15 03:00",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "派早报：Meta 被诉借助 AI 违规裁员、Google 被诉使用版权内容训练 Gemini 模型等",
-      "url": "https://sspai.com/post/112334",
-      "summary": "Google 推出新版图片搜索功能，Spotify 开启语音交互功能内测等。<a href=\"https://sspai.com/post/112334\" target=\"_blank\">查看全文</a>",
-      "published": "2026-07-15 00:19",
       "source": "sspai.com",
       "lang": "zh_cn",
       "category": "科技"
@@ -430,42 +466,6 @@
       "url": "https://sspai.com/post/112287",
       "summary": "少数派在体验了新版系统之后，帮你整理了 iOS 27 中值得关注的新功能和新特性，希望帮你能了解新版系统的方方面面。<a href=\"https://sspai.com/post/112287\" target=\"_blank\">查看全文</a>",
       "published": "2026-07-14 07:00",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "iOS / iPadOS 27 Public Beta 公测版来了：升降级指南 & 注意事项",
-      "url": "https://sspai.com/post/112288",
-      "summary": "7月14日凌晨，Apple终于推送了今年iOS27、iPadOS27、watchOS27、macOSGoldenGate、HomePod软件27以及AirPods固件新版的首个PublicBeta公开 ...<a href=\"https://sspai.com/post/112288\" target=\"_blank\">查看全文</a>",
-      "published": "2026-07-14 04:07",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "派评 | 近期值得关注的 App",
-      "url": "https://sspai.com/post/112229",
-      "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀<a href=\"https://sspai.com/post/112229\" target=\"_blank\">查看全文</a>",
-      "published": "2026-07-13 09:55",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "具透 Plus：Android 17 的应用内存限制；谈谈 macOS 和 Linux 如何运行可执行文件",
-      "url": "https://sspai.com/prime/story/inside-release-notes-260713",
-      "summary": "聊聊Android17的应用内存限制@克莱德：每隔一段时间，我都会整理一下自己的书桌。毕竟要在一张120×60cm的桌面上放下一块34英寸带鱼屏和一台40L机箱，留给其他常用物件的空间实在不多。前几天 ...<a href=\"https://sspai.com/prime/story/inside-release-notes-260713\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a>，订阅后可阅读全文。</p>",
-      "published": "2026-07-13 09:48",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "依江伴湖，树影连绵：南昌公园散步指南",
-      "url": "https://sspai.com/post/111776",
-      "summary": "这几年，「公园20分钟效应」在社交媒体上热度很高——不用专门运动，只要在公园里待上20分钟，就能排解负面情绪。对于整天困在写字楼和地铁里的都市人来说，公园不再只是城市公共空间，它成了触手可及的精神疗愈 ...<a href=\"https://sspai.com/post/111776\" target=\"_blank\">查看全文</a>",
-      "published": "2026-07-13 07:00",
       "source": "sspai.com",
       "lang": "zh_cn",
       "category": "科技"
