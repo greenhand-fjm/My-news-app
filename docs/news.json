@@ -1,41 +1,329 @@
 {
-  "last_updated": "2026-07-18 01:17:04",
+  "last_updated": "2026-07-19 01:22:49",
   "total": 52,
   "articles": [
     {
-      "title": "商务部：王文涛部长会见印尼经济统筹部长艾尔朗加",
-      "url": "https://36kr.com/newsflashes/3900456883275652?f=rss",
-      "summary": "7月17日，商务部部长王文涛在上海会见来华出席世界人工智能大会的印度尼西亚经济统筹部长艾尔朗加。王文涛表示，近年来，在两国元首战略引领下，中印尼经贸合作成果显著。中国连续13年保持印尼最大贸易伙伴国地位，长期保持印尼前三大外资来源国地位。中方愿与印尼方共同推动双边经贸关系持续健康发展，推进中印尼“两国双园”等重点项目建设，希望印尼方就矿产资源和产业发展提供公平、稳定、透明的政策环境。双方应加强协作，共同维护多边主义和自由贸易，维护基于规则的国际经贸秩序，建立可靠、稳定、可信赖的产供链合作伙伴关系，为世界经济注入更多正能量。",
-      "published": "2026-07-18 01:09",
+      "title": "IPO排队券商“半年考” 东莞证券上半年净利大增超70%",
+      "url": "https://36kr.com/newsflashes/3901842262132355?f=rss",
+      "summary": "36氪获悉，据券商中国，正在IPO排队的东莞证券率先报喜。近日，锦龙股份披露东莞证券上半年未经审计业绩显示，该公司今年以来业绩继续实现稳健增长，净利润8.2亿元同比增长超七成。东莞证券的业绩增长，也为其参股股东锦龙股份的扣非净利润扭亏提供了关键支撑。目前排队IPO券商共有4家，分别为东莞证券、财信证券、华龙证券和渤海证券。",
+      "published": "2026-07-19 01:14",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "“智领新程 融创未来” 两岸人工智能系列活动亮相上海世界人工智能大会",
-      "url": "https://36kr.com/newsflashes/3900456408631171?f=rss",
-      "summary": "今天（7月18日）上午，两岸人工智能融合发展创新论坛在上海世博中心举行。2026世界人工智能大会框架下，由海峡经济科技合作中心牵头筹办的两岸人工智能融合发展创新论坛及配套展览在上海举办，活动以“智领新程 融创未来”为主题。",
-      "published": "2026-07-18 01:09",
+      "title": "阶跃与上海期智研究院共建智能体前沿研究院",
+      "url": "https://36kr.com/newsflashes/3901840300754822?f=rss",
+      "summary": "据阶跃官微消息，7月18日，阶跃星辰与上海期智研究院宣布正式达成合作，双方将共同设立智能体前沿研究院，围绕智能体网络及经济原理、AI Safety等方向开展联合研究，探索Agent时代的基础理论、核心技术、标准体系与产业范式。（每经网）",
+      "published": "2026-07-19 01:00",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "DrDroid (YC W23) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory",
+      "title": "Transcribe.cpp",
+      "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
       "summary": "",
-      "published": "2026-07-18 01:01",
+      "published": "2026-07-19 00:38",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold",
-      "url": "https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier",
+      "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+      "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
       "summary": "",
-      "published": "2026-07-17 23:26",
+      "published": "2026-07-18 22:13",
       "source": "Hacker News",
       "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Judge a book by its first pages",
+      "url": "https://uncovered.ink",
+      "summary": "",
+      "published": "2026-07-18 22:02",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Classic Amiga titles, free to download",
+      "url": "https://amigafreeware.downer.tech/",
+      "summary": "",
+      "published": "2026-07-18 21:55",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day",
+      "url": "https://www.neatnik.net/hardcore-indieweb",
+      "summary": "",
+      "published": "2026-07-18 21:45",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+      "summary": "Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers. The man has written countless novels, screenplays, pieces of journalism, started McSweeney's, and founded multiple schools and nonprofits that support writers and the arts more broadly. So one might expect he'd roll into the company's offices and offer [&#8230;]",
+      "published": "2026-07-18 20:54",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Waymo says San Francisco service has resumed after one-hour pause",
+      "url": "https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/",
+      "summary": "This isn’t the first time power outages have caused issues for Waymo.",
+      "published": "2026-07-18 19:30",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Kimi: Threat or menace?",
+      "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+      "summary": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
+      "published": "2026-07-18 18:51",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Google might not kneecap the Pixel 11a with an old processor",
+      "url": "https://www.theverge.com/tech/967612/google-pixel-11a-tensor-g6-leak",
+      "summary": "Mystic Leaks suggests that the Pixel 11a will return to featuring a flagship-grade processor with the Tensor G6. Rather than the Tensor G5 found in the Pixel 10 and 10 Pro, the Pixel 10a shipped with the previous generation Tensor G4. That was a huge disappointment since, typically, the Pixel a lineup kept the modern [&#8230;]",
+      "published": "2026-07-18 18:25",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Google is open-sourcing its 3D emoji",
+      "url": "https://www.theverge.com/design/967606/google-open-source-3d-emoji",
+      "summary": "Now, if you want to, you can use Google's 3D emoji in your own creations. The company shared some details about how it went about designing the little pictograms and why, as part of World Emoji Day on Friday. Things you might not necessarily worry about in a 2D illustration suddenly become very important when [&#8230;]",
+      "published": "2026-07-18 16:40",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "All the EVs that were discontinued or killed off in the U.S. this year",
+      "url": "https://techcrunch.com/2026/07/18/all-the-evs-that-were-discontinued-or-killed-off-in-the-u-s-this-year/",
+      "summary": "Th Honda Prologue will no longer be sold in the U.S., joining a growing list of EV models to exit the market this year.",
+      "published": "2026-07-18 16:30",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Federal employees can download TikTok on their work phones again",
+      "url": "https://techcrunch.com/2026/07/18/federal-employees-can-download-tiktok-on-their-work-phones-again/",
+      "summary": "The Department of Justice says that federal employees can now download TikTok on their government devices.",
+      "published": "2026-07-18 15:54",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "If You Build It, They Will Come",
+      "url": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
+      "summary": "",
+      "published": "2026-07-18 15:37",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "GoPro&#8217;s discounted Max 2 bundle includes $100 worth of accessories",
+      "url": "https://www.theverge.com/gadgets/967311/gopro-max2-360-degree-action-cam-accessory-bundle-deal-sale",
+      "summary": "A 360-degree camera is a great way to ensure you capture every bit of the action, but prices tend to be on the high end for models worth your attention. That’s why it’s notable that the GoPro Max 2 accessory bundle is discounted to $369 at Amazon (a dollar more at Best Buy and GoPro). [&#8230;]",
+      "published": "2026-07-18 15:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "A 600-mile road trip (and data) proves EV charging doesn’t suck anymore",
+      "url": "https://techcrunch.com/2026/07/18/a-600-mile-road-trip-and-data-proves-ev-charging-doesnt-suck-anymore/",
+      "summary": "A recent road trip in an EV revealed just how much faster and more reliable DC Fast charging has become in the U.S.",
+      "published": "2026-07-18 14:32",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The Guardian’s Carter Sherman fondly remembers being terrified by Ocarina of Time",
+      "url": "https://www.theverge.com/report/967583/guardian-carter-sherman-podcast-interview",
+      "summary": "Carter Sherman has been covering sex, gender, and the complex personal and national politics that accompany them for years. She was a senior reporter for Vice and has written for Elle, Ms. magazine, and Los Angeles magazine as well. Along the way, she's garnered a Scripps Howard Award, a National Press Club Journalism Award, and [&#8230;]",
+      "published": "2026-07-18 14:30",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Surprise! Facial recognition smart locks are actually good",
+      "url": "https://www.theverge.com/tech/967183/best-facial-recognition-smart-locks-review",
+      "summary": "Hands-free unlocking is the future of smart locks. The best smart home tech removes friction, and having your door unlock for you as you walk up is as frictionless as it gets - no passcodes to remember, no need to have a free hand to wave, press, or poke at the lock. One way to [&#8230;]",
+      "published": "2026-07-18 14:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+      "summary": "",
+      "published": "2026-07-18 13:00",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Sony’s flagship RGB LED TV is incredible",
+      "url": "https://www.theverge.com/tech/966788/sony-bravia-9-ii-tv-review",
+      "summary": "The Sony Bravia 9 II is the most anticipated new TV in years. It's an amazing RGB LED TV. I watched Dungeons &#38; Dragons: Honor Among Thieves on the new Bravia with my son, who has been getting into the roleplaying game but had never seen the movie. The landscapes of Faer&#251;n looked natural and [&#8230;]",
+      "published": "2026-07-18 12:30",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "More games should be on rails (literally)",
+      "url": "https://www.theverge.com/games/961152/denshattack-review",
+      "summary": "It's been a good few weeks for games on rails. Nintendo's Star Fox remake wisely kept the tightly scripted, action-packed levels from Star Fox 64 largely the same, and they're still fun to fly through nearly 20 years later. Denshattack!, a new game from Undercoders, similarly features levels packed with carefully orchestrated sequences to great [&#8230;]",
+      "published": "2026-07-18 12:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The apps, gadgets, and tools every reader needs",
+      "url": "https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer",
+      "summary": "Hi, friends! Welcome to Installer No. 136, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope your neighborhood isn't as smoky as mine, and also you can read all the old editions at the Installer homepage.) This week, I've been recording the next season of Version History [&#8230;]",
+      "published": "2026-07-18 12:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "腾讯升级发布具身智能全栈方案，ADP 4.0海外版正式上线",
+      "url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
+      "summary": "7月18日，在2026世界人工智能大会（WAIC）上，腾讯面向具身智能与智能体领域带来多项产品技术的升级发布。在具身智能领域，腾讯正式升级发布具身智能全栈方案，贯穿云底座、模型层、平台层与应用层，全面助力机器人本体及系统开发商提质提效；在智能体领域，基于个人与企业提效需求，推出差异化的全矩阵解决方案。其中，面向企业用户的腾讯云企业级智能体开发平台ADP4.0海外版正式上线，同时发布「十大行业百大场景生态计划」，目前该平台已落地30多个行业，覆盖智能客服、知识管理、媒体生产等业务场景；面向个人用户的腾讯WorkBuddy正式发布独立App，成为业界首个登陆iOS、Android、鸿蒙三端的通用智能体应用。",
+      "published": "2026-07-18 09:30",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "腾讯云智能体硬件生态提速，首款接入WorkBuddy AI记忆眼镜发布",
+      "url": "https://36kr.com/newsflashes/3900906468984713?f=rss",
+      "summary": "7月17日，在2026世界人工智能大会（WAIC）期间，腾讯云WorkBuddy与李未可科技宣布达成战略生态合作，并发布首款接入WorkBuddy的X-AI记忆眼镜。这也是WorkBuddy硬件生态迈出的关键一步。X-AI记忆眼镜搭载自研WakeeMemory OS，能够持续感知真实工作场景，整理后的信息，将自动同步至WorkBuddy。基于长期积累形成的工作记忆，WakeeMemory能够持续理解用户的工作习惯、任务优先级以及合作关系，把碎片化的信息整理成带有完整上下文的行动项，再交由WorkBuddy完成后续执行。",
+      "published": "2026-07-18 09:00",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "福特在美召回近39万辆Aviator和Explorer车型，涉及座椅部件安全问题",
+      "url": "https://36kr.com/newsflashes/3900845248415362?f=rss",
+      "summary": "美国国家公路交通安全管理局（NHTSA）7月18日公布，福特汽车公司正在召回部分2020至2027款Aviator和2020至2026款Explorer车型，涉及约38.8万辆汽车。由于二排外侧座椅便捷进入功能开关可能出现卡滞，导致座椅解锁、倾斜或滑动，车辆发生碰撞时可能无法有效约束乘员，增加受伤风险。",
+      "published": "2026-07-18 08:30",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "云迹科技发布“人机共生世界价值模型”",
+      "url": "https://36kr.com/newsflashes/3900822239758214?f=rss",
+      "summary": "在2026世界人工智能大会（WAIC）上，云迹科技发布“人机共生世界价值模型”。该模型基于超11亿次真实服务交互数据，旨在打造面向物理世界并以价值最优为目标的人机协同智能大脑。云迹的“世界价值模型”具备多机协同、长程规划、人机共生、价值驱动四大核心能力，其T1-T4架构，将复杂服务拆解为场景理解、任务规划、资源调度与原子执行四层，实现从规则控制到价值导向的智能决策。",
+      "published": "2026-07-18 08:15",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "国家数据局：全国已建成高质量数据集12万个",
+      "url": "https://36kr.com/newsflashes/3900807486293892?f=rss",
+      "summary": "记者今天从国家数据局了解到，我国持续加大优质数据供给，已建成高质量数据集12万个。截至今年6月底，全国已建成科学研究、工业制造、医疗卫生、教育教学等行业领域的高质量数据集总体量超1565拍字节（PB），较一季度末增长超60%，现有体量相当于中国国家图书馆数字资源总量的547倍左右，为人工智能发展提供有力支撑。与此同时，我国数据标注产业加快发展，有效支撑高质量数据集建设。截至今年6月底，四川成都、辽宁沈阳、安徽合肥、湖南长沙、海南海口、河北保定、山西大同七个数据标注先行先试城市标注规模超119拍字节（PB），数据标注从业人员达14万人。下一步，国家数据局将深化构建服务人工智能的高质量数据供给体系，以模型应用牵引数据供给、以数据驱动模型迭代，推动实现数据集有偿使用的价值闭环。",
+      "published": "2026-07-18 08:00",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "月之暗面有望最快6个月内赴港上市",
+      "url": "https://36kr.com/newsflashes/3900806713951873?f=rss",
+      "summary": "36氪获悉，月之暗面已通知投资者调整公司架构并筹备赴港IPO，有望最快在6个月内完成上市。7月16日，月之暗面发布全球参数规模最大的开源模型Kimi K3，在Code Arena上超过Claude Fable 5和GPT-5.6 So。",
+      "published": "2026-07-18 07:45",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "滴滴WAIC分享：AI升级出行体验，释放服务消费新潜力",
+      "url": "https://36kr.com/newsflashes/3900834871805827?f=rss",
+      "summary": "7月17日，在2026世界人工智能大会（WAIC）上，滴滴集团AI应用负责人刘佳奇发表演讲，介绍滴滴如何用AI重构出行新体验。她介绍，“AI小滴”能通过对自然语言理解，满足乘客个性化、多场景的打车需求，同时让车况佳、服务好的司机获得更多接单机会，促进供需的双向平衡。当更多个性化出行需求被AI释放，线下消费的效率与潜力也随之被激活。目前，小滴已拥有90多个标签，还陆续上线了“沿途搜”“多目的地规划”“周边推荐”“复杂地址上下车点推荐”等功能。",
+      "published": "2026-07-18 07:34",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "三区域外贸上半年创历史新高 京津冀达2.58万亿元",
+      "url": "https://36kr.com/newsflashes/3900806187075464?f=rss",
+      "summary": "近日，我国多个区域陆续公布今年上半年外贸数据，京津冀、黄河流域、东北地区货物贸易进出口均保持较快增长，并且规模创历史同期新高。据北京海关统计，今年上半年，京津冀区域进出口值2.58万亿元，同比增长16.2%、占全国进出口总值的10.1%。其中，6月份为首次突破1400亿元关口，创月度历史新高。今年上半年，黄河流域9省区货物贸易进出口总值达3.6万亿元，同比增长14.7%，规模创历史同期新高。海关统计数据显示，上半年东北地区外贸进出口总值6563亿元，同比增长8.6%，规模创历史同期新高。其中，出口增长较快、表现亮眼，机电产品、农产品出口分别增长18%、12.9%，分别占出口整体的48.3%、8.7%。",
+      "published": "2026-07-18 07:30",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "B2B行业首份AI智能体全球支付白皮书发布",
+      "url": "https://36kr.com/newsflashes/3900805390845571?f=rss",
+      "summary": "36氪获悉，寻汇Sunrate与万事达卡在WAIC现场联合发布白皮书《超越自动化：定义智能体驱动的全球支付》。该报告系统阐述了“AI智能体”如何重塑B2B跨境支付全链路。传统模式下，企业财务需人工核验海外供应商账户、比对合同发票、择汇并承担T+2以上结算滞后期。该报告指出，AI智能体可自动提取多格式票据、匹配采购订单、基于企业需求推荐最优支付路由与换汇窗口、经合规预审后在授权额度触发支付，并自动完成后续对账与异常标记，将财务人员从低附加值操作中解放。",
+      "published": "2026-07-18 07:15",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "中欧班列（福州）开行4年进出口总货值超16亿元",
+      "url": "https://36kr.com/newsflashes/3900680288093828?f=rss",
+      "summary": "昨天（17日），一列满载55个集装箱的中欧班列从福建福州江阴铁路物流园区缓缓出发，将经由二连浩特口岸前往东欧。福州海关数据显示，中欧班列（福州）运营四年来，已累计开行77列，发运货物7918标箱，进出口货值总额超16亿元。",
+      "published": "2026-07-18 07:00",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "Fine, electric mountain bikes don’t suck",
+      "url": "https://www.theverge.com/tech/966964/emtb-riders-are-not-cheaters",
+      "summary": "Cheater, I'd grumble between huffs as yet another e-bike rider casually skittered past me on a steep ascent. It's this purist attitude that, for years, has left me blind to one simple fact: electric mountain bikes are fun! My attitude adjustment came a few weeks ago, the very first time I rode an Amflow PX [&#8230;]",
+      "published": "2026-07-18 07:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Neil Rimer thinks the AI money is coming back out",
+      "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+      "summary": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.",
+      "published": "2026-07-18 04:47",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "小米 NAS 拆解与初步上手：它会是你的第一台 NAS 吗？",
+      "url": "https://sspai.com/post/112398",
+      "summary": "小米智能存储最适合两类用户：家里已经有较多米家设备的人，以及小米手机用户。<a href=\"https://sspai.com/post/112398\" target=\"_blank\">查看全文</a>",
+      "published": "2026-07-18 03:10",
+      "source": "sspai.com",
+      "lang": "zh_cn",
       "category": "科技"
     },
     {
@@ -57,29 +345,11 @@
       "category": "科技"
     },
     {
-      "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
-      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
-      "summary": "",
-      "published": "2026-07-17 22:26",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
       "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
       "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
       "summary": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.",
       "published": "2026-07-17 22:12",
       "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Taylor Farms pulls iceberg lettuce from the US market after cyclosporiasis outbreak",
-      "url": "https://www.theverge.com/science/967563/cyclospora-taylor-farms-taco-bell-iceberg-lettuce",
-      "summary": "Food producer Taylor Farms released a statement on the Cyclospora outbreak Friday, confirming that it's \"voluntarily removing all iceberg lettuce sourced from central Mexico from the US market.\" Reuters reports that, according to a source, Taylor Farms told customers like Yum Brands owner Taco Bell and the food distributor Sysco on Thursday to pull shredded [&#8230;]",
-      "published": "2026-07-17 22:09",
-      "source": "www.theverge.com",
       "lang": "en",
       "category": "科技"
     },
@@ -102,15 +372,6 @@
       "category": "科技"
     },
     {
-      "title": "Shark&#8217;s versatile ChillPill cooling system is back to its best price",
-      "url": "https://www.theverge.com/gadgets/967512/shark-chillpill-personal-fan-and-cooling-system-deal-sale",
-      "summary": "Portable fans are one of the easiest ways to stay cool during the summer, and you don&#8217;t have to spend much to find a decent one. If you&#8217;re looking for something more versatile, though, Shark&#8217;s ChillPill Personal Fan and Cooling System combines a rechargeable fan with a dry-touch evaporative mister in a design that can [&#8230;]",
-      "published": "2026-07-17 20:15",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
       "title": "AI-driven memory crunch jolts India’s smartphone market",
       "url": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
       "summary": "India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy.",
@@ -120,273 +381,12 @@
       "category": "科技"
     },
     {
-      "title": "Apple and Google ordered to purge ‘nudify’ apps from App Stores",
-      "url": "https://techcrunch.com/2026/07/17/apple-and-google-ordered-to-purge-nudify-apps-from-app-stores/",
-      "summary": "In letters sent to Apple and Google, San Francisco City Attorney David Chiu said that both companies have long been aware that they are hosting apps in violation of state law.",
-      "published": "2026-07-17 19:49",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "The Zilog Z80 has turned 50",
-      "url": "https://goliath32.com/blog/z80.html",
-      "summary": "",
-      "published": "2026-07-17 19:41",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "TikTok is testing an AI likeness detection tool",
-      "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
-      "summary": "TikTok is starting to test an opt-in tool that scans for AI likenesses and lets creators report them to the company, as spotted by social media consultant Matt Navarra. The tool is initially being tested with \"some\" US creators, TikTok US spokesperson Zachary Kizer tells The Verge. YouTube has been working on a similar tool [&#8230;]",
-      "published": "2026-07-17 19:34",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation",
-      "url": "https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/",
-      "summary": "The potential deal highlights a growing trend of complex, multi-stage funding rounds that mask true entry prices.",
-      "published": "2026-07-17 19:22",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Pebble founder Eric Migicovsky says his 30-day warranty is all about trust",
-      "url": "https://www.theverge.com/gadgets/967471/pebble-smartwatch-warranty-repairs-migicovsky-interview",
-      "summary": "Pebble founder Eric Migicovsky says buyers of its new e-paper smartwatches should know what they're signing up for and trust Pebble to make things right if they run into issues, despite the short warranty. \"I think the most important thing is trust,\" Migicovsky told me in an interview this week. \"Do people trust the product [&#8230;]",
-      "published": "2026-07-17 19:14",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Apple Music is getting a price hike",
-      "url": "https://www.theverge.com/tech/967379/apple-music-price-increase",
-      "summary": "Apple Music is more expensive now. In the US, an individual plan now costs $11.99 per month, a $1 bump up from the previous $10.99 price. A family plan now costs $19.99 per month, up from $16.99, and a student plan costs $6.99 per month, up from $5.99. Apple, in a statement to Music Business [&#8230;]",
-      "published": "2026-07-17 18:14",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "I replaced my space heater and ceiling fan with one Dyson appliance",
-      "url": "https://techcrunch.com/2026/07/17/i-replaced-my-space-heater-and-ceiling-fan-with-one-dyson-appliance/",
-      "summary": "Designed for year-round comfort, the Dyson Hot+Cool HF1 combines quiet operation and simple controls with Dyson's signature bladeless design.",
-      "published": "2026-07-17 18:00",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
-      "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
-      "summary": "Apple&#160;filed a trade secrets&#160;lawsuit against OpenAI&#160;last Friday, and&#160;it&#8217;s&#160;not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI&#8217;s chief hardware officer and claims more than 400 former Apple employees now work at the company.&#160;OpenAI&#8217;s response so far&#160;has been carefully hedged, and the timing&#160;couldn&#8217;t&#160;be worse with the company&#160;reportedly eyeing&#160;an IPO [&#8230;]",
-      "published": "2026-07-17 17:45",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Learning a few things about running SQLite",
-      "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
-      "summary": "",
-      "published": "2026-07-17 17:45",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Apple’s plot to crush OpenAI",
-      "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
-      "summary": "Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done. So what does Apple really want here, and why is it picking such a public fight with OpenAI? On this episode of The [&#8230;]",
-      "published": "2026-07-17 17:41",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Thanks HN for 15 years of support and helping me find my life's work",
-      "url": "https://news.ycombinator.com/item?id=48949551",
-      "summary": "",
-      "published": "2026-07-17 16:57",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Asus’ top-end 4K QD-OLED gaming monitor is $400 off",
-      "url": "https://www.theverge.com/gadgets/966907/asus-rog-swift-qd-oled-marathon-steam-deal-sale",
-      "summary": "The Asus ROG Swift 32-inch 4K QD-OLED gaming monitor has almost everything I want in a high-end gaming monitor, most notably a QD-OLED panel for inky black levels and vivid colors that go beyond what’s possible on an LCD screen. Amazon, Best Buy, and B&#38;H Photo have this model on sale for $899.99 (usually $1,299.99). [&#8230;]",
-      "published": "2026-07-17 16:47",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "FBI arrests man accused of using Steam games to drain victims’ crypto wallets",
-      "url": "https://techcrunch.com/2026/07/17/fbi-arrests-man-accused-of-using-steam-games-to-drain-victims-crypto-wallets/",
-      "summary": "Prosecutors accused 21-year-old student Zyaire Wilkins of publishing on Steam several fake video games that contained malware, infecting thousands of victims, and stealing crypto from some of them.",
-      "published": "2026-07-17 16:18",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Parents want safer phones for kids. These companies are answering the call.",
-      "url": "https://techcrunch.com/2026/07/17/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
-      "summary": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home phones.",
-      "published": "2026-07-17 16:12",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Samsung&#8217;s redesigned Z Fold 8 with a wide display just leaked",
-      "url": "https://www.theverge.com/tech/967198/samsung-galaxy-z-fold-8-images-specs-leak",
-      "summary": "Leaker Evan Blass shared images of Samsung's redesigned Galaxy Z Fold 8 just days before the July 22nd launch event where Samsung is expected to officially announce the phone. The leaked images show a shorter, wider foldable matching earlier leaks of the Z Fold 8. They also reveal some of its specs, including a Qualcomm [&#8230;]",
-      "published": "2026-07-17 15:52",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Is America ready for this quirky Jeep-looking EV that can park itself?",
-      "url": "https://www.theverge.com/transportation/966498/chip-motors-low-speed-ev-remote-park-price",
-      "summary": "Are we living through a small car renaissance? There's the Slate Truck, Amble's dune buggy, and the Fiat Topolino, as well as a whole galaxy of kei cars and trucks from Japan that have their own built-in fan base. While microcar sales in the US are still as tiny as the vehicles themselves, there are [&#8230;]",
-      "published": "2026-07-17 15:48",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Florida man arrested for allegedly stealing over $200,000 in crypto using Steam game malware",
-      "url": "https://www.theverge.com/games/967174/steam-game-malware-cryptostealer-arrest",
-      "summary": "Federal authorities have arrested a Florida man suspected of stealing at least $220,000 in crypto through malware-infected Steam games, as reported earlier by local news outlet Local10. In the complaint, officials accuse 21-year-old Zyaire Wilkins and co-conspirators of launching eight malware-embedded games from around May 2024 to February 2026, allowing them to infect about 8,000 [&#8230;]",
-      "published": "2026-07-17 15:34",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
-      "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
-      "summary": "",
-      "published": "2026-07-17 14:06",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "快看加速原创漫画IP孵化：未来一年将推出100+部精品漫画",
-      "url": "https://36kr.com/newsflashes/3899755294312329?f=rss",
-      "summary": "36氪获悉，7月17日，在第五届KKWORLD快看漫乐园现场，快看漫画成功举办2026快看IP生态联盟发布会。发布会上，快看女频统筹负责人鲁韵子分享了快看漫画的内容长跑方法论。她表示，漫画仍是年轻一代最喜爱的创作与表达形式之一，未来也依然会是。快看未来一年将推出100+部精品漫画，持续孵化能被年轻用户长期喜欢的原创漫画IP。",
-      "published": "2026-07-17 13:16",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "腾讯智能体集中亮相世界人工智能大会",
-      "url": "https://36kr.com/newsflashes/3899736051484552?f=rss",
-      "summary": "36氪获悉，7月17日，2026世界人工智能大会暨人工智能全球治理高级别会议在上海启幕。连续九届参展的腾讯以“Hey，我的AI Buddy”为主题，集中展示AI在各领域进化为生产生活好搭档的跃进，与本届大会“智能伙伴 共创未来”的主题相契。",
-      "published": "2026-07-17 12:56",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "渝开发：拟2.25亿元收购黄葛晚渡公司51%股权",
-      "url": "https://36kr.com/newsflashes/3899707788674947?f=rss",
-      "summary": "36氪获悉，渝开发公告，为填补公司主城核心区高端住宅产品空白，优化“刚需与高端并举”产品结构，公司拟以现金方式收购公司关联方重庆恒诚融智投资管理有限公司持有的重庆黄葛晚渡置业发展有限公司（简称“黄葛晚渡公司”）51%股权，交易金额合计为2.25亿元。交易完成后，黄葛晚渡公司成为公司控股子公司，纳入公司合并报表范围。",
-      "published": "2026-07-17 12:48",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "奥精医疗：公司人工骨修复材料在泰国获得注册证",
-      "url": "https://36kr.com/newsflashes/3899707200505734?f=rss",
-      "summary": "36氪获悉，奥精医疗公告，公司于2026年5月向泰国食品药品监督管理局（TFDA）递交了公司人工骨修复材料的注册申报资料。公司于近日收到泰国食品药品监督管理局通知，公司人工骨修复材料获得批准。",
-      "published": "2026-07-17 12:39",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "热门中概股美股盘前普跌，小鹏集团跌超5%",
-      "url": "https://36kr.com/newsflashes/3899706621659016?f=rss",
-      "summary": "36氪获悉，热门中概股美股盘前普跌，截至发稿，B站、小鹏集团跌超5%，理想汽车、蔚来跌超3%，阿里巴巴、微博、拼多多跌超2%，京东跌0.37%。",
-      "published": "2026-07-17 12:26",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "美股大型科技股盘前普跌，SpaceX跌超4%",
-      "url": "https://36kr.com/newsflashes/3899705053120134?f=rss",
-      "summary": "36氪获悉，美股大型科技股盘前普跌，截至发稿，SpaceX跌超4%，英特尔跌超3%，美光科技、谷歌、英伟达跌超2%，微软、Meta、亚马逊跌超1%，苹果跌0.11%。",
-      "published": "2026-07-17 12:25",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "湖南裕能：拟投资240亿元建设矿化一体新能源电池材料循环产业项目",
-      "url": "https://36kr.com/newsflashes/3899699021465223?f=rss",
-      "summary": "36氪获悉，湖南裕能公告，公司拟在贵州省瓮安县投资建设贵州裕能(瓮安)矿化一体新能源电池材料循环产业项目，总投资约240亿元。项目规划建设周期预计5年，计划在正式开始建设后的18个月内投资50-80亿元，后续将根据市场需求调整实施节奏。项目主要内容包括80万吨磷酸铁锂、100万吨磷酸铁及其上游产业链，涉及磷源、铁源、碳酸锂加工及锂电池回收等。本次投资旨在完善一体化布局，巩固行业龙头地位，但存在项目建设、财务资金、市场需求及管理风险。",
-      "published": "2026-07-17 12:18",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "深交所：本周对近期股价严重异常波动的“万邦医药”进行重点监控",
-      "url": "https://36kr.com/newsflashes/3899692871812744?f=rss",
-      "summary": "36氪获悉，深交所发布深市监管动态，7月13日至7月17日，本所共对173起证券异常交易行为采取了自律监管措施，涉及盘中拉抬打压、虚假申报等异常交易情形；对近期股价严重异常波动的“万邦医药”进行重点监控；共对19起上市公司重大事项进行核查，并上报证监会4起涉嫌违法违规案件线索。",
-      "published": "2026-07-17 12:12",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "*ST萃华：“黄金大鳄周六福及矿业大佬已经要注资”等传闻为不实信息",
-      "url": "https://36kr.com/newsflashes/3899684359112576?f=rss",
-      "summary": "36氪获悉，*ST萃华公告，近期，公司关注到东方财富网等股吧社区出现关于“政府已经出面谈的差不多了，银行债转股”、“黄金大鳄周六福及矿业大佬已经要注资”等传闻，经核实董事会认为上述传闻为不实信息。公司目前无正在筹划中的并购重组或债转股事宜，未来三个月内公司亦无并购重组计划或债转股计划。",
-      "published": "2026-07-17 12:04",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "保济元和（TCM）有限公司递表港交所",
-      "url": "https://36kr.com/newsflashes/3899681837254272?f=rss",
-      "summary": "36氪获悉，据港交所文件，保济元和（TCM）有限公司向港交所提交上市申请书，独家保荐人为华富建业企业融资。",
-      "published": "2026-07-17 12:01",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
       "title": "本周看什么 | 最近值得一看的 10 部作品",
       "url": "https://sspai.com/post/112444",
       "summary": "📅本周新预告《蓦然回首》正式预告7月15日，电影《蓦然回首》发布了正式预告，将于9月11日在日本上映。是枝裕和执导、编剧、剪辑，出口夏希、莳田彩珠主演，菅田将晖、宫藤官九郎、野吕佳代、山田真步等出演， ...<a href=\"https://sspai.com/post/112444\" target=\"_blank\">查看全文</a>",
       "published": "2026-07-17 09:57",
       "source": "sspai.com",
       "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
-      "url": "https://news.ycombinator.com/item?id=48945241",
-      "summary": "",
-      "published": "2026-07-17 09:42",
-      "source": "Hacker News",
-      "lang": "en",
       "category": "科技"
     },
     {
@@ -462,12 +462,12 @@
       "category": "科技"
     },
     {
-      "title": "Leitra 诞生记：一次未完成的实践",
-      "url": "https://sspai.com/post/112077",
-      "summary": "Leitra 的名字来自我最欣赏的摄影师索尔·雷特（Saul Leiter）。它是一款为数码照片生成接触样张（Contact Sheet）和图像序列的策展工具，受到马格南摄影师创作方式的启发，关注图像之间的停顿与联系，也探索面向未来、与现实互动的创作方式。<a href=\"https://sspai.com/post/112077\" target=\"_blank\">查看全文</a>",
-      "published": "2026-07-15 09:00",
-      "source": "sspai.com",
-      "lang": "zh_cn",
+      "title": "Speech Recognition and TTS in less than 500kb",
+      "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
+      "summary": "",
+      "published": "2026-07-14 19:25",
+      "source": "Hacker News",
+      "lang": "en",
       "category": "科技"
     }
   ]
