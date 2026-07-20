@@ -1,77 +1,329 @@
 {
-  "last_updated": "2026-07-19 01:22:49",
+  "last_updated": "2026-07-20 02:19:44",
   "total": 52,
   "articles": [
     {
-      "title": "IPO排队券商“半年考” 东莞证券上半年净利大增超70%",
-      "url": "https://36kr.com/newsflashes/3901842262132355?f=rss",
-      "summary": "36氪获悉，据券商中国，正在IPO排队的东莞证券率先报喜。近日，锦龙股份披露东莞证券上半年未经审计业绩显示，该公司今年以来业绩继续实现稳健增长，净利润8.2亿元同比增长超七成。东莞证券的业绩增长，也为其参股股东锦龙股份的扣非净利润扭亏提供了关键支撑。目前排队IPO券商共有4家，分别为东莞证券、财信证券、华龙证券和渤海证券。",
-      "published": "2026-07-19 01:14",
+      "title": "上半年我国集成电路出口额同比增长88.7%",
+      "url": "https://36kr.com/newsflashes/3903354555893634?f=rss",
+      "summary": "7月20日，工业和信息化部总工程师王卫明在国新办新闻发布会上说，全球人工智能、绿色低碳转型等需求旺盛，上半年，以人民币计价的集成电路、电子元件、风力发电机组等产品出口额同比分别增长88.7%、62.6%和35.6%。（央视新闻）",
+      "published": "2026-07-20 02:17",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "阶跃与上海期智研究院共建智能体前沿研究院",
-      "url": "https://36kr.com/newsflashes/3901840300754822?f=rss",
-      "summary": "据阶跃官微消息，7月18日，阶跃星辰与上海期智研究院宣布正式达成合作，双方将共同设立智能体前沿研究院，围绕智能体网络及经济原理、AI Safety等方向开展联合研究，探索Agent时代的基础理论、核心技术、标准体系与产业范式。（每经网）",
-      "published": "2026-07-19 01:00",
+      "title": "工信部：前5个月规模以上工业企业营业收入利润率5.66%，为2024年以来月度累计最高水平",
+      "url": "https://36kr.com/newsflashes/3903353678546823?f=rss",
+      "summary": "7月20日，国务院新闻办公室举行新闻发布会，介绍2026年上半年工业和信息化发展情况。工业和信息化部总工程师王卫明表示，上半年工业生产稳定增长，规模以上工业增加值同比增长5.4%，41个工业大类行业当中有32个保持增长，工业企业盈利能力持续改善。前5个月规模以上工业企业营业收入利润率5.66%， 为2024年以来月度累计最高水平。全球人工智能绿色低碳转型等需求旺盛。上半年以人民币计价的集成电路、电子元件、风力发电机组等产品，出口额同比分别增长88.7%，62.6%和35.6%。（证券时报）",
+      "published": "2026-07-20 02:16",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "Transcribe.cpp",
-      "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+      "title": "本田与广汽签署合资续约协议",
+      "url": "https://36kr.com/newsflashes/3903349506229888?f=rss",
+      "summary": "36氪获悉，本田中国宣布，7月，本田与广汽就双方旗下广汽本田汽车有限公司合资合作项目正式签署战略续约协议，在股比保持不变的同时将合作期限延长至2038年。",
+      "published": "2026-07-20 02:12",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "工信部：上半年规模以上制造业企业AI技术应用普及率超过30%",
+      "url": "https://36kr.com/newsflashes/3903346632787840?f=rss",
+      "summary": "7月20日，国务院新闻办公室举行新闻发布会，介绍2026年上半年工业和信息化发展情况。工业和信息化部总工程师王卫明表示，上半年，工业和信息化领域创新能力不断增强，深化拓展人工智能+，规模以上制造业企业人工智能技术应用普及率超过30%，人工智能开源大模型全球累计下载量突破100亿次。（证券时报）",
+      "published": "2026-07-20 02:09",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "工信部：上半年规模以上工业增加值同比增长5.4%",
+      "url": "https://36kr.com/newsflashes/3903344321742722?f=rss",
+      "summary": "7月20日，国务院新闻办公室举行新闻发布会，介绍2026年上半年工业和信息化发展情况。工业和信息化部总工程师王卫明表示，上半年工业和信息化持续向新向优发展，规模以上工业增加值同比增长5.4%，工业对经济增长贡献率超过35%，工业企业效益明显改善，前5个月规模以上工业企业利润总额同比增长18.8%。（证券时报）",
+      "published": "2026-07-20 02:07",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "韩国交易所暂停KOSDAQ市场的程序化卖盘",
+      "url": "https://36kr.com/newsflashes/3903335198918532?f=rss",
+      "summary": "36氪获悉，韩国交易所启动程序化卖盘熔断机制，暂停KOSDAQ市场的程序化卖盘。",
+      "published": "2026-07-20 01:57",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "商汤大装置与国信数算签署全国一体化算力网试验场战略合作",
+      "url": "https://36kr.com/newsflashes/3903326224254592?f=rss",
+      "summary": "36氪获悉，WAIC 2026期间，商汤大装置与国信数算签署全国一体化算力网试验场战略合作，与多家能源企业启动“算电协同战略合作”，并联合众多创新平台发起“AI科创加速计划”。",
+      "published": "2026-07-20 01:48",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "泡泡玛特创始人王宁与投资人段永平纽约会面",
+      "url": "https://36kr.com/newsflashes/3903316848740233?f=rss",
+      "summary": "近日，知名投资人段永平在社交平台发布动态，于纽约与泡泡玛特（09992.HK）创始人王宁线下相聚。二人一同参观Labubu十周年全球巡展纽约站，在IP展品前参观合影；后续共同到场观看世界杯决赛，分别身着西班牙、阿根廷国家队球衣，佩戴Labubu足球主题挂件合照留念。段永平自今年起建仓泡泡玛特，目前为泡泡玛特第二大股东。（澎湃）",
+      "published": "2026-07-20 01:39",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "沪指涨超1%重返3800点上方",
+      "url": "https://36kr.com/newsflashes/3903315115181955?f=rss",
+      "summary": "36氪获悉，创业板指涨超3%，沪指涨超1%重返3800点上方。",
+      "published": "2026-07-20 01:37",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "海康威视：董事长提议实施2026年中期利润分配方案，拟10派5.5元",
+      "url": "https://36kr.com/newsflashes/3903310908114819?f=rss",
+      "summary": "36氪获悉，海康威视公告，公司董事会于7月19日收到公司董事长胡扬忠关于制定公司2026年中期利润分配方案的提议，以公司未来实施2026年中期利润分配方案的股权登记日的总股本为基数，向全体股东每10股派发现金红利5.50元（含税），不送红股，不以资本公积转增股本。",
+      "published": "2026-07-20 01:33",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "“博顿光电”完成超亿元人民币B+轮融资",
+      "url": "https://36kr.com/newsflashes/3903309004031879?f=rss",
+      "summary": "36氪获悉，“博顿光电”完成超亿元人民币B+轮融资，本轮投资方为毅达资本、中信建投资本、达武创投、友谊时光、南控基金，IO资本担任独家财务顾问。该轮资金将用来引进高端人才、研发新产品，以及针对已经出现爆发趋势的重点行业领域，加快在综合解决方案、市场推广以及产能建设方面的投入速度。",
+      "published": "2026-07-20 01:31",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "A股三大指数集体高开，长盈通涨超13%",
+      "url": "https://36kr.com/newsflashes/3903304788985732?f=rss",
+      "summary": "36氪获悉，A股三大指数集体高开，沪指高开0.73%，深成指高开1.18%，创业板指高开2.2%；通信设备、电脑硬件、能源设备板块领涨，长盈通涨超13%，科力股份涨超8%，协创数据涨超5%；制药、家电、生物科技板块跌幅居前，新赣江、万邦医药跌超15%，国光电器跌超2%。",
+      "published": "2026-07-20 01:26",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "派早报：锂电池消费税分阶段恢复征收",
+      "url": "https://sspai.com/post/112498",
+      "summary": "<p>锂电池消费税分阶段恢复征收</p><p>白宫提词器操作员利用内幕信息下注被查</p><p>LG 显示器连接电脑后自动安装广告程序</p><p>新一代豆包手机不再模拟点击操作</p><p>亚马逊错发数亿美元云服务账单</p><p>京沪线试点 12306 预约购票，最早提前 60 天</p><p>看看就行的小道消息</p><p>少数派的近期动态</p><p>你可能错过的好文章</p><a href=\"https://sspai.com/post/112498\" target=\"_blank\">查看全文</a>",
+      "published": "2026-07-19 23:11",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
+      "url": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
+      "summary": "Netflix revealed that it paid $587 million in cash for InterPositive, a startup co-founded by Ben Affleck.",
+      "published": "2026-07-19 21:45",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Biggest Probabilistic Computer Turns Noise into Answers",
+      "url": "https://spectrum.ieee.org/biggest-probabilistic-computer",
       "summary": "",
-      "published": "2026-07-19 00:38",
+      "published": "2026-07-19 21:42",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-      "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
-      "summary": "",
-      "published": "2026-07-18 22:13",
-      "source": "Hacker News",
+      "title": "What to watch for after Jensen Huang’s Japan visit",
+      "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+      "summary": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.",
+      "published": "2026-07-19 21:16",
+      "source": "techcrunch.com",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Judge a book by its first pages",
-      "url": "https://uncovered.ink",
-      "summary": "",
-      "published": "2026-07-18 22:02",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Classic Amiga titles, free to download",
-      "url": "https://amigafreeware.downer.tech/",
-      "summary": "",
-      "published": "2026-07-18 21:55",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day",
-      "url": "https://www.neatnik.net/hardcore-indieweb",
-      "summary": "",
-      "published": "2026-07-18 21:45",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
-      "summary": "Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers. The man has written countless novels, screenplays, pieces of journalism, started McSweeney's, and founded multiple schools and nonprofits that support writers and the arts more broadly. So one might expect he'd roll into the company's offices and offer [&#8230;]",
-      "published": "2026-07-18 20:54",
+      "title": "This unpronounceable series of glyphs is an incredible side project from Kieran Hebden (aka Four Tet)",
+      "url": "https://www.theverge.com/entertainment/967696/four-tet-wingdings-album-review",
+      "summary": "Just why? &#645;&#865;&#865;&#865;&#865;&#865;&#865;&#865;&#865;&#865;&#865;&#865;(&#824;&#802;&#795;&#828;&#798;&#813;&#843;&#837;)&#824;&#858;&#816;&#859;&#788;&#830;&#768;&#831;&#850;&#834;:&#820;&#851;&#798;&#785;&#780;&#770;&#774;&#778;&#843;&#768;:&#824;&#846;&#799;&#815;&#770;&#787;&#780;&#12288;&#1161;&#12288;&#12288;&#12288;&#12288;&#12288;&#865;&#12288;&#862;&#12288;&#862;&#12288;&#862;&#12288;&#1161;&#9679;&#8195;&#4032;&#8195;&#9679;&#8195;&#8195;&#4032;&#8195;&#8195;&#9679;&#12288;&#12288;&#12288;&#1161;&#8413; &#12288;&#12288;&#12288;&#8413;&#866; &#862;&#12288;&#12288;&#12288;&#856;&#12288;&#862;&#8413;&#789; &#866;&#12288;&#12288;&#12288;&#12288;&#795;&#12288;&#8413; &#12288;&#12288;&#12288;&#824;&#12288;&#801;&#12288;&#12288;&#866;&#8413;&#807; &#12288;&#865;&#12288;&#865;&#12288;&#12288;&#768;&#12288;&#807;&#12288;&#802;&#8413;&#860; &#12288; &#12288;&#1161;&#12288;&#12288;&#862;&#12288;&#862;&#12288;&#8413;&#862; &#12288;&#862;&#12288;&#865;&#8413; &#8195;&#8413;&#1161;&#1160;&#1161;&#1160;&#1161;&#1160;&#1161;&#1160;&#1161;&#1160;&#1161; :&#822;&#802;&#857;&#857;&#853;&#800;&#809;&#838;(&#823;&#814;&#845;&#858;&#811;&#858;&#834;&#781;)&#821;&#819;&#791;&#778;(&#12288;&#799;&#798;&#797;&#796;&#793;&#792;&#791;&#790;&#1161;&#821;&#820;&#808;&#807;&#802;&#801;&#828;&#827;&#826;&#825;&#819;&#818;&#817;&#816;&#815;&#814;&#813;&#812;&#811;&#810;&#809;&#806;&#805; What am I supposed to do with this? It's un-Googleable. Unpronounceable. It doesn't even render the same way on various platforms. It looks one way on YouTube Music. Another on Apple Music. And yet another on Bandcamp. Even the artist name &#10446;&#10311;&#41594;&#4314;&#3901;&#2951;&#8226;&#795;)&#3968;&#9694; [&#8230;]",
+      "published": "2026-07-19 21:02",
       "source": "www.theverge.com",
       "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "A new Intel Itanium (IA-64) emulator that boots Windows",
+      "url": "https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html",
+      "summary": "",
+      "published": "2026-07-19 20:50",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Kodak EC35 is a dirt-cheap point-and-shoot film camera",
+      "url": "https://www.theverge.com/gadgets/967687/kodak-ec35-point-and-shoot-film-camera",
+      "summary": "Following the success of its $99 Kodak-branded Snapic A1, Reto Project is releasing the Kodak EC35, an even more affordable 35mm film camera for just $34.99. The EC35 certainly isn't fancy. Its 25mm acrylic lens with a fixed f/10 aperture and 1/100 shutter speed basically put it on par with a drugstore disposable. The fact [&#8230;]",
+      "published": "2026-07-19 19:26",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+      "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+      "summary": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.",
+      "published": "2026-07-19 19:24",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "I hate that I don’t hate this song made with Suno",
+      "url": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
+      "summary": "I would never go so far as to say there's no place for AI in music (I'm a fan of Holly Herndon, after all). But I generally find music made with generative AI to be offensively boring, especially the outputs of Suno. So I'm having a bit of a tough time processing the fact that [&#8230;]",
+      "published": "2026-07-19 17:35",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The FBI reportedly won’t investigate ICE anymore",
+      "url": "https://www.theverge.com/policy/967674/fbi-wont-investigate-ice-assaults",
+      "summary": "According to the New York Times, federal agents have been told that the FBI will no longer be investigating confrontations involving ICE agents. The DHS and DOJ denied the change in policy to The Times. The reported change in guidance follows renewed scrutiny of violence by ICE agents who have killed two people in the [&#8230;]",
+      "published": "2026-07-19 16:42",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "TechCrunch Mobility: The battle over robotaxi rules",
+      "url": "https://techcrunch.com/2026/07/19/techcrunch-mobility-the-battle-over-robotaxi-rules/",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+      "published": "2026-07-19 16:05",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Orchid is a delightfully retro and approachable hipster synth",
+      "url": "https://www.theverge.com/entertainment/967485/telepathic-instruments-orchid-tame-impala-synth-review",
+      "summary": "In 2017, I bought an old Magnus chord organ off Craigslist for $10. It's one of my favorite music gear purchases. Electric chord organs let you play full chords with just a press of a button, making them perfect for aspiring singer-songwriters or fooling around at home. But chord organs largely fell out of favor [&#8230;]",
+      "published": "2026-07-19 15:15",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Birdfy&#8217;s solar-powered smart feeder is down to one of its best prices",
+      "url": "https://www.theverge.com/gadgets/967336/birdfy-feeder-ai-powered-smart-bird-feeder-with-camera-deal-sale",
+      "summary": "Birdfy has kicked off a midyear sale, taking up to 40 percent off a range of its smart bird feeders. One of the best deals is on Netvue’s Birdfy Feeder AI-Powered Smart Bird Feeder with Camera, which has dropped to $149.99 at Birdfy and is its second-best price to date. The bundle, which includes a [&#8230;]",
+      "published": "2026-07-19 15:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
+      "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+      "summary": "\"Everybody knows the Greeks are inside.\"",
+      "published": "2026-07-19 14:52",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+      "url": "https://news.ycombinator.com/item?id=48968606",
+      "summary": "",
+      "published": "2026-07-19 14:41",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "US Marshals arrest the Tate brothers in Miami",
+      "url": "https://www.theverge.com/policy/967651/us-marshals-arrest-the-tate-brothers-in-miami",
+      "summary": "The manosphere influencers Andrew and Tristan Tate were arrested Saturday in Miami by US Marshals in relation to new rape and sex trafficking charges in England. According to the Associated Press, British authorities are seeking the brothers' extradition. The new charges facing Andrew Tate include seven counts of rape, three of sex trafficking, three counts [&#8230;]",
+      "published": "2026-07-19 14:20",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+      "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+      "summary": "Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more.",
+      "published": "2026-07-19 14:00",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The Clapper was a bad smart home gadget — and a viral sensation",
+      "url": "https://www.theverge.com/podcast/967642/the-clapper-version-history",
+      "summary": "Clap on. Clap off. Well, more like, Clap, pause for half a beat but no longer because otherwise it'll stop hearing you, clap again because you waited too long, clap louder and faster, that didn't work, clap two more times, and suddenly: on. The Clapper didn't always work - and even when it did, it [&#8230;]",
+      "published": "2026-07-19 13:28",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The future of physical games is not looking great",
+      "url": "https://www.theverge.com/column/967179/physical-discs-gta-vi-playstation-rockstar-games",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on video games and physical media, follow Jay Peters. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started As a kid, I relished trips to [&#8230;]",
+      "published": "2026-07-19 12:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Minecraft: Java Edition now uses SDL3",
+      "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
+      "summary": "",
+      "published": "2026-07-19 11:48",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The grueling, 630-mile road race where the only fuel is sunlight",
+      "url": "https://www.theverge.com/transportation/966701/solar-car-challenge-high-school-student-race-texas",
+      "summary": "On July 19th, dozens of teams of high school students will begin a five-day, 630-mile road race from Fort Worth to Fort Stockton in Texas. But this is not your typical contest. The students design and build the cars themselves, using off-the-shelf parts and 3D printed materials. The winner is the team that accumulates the [&#8230;]",
+      "published": "2026-07-19 11:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+      "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+      "summary": "",
+      "published": "2026-07-19 10:34",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Claude Code uses Bun written in Rust now",
+      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+      "summary": "",
+      "published": "2026-07-19 10:03",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "TDS REVIEW | 索尼 WH-1000XX 无线降噪头戴耳机体验",
+      "url": "https://sspai.com/post/112374",
+      "summary": "这篇文章是TDSStudio在少数派上的第26篇文章，依然是全平台首发。1000XTheColleXion，这是索尼1000X系列的十周年纪念产品线。完全想不到跟群友们畅聊MDR-1000X的时代已经 ...<a href=\"https://sspai.com/post/112374\" target=\"_blank\">查看全文</a>",
+      "published": "2026-07-19 03:00",
+      "source": "sspai.com",
+      "lang": "zh_cn",
       "category": "科技"
     },
     {
@@ -89,24 +341,6 @@
       "summary": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
       "published": "2026-07-18 18:51",
       "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Google might not kneecap the Pixel 11a with an old processor",
-      "url": "https://www.theverge.com/tech/967612/google-pixel-11a-tensor-g6-leak",
-      "summary": "Mystic Leaks suggests that the Pixel 11a will return to featuring a flagship-grade processor with the Tensor G6. Rather than the Tensor G5 found in the Pixel 10 and 10 Pro, the Pixel 10a shipped with the previous generation Tensor G4. That was a huge disappointment since, typically, the Pixel a lineup kept the modern [&#8230;]",
-      "published": "2026-07-18 18:25",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Google is open-sourcing its 3D emoji",
-      "url": "https://www.theverge.com/design/967606/google-open-source-3d-emoji",
-      "summary": "Now, if you want to, you can use Google's 3D emoji in your own creations. The company shared some details about how it went about designing the little pictograms and why, as part of World Emoji Day on Friday. Things you might not necessarily worry about in a 2D illustration suddenly become very important when [&#8230;]",
-      "published": "2026-07-18 16:40",
-      "source": "www.theverge.com",
       "lang": "en",
       "category": "科技"
     },
@@ -129,182 +363,11 @@
       "category": "科技"
     },
     {
-      "title": "If You Build It, They Will Come",
-      "url": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
-      "summary": "",
-      "published": "2026-07-18 15:37",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "GoPro&#8217;s discounted Max 2 bundle includes $100 worth of accessories",
-      "url": "https://www.theverge.com/gadgets/967311/gopro-max2-360-degree-action-cam-accessory-bundle-deal-sale",
-      "summary": "A 360-degree camera is a great way to ensure you capture every bit of the action, but prices tend to be on the high end for models worth your attention. That’s why it’s notable that the GoPro Max 2 accessory bundle is discounted to $369 at Amazon (a dollar more at Best Buy and GoPro). [&#8230;]",
-      "published": "2026-07-18 15:00",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
       "title": "A 600-mile road trip (and data) proves EV charging doesn’t suck anymore",
       "url": "https://techcrunch.com/2026/07/18/a-600-mile-road-trip-and-data-proves-ev-charging-doesnt-suck-anymore/",
       "summary": "A recent road trip in an EV revealed just how much faster and more reliable DC Fast charging has become in the U.S.",
       "published": "2026-07-18 14:32",
       "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "The Guardian’s Carter Sherman fondly remembers being terrified by Ocarina of Time",
-      "url": "https://www.theverge.com/report/967583/guardian-carter-sherman-podcast-interview",
-      "summary": "Carter Sherman has been covering sex, gender, and the complex personal and national politics that accompany them for years. She was a senior reporter for Vice and has written for Elle, Ms. magazine, and Los Angeles magazine as well. Along the way, she's garnered a Scripps Howard Award, a National Press Club Journalism Award, and [&#8230;]",
-      "published": "2026-07-18 14:30",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Surprise! Facial recognition smart locks are actually good",
-      "url": "https://www.theverge.com/tech/967183/best-facial-recognition-smart-locks-review",
-      "summary": "Hands-free unlocking is the future of smart locks. The best smart home tech removes friction, and having your door unlock for you as you walk up is as frictionless as it gets - no passcodes to remember, no need to have a free hand to wave, press, or poke at the lock. One way to [&#8230;]",
-      "published": "2026-07-18 14:00",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
-      "summary": "",
-      "published": "2026-07-18 13:00",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Sony’s flagship RGB LED TV is incredible",
-      "url": "https://www.theverge.com/tech/966788/sony-bravia-9-ii-tv-review",
-      "summary": "The Sony Bravia 9 II is the most anticipated new TV in years. It's an amazing RGB LED TV. I watched Dungeons &#38; Dragons: Honor Among Thieves on the new Bravia with my son, who has been getting into the roleplaying game but had never seen the movie. The landscapes of Faer&#251;n looked natural and [&#8230;]",
-      "published": "2026-07-18 12:30",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "More games should be on rails (literally)",
-      "url": "https://www.theverge.com/games/961152/denshattack-review",
-      "summary": "It's been a good few weeks for games on rails. Nintendo's Star Fox remake wisely kept the tightly scripted, action-packed levels from Star Fox 64 largely the same, and they're still fun to fly through nearly 20 years later. Denshattack!, a new game from Undercoders, similarly features levels packed with carefully orchestrated sequences to great [&#8230;]",
-      "published": "2026-07-18 12:00",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "The apps, gadgets, and tools every reader needs",
-      "url": "https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer",
-      "summary": "Hi, friends! Welcome to Installer No. 136, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope your neighborhood isn't as smoky as mine, and also you can read all the old editions at the Installer homepage.) This week, I've been recording the next season of Version History [&#8230;]",
-      "published": "2026-07-18 12:00",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "腾讯升级发布具身智能全栈方案，ADP 4.0海外版正式上线",
-      "url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
-      "summary": "7月18日，在2026世界人工智能大会（WAIC）上，腾讯面向具身智能与智能体领域带来多项产品技术的升级发布。在具身智能领域，腾讯正式升级发布具身智能全栈方案，贯穿云底座、模型层、平台层与应用层，全面助力机器人本体及系统开发商提质提效；在智能体领域，基于个人与企业提效需求，推出差异化的全矩阵解决方案。其中，面向企业用户的腾讯云企业级智能体开发平台ADP4.0海外版正式上线，同时发布「十大行业百大场景生态计划」，目前该平台已落地30多个行业，覆盖智能客服、知识管理、媒体生产等业务场景；面向个人用户的腾讯WorkBuddy正式发布独立App，成为业界首个登陆iOS、Android、鸿蒙三端的通用智能体应用。",
-      "published": "2026-07-18 09:30",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "腾讯云智能体硬件生态提速，首款接入WorkBuddy AI记忆眼镜发布",
-      "url": "https://36kr.com/newsflashes/3900906468984713?f=rss",
-      "summary": "7月17日，在2026世界人工智能大会（WAIC）期间，腾讯云WorkBuddy与李未可科技宣布达成战略生态合作，并发布首款接入WorkBuddy的X-AI记忆眼镜。这也是WorkBuddy硬件生态迈出的关键一步。X-AI记忆眼镜搭载自研WakeeMemory OS，能够持续感知真实工作场景，整理后的信息，将自动同步至WorkBuddy。基于长期积累形成的工作记忆，WakeeMemory能够持续理解用户的工作习惯、任务优先级以及合作关系，把碎片化的信息整理成带有完整上下文的行动项，再交由WorkBuddy完成后续执行。",
-      "published": "2026-07-18 09:00",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "福特在美召回近39万辆Aviator和Explorer车型，涉及座椅部件安全问题",
-      "url": "https://36kr.com/newsflashes/3900845248415362?f=rss",
-      "summary": "美国国家公路交通安全管理局（NHTSA）7月18日公布，福特汽车公司正在召回部分2020至2027款Aviator和2020至2026款Explorer车型，涉及约38.8万辆汽车。由于二排外侧座椅便捷进入功能开关可能出现卡滞，导致座椅解锁、倾斜或滑动，车辆发生碰撞时可能无法有效约束乘员，增加受伤风险。",
-      "published": "2026-07-18 08:30",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "云迹科技发布“人机共生世界价值模型”",
-      "url": "https://36kr.com/newsflashes/3900822239758214?f=rss",
-      "summary": "在2026世界人工智能大会（WAIC）上，云迹科技发布“人机共生世界价值模型”。该模型基于超11亿次真实服务交互数据，旨在打造面向物理世界并以价值最优为目标的人机协同智能大脑。云迹的“世界价值模型”具备多机协同、长程规划、人机共生、价值驱动四大核心能力，其T1-T4架构，将复杂服务拆解为场景理解、任务规划、资源调度与原子执行四层，实现从规则控制到价值导向的智能决策。",
-      "published": "2026-07-18 08:15",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "国家数据局：全国已建成高质量数据集12万个",
-      "url": "https://36kr.com/newsflashes/3900807486293892?f=rss",
-      "summary": "记者今天从国家数据局了解到，我国持续加大优质数据供给，已建成高质量数据集12万个。截至今年6月底，全国已建成科学研究、工业制造、医疗卫生、教育教学等行业领域的高质量数据集总体量超1565拍字节（PB），较一季度末增长超60%，现有体量相当于中国国家图书馆数字资源总量的547倍左右，为人工智能发展提供有力支撑。与此同时，我国数据标注产业加快发展，有效支撑高质量数据集建设。截至今年6月底，四川成都、辽宁沈阳、安徽合肥、湖南长沙、海南海口、河北保定、山西大同七个数据标注先行先试城市标注规模超119拍字节（PB），数据标注从业人员达14万人。下一步，国家数据局将深化构建服务人工智能的高质量数据供给体系，以模型应用牵引数据供给、以数据驱动模型迭代，推动实现数据集有偿使用的价值闭环。",
-      "published": "2026-07-18 08:00",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "月之暗面有望最快6个月内赴港上市",
-      "url": "https://36kr.com/newsflashes/3900806713951873?f=rss",
-      "summary": "36氪获悉，月之暗面已通知投资者调整公司架构并筹备赴港IPO，有望最快在6个月内完成上市。7月16日，月之暗面发布全球参数规模最大的开源模型Kimi K3，在Code Arena上超过Claude Fable 5和GPT-5.6 So。",
-      "published": "2026-07-18 07:45",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "滴滴WAIC分享：AI升级出行体验，释放服务消费新潜力",
-      "url": "https://36kr.com/newsflashes/3900834871805827?f=rss",
-      "summary": "7月17日，在2026世界人工智能大会（WAIC）上，滴滴集团AI应用负责人刘佳奇发表演讲，介绍滴滴如何用AI重构出行新体验。她介绍，“AI小滴”能通过对自然语言理解，满足乘客个性化、多场景的打车需求，同时让车况佳、服务好的司机获得更多接单机会，促进供需的双向平衡。当更多个性化出行需求被AI释放，线下消费的效率与潜力也随之被激活。目前，小滴已拥有90多个标签，还陆续上线了“沿途搜”“多目的地规划”“周边推荐”“复杂地址上下车点推荐”等功能。",
-      "published": "2026-07-18 07:34",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "三区域外贸上半年创历史新高 京津冀达2.58万亿元",
-      "url": "https://36kr.com/newsflashes/3900806187075464?f=rss",
-      "summary": "近日，我国多个区域陆续公布今年上半年外贸数据，京津冀、黄河流域、东北地区货物贸易进出口均保持较快增长，并且规模创历史同期新高。据北京海关统计，今年上半年，京津冀区域进出口值2.58万亿元，同比增长16.2%、占全国进出口总值的10.1%。其中，6月份为首次突破1400亿元关口，创月度历史新高。今年上半年，黄河流域9省区货物贸易进出口总值达3.6万亿元，同比增长14.7%，规模创历史同期新高。海关统计数据显示，上半年东北地区外贸进出口总值6563亿元，同比增长8.6%，规模创历史同期新高。其中，出口增长较快、表现亮眼，机电产品、农产品出口分别增长18%、12.9%，分别占出口整体的48.3%、8.7%。",
-      "published": "2026-07-18 07:30",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "B2B行业首份AI智能体全球支付白皮书发布",
-      "url": "https://36kr.com/newsflashes/3900805390845571?f=rss",
-      "summary": "36氪获悉，寻汇Sunrate与万事达卡在WAIC现场联合发布白皮书《超越自动化：定义智能体驱动的全球支付》。该报告系统阐述了“AI智能体”如何重塑B2B跨境支付全链路。传统模式下，企业财务需人工核验海外供应商账户、比对合同发票、择汇并承担T+2以上结算滞后期。该报告指出，AI智能体可自动提取多格式票据、匹配采购订单、基于企业需求推荐最优支付路由与换汇窗口、经合规预审后在授权额度触发支付，并自动完成后续对账与异常标记，将财务人员从低附加值操作中解放。",
-      "published": "2026-07-18 07:15",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "中欧班列（福州）开行4年进出口总货值超16亿元",
-      "url": "https://36kr.com/newsflashes/3900680288093828?f=rss",
-      "summary": "昨天（17日），一列满载55个集装箱的中欧班列从福建福州江阴铁路物流园区缓缓出发，将经由二连浩特口岸前往东欧。福州海关数据显示，中欧班列（福州）运营四年来，已累计开行77列，发运货物7918标箱，进出口货值总额超16亿元。",
-      "published": "2026-07-18 07:00",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "Fine, electric mountain bikes don’t suck",
-      "url": "https://www.theverge.com/tech/966964/emtb-riders-are-not-cheaters",
-      "summary": "Cheater, I'd grumble between huffs as yet another e-bike rider casually skittered past me on a steep ascent. It's this purist attitude that, for years, has left me blind to one simple fact: electric mountain bikes are fun! My attitude adjustment came a few weeks ago, the very first time I rode an Amflow PX [&#8230;]",
-      "published": "2026-07-18 07:00",
-      "source": "www.theverge.com",
       "lang": "en",
       "category": "科技"
     },
@@ -324,60 +387,6 @@
       "published": "2026-07-18 03:10",
       "source": "sspai.com",
       "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "Applications close in 48 hours — here’s everything Australian founders need to know about Stripe x Startup Battlefield",
-      "url": "https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/",
-      "summary": "The window is almost shut. On August 19, eight startups will take the stage at Stripe Tour Sydney in front of investors, global press, and the Australian tech community. One startup walks away with automatic entry into TechCrunch Disrupt in San Francisco — no application, no further competition, a guaranteed spot on the world&#8217;s most [&#8230;]",
-      "published": "2026-07-17 23:08",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
-      "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
-      "summary": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.",
-      "published": "2026-07-17 22:55",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
-      "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
-      "summary": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.",
-      "published": "2026-07-17 22:12",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "The Zoom hack that says, ‘Don’t record me’",
-      "url": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
-      "summary": "If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?",
-      "published": "2026-07-17 21:20",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Agility Robotics plants its flag in Tesla’s backyard",
-      "url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
-      "summary": "Agility is opening a new training center for its Digit robots in Fremont, California.",
-      "published": "2026-07-17 20:19",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "AI-driven memory crunch jolts India’s smartphone market",
-      "url": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
-      "summary": "India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy.",
-      "published": "2026-07-17 20:09",
-      "source": "techcrunch.com",
-      "lang": "en",
       "category": "科技"
     },
     {
@@ -444,28 +453,19 @@
       "category": "科技"
     },
     {
-      "title": "翻译「世界杯」的赛事名称，为什么中文比日文更简洁？",
-      "url": "https://sspai.com/post/111086",
-      "summary": "国名也好、赛事名称也好，日语走上了片假名这条路——那为什么日本人不能像中文一样，直接造出「美加墨W杯」这样的简称？<a href=\"https://sspai.com/post/111086\" target=\"_blank\">查看全文</a>",
-      "published": "2026-07-16 02:58",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "派早报：国行版 Apple Intelligence 完成备案等",
-      "url": "https://sspai.com/post/112373",
-      "summary": "阿里发布实时语音模型 Qwen-Audio-3.0-Realtime、腾龙发布 12-20mm F2.8 镜头等。<a href=\"https://sspai.com/post/112373\" target=\"_blank\">查看全文</a>",
-      "published": "2026-07-16 00:22",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "Speech Recognition and TTS in less than 500kb",
-      "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
+      "title": "Talk: The Art of Braiding Algorithms",
+      "url": "https://pgadey.ca/notes/talk-relatorium-2026/",
       "summary": "",
-      "published": "2026-07-14 19:25",
+      "published": "2026-07-15 13:31",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The Zen of Parallel Programming",
+      "url": "https://smolnero.com/posts/the-zen-of-parallel-programming",
+      "summary": "",
+      "published": "2026-07-14 14:23",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
