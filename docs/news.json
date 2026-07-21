@@ -1,112 +1,409 @@
 {
-  "last_updated": "2026-07-20 02:19:44",
+  "last_updated": "2026-07-21 01:27:41",
   "total": 52,
   "articles": [
     {
-      "title": "上半年我国集成电路出口额同比增长88.7%",
-      "url": "https://36kr.com/newsflashes/3903354555893634?f=rss",
-      "summary": "7月20日，工业和信息化部总工程师王卫明在国新办新闻发布会上说，全球人工智能、绿色低碳转型等需求旺盛，上半年，以人民币计价的集成电路、电子元件、风力发电机组等产品出口额同比分别增长88.7%、62.6%和35.6%。（央视新闻）",
-      "published": "2026-07-20 02:17",
+      "title": "人民币兑美元中间价调升31个基点",
+      "url": "https://36kr.com/newsflashes/3904712219133574?f=rss",
+      "summary": "36氪获悉，人民币兑美元中间价报6.7917，调升31个基点。前一交易日中间价报6.7948，在岸人民币16:30收盘价报6.7670，夜盘收报6.7690。",
+      "published": "2026-07-21 01:18",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "工信部：前5个月规模以上工业企业营业收入利润率5.66%，为2024年以来月度累计最高水平",
-      "url": "https://36kr.com/newsflashes/3903353678546823?f=rss",
-      "summary": "7月20日，国务院新闻办公室举行新闻发布会，介绍2026年上半年工业和信息化发展情况。工业和信息化部总工程师王卫明表示，上半年工业生产稳定增长，规模以上工业增加值同比增长5.4%，41个工业大类行业当中有32个保持增长，工业企业盈利能力持续改善。前5个月规模以上工业企业营业收入利润率5.66%， 为2024年以来月度累计最高水平。全球人工智能绿色低碳转型等需求旺盛。上半年以人民币计价的集成电路、电子元件、风力发电机组等产品，出口额同比分别增长88.7%，62.6%和35.6%。（证券时报）",
-      "published": "2026-07-20 02:16",
+      "title": "华泰证券：半年报盈利兑现快递行业景气，关注淡季价格表现",
+      "url": "https://36kr.com/newsflashes/3904706923988870?f=rss",
+      "summary": "36氪获悉，华泰证券研报指出，6月，消费数据环比改善，社零、商品零售额当月同比分别增长1.0%、0.9%；线上零售保持韧性，网上商品零售额同比增长3.9%，去年618大促前置的高基数影响消除。快递行业件量增速虽较5月有所回落，但“反内卷”背景下价格同比增幅继续扩大，行业盈利修复趋势延续。近期电商快递龙头陆续发布半年报业绩预告，利润同比高增验证行业景气改善。往后展望，随着618旺季结束，行业将进入传统淡季，短期需关注价格竞争及半年报情况；中长期，《扩大消费“十五五”规划》有望支撑快递需求持续增长，当前板块估值仍处历史较低水平，优质龙头或具备配置价值。",
+      "published": "2026-07-21 01:13",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "本田与广汽签署合资续约协议",
-      "url": "https://36kr.com/newsflashes/3903349506229888?f=rss",
-      "summary": "36氪获悉，本田中国宣布，7月，本田与广汽就双方旗下广汽本田汽车有限公司合资合作项目正式签署战略续约协议，在股比保持不变的同时将合作期限延长至2038年。",
-      "published": "2026-07-20 02:12",
+      "title": "加拿大总理回应美加征关税：单边贸易行动的最新举措",
+      "url": "https://36kr.com/newsflashes/3904696511497864?f=rss",
+      "summary": "】财联社7月21日电，加拿大总理马克·卡尼当地时间7月20日就美政府宣布对多种加拿大商品加征50%关税一事发表声明。卡尼表示，这是美国一系列单边贸易行动中的最新举措，违反了“美国—墨西哥—加拿大协定”（美墨加协定）。加拿大团结一致应对这些“对加拿大主权的威胁”，并正在采取行动保护其经济和公民。卡尼说，过去18个月来，美国一直在改变其各类贸易关系，包括美墨加协定涵盖的贸易关系，因此，加拿大提出了一系列详细而全面的建议，以解决当前争端并使美墨加协定现代化。他表示，“我们随时准备在未来几周内加强相关磋商。” （央视新闻）",
+      "published": "2026-07-21 01:10",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "工信部：上半年规模以上制造业企业AI技术应用普及率超过30%",
-      "url": "https://36kr.com/newsflashes/3903346632787840?f=rss",
-      "summary": "7月20日，国务院新闻办公室举行新闻发布会，介绍2026年上半年工业和信息化发展情况。工业和信息化部总工程师王卫明表示，上半年，工业和信息化领域创新能力不断增强，深化拓展人工智能+，规模以上制造业企业人工智能技术应用普及率超过30%，人工智能开源大模型全球累计下载量突破100亿次。（证券时报）",
-      "published": "2026-07-20 02:09",
+      "title": "央企领衔，一日百余家公司公告回购增持新动作",
+      "url": "https://36kr.com/newsflashes/3904682383869577?f=rss",
+      "summary": "近日，A股市场迎来由央企领衔的新一轮上市公司回购、增持热潮。7月19日晚间，中国国新、中国诚通两大国有资本运营公司同步宣布增持A股，合计投入规模已超过600亿元。两家央企同时明确表态，后续将继续增持中央企业股票、科技企业股票等，全力维护资本市场平稳运行。两大国资平台释放积极信号后，A股公司迅速跟进响应。7月20日，全天逾百家上市公司密集披露股份回购、股东增持计划及最新实施进展。此外，中国平安、中国人保、中国太保、新华保险也相继公告称，将加大投资力度，坚定支持资本市场发展。（上证报）",
+      "published": "2026-07-21 01:07",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "工信部：上半年规模以上工业增加值同比增长5.4%",
-      "url": "https://36kr.com/newsflashes/3903344321742722?f=rss",
-      "summary": "7月20日，国务院新闻办公室举行新闻发布会，介绍2026年上半年工业和信息化发展情况。工业和信息化部总工程师王卫明表示，上半年工业和信息化持续向新向优发展，规模以上工业增加值同比增长5.4%，工业对经济增长贡献率超过35%，工业企业效益明显改善，前5个月规模以上工业企业利润总额同比增长18.8%。（证券时报）",
-      "published": "2026-07-20 02:07",
+      "title": "紧抓权益市场投资机遇，理财资金打新常态化",
+      "url": "https://36kr.com/newsflashes/3904680383874944?f=rss",
+      "summary": "近日，长鑫科技公布网下初步配售结果及网上中签结果，多家理财公司以A类投资者身份现身网下投资者初步配售明细表。同时，一些理财公司也通过网上打新方式，中签长鑫科技。随着理财行业“固收+”策略纵深推进，打新已经成为理财资金常态化的操作。近两年新股发行市场表现良好，让理财公司打新成为一种兼具安全性和收益性的选择。除了打新，在低利率环境下，银行理财资金还通过定增、创设指数型理财产品等方式积极布局权益市场，探索固收之外的收益新引擎。（中证报）",
+      "published": "2026-07-21 01:04",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "韩国交易所暂停KOSDAQ市场的程序化卖盘",
-      "url": "https://36kr.com/newsflashes/3903335198918532?f=rss",
-      "summary": "36氪获悉，韩国交易所启动程序化卖盘熔断机制，暂停KOSDAQ市场的程序化卖盘。",
-      "published": "2026-07-20 01:57",
+      "title": "银河证券：今年茅台多次提价，高端白酒消费见底信号",
+      "url": "https://36kr.com/newsflashes/3904677872813699?f=rss",
+      "summary": "36氪获悉，银河证券研报认为，今年茅台多次提价，高端白酒消费见底信号。近年来，高端白酒批价持续下跌，茅台酒价是消费市场风向标之一。2026年以来，茅台连续上调i茅台平台零售价格，具有风向标意义。i茅台平台零售价格低于公共电商平台，已成为公司快速放量、抢占C端需求的抓手。2026年i茅台平台销售放量以来，公共平台仍能保持相对溢价，表明渠道已无过多茅台库存。连续的提价表明，茅台当前销售压力已不大。",
+      "published": "2026-07-21 01:01",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "商汤大装置与国信数算签署全国一体化算力网试验场战略合作",
-      "url": "https://36kr.com/newsflashes/3903326224254592?f=rss",
-      "summary": "36氪获悉，WAIC 2026期间，商汤大装置与国信数算签署全国一体化算力网试验场战略合作，与多家能源企业启动“算电协同战略合作”，并联合众多创新平台发起“AI科创加速计划”。",
-      "published": "2026-07-20 01:48",
+      "title": "台积电回应中央硝子被曝停产高纯度六氟化钨：供应多元，不受影响",
+      "url": "https://36kr.com/newsflashes/3904676686628488?f=rss",
+      "summary": "据报道，市场近期传出，供应台积电等半导体大厂气体的特种气体供应商中央硝子（Central Glass）将停产高纯度六氟化钨。对此，台积电表示，目前不预期对公司营运产生影响。台积电公关处于7月20日完整回应提到，“公司全球采购布局策略，是持续开发多源供应方案、建立多元的全球供应商。我们目前不预期对公司营运产生影响。”台积电供应链与供应商皆提到，目前看气体钨粉原料无断供，仍有多项替代方案，预期对产业影响有限。（界面）",
+      "published": "2026-07-21 00:58",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "泡泡玛特创始人王宁与投资人段永平纽约会面",
-      "url": "https://36kr.com/newsflashes/3903316848740233?f=rss",
-      "summary": "近日，知名投资人段永平在社交平台发布动态，于纽约与泡泡玛特（09992.HK）创始人王宁线下相聚。二人一同参观Labubu十周年全球巡展纽约站，在IP展品前参观合影；后续共同到场观看世界杯决赛，分别身着西班牙、阿根廷国家队球衣，佩戴Labubu足球主题挂件合照留念。段永平自今年起建仓泡泡玛特，目前为泡泡玛特第二大股东。（澎湃）",
-      "published": "2026-07-20 01:39",
+      "title": "美上诉法院撤销波音股东集体诉讼认证",
+      "url": "https://36kr.com/newsflashes/3904676299278214?f=rss",
+      "summary": "美国联邦第四巡回上诉法院周一作出裁决，撤销了针对波音公司的一起股东集体诉讼的认证。这起诉讼与2024年1月阿拉斯加航空737 MAX 9客机舱门塞空中脱落事件有关。（新浪财经）",
+      "published": "2026-07-21 00:55",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "沪指涨超1%重返3800点上方",
-      "url": "https://36kr.com/newsflashes/3903315115181955?f=rss",
-      "summary": "36氪获悉，创业板指涨超3%，沪指涨超1%重返3800点上方。",
-      "published": "2026-07-20 01:37",
+      "title": "月内多家银行上调美元定存利率，最高可达4%",
+      "url": "https://36kr.com/newsflashes/3904675385460357?f=rss",
+      "summary": "7月份以来，多家银行上调美元定期存款利率，加大营销力度。本轮利率上调由中资银行率先启动，外资银行随后跟进，当前部分银行美元定期存款年化利率已达到4%。 受访专家表示，投资者不要因较高的利息水平盲目换汇套利，人民币升值带来的汇兑损失可能抵消利息收入乃至亏损本金，配置美元存款需基于真实用汇需求。（证券日报）",
+      "published": "2026-07-21 00:53",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "海康威视：董事长提议实施2026年中期利润分配方案，拟10派5.5元",
-      "url": "https://36kr.com/newsflashes/3903310908114819?f=rss",
-      "summary": "36氪获悉，海康威视公告，公司董事会于7月19日收到公司董事长胡扬忠关于制定公司2026年中期利润分配方案的提议，以公司未来实施2026年中期利润分配方案的股权登记日的总股本为基数，向全体股东每10股派发现金红利5.50元（含税），不送红股，不以资本公积转增股本。",
-      "published": "2026-07-20 01:33",
+      "title": "冲刺“人形机器人第一城”，深圳何以跑成“机圈顶流”",
+      "url": "https://36kr.com/newsflashes/3904672876332932?f=rss",
+      "summary": "短短一个月，多家深圳机器人企业集中完成大额融资。放眼全国，深圳的机器人产业格外耀眼：2025年总产值达2426亿元，同比增长20.56%，创历史新高，产业产值、企业总数、上市公司数量和投融资事件均居全国首位。仅南山区机器人谷，就集聚了超过200家产业链企业、32家专精特新“小巨人”企业。从南山“机器人谷”到龙岗“机器人街区”，从万台量产下线到全域场景开放，深圳正全速冲刺“人形机器人第一城”。（经济参考报）",
+      "published": "2026-07-21 00:50",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "“博顿光电”完成超亿元人民币B+轮融资",
-      "url": "https://36kr.com/newsflashes/3903309004031879?f=rss",
-      "summary": "36氪获悉，“博顿光电”完成超亿元人民币B+轮融资，本轮投资方为毅达资本、中信建投资本、达武创投、友谊时光、南控基金，IO资本担任独家财务顾问。该轮资金将用来引进高端人才、研发新产品，以及针对已经出现爆发趋势的重点行业领域，加快在综合解决方案、市场推广以及产能建设方面的投入速度。",
-      "published": "2026-07-20 01:31",
+      "title": "两市融资余额减少596.85亿元",
+      "url": "https://36kr.com/newsflashes/3904682662922118?f=rss",
+      "summary": "36氪获悉，截至7月20日，上交所融资余额报13627.47亿元，较前一交易日减少300.86亿元；深交所融资余额报13267.13亿元，较前一交易日减少295.99亿元；两市合计26894.6亿元，较前一交易日减少596.85亿元。",
+      "published": "2026-07-21 00:48",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "A股三大指数集体高开，长盈通涨超13%",
-      "url": "https://36kr.com/newsflashes/3903304788985732?f=rss",
-      "summary": "36氪获悉，A股三大指数集体高开，沪指高开0.73%，深成指高开1.18%，创业板指高开2.2%；通信设备、电脑硬件、能源设备板块领涨，长盈通涨超13%，科力股份涨超8%，协创数据涨超5%；制药、家电、生物科技板块跌幅居前，新赣江、万邦医药跌超15%，国光电器跌超2%。",
-      "published": "2026-07-20 01:26",
+      "title": "天风证券：创新药产业链景气度提升，关注大单品放量及相应机会",
+      "url": "https://36kr.com/newsflashes/3904669342107266?f=rss",
+      "summary": "36氪获悉，天风证券研报认为，在国内BD交易热潮的持续下，创新药研发热潮有望持续。天风证券认为在创新药研发需求持续火热的情况下，国内需求有望持续高增长，有望带动创新药产业链整体板块业绩高增速。关注大单品放量及相应机会。",
+      "published": "2026-07-21 00:46",
       "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
+      "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+      "summary": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.",
+      "published": "2026-07-21 00:12",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "派早报：京沪高铁与京沪铁路试点提前 60 天预约购票等",
+      "url": "https://sspai.com/post/112565",
+      "summary": "少数派的近期动态那个让你放松娱乐、拥抱心流、逃离纷扰或找回真我的角落，是如何构建起来的？「角落新声」征文活动火热征稿中少数派×AKKO灵犀Linx68键盘预售开启。看看新键盘你可能错过的文章2026年 ...<a href=\"https://sspai.com/post/112565\" target=\"_blank\">查看全文</a>",
+      "published": "2026-07-21 00:02",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "Colossal Biosciences reportedly in talks to raise new capital at $20B–$30B valuation",
+      "url": "https://techcrunch.com/2026/07/20/colossal-biosciences-reportedly-in-talks-to-raise-new-capital-at-20b-30b-valuation/",
+      "summary": "The de-extinction startup is looking to double or triple its previous valuation, according to the report.",
+      "published": "2026-07-20 23:39",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Trump’s latest AI czar has already resigned",
+      "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+      "summary": "The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar.",
+      "published": "2026-07-20 22:21",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Here are the 30,000 songs Sony is suing Udio&#8217;s AI music generator over",
+      "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
+      "summary": "Sony Music Entertainment has filed another lawsuit against Udio, accusing the AI music generator of infringing the copyright of more than 30,000 of its songs, ranging from Elvis Presley's Hound Dog to Beyonc&#233;'s Say My Name, and Harry Styles' As It Was. The lawsuit, filed in a New York court on Monday, claims that this [&#8230;]",
+      "published": "2026-07-20 22:19",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The FCC is planning to retroactively ban disguised DJI gadgets",
+      "url": "https://www.theverge.com/news/968310/fcc-dji-drone-camera-ban-skyrover-xtra",
+      "summary": "Last October, we told you how the FCC had given itself the power to retroactively ban gadgets that have already received its approval to be imported and sold in the United States. Now, the FCC's getting ready to wield that power for the first time, by cracking down on the \"DJI front companies\" suspected of [&#8230;]",
+      "published": "2026-07-20 22:16",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The Odyssey turned me into an IMAX believer",
+      "url": "https://www.theverge.com/entertainment/968337/the-odyssey-imax-screenings-christopher-nolan",
+      "summary": "After seeing Christopher Nolan's The Odyssey for the first time early last week, I came away impressed, but somewhat conflicted about two of the film's more fantastical set pieces. While those scenes were beautifully crafted and tremendously acted, there was something a little bit off about the way they hit my eye. I spent days [&#8230;]",
+      "published": "2026-07-20 21:47",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+      "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+      "summary": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.",
+      "published": "2026-07-20 21:21",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "SpaceX in your index fund, explained",
+      "url": "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained",
+      "summary": "Index funds are touted as one of the safest ways to invest. Rather than picking and choosing individual stocks, index funds let you bet on the market as a whole. So what happens when a company like SpaceX - a giant gamble, and, in my opinion, terribly overpriced - is fast-tracked into the Nasdaq-100? Does [&#8230;]",
+      "published": "2026-07-20 21:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "AI’s most important protocol is getting a little bit easier to use",
+      "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+      "summary": "Under the new system, the protocol will take a looser, \"stateless\" approach to session IDs on the server side, similar to how most ordinary websites already work.",
+      "published": "2026-07-20 20:50",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco",
+      "url": "https://vincentwoo.com/3d/grace_cathedral/",
+      "summary": "",
+      "published": "2026-07-20 20:10",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Get Borderlands 3, Risk of Rain 2 and 13 other great PC games for $15",
+      "url": "https://www.theverge.com/gadgets/968191/humble-2k-megahits-bundle-xcom-borderlands-duke-nukem-deal-sale",
+      "summary": "The aptly-named “2K Megahits 2026 Bundle” from Humble includes 15 Steam games for $15. It’s a smattering of the publisher 2K’s biggest games of the 2010s, including BioShock Infinite, Risk of Rain 2, Borderlands 3, and XCOM: Enemy Unknown. The bundle will be available until August 7th, though the bundle page notes that keys for [&#8230;]",
+      "published": "2026-07-20 20:08",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The PlayStation replica ornament is an homage to a great, yet fragile console",
+      "url": "https://www.theverge.com/tech/967989/hallmark-keepsake-playstation-ornament-hands-on",
+      "summary": "You probably know the signature PlayStation boot sound. Did you know that it's technically a multi-part chime? There's the synthy section where \"Sony Computer Entertainment\" shows onscreen with a white background. You only get to the next screen with the echo-y chimes and the color-filled PlayStation logo if your console recognizes the disc. How badly [&#8230;]",
+      "published": "2026-07-20 20:06",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "X relaunches a rebuilt Android app after year-long effort",
+      "url": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
+      "summary": "X says the rebuilt version of its Android app is now available globally.",
+      "published": "2026-07-20 19:37",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "OpenAI is scared of open-weight models. Should the US be?",
+      "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+      "summary": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of  turning AI into a business.",
+      "published": "2026-07-20 19:33",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Ford&#8217;s $30,000 electric truck: all the news about the company&#8217;s big EV re-do",
+      "url": "https://www.theverge.com/transportation/968205/ford-electric-truck-uev-30000-affordable",
+      "summary": "The end of the Ford F-150 Lightning was also the start of a new era for the automaker. After failing to capture the market with the electric version of its popular F-Series truck, Ford is going back to the drawing board with its Universal Electric Vehicle Platform. The first offering will be a $30,000 electric [&#8230;]",
+      "published": "2026-07-20 19:18",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Natural raises $30M to reinvent payments for AI agents — and take on Stripe",
+      "url": "https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/",
+      "summary": "The one-year-old startup aims to reinvent financial architecture for autonomous AI transactions.",
+      "published": "2026-07-20 19:11",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Human mathematicians are being outcounterexampled",
+      "url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
+      "summary": "",
+      "published": "2026-07-20 19:03",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Nativ: Run frontier open models locally on your Mac",
+      "url": "https://blaizzy.github.io/nativ/",
+      "summary": "",
+      "published": "2026-07-20 18:16",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Judge pauses $110B Paramount-Warner Bros. merger",
+      "url": "https://techcrunch.com/2026/07/20/judge-pauses-110b-paramount-warner-bros-merger/",
+      "summary": "The lawsuit from the states alleges that the deal would harm movie theaters, basic cable distributors, and audiences.",
+      "published": "2026-07-20 17:58",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Judge pauses Paramount’s attempt to buy Warner Bros. Discovery",
+      "url": "https://www.theverge.com/business/968055/paramount-wbd-merger-pause-tro",
+      "summary": "A judge partially granted the request from a dozen state attorneys general to temporarily place the $110 billion merger of Paramount and Warner Bros. Discovery on hold, as reported by Variety and Reuters. US District Judge Araceli Mart&#237;nez-Olgu&#237;n said that based on the new company's market share, \"the Court is persuaded that it can presume [&#8230;]",
+      "published": "2026-07-20 17:37",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Kimi Work",
+      "url": "https://www.kimi.com/products/kimi-work",
+      "summary": "",
+      "published": "2026-07-20 17:13",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Jelly UI: Soft-body physics for native HTML form controls",
+      "url": "https://jelly-ui.com/",
+      "summary": "",
+      "published": "2026-07-20 17:07",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "LG&#8217;s glossy OLED gaming monitor is rare to find under $400",
+      "url": "https://www.theverge.com/gadgets/967993/lg-27-inch-ultragear-glossy-oled-gaming-monitor-deal-sale",
+      "summary": "If you&#8217;ve been thinking about upgrading your gaming monitor, LG&#8217;s 27-inch 27GX704A-B pairs a glossy WOLED panel with a fast refresh rate, and it’s currently on sale for $379.99 (about $70 off) at Amazon and directly from LG, marking a new low price.&#160;It originally launched at $799.99, but has been available for under $500 since [&#8230;]",
+      "published": "2026-07-20 16:34",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "LG’s monitors come with an unwanted addition for Windows: McAfee pop-up ads",
+      "url": "https://www.theverge.com/tech/967983/lg-monitors-mcafee-adware-gamers-nexus",
+      "summary": "A video from Gamers Nexus explains how, after connecting a new LG UltraGear monitor to a PC running Windows 11 for the first time, Windows Update is silently installing LG driver updates and the LG Monitor App Installer, without so much as a permission pop-up or notification. The app doesn't appear to include special controls [&#8230;]",
+      "published": "2026-07-20 16:14",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Adobe camera app’s new feature will critique your photos using AI",
+      "url": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
+      "summary": "Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app.",
+      "published": "2026-07-20 15:45",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Hackers are exploiting recently patched WordPress bugs, putting millions of websites at risk",
+      "url": "https://techcrunch.com/2026/07/20/hackers-are-exploiting-recently-patched-wordpress-bugs-putting-millions-of-websites-at-risk/",
+      "summary": "Two critical security flaws in WordPress’ software have given hackers the chance to remotely take over tens of millions of websites, according to an estimate by a cybersecurity researcher.",
+      "published": "2026-07-20 15:35",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "YouTube clarifies policies around AI slop and upsetting videos",
+      "url": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
+      "summary": "YouTube has updated its monetization policies to more clearly define the kinds of AI-generated and low-quality videos that can’t earn ad revenue.",
+      "published": "2026-07-20 15:23",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Hacker wipes Romania's land registry database",
+      "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
+      "summary": "",
+      "published": "2026-07-20 13:28",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Who's afraid of Chinese models?",
+      "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+      "summary": "",
+      "published": "2026-07-20 11:05",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "派评 | 近期值得关注的 App",
+      "url": "https://sspai.com/post/112543",
+      "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀<a href=\"https://sspai.com/post/112543\" target=\"_blank\">查看全文</a>",
+      "published": "2026-07-20 10:00",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "角落新声 | 把杂乱桌面收拾得像样，只需要一张桌垫",
+      "url": "https://sspai.com/post/112453",
+      "summary": "在拥有你我理想的超大自主空间之前，不如用一张桌垫改善一下自己的工作生活环境，过得多舒心一点点吧。<a href=\"https://sspai.com/post/112453\" target=\"_blank\">查看全文</a>",
+      "published": "2026-07-20 07:05",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "2026 年再看 iPhone 8 Plus，它还够用吗？",
+      "url": "https://sspai.com/post/112425",
+      "summary": "高考结束后，又有一大批同学开始考虑换新手机啦。在预算差不多的情况下，很多人会纠结是买一台较新的中端机，还是买一台年份更老、但曾经是旗舰级的机型。于是我把 2020 年购入的 iPhone 8 Plus 拿出来当了一星期主力机，看看这台 2017 年发布的手机，放到今天还能不能胜任日常使用。<a href=\"https://sspai.com/post/112425\" target=\"_blank\">查看全文</a>",
+      "published": "2026-07-20 03:00",
+      "source": "sspai.com",
       "lang": "zh_cn",
       "category": "科技"
     },
@@ -120,264 +417,12 @@
       "category": "科技"
     },
     {
-      "title": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
-      "url": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
-      "summary": "Netflix revealed that it paid $587 million in cash for InterPositive, a startup co-founded by Ben Affleck.",
-      "published": "2026-07-19 21:45",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Biggest Probabilistic Computer Turns Noise into Answers",
-      "url": "https://spectrum.ieee.org/biggest-probabilistic-computer",
-      "summary": "",
-      "published": "2026-07-19 21:42",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "What to watch for after Jensen Huang’s Japan visit",
-      "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
-      "summary": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.",
-      "published": "2026-07-19 21:16",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "This unpronounceable series of glyphs is an incredible side project from Kieran Hebden (aka Four Tet)",
-      "url": "https://www.theverge.com/entertainment/967696/four-tet-wingdings-album-review",
-      "summary": "Just why? &#645;&#865;&#865;&#865;&#865;&#865;&#865;&#865;&#865;&#865;&#865;&#865;(&#824;&#802;&#795;&#828;&#798;&#813;&#843;&#837;)&#824;&#858;&#816;&#859;&#788;&#830;&#768;&#831;&#850;&#834;:&#820;&#851;&#798;&#785;&#780;&#770;&#774;&#778;&#843;&#768;:&#824;&#846;&#799;&#815;&#770;&#787;&#780;&#12288;&#1161;&#12288;&#12288;&#12288;&#12288;&#12288;&#865;&#12288;&#862;&#12288;&#862;&#12288;&#862;&#12288;&#1161;&#9679;&#8195;&#4032;&#8195;&#9679;&#8195;&#8195;&#4032;&#8195;&#8195;&#9679;&#12288;&#12288;&#12288;&#1161;&#8413; &#12288;&#12288;&#12288;&#8413;&#866; &#862;&#12288;&#12288;&#12288;&#856;&#12288;&#862;&#8413;&#789; &#866;&#12288;&#12288;&#12288;&#12288;&#795;&#12288;&#8413; &#12288;&#12288;&#12288;&#824;&#12288;&#801;&#12288;&#12288;&#866;&#8413;&#807; &#12288;&#865;&#12288;&#865;&#12288;&#12288;&#768;&#12288;&#807;&#12288;&#802;&#8413;&#860; &#12288; &#12288;&#1161;&#12288;&#12288;&#862;&#12288;&#862;&#12288;&#8413;&#862; &#12288;&#862;&#12288;&#865;&#8413; &#8195;&#8413;&#1161;&#1160;&#1161;&#1160;&#1161;&#1160;&#1161;&#1160;&#1161;&#1160;&#1161; :&#822;&#802;&#857;&#857;&#853;&#800;&#809;&#838;(&#823;&#814;&#845;&#858;&#811;&#858;&#834;&#781;)&#821;&#819;&#791;&#778;(&#12288;&#799;&#798;&#797;&#796;&#793;&#792;&#791;&#790;&#1161;&#821;&#820;&#808;&#807;&#802;&#801;&#828;&#827;&#826;&#825;&#819;&#818;&#817;&#816;&#815;&#814;&#813;&#812;&#811;&#810;&#809;&#806;&#805; What am I supposed to do with this? It's un-Googleable. Unpronounceable. It doesn't even render the same way on various platforms. It looks one way on YouTube Music. Another on Apple Music. And yet another on Bandcamp. Even the artist name &#10446;&#10311;&#41594;&#4314;&#3901;&#2951;&#8226;&#795;)&#3968;&#9694; [&#8230;]",
-      "published": "2026-07-19 21:02",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "A new Intel Itanium (IA-64) emulator that boots Windows",
-      "url": "https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html",
-      "summary": "",
-      "published": "2026-07-19 20:50",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Kodak EC35 is a dirt-cheap point-and-shoot film camera",
-      "url": "https://www.theverge.com/gadgets/967687/kodak-ec35-point-and-shoot-film-camera",
-      "summary": "Following the success of its $99 Kodak-branded Snapic A1, Reto Project is releasing the Kodak EC35, an even more affordable 35mm film camera for just $34.99. The EC35 certainly isn't fancy. Its 25mm acrylic lens with a fixed f/10 aperture and 1/100 shutter speed basically put it on par with a drugstore disposable. The fact [&#8230;]",
-      "published": "2026-07-19 19:26",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
-      "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
-      "summary": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.",
-      "published": "2026-07-19 19:24",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "I hate that I don’t hate this song made with Suno",
-      "url": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
-      "summary": "I would never go so far as to say there's no place for AI in music (I'm a fan of Holly Herndon, after all). But I generally find music made with generative AI to be offensively boring, especially the outputs of Suno. So I'm having a bit of a tough time processing the fact that [&#8230;]",
-      "published": "2026-07-19 17:35",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "The FBI reportedly won’t investigate ICE anymore",
-      "url": "https://www.theverge.com/policy/967674/fbi-wont-investigate-ice-assaults",
-      "summary": "According to the New York Times, federal agents have been told that the FBI will no longer be investigating confrontations involving ICE agents. The DHS and DOJ denied the change in policy to The Times. The reported change in guidance follows renewed scrutiny of violence by ICE agents who have killed two people in the [&#8230;]",
-      "published": "2026-07-19 16:42",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "TechCrunch Mobility: The battle over robotaxi rules",
-      "url": "https://techcrunch.com/2026/07/19/techcrunch-mobility-the-battle-over-robotaxi-rules/",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
-      "published": "2026-07-19 16:05",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Orchid is a delightfully retro and approachable hipster synth",
-      "url": "https://www.theverge.com/entertainment/967485/telepathic-instruments-orchid-tame-impala-synth-review",
-      "summary": "In 2017, I bought an old Magnus chord organ off Craigslist for $10. It's one of my favorite music gear purchases. Electric chord organs let you play full chords with just a press of a button, making them perfect for aspiring singer-songwriters or fooling around at home. But chord organs largely fell out of favor [&#8230;]",
-      "published": "2026-07-19 15:15",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Birdfy&#8217;s solar-powered smart feeder is down to one of its best prices",
-      "url": "https://www.theverge.com/gadgets/967336/birdfy-feeder-ai-powered-smart-bird-feeder-with-camera-deal-sale",
-      "summary": "Birdfy has kicked off a midyear sale, taking up to 40 percent off a range of its smart bird feeders. One of the best deals is on Netvue’s Birdfy Feeder AI-Powered Smart Bird Feeder with Camera, which has dropped to $149.99 at Birdfy and is its second-best price to date. The bundle, which includes a [&#8230;]",
-      "published": "2026-07-19 15:00",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
-      "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
-      "summary": "\"Everybody knows the Greeks are inside.\"",
-      "published": "2026-07-19 14:52",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
-      "url": "https://news.ycombinator.com/item?id=48968606",
-      "summary": "",
-      "published": "2026-07-19 14:41",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "US Marshals arrest the Tate brothers in Miami",
-      "url": "https://www.theverge.com/policy/967651/us-marshals-arrest-the-tate-brothers-in-miami",
-      "summary": "The manosphere influencers Andrew and Tristan Tate were arrested Saturday in Miami by US Marshals in relation to new rape and sex trafficking charges in England. According to the Associated Press, British authorities are seeking the brothers' extradition. The new charges facing Andrew Tate include seven counts of rape, three of sex trafficking, three counts [&#8230;]",
-      "published": "2026-07-19 14:20",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
-      "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
-      "summary": "Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more.",
-      "published": "2026-07-19 14:00",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "The Clapper was a bad smart home gadget — and a viral sensation",
-      "url": "https://www.theverge.com/podcast/967642/the-clapper-version-history",
-      "summary": "Clap on. Clap off. Well, more like, Clap, pause for half a beat but no longer because otherwise it'll stop hearing you, clap again because you waited too long, clap louder and faster, that didn't work, clap two more times, and suddenly: on. The Clapper didn't always work - and even when it did, it [&#8230;]",
-      "published": "2026-07-19 13:28",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "The future of physical games is not looking great",
-      "url": "https://www.theverge.com/column/967179/physical-discs-gta-vi-playstation-rockstar-games",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on video games and physical media, follow Jay Peters. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started As a kid, I relished trips to [&#8230;]",
-      "published": "2026-07-19 12:00",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Minecraft: Java Edition now uses SDL3",
-      "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
-      "summary": "",
-      "published": "2026-07-19 11:48",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "The grueling, 630-mile road race where the only fuel is sunlight",
-      "url": "https://www.theverge.com/transportation/966701/solar-car-challenge-high-school-student-race-texas",
-      "summary": "On July 19th, dozens of teams of high school students will begin a five-day, 630-mile road race from Fort Worth to Fort Stockton in Texas. But this is not your typical contest. The students design and build the cars themselves, using off-the-shelf parts and 3D printed materials. The winner is the team that accumulates the [&#8230;]",
-      "published": "2026-07-19 11:00",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
-      "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
-      "summary": "",
-      "published": "2026-07-19 10:34",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Claude Code uses Bun written in Rust now",
-      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-      "summary": "",
-      "published": "2026-07-19 10:03",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
       "title": "TDS REVIEW | 索尼 WH-1000XX 无线降噪头戴耳机体验",
       "url": "https://sspai.com/post/112374",
       "summary": "这篇文章是TDSStudio在少数派上的第26篇文章，依然是全平台首发。1000XTheColleXion，这是索尼1000X系列的十周年纪念产品线。完全想不到跟群友们畅聊MDR-1000X的时代已经 ...<a href=\"https://sspai.com/post/112374\" target=\"_blank\">查看全文</a>",
       "published": "2026-07-19 03:00",
       "source": "sspai.com",
       "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "Waymo says San Francisco service has resumed after one-hour pause",
-      "url": "https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/",
-      "summary": "This isn’t the first time power outages have caused issues for Waymo.",
-      "published": "2026-07-18 19:30",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Kimi: Threat or menace?",
-      "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
-      "summary": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
-      "published": "2026-07-18 18:51",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "All the EVs that were discontinued or killed off in the U.S. this year",
-      "url": "https://techcrunch.com/2026/07/18/all-the-evs-that-were-discontinued-or-killed-off-in-the-u-s-this-year/",
-      "summary": "Th Honda Prologue will no longer be sold in the U.S., joining a growing list of EV models to exit the market this year.",
-      "published": "2026-07-18 16:30",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Federal employees can download TikTok on their work phones again",
-      "url": "https://techcrunch.com/2026/07/18/federal-employees-can-download-tiktok-on-their-work-phones-again/",
-      "summary": "The Department of Justice says that federal employees can now download TikTok on their government devices.",
-      "published": "2026-07-18 15:54",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "A 600-mile road trip (and data) proves EV charging doesn’t suck anymore",
-      "url": "https://techcrunch.com/2026/07/18/a-600-mile-road-trip-and-data-proves-ev-charging-doesnt-suck-anymore/",
-      "summary": "A recent road trip in an EV revealed just how much faster and more reliable DC Fast charging has become in the U.S.",
-      "published": "2026-07-18 14:32",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Neil Rimer thinks the AI money is coming back out",
-      "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
-      "summary": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.",
-      "published": "2026-07-18 04:47",
-      "source": "techcrunch.com",
-      "lang": "en",
       "category": "科技"
     },
     {
@@ -417,55 +462,10 @@
       "category": "科技"
     },
     {
-      "title": "派早报：OPPO 宣布调整旗下子品牌的全球产品策略等",
-      "url": "https://sspai.com/post/112414",
-      "summary": "月之暗面发布 Kimi K3 模型，支付宝升级 Apple 教育优惠认证等。<a href=\"https://sspai.com/post/112414\" target=\"_blank\">查看全文</a>",
-      "published": "2026-07-17 00:45",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "新玩意 246｜少数派的编辑们最近买了啥？",
-      "url": "https://sspai.com/post/112400",
-      "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...<a href=\"https://sspai.com/post/112400\" target=\"_blank\">查看全文</a>",
-      "published": "2026-07-16 09:39",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "Apple 高校优惠活动开始了，今年有些不一样",
-      "url": "https://sspai.com/post/112386",
-      "summary": "又到了一年一度的Apple高校优惠活动季，高校师生们可以在活动期间，购买指定型号iPad或Mac设备，获得指定配件产品，享受到限时的教育优惠+买赠活动。与往年不同的是，今年的Apple高校优惠活动不论 ...<a href=\"https://sspai.com/post/112386\" target=\"_blank\">查看全文</a>",
-      "published": "2026-07-16 08:03",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "具透 | macOS 27 首个公开测试版来了，这些是值得你关注的新特性",
-      "url": "https://sspai.com/post/112375",
-      "summary": "全面 ARM 化后的第一个 macOS 版本，Golden Gate 27 还有这些变化。<a href=\"https://sspai.com/post/112375\" target=\"_blank\">查看全文</a>",
-      "published": "2026-07-16 07:00",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "Talk: The Art of Braiding Algorithms",
-      "url": "https://pgadey.ca/notes/talk-relatorium-2026/",
+      "title": "The Psychology of Software Teams",
+      "url": "https://www.routledge.com/The-Psychology-of-Software-Teams/Hicks/p/book/9781032963389",
       "summary": "",
-      "published": "2026-07-15 13:31",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "The Zen of Parallel Programming",
-      "url": "https://smolnero.com/posts/the-zen-of-parallel-programming",
-      "summary": "",
-      "published": "2026-07-14 14:23",
+      "published": "2026-07-15 16:16",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
