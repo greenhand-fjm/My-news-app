@@ -1,374 +1,401 @@
 {
-  "last_updated": "2026-07-30 01:15:18",
+  "last_updated": "2026-07-31 01:27:21",
   "total": 52,
   "articles": [
     {
-      "title": "美国众议院能源委员会要求参观xAI数据中心以调查污染情况",
-      "url": "https://36kr.com/newsflashes/3917434099773065?f=rss",
-      "summary": "美国众议院能源与商业委员会首席民主党议员已致信SpaceX首席执行官埃隆・马斯克，要求参观其xAI位于田纳西州孟菲斯市内及周边的数据中心与电站。新泽西州民主党众议员弗兰克・帕隆在周三致马斯克的信函中写道：“美国民众忧心，数据中心以及科技巨头大举扩张人工智能，会给社区、就业、房产价值与长远发展带来何种影响。电价飞涨、电网负荷紧张，洁净空气与水源遭受污染，持续噪音正损害居民健康，不断消耗民众的耐心。”（新浪财经）",
-      "published": "2026-07-30 01:11",
+      "title": "恒指开盘跌0.08%，恒生科技指数涨0.3%",
+      "url": "https://36kr.com/newsflashes/3918871758417536?f=rss",
+      "summary": "36氪获悉，恒指开盘跌0.08%，恒生科技指数涨0.3%；半导体、硬件设备板块领涨，中际旭创涨15%，华虹宏力涨超14%；消费、汽车板块跌幅居前，理想汽车跌超2%，泡泡玛特跌超1%。",
+      "published": "2026-07-31 01:22",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "银河证券：奶价增速转正或将带动相关上市公司盈利能力修复",
-      "url": "https://36kr.com/newsflashes/3917434491235977?f=rss",
-      "summary": "36氪获悉，银河证券指出，7月国内生鲜乳价格同比+0.3%，时隔近5年首次实现转正，反映行业供需格局逐渐趋于平衡，此外散奶价格已于3月开始率先实现上涨，强化奶价周期底部回升信号。展望后市，考虑到当前奶源结构与下游需求复苏态势，判断此次奶价增速转正后的走势或与2016年较为相似，即呈现小幅温和上涨趋势，将推动下游竞争趋缓与减值损失减少，进而带动相关上市公司盈利能力修复。",
-      "published": "2026-07-30 01:08",
+      "title": "MiniMax H3正式发布",
+      "url": "https://36kr.com/newsflashes/3918865590677126?f=rss",
+      "summary": "36氪获悉，MiniMax宣布正式发布MiniMax H3。据介绍，这是一款通用的全模态生成模型，支持对文本、图像、视频、声音组成的多模态上下文的统一理解能力、能够输出具备原生双声道的音视频，最高可支持15s 2K分辨率。MiniMax表示，计划在未来几天内，在符合相关法律法规的前提下，开放模型权重。",
+      "published": "2026-07-31 01:16",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "微软新增数据中心租约超1300亿美元",
-      "url": "https://36kr.com/newsflashes/3917435911007621?f=rss",
-      "summary": "当地时间7月29日，微软在一份监管文件中披露，第四财季新增尚未开始执行的数据中心租约承诺超过1300亿美元，显示其AI算力扩张仍在加速。截至6月30日，微软尚未开始履行的租赁总承诺达到3291亿美元，较前一季度的1966亿美元大幅上升。（界面）",
-      "published": "2026-07-30 01:01",
+      "title": "扩建算力数据中心后，智谱GLM Coding Plan开放订阅",
+      "url": "https://36kr.com/newsflashes/3918863627988358?f=rss",
+      "summary": "7月31日，智谱宣布，随着基础设施持续扩容，面向开发者群体的付费订阅服务GLM Coding Plan开放订阅。此前因AI Coding需求爆发，用户需求增长，阶段性限制订阅名额。另据了解，智谱已落地1GW级国产AI算力数据中心建设，全部采用国产AI芯片，并持续投入算力基础设施建设。（第一财经）",
+      "published": "2026-07-31 01:14",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "狂揽80亿美元估值，黑石推动三明治连锁店Jersey Mike's冲刺IPO",
-      "url": "https://36kr.com/newsflashes/3917422152019587?f=rss",
-      "summary": "去年年初，黑石集团斥资约60亿美元并承担相关债务，收购了Jersey Mike's Subs的多数股权。如今，18个月过去，Jersey Mike's作为一家私募控股非上市公司的短暂历程即将画上句号。该公司定于周四登陆纽约证券交易所估，值约为80亿美元。在此次发行中，该公司及现有投资者将出售最多10.9亿美元的股票，这将成为近年来美国规模最大的餐饮业IPO之一。（新浪财经）",
-      "published": "2026-07-30 00:58",
+      "title": "MSCI新兴市场股票指数飙升5%，创4月以来最大涨幅",
+      "url": "https://36kr.com/newsflashes/3918862232300929?f=rss",
+      "summary": "36氪获悉，MSCI新兴市场股票指数飙升5%，创4月以来最大涨幅。",
+      "published": "2026-07-31 01:12",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "中信建投：看好重卡出口高景气及业绩强兑现",
-      "url": "https://36kr.com/newsflashes/3917420858896003?f=rss",
-      "summary": "36氪获悉，中信建投证券研报指出，近期新车仍在密集上市，但股价反应或有钝化，行业仍呈现内需承压、出口强劲特征，板块行情自4月底开始的大幅回调筑底，当前二季度业绩承压等悲观预期已price-in，市场更为关注板块龙头中长期配置买点，6月底以来股价迎来修复反弹。研报维持前期观点，结构性α看好乘用车出口超预期+高端新能源车加速起量，估值空间看好物理AI重构成长新范式。6月重卡内外销延续高景气，新能源客车出口放量带动结构优化。当前时点建议重视低估值强业绩龙头标的的投资机会，板块龙头股价下行空间有限，投资赔率突出。看好出口高景气及业绩强兑现，7—8月重汽出口同比增速仍有望保持40%以上，期间中报业绩预计稳定兑现。",
-      "published": "2026-07-30 00:55",
+      "title": "“中科欣扬”完成亿元级融资",
+      "url": "https://36kr.com/newsflashes/3918859563839107?f=rss",
+      "summary": "36氪获悉，“中科欣扬”宣布完成亿元级融资。本轮融资由产业投资方领投，海愿资本、龙岗引导基金跟投。本轮融资将重点投向合成生物平台搭建，进一步加快多底盘细胞开发、产品产业化进程，并完成生物制造大宗生物制品战略布局。易凯资本在本次交易中担任了中科欣扬的独家财务顾问。",
+      "published": "2026-07-31 01:10",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "耐心资本密集落子，央企系基金加速布局硬科技",
-      "url": "https://36kr.com/newsflashes/3917413432225160?f=rss",
-      "summary": "近一个月来，央企系基金在硬科技赛道的出手节奏明显加快：具身智能“独角兽”星动纪元获诚通基金10亿元领投，物理AI企业清研精准获国机产业基金战略投资，山西中电科获国新基金领投。在具身智能、半导体装备、量子计算等多个战略性新兴产业赛道，央企“耐心资本”正在加速落子。一个重要趋势是，央企资本正向更早期的技术前沿倾斜，在多个长周期赛道上敢于先手布局，并以“耐心资本”的定力推动未来产业从实验室走向产业化，同时以资本为纽带，支撑产业链供应链的自主可控。（上证报）",
-      "published": "2026-07-30 00:53",
+      "title": "“昆腾动力”完成超亿元种子轮融资",
+      "url": "https://36kr.com/newsflashes/3918858807815810?f=rss",
+      "summary": "36氪获悉，Physical AI平台公司“昆腾动力（Quantum Dynamics）”近日完成超亿元种子轮融资，本轮由云启资本、商汤科技联合投资。资金将主要用于Physical AI核心技术研发、人才梯队建设及全球化市场拓展，加速其面向物理世界的智能系统从底层模型到场景化落地的全链路构建。多维资本参与项目孵化与团队组建。",
+      "published": "2026-07-31 01:09",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "“翻倍基”数量锐减，绩优基金之间差距拉开",
-      "url": "https://36kr.com/newsflashes/3917412792020359?f=rss",
-      "summary": "基金年内业绩榜正在经历一场剧烈洗牌。Wind数据显示，截至7月28日，年内收益率超过100%的基金仅剩6只，较6月末的246只减少240只。不足一个月，上半年批量涌现的“翻倍基”数量缩水97.56%。“翻倍基”阵营快速缩水的背后，是前期领涨的科技板块遭遇集体调整。7月以来，创业板50指数、科创50指数分别下跌23.16%、23.97%，市场由单边上涨转向高位震荡，重仓人工智能、半导体、通信等方向的基金首当其冲。值得注意的是，剧烈波动也进一步拉开了绩优基金之间的差距。部分基金因持仓高度集中而大幅回吐收益，还有部分基金凭借提前降低仓位、调整持仓结构，继续守在“翻倍线”之上。（证券时报）",
-      "published": "2026-07-30 00:50",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "两市融资余额减少255.48亿元",
-      "url": "https://36kr.com/newsflashes/3917422466035077?f=rss",
-      "summary": "36氪获悉，截至7月29日，上交所融资余额报13366.95亿元，较前一交易日减少123.16亿元；深交所融资余额报12762.74亿元，较前一交易日减少132.32亿元；两市合计26129.69亿元，较前一交易日减少255.48亿元。",
-      "published": "2026-07-30 00:48",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "强生下调全年调整后运营每股收益预期",
-      "url": "https://36kr.com/newsflashes/3917411790515585?f=rss",
-      "summary": "当地时间7月29日，强生公司更新2026年全年指引，预计全年调整后运营每股收益为10.86至11.01美元，此前预期为11.50至11.65美元；预计调整后每股收益为10.96至11.11美元，此前预期为11.60至11.75美元。该公司仍预计销售额为1008亿至1014亿美元。（界面）",
-      "published": "2026-07-30 00:45",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "摩根大通将美联储加息预期提前至12月",
-      "url": "https://36kr.com/newsflashes/3917408113274241?f=rss",
-      "summary": "摩根大通目前预计美联储将于12月加息，这比该行此前预期的2027年下半年要早。“在沃什的新闻发布会上，他再次未能明确说明，他打算如何实现自己所强硬宣称的抗通胀决心，”首席美国经济学家Michael Feroli在一份报告中写道。这位主席还对PCE是否仍将作为美联储通胀目标提出了质疑，“这两点都让人对这位新任主席能否实现降通胀的目标产生了质疑。”这反过来可能会给美联储委员会其他成员带来更大的紧迫感，促使他们履行其职责。“我们不会将此次修正视为市场对美联储的‘施压’，而应视为又一个挑战，促使美联储采取行动以维护其公信力。”（新浪财经）",
-      "published": "2026-07-30 00:43",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "华泰证券：8月电池排产环比增长，看好本轮锂电涨价周期",
-      "url": "https://36kr.com/newsflashes/3917404151426439?f=rss",
-      "summary": "36氪获悉，华泰证券研报指出，鑫椤锂电发布锂电产业链8月预排产数据，样本企业中电池8月排产198.8GWh，环比+8.9%，正极合计24.4万吨，环比+3.5%，负极21.4万吨，环比+4.9%，隔膜22.3亿平，环比+0.9%，电解液14.1万吨，环比+5.6%，旺季效应持续。国内外储能需求维持强劲，全球汽车电动化持续加速，叠加年底出口退税抢出口+储能并网旺季，预计下半年排产有望加速提升。研报看好本轮锂电涨价周期，同时看好钠电池从1到N产业趋势，固态电池新技术产业化。",
-      "published": "2026-07-30 00:41",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "中小银行理财业务迁徙：自营产品加速出清，代销成转型主航道",
-      "url": "https://36kr.com/newsflashes/3917403746152072?f=rss",
-      "summary": "7月以来，多家未设立理财公司的中小银行（下称“非持牌银行”）发布新增代销理财业务合作机构的公告，通过与理财公司签约开展产品代销合作。结合非持牌银行陆续披露的2026年上半年度理财业务报告可见，此类银行自营理财规模延续收缩态势，不少机构降幅显著，部分机构已彻底清零自营存量。自营理财有序压降、代销业务加快拓量，此消彼长之下，中小银行理财业务格局迎来深度重塑，非持牌银行逐步向理财渠道服务商转型。（中证报）",
-      "published": "2026-07-30 00:39",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
-      "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
-      "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
-      "published": "2026-07-30 00:21",
+      "title": "Anthropic says its own AI models breached three companies during security tests",
+      "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+      "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
+      "published": "2026-07-31 01:06",
       "source": "techcrunch.com",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
-      "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
-      "summary": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
-      "published": "2026-07-29 23:00",
+      "title": "韩国KOSPI指数日内暴涨16%",
+      "url": "https://36kr.com/newsflashes/3918852030885248?f=rss",
+      "summary": "36氪获悉，韩国KOSPI指数日内大涨16%，刷新历史最大单日盘中涨幅。",
+      "published": "2026-07-31 01:02",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "黑芝麻智能：上半年收入预计超4.58亿元，同比增长超81.1%",
+      "url": "https://36kr.com/newsflashes/3918835841936775?f=rss",
+      "summary": "7月30日，黑芝麻智能发布2026年半年度盈利预告。公告称，2026年上半年收入预计超过4.58亿元，同比增长超过81.1%；净亏损预计不超过8.2亿元，基本与上年同期保持稳定。智能汽车与具身智能双赛道增长动能充沛，业务基本面整体向好。此外，根据公司公告，黑芝麻智能创始人兼CEO单记章第二次自愿延长股份禁售承诺。在原禁售承诺于2026年8月7日届满后，再次锁定12个月，持续彰显管理层对公司长期发展的坚定信心。",
+      "published": "2026-07-31 01:00",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "汇丰控股将向黑石集团出售价值250亿美元的澳大利亚贷款组合",
+      "url": "https://36kr.com/newsflashes/3918847384039044?f=rss",
+      "summary": "汇丰控股已同意将其价值250亿美元的澳大利亚住房和个人贷款组合出售给私募股权投资公司黑石集团（Blackstone），这家总部位于英国的银行将继续重塑其业务，并专注于核心市场。汇丰周五表示，Virgo BidCo将收购该贷款组合。Virgo BidCo是一家由黑石集团附属公司管理的基金全资拥有的实体。（新浪财经）",
+      "published": "2026-07-31 00:57",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "今年以来公募获配定增超过380亿元，依赖折价获利的空间正在压缩",
+      "url": "https://36kr.com/newsflashes/3918842310126980?f=rss",
+      "summary": "公募排排网数据显示，按增发上市日统计，截至7月28日，今年以来共有24家公募机构参与75家公司股票定增，合计获配金额380.05亿元，较2025年同期的139亿元增长173.42%。按7月28日收盘价计算，参与定增的公募机构目前平均浮盈比例达到15.9%，其中超过半数的机构获得正收益。虽然整体收益情况较好，但今年以来公募机构定增收益已经出现明显分化。公募排排网数据显示，在上述75单项目中，公募在26单上实现浮盈，其中12单浮盈比例超过10%。部分科技制造领域项目表现突出，部分项目收益表现相对有限。业内人士表示，定增收益分化反映了市场环境的变化。过去，定增投资的重要收益来源之一是发行折价带来的安全垫，但随着市场参与者增多、优质项目竞争加剧，折价空间正在逐步收窄。（上证报）",
+      "published": "2026-07-31 00:52",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "小米押注增程式混合动力，跨界造车竞争进入下半场",
+      "url": "https://36kr.com/newsflashes/3918841606761864?f=rss",
+      "summary": "7月30日晚，小米集团董事长雷军现身小米澎程技术发布会。在这场小米跨界造车以来的第二次技术发布会上，雷军宣布，小米汽车正式进入增程式混合动力领域，推出昆仑技术架构和N90与N70两款增程式智能SUV新能源车型。业内专家对记者分析称，小米汽车目前面临完成年度销量目标和保证造车利润的双重压力。同时，华为、字节跳动等科技巨头也在通过和整车企业深化合作等方式发展汽车业务，国内跨界造车的竞争正在进入下半场。（上证报）",
+      "published": "2026-07-31 00:51",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "两市融资余额减少366.59亿元",
+      "url": "https://36kr.com/newsflashes/3918840623804034?f=rss",
+      "summary": "36氪获悉，截至7月30日，上交所融资余额报13222.12亿元，较前一交易日减少144.83亿元；深交所融资余额报12540.98亿元，较前一交易日减少221.76亿元；两市合计25763.1亿元，较前一交易日减少366.59亿元。",
+      "published": "2026-07-31 00:50",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "Apple stockpiles inventory as it braces for ‘significant supply constraints’",
+      "url": "https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/",
+      "summary": "Apple is worried enough about supply shortages that it reported about $11.1 billion in inventory, which is almost double the $5.7 billion it reported last September.",
+      "published": "2026-07-30 23:28",
       "source": "techcrunch.com",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "LLM Honeypot",
-      "url": "https://llm2human.pages.dev/",
+      "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+      "url": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+      "summary": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
+      "published": "2026-07-30 23:25",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The AI Aesthetic",
+      "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
       "summary": "",
-      "published": "2026-07-29 22:51",
+      "published": "2026-07-30 23:22",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
-      "url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
-      "summary": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.",
-      "published": "2026-07-29 22:46",
+      "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
+      "url": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
+      "summary": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
+      "published": "2026-07-30 23:08",
       "source": "techcrunch.com",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
-      "url": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
-      "summary": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.",
-      "published": "2026-07-29 22:23",
+      "title": "Investors love AI, as long as you’re a cloud host",
+      "url": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
+      "summary": "Amazon isn't slowing down on data center spending — but investors don't seem to mind.",
+      "published": "2026-07-30 22:41",
       "source": "techcrunch.com",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Microsoft confirms Copilot ‘super app’ coming this year",
-      "url": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
-      "summary": "Microsoft is working on an AI \"super app\" that combines Copilot's chat, coding, and agentic capabilities. During an earnings call on Wednesday, Microsoft CEO Satya Nadella said the app will span \"both consumer and commercial experiences\" when it launches this year. \"Copilot is evolving rapidly from chat to Cowork to Autopilots,\" Nadella said. \"This quarter, [&#8230;]",
-      "published": "2026-07-29 22:17",
-      "source": "www.theverge.com",
+      "title": "Apple says gaming slowdown and App Store changes hurt services growth",
+      "url": "https://techcrunch.com/2026/07/30/apple-says-gaming-slowdown-and-app-store-changes-hurt-services-growth/",
+      "summary": "Apple said a slowdown in mobile gaming and changes to the App Store’s business model — including court-ordered payment rule changes in the U.S. — weighed on its services business, even as the company topped 1.5 billion paid subscriptions.",
+      "published": "2026-07-30 22:37",
+      "source": "techcrunch.com",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Mark Zuckerberg is planning a big push into personal AI agents",
-      "url": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
-      "summary": "Meta is all-in on AI, and sometime soon, the company is going to make a big push into personal AI agents that can do things on your behalf. On Wednesday's Q2 2026 earnings call, CEO Mark Zuckerberg previewed a high-level vision of how the company is thinking about personal agents and what it will do [&#8230;]",
-      "published": "2026-07-29 21:48",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Qualcomm is raising phone chip prices starting September 1st",
-      "url": "https://www.theverge.com/tech/972894/qualcomm-price-hikes-q2-2026-earnings",
-      "summary": "RAMageddon won't be the only reason your next phone costs more - Qualcomm is about to raise prices on all its processors, as well. Qualcomm CEO Cristiano Amon said on Wednesday that \"prices are going to go up\" on the company's products starting on September 1st, CNBC reports. The price hikes were rumored last week [&#8230;]",
-      "published": "2026-07-29 21:41",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "AI's top startups are barely publishing their research",
-      "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+      "title": "I flagged two research papers for fake authors and both were accepted as orals",
+      "url": "https://geospatialml.com/posts/reviewing-ai-slop/",
       "summary": "",
-      "published": "2026-07-29 21:25",
+      "published": "2026-07-30 22:33",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
-      "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
-      "published": "2026-07-29 21:16",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
-      "url": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
-      "summary": "Weng previously served as the VP of AI Safety Research at OpenAI.",
-      "published": "2026-07-29 21:07",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "xAI’s last-minute scramble to stop Minnesota’s anti-nudification app law",
-      "url": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit",
-      "summary": "xAI is suing Minnesota Attorney General Keith Ellison over a law passed back in May that broadly targets \"nudification\" apps, claiming that the statute's punitive provisions leave the company with \"no practical choice but to restrict Grok Imagine's image-editing features in various ways.\" The law, the company argues, violates the First Amendment. Back in January, [&#8230;]",
-      "published": "2026-07-29 21:06",
+      "title": "Tim Cook hints at iCloud Plus tier for AI power users",
+      "url": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
+      "summary": "Apple may allow users to pay to increase their AI usage limits. During an earnings call on Thursday, Apple CEO Tim Cook said that he believes people will want to use Apple Intelligence and the upcoming Siri AI \"a lot,\" adding that \"we will have some kind of upgrade possibilities on iCloud Plus where people [&#8230;]",
+      "published": "2026-07-30 22:29",
       "source": "www.theverge.com",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "The Cold Email",
-      "url": "https://zachholman.com/posts/cold-email",
+      "title": "Xbox CEO lays out priorities in memo after major &#8216;reset&#8217;",
+      "url": "https://www.theverge.com/games/973520/xbox-ceo-memo-one-year-growth",
+      "summary": "After a massive Xbox \"reset\" that laid off thousands of employees and spun off four studios, Xbox CEO Asha Sharma wants to get Xbox back to growth. In a memo obtained by The Verge, Sharma told staff by the end of fiscal year 2027 (which runs through next June), \"we will return XBOX to player [&#8230;]",
+      "published": "2026-07-30 22:10",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Apple&#8217;s iPhone and Mac sales keep growing despite RAM shortages",
+      "url": "https://www.theverge.com/tech/973430/apple-q3-2026-earnings",
+      "summary": "Apple's iPhone and Mac sales are on the rise even as a global memory shortage squeezes device makers. In its third-quarter earnings report released on Thursday, Apple revealed that iPhone sales jumped 22 percent to $54.25 billion and Mac sales increased 29 percent to $10.35 billion, driving the company's overall revenue to $109.4 billion. The [&#8230;]",
+      "published": "2026-07-30 20:49",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The loss of Situational Awareness",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks",
+      "summary": "I am not by any means an expert at finance but I think I do now have some advice for people who are: Do not name your hedge fund anything that will be hilarious if it blows up. Don't use a name like \"Long-Term Capital Management\" or \"Amaranth Advisors\" (named for the floral symbol for [&#8230;]",
+      "published": "2026-07-30 20:46",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
+      "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+      "summary": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.",
+      "published": "2026-07-30 20:26",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "CareCloud begins to notify hundreds of thousands after hackers stole medical records",
+      "url": "https://techcrunch.com/2026/07/30/carecloud-begins-to-notify-hundreds-of-thousands-after-hackers-stole-medical-records/",
+      "summary": "The health tech data giant, which handles vast amounts of patients' medical data, said hackers struck one of its protected health data stores.",
+      "published": "2026-07-30 20:13",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
+      "url": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
+      "summary": "Friend, the AI wearable, can now talk to its users — for an enhanced price.",
+      "published": "2026-07-30 19:44",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
+      "url": "https://github.com/AminBlg/SimpleEnglish",
       "summary": "",
-      "published": "2026-07-29 21:06",
+      "published": "2026-07-30 19:34",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Winamp aims for a comeback with a new music player powered by Deezer",
-      "url": "https://techcrunch.com/2026/07/29/winamp-aims-for-a-comeback-with-a-new-music-player-powered-by-deezer/",
-      "summary": "Winamp is preparing to relaunch with a Deezer-powered premium music service, betting its nostalgic brand and a new all-in-one music player can stand out in today’s crowded streaming market.",
-      "published": "2026-07-29 21:02",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Cyberpunk 2077 packs a lot of fun into its discounted $20 price",
-      "url": "https://www.theverge.com/gadgets/972777/cyberpunk-2077-deal-sale",
-      "summary": "Over the last few years, CD Projekt Red put a ton of work into fixing Cyberpunk 2077, squashing bugs, polishing content, and even launching new DLC in 2023, Phantom Liberty. As a result, this game has gone from a source for funny, glitch-fueled videos to a world I’ve returned to a number of times to [&#8230;]",
-      "published": "2026-07-29 21:02",
+      "title": "Samsung’s Galaxy Watch 9 is $40 off at Costco and comes with over $50 in freebies",
+      "url": "https://www.theverge.com/gadgets/973211/costco-galaxy-watch-9-preorder-costco-deal-sale",
+      "summary": "The Galaxy Watch 9 launches on August 7th, and not only does Costco have the best preorder incentives we’ve seen so far, the watch is also discounted. The deal includes the 40mm Watch 9 in cream or graphite, two wireless fast chargers for the watch, and a $50 Costco gift card, all for $339.99 — [&#8230;]",
+      "published": "2026-07-30 19:00",
       "source": "www.theverge.com",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "The coolest use for the Vision Pro",
-      "url": "https://christianselig.com/2026/07/vision-pro-house/",
+      "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
+      "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
+      "summary": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools.",
+      "published": "2026-07-30 18:57",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "LinkedIn actually adds a ‘seems like AI slop’ button",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
+      "summary": "A lot of content on LinkedIn might seem like AI slop, and now, you'll be able to report those posts. As part of a series of updates to reduce the volume of AI slop on the platform, LinkedIn is introducing an actual button that lets you flag a post as something that \"Seems like AI [&#8230;]",
+      "published": "2026-07-30 18:43",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Florida plans to build air taxi pads using $200M intended for EV chargers",
+      "url": "https://techcrunch.com/2026/07/30/florida-plans-to-build-air-taxi-pads-using-200m-intended-for-ev-chargers/",
+      "summary": "Florida wants to use federal EV charger funds to build an air taxi network connecting golf courses, luxury apartment buildings, and airports.",
+      "published": "2026-07-30 18:38",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "LinkedIn adds a button to report AI-generated ‘slop’",
+      "url": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
+      "summary": "LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a “seems like AI slop” reporting option. It's also replacing its own AI writing feature with a proofreading tool.",
+      "published": "2026-07-30 18:05",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Govee&#8217;s portable smart lamp is down to one of its best prices to date",
+      "url": "https://www.theverge.com/gadgets/973266/govee-table-lamp-classic-back-to-school-deal-sale",
+      "summary": "Buying multiple lamps for different rooms can get expensive. Govee’s rechargeable Table Lamp Classic gives you one lamp you can use throughout your home instead of getting one for every room, and right now it’s down to $59 ($21 off) at Amazon. That’s just $4 shy of the all-time low set during Prime Day, and [&#8230;]",
+      "published": "2026-07-30 18:01",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "NASA’s Curiosity rover found a ‘sea of polygons’ on Mars",
+      "url": "https://www.theverge.com/science/973314/nasa-curiosity-rover-mars-polygons",
+      "summary": "The latest discovery from NASA's Curiosity Mars rover is a field of honeycomb-shaped polygons covering a Martian valley called Valle Grande. As Gizmodo reports, Curiosity has snapped pictures of the unusual terrain texture before, called polygonal fractures, each about 1.5 to 3 inches wide, but NASA says it's previously only found them in small patches, [&#8230;]",
+      "published": "2026-07-30 17:20",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Google DeepMind’s new AI model can control a robot’s entire body",
+      "url": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
+      "summary": "Google DeepMind says the latest version of its Gemini Robotics AI model can \"control entire humanoid robots.\" While the previous model focused on controlling a humanoid robot's upper body, Gemini Robotics 2 now supports \"whole-body motions\" ranging from its feet to fingertips, according to an announcement on Thursday. The new model will allow humanoid robots [&#8230;]",
+      "published": "2026-07-30 17:18",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "ABC demands FCC drop its ‘punitive’ early license renewal of its stations",
+      "url": "https://www.theverge.com/policy/973289/abc-fcc-early-license-renewal-opposition",
+      "summary": "ABC filed its formal opposition to the Federal Communications Commission's effort to force it to submit to an early renewal of its broadcast station licenses, calling it an effort to chill the speech of broadcasters across the country. In a new filing with the FCC, ABC charges that the agency's willingness to pursue the early [&#8230;]",
+      "published": "2026-07-30 17:08",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Read this before you buy that TV streaming stick",
+      "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
       "summary": "",
-      "published": "2026-07-29 20:39",
+      "published": "2026-07-30 17:04",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Xbox revenue drops 10 percent as Microsoft&#8217;s cloud and AI business surges",
-      "url": "https://www.theverge.com/tech/972738/xbox-revenue-microsoft-earnings-q4-2026",
-      "summary": "Xbox is having yet another tough quarter, as revenue from content and services like its Game Pass subscription dipped 10 percent over the past few months. At the same time, Xbox hardware sales declined 13 percent, according to Microsoft's fourth-quarter earnings report released on Wednesday. The news comes just weeks after Xbox head Asha Sharma [&#8230;]",
-      "published": "2026-07-29 20:26",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
-      "url": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
-      "summary": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)",
-      "published": "2026-07-29 19:44",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
-      "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
-      "summary": "Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever.",
-      "published": "2026-07-29 18:45",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "What’s the catch with the Apple Upgrade program?",
-      "url": "https://www.theverge.com/tech/972583/apple-upgrade-program-deal",
-      "summary": "Apple's new Upgrade program is here, allowing you to lease select models of iPhones, iPads, Macs, and Watches with a relatively low monthly payment. The company promises you won't pay more than the full price of the device over the course of the one- to three-year lease, and in some cases, you'll pay hundreds of [&#8230;]",
-      "published": "2026-07-29 18:40",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "OpenAI president says it&#8217;s &#8216;building a family of devices&#8217; for its AI chatbots",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
-      "summary": "In an interview with our friend Joanna Stern on her YouTube channel, OpenAI president Greg Brockman said the company is working on a \"family of devices\" for interacting with its AI models. However, Brockman didn't confirm reports that one of those devices is a smart speaker OpenAI's rumored to be launching in 2027, or earlier [&#8230;]",
-      "published": "2026-07-29 18:15",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "The US government just banned Roombas",
-      "url": "https://www.theverge.com/policy/972312/us-robot-ban-sweep-up-chinese-vacuums",
-      "summary": "When the Trump administration announced yesterday that it was banning \"advanced robotic devices\" from entering the United States, the headlines were all about humanoids. But spying doesn't require legs - and neither does the FCC's robot ban. The robot ban will sweep up robot vacuum cleaners too, FCC media relations director Katie Gorscak confirms to [&#8230;]",
-      "published": "2026-07-29 18:13",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Sorry, haters. Ferrari’s first EV is doing just fine",
-      "url": "https://techcrunch.com/2026/07/29/sorry-haters-ferraris-first-ev-is-doing-just-fine/",
-      "summary": "To the horror of commenters across the internet, the Ferrari Luce appears to be a sales success.",
-      "published": "2026-07-29 17:57",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Waymo robotaxis are starting to return to freeways",
-      "url": "https://techcrunch.com/2026/07/29/waymo-robotaxis-are-starting-to-return-to-freeways/",
-      "summary": "The freeway pause — and its restart — comes amid increased scrutiny into Waymo and other robotaxi operators, particularly over how these self-driving vehicles behave in certain high-traffic situations and around emergency responders.",
-      "published": "2026-07-29 17:50",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "US government bans new foreign-made humanoids, robot dogs, and solar inverters, citing risks to national security",
-      "url": "https://techcrunch.com/2026/07/29/us-government-bans-new-foreign-made-humanoids-robot-dogs-and-solar-inverters-citing-risks-to-national-security/",
-      "summary": "The ban largely affects U.S. imports from China, which currently dominates the global market for making humanoid robots and solar inverters.",
-      "published": "2026-07-29 17:41",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Full school day cellphone bans are more popular than ever",
-      "url": "https://www.theverge.com/policy/972607/full-school-day-cell-phone-bans-are-more-popular-than-ever",
-      "summary": "As schools across the country continue to implement cellphone bans, a new Pew Research Center survey shows they continue to gain support. Seventy-seven percent of US adults support banning cellphones in middle and high school classes, and 48 percent support banning them for the entire school day. That's the first time more Americans have supported, [&#8230;]",
-      "published": "2026-07-29 16:42",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Keychron announces first open-source firmware for gaming mice",
-      "url": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
+      "title": "Stacked PRs are now live on GitHub",
+      "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
       "summary": "",
-      "published": "2026-07-29 16:36",
+      "published": "2026-07-30 16:26",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Superlogical",
-      "url": "https://www.superlogical.com/",
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
       "summary": "",
-      "published": "2026-07-29 15:41",
+      "published": "2026-07-30 15:15",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-      "url": "https://github.com/drumih/turbo-fieldfare",
-      "summary": "",
-      "published": "2026-07-29 15:05",
-      "source": "Hacker News",
-      "lang": "en",
+      "title": "App+1 | 免费、多功能的远程控制新选择：网易 UU 远程",
+      "url": "https://sspai.com/post/112405",
+      "summary": "从远程桌面到终端、端口映射和云电脑，网易 UU 远程帮你一站式搞定。<a href=\"https://sspai.com/post/112405\" target=\"_blank\">查看全文</a>",
+      "published": "2026-07-30 09:30",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "在流媒体时代，搭建一个专属于自己的「音乐探索系统」",
+      "url": "https://sspai.com/post/112656",
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/112656\" target=\"_blank\">查看全文</a>",
+      "published": "2026-07-30 06:53",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "少数派会员年度更新：把共同的热爱随身携带",
+      "url": "https://sspai.com/post/112858",
+      "summary": "感谢每一位已经同行多年的会员，也欢迎新朋友加入我们共同建设的社区。<a href=\"https://sspai.com/post/112858\" target=\"_blank\">查看全文</a>",
+      "published": "2026-07-30 03:01",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "派早报：中国电信将不再通过第三方互联网渠道提供号卡办理服务等",
+      "url": "https://sspai.com/post/112881",
+      "summary": "Bigme 大我推出 F13 彩墨屏 AI 数码相框，OpenAI 宣布开源 Codex Security CLI 等。<a href=\"https://sspai.com/post/112881\" target=\"_blank\">查看全文</a>",
+      "published": "2026-07-30 00:32",
+      "source": "sspai.com",
+      "lang": "zh_cn",
       "category": "科技"
     },
     {
@@ -399,24 +426,6 @@
       "category": "科技"
     },
     {
-      "title": "派早报：微软发布网络安全模型 MAI-Cyber-1-Flash、美团发布 AI Agent 平台等",
-      "url": "https://sspai.com/post/112837",
-      "summary": "少数派的近期动态那个让你放松娱乐、拥抱心流、逃离纷扰或找回真我的角落，是如何构建起来的？「角落新声」征文活动火热征稿中你可能错过的好文章社区速递151|派友的六月好物盘点、携程被重罚热议和tomtoc ...<a href=\"https://sspai.com/post/112837\" target=\"_blank\">查看全文</a>",
-      "published": "2026-07-29 00:39",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
-      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-      "summary": "",
-      "published": "2026-07-28 20:28",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
       "title": "社区速递 151 | 派友的六月好物盘点、携程被重罚热议和 tomtoc 城市穿行背包",
       "url": "https://sspai.com/post/112820",
       "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/112820\" target=\"_blank\">查看全文</a>",
@@ -444,30 +453,21 @@
       "category": "科技"
     },
     {
-      "title": "索尼抛弃实体游戏光盘，谁成为了转型代价？",
-      "url": "https://sspai.com/post/112774",
-      "summary": "占核心营收和利润支柱的业务，是不是应该追求最为稳妥的业务方向和逻辑？这个问题对于强大的索尼而言，答案大不相同。<a href=\"https://sspai.com/post/112774\" target=\"_blank\">查看全文</a>",
-      "published": "2026-07-28 03:02",
-      "source": "sspai.com",
-      "lang": "zh_cn",
+      "title": "The American Grilled Cheese Sandwich Essay (2024)",
+      "url": "https://buttondown.com/theswordandthesandwich/archive/the-best-american-grilled-cheese-sandwich-essay/",
+      "summary": "",
+      "published": "2026-07-27 17:37",
+      "source": "Hacker News",
+      "lang": "en",
       "category": "科技"
     },
     {
-      "title": "派评 | 近期值得关注的 App",
-      "url": "https://sspai.com/post/112785",
-      "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀<a href=\"https://sspai.com/post/112785\" target=\"_blank\">查看全文</a>",
-      "published": "2026-07-27 09:34",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "Windows 设计史 05 | 你怀念的 Windows 7，或许最具「人情味」",
-      "url": "https://sspai.com/post/101668",
-      "summary": "好用有时比创新更重要。<a href=\"https://sspai.com/post/101668\" target=\"_blank\">查看全文</a>",
-      "published": "2026-07-27 07:00",
-      "source": "sspai.com",
-      "lang": "zh_cn",
+      "title": "Destroying a Community with a Gigantic \"Clogged Vacuum Cleaner\"",
+      "url": "https://gizmodo.com/this-viral-data-center-sounds-like-satans-buzzsaw-2000791122",
+      "summary": "",
+      "published": "2026-07-27 12:33",
+      "source": "Hacker News",
+      "lang": "en",
       "category": "科技"
     }
   ]
