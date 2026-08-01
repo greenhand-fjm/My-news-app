@@ -1,363 +1,417 @@
 {
-  "last_updated": "2026-07-31 01:27:21",
+  "last_updated": "2026-08-01 01:29:49",
   "total": 52,
   "articles": [
     {
-      "title": "恒指开盘跌0.08%，恒生科技指数涨0.3%",
-      "url": "https://36kr.com/newsflashes/3918871758417536?f=rss",
-      "summary": "36氪获悉，恒指开盘跌0.08%，恒生科技指数涨0.3%；半导体、硬件设备板块领涨，中际旭创涨15%，华虹宏力涨超14%；消费、汽车板块跌幅居前，理想汽车跌超2%，泡泡玛特跌超1%。",
-      "published": "2026-07-31 01:22",
+      "title": "美股三大指数收盘集体上涨，大型科技股涨跌不一",
+      "url": "https://36kr.com/newsflashes/3920277410491776?f=rss",
+      "summary": "36氪获悉，8月1日收盘，美股三大指数集体上涨，道指涨0.53%报52485.03点，纳指涨1%报25373.85点，标普500指数涨0.7%报7489.72点。大型科技股涨跌不一，按涨跌幅排序如下：亚马逊（AMZN） 涨15.32%，谷歌（GOOG） 涨6.73%，Meta（META） 涨3.28%，微软（MSFT） 涨3.02%，英伟达（NVDA） 涨2.93%。特斯拉（TSLA） 涨0.76%，苹果（AAPL） 跌7.35%。热门中概股多数上涨，阿里巴巴涨超5%，京东（JD） 涨2.17%，拼多多（PDD） 涨1.28%",
+      "published": "2026-08-01 01:12",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "MiniMax H3正式发布",
-      "url": "https://36kr.com/newsflashes/3918865590677126?f=rss",
-      "summary": "36氪获悉，MiniMax宣布正式发布MiniMax H3。据介绍，这是一款通用的全模态生成模型，支持对文本、图像、视频、声音组成的多模态上下文的统一理解能力、能够输出具备原生双声道的音视频，最高可支持15s 2K分辨率。MiniMax表示，计划在未来几天内，在符合相关法律法规的前提下，开放模型权重。",
-      "published": "2026-07-31 01:16",
+      "title": "7月小米汽车交付量持续超30000台",
+      "url": "https://36kr.com/newsflashes/3920269054504578?f=rss",
+      "summary": "小米汽车公布，2026年7月小米汽车交付量持续超过30000台。",
+      "published": "2026-08-01 01:03",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "扩建算力数据中心后，智谱GLM Coding Plan开放订阅",
-      "url": "https://36kr.com/newsflashes/3918863627988358?f=rss",
-      "summary": "7月31日，智谱宣布，随着基础设施持续扩容，面向开发者群体的付费订阅服务GLM Coding Plan开放订阅。此前因AI Coding需求爆发，用户需求增长，阶段性限制订阅名额。另据了解，智谱已落地1GW级国产AI算力数据中心建设，全部采用国产AI芯片，并持续投入算力基础设施建设。（第一财经）",
-      "published": "2026-07-31 01:14",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "MSCI新兴市场股票指数飙升5%，创4月以来最大涨幅",
-      "url": "https://36kr.com/newsflashes/3918862232300929?f=rss",
-      "summary": "36氪获悉，MSCI新兴市场股票指数飙升5%，创4月以来最大涨幅。",
-      "published": "2026-07-31 01:12",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "“中科欣扬”完成亿元级融资",
-      "url": "https://36kr.com/newsflashes/3918859563839107?f=rss",
-      "summary": "36氪获悉，“中科欣扬”宣布完成亿元级融资。本轮融资由产业投资方领投，海愿资本、龙岗引导基金跟投。本轮融资将重点投向合成生物平台搭建，进一步加快多底盘细胞开发、产品产业化进程，并完成生物制造大宗生物制品战略布局。易凯资本在本次交易中担任了中科欣扬的独家财务顾问。",
-      "published": "2026-07-31 01:10",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "“昆腾动力”完成超亿元种子轮融资",
-      "url": "https://36kr.com/newsflashes/3918858807815810?f=rss",
-      "summary": "36氪获悉，Physical AI平台公司“昆腾动力（Quantum Dynamics）”近日完成超亿元种子轮融资，本轮由云启资本、商汤科技联合投资。资金将主要用于Physical AI核心技术研发、人才梯队建设及全球化市场拓展，加速其面向物理世界的智能系统从底层模型到场景化落地的全链路构建。多维资本参与项目孵化与团队组建。",
-      "published": "2026-07-31 01:09",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "Anthropic says its own AI models breached three companies during security tests",
-      "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
-      "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
-      "published": "2026-07-31 01:06",
+      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+      "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+      "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
+      "published": "2026-07-31 22:47",
       "source": "techcrunch.com",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "韩国KOSPI指数日内暴涨16%",
-      "url": "https://36kr.com/newsflashes/3918852030885248?f=rss",
-      "summary": "36氪获悉，韩国KOSPI指数日内大涨16%，刷新历史最大单日盘中涨幅。",
-      "published": "2026-07-31 01:02",
-      "source": "36kr.com",
-      "lang": "zh_cn",
+      "title": "With Switch 2, iPhone, and laptop tricks, the Sharge Disk Pro 2 is finally a worthy EDC",
+      "url": "https://www.theverge.com/gadgets/973886/sharge-disk-pro-2-hands-on-switch-2-hdmi-usb-c-dock",
+      "summary": "Sharge, the company that makes delightful retro Mac-shaped chargers and see-inside batteries, is finally impressing me with a portable SSD. I couldn't recommend the Sharge Disk, Disk Plus, or even the Disk Pro, but I'd be happy to own the new Disk Pro 2 Ultra. This isn't just a drive. It's a 4K HDMI dock [&#8230;]",
+      "published": "2026-07-31 22:09",
+      "source": "www.theverge.com",
+      "lang": "en",
       "category": "科技"
     },
     {
-      "title": "黑芝麻智能：上半年收入预计超4.58亿元，同比增长超81.1%",
-      "url": "https://36kr.com/newsflashes/3918835841936775?f=rss",
-      "summary": "7月30日，黑芝麻智能发布2026年半年度盈利预告。公告称，2026年上半年收入预计超过4.58亿元，同比增长超过81.1%；净亏损预计不超过8.2亿元，基本与上年同期保持稳定。智能汽车与具身智能双赛道增长动能充沛，业务基本面整体向好。此外，根据公司公告，黑芝麻智能创始人兼CEO单记章第二次自愿延长股份禁售承诺。在原禁售承诺于2026年8月7日届满后，再次锁定12个月，持续彰显管理层对公司长期发展的坚定信心。",
-      "published": "2026-07-31 01:00",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "汇丰控股将向黑石集团出售价值250亿美元的澳大利亚贷款组合",
-      "url": "https://36kr.com/newsflashes/3918847384039044?f=rss",
-      "summary": "汇丰控股已同意将其价值250亿美元的澳大利亚住房和个人贷款组合出售给私募股权投资公司黑石集团（Blackstone），这家总部位于英国的银行将继续重塑其业务，并专注于核心市场。汇丰周五表示，Virgo BidCo将收购该贷款组合。Virgo BidCo是一家由黑石集团附属公司管理的基金全资拥有的实体。（新浪财经）",
-      "published": "2026-07-31 00:57",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "今年以来公募获配定增超过380亿元，依赖折价获利的空间正在压缩",
-      "url": "https://36kr.com/newsflashes/3918842310126980?f=rss",
-      "summary": "公募排排网数据显示，按增发上市日统计，截至7月28日，今年以来共有24家公募机构参与75家公司股票定增，合计获配金额380.05亿元，较2025年同期的139亿元增长173.42%。按7月28日收盘价计算，参与定增的公募机构目前平均浮盈比例达到15.9%，其中超过半数的机构获得正收益。虽然整体收益情况较好，但今年以来公募机构定增收益已经出现明显分化。公募排排网数据显示，在上述75单项目中，公募在26单上实现浮盈，其中12单浮盈比例超过10%。部分科技制造领域项目表现突出，部分项目收益表现相对有限。业内人士表示，定增收益分化反映了市场环境的变化。过去，定增投资的重要收益来源之一是发行折价带来的安全垫，但随着市场参与者增多、优质项目竞争加剧，折价空间正在逐步收窄。（上证报）",
-      "published": "2026-07-31 00:52",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "小米押注增程式混合动力，跨界造车竞争进入下半场",
-      "url": "https://36kr.com/newsflashes/3918841606761864?f=rss",
-      "summary": "7月30日晚，小米集团董事长雷军现身小米澎程技术发布会。在这场小米跨界造车以来的第二次技术发布会上，雷军宣布，小米汽车正式进入增程式混合动力领域，推出昆仑技术架构和N90与N70两款增程式智能SUV新能源车型。业内专家对记者分析称，小米汽车目前面临完成年度销量目标和保证造车利润的双重压力。同时，华为、字节跳动等科技巨头也在通过和整车企业深化合作等方式发展汽车业务，国内跨界造车的竞争正在进入下半场。（上证报）",
-      "published": "2026-07-31 00:51",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "两市融资余额减少366.59亿元",
-      "url": "https://36kr.com/newsflashes/3918840623804034?f=rss",
-      "summary": "36氪获悉，截至7月30日，上交所融资余额报13222.12亿元，较前一交易日减少144.83亿元；深交所融资余额报12540.98亿元，较前一交易日减少221.76亿元；两市合计25763.1亿元，较前一交易日减少366.59亿元。",
-      "published": "2026-07-31 00:50",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "Apple stockpiles inventory as it braces for ‘significant supply constraints’",
-      "url": "https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/",
-      "summary": "Apple is worried enough about supply shortages that it reported about $11.1 billion in inventory, which is almost double the $5.7 billion it reported last September.",
-      "published": "2026-07-30 23:28",
+      "title": "Rivian spinoff Also to start delivering e-bikes after months of delays",
+      "url": "https://techcrunch.com/2026/07/31/rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-delays/",
+      "summary": "Also has big plans beyond the TM-B. The startup mostly refers to itself as a \"vehicle\" company and has plans to make four-wheel pedal-assist cargo vehicles for Amazon.",
+      "published": "2026-07-31 22:00",
       "source": "techcrunch.com",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
-      "url": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
-      "summary": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
-      "published": "2026-07-30 23:25",
+      "title": "Silicon Valley loves young founders. Until it doesn’t.",
+      "url": "https://techcrunch.com/2026/07/31/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
+      "summary": "AI tools have democratized the opportunity to build, shortening the timelines of success and enabling more young people to start successful companies without stepping foot inside a Big Tech company.",
+      "published": "2026-07-31 22:00",
       "source": "techcrunch.com",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "The AI Aesthetic",
-      "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+      "title": "India is starting to pay for apps, not just download them",
+      "url": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
+      "summary": "India's app market generated a record $345 million in Q2.",
+      "published": "2026-07-31 21:07",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+      "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+      "summary": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
+      "published": "2026-07-31 19:47",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Fresh off its Wiz payout, Index Ventures raises $2B across three funds",
+      "url": "https://techcrunch.com/2026/07/31/fresh-off-its-wiz-payout-index-ventures-raises-2b-across-three-funds/",
+      "summary": "The new funding brings Index's total available investing capital to $3.5 billion.",
+      "published": "2026-07-31 19:39",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Apple’s new AirTags are back down to their best price",
+      "url": "https://www.theverge.com/gadgets/973973/apple-airtag-second-generation-deal-sale",
+      "summary": "We spotted a great deal on Tile trackers earlier this week that&#8217;s still live, but if you&#8217;re an iPhone owner, we ultimately recommend Apple’s latest AirTag. Right now, you can pick up a four-pack for $89 ($10 off) at Amazon and Target, matching the bundle’s all-time low price. If you’re a member, Costco also has [&#8230;]",
+      "published": "2026-07-31 19:35",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Google Earth&#8217;s AI deepfake tool only lasted one day",
+      "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
+      "summary": "Google has shut down Google Earth feature it launched Thursday that allowed users to edit satellite images with text prompts using AI. The tool essentially let users create AI deepfakes of the real world using text prompts; Digital Digging's Henk van Ess, for example, intentionally generated images adding things like refugees near the Mexican border [&#8230;]",
+      "published": "2026-07-31 19:13",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Tailscale didn't stop the Hugging Face intrusion",
+      "url": "https://tailscale.com/blog/hugging-face-intrusion",
       "summary": "",
-      "published": "2026-07-30 23:22",
+      "published": "2026-07-31 19:03",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
-      "url": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
-      "summary": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
-      "published": "2026-07-30 23:08",
+      "title": "VC-backed startups commit more fraud, and researchers think they know why",
+      "url": "https://techcrunch.com/2026/07/31/vc-backed-startups-commit-more-fraud-and-researchers-think-they-know-why/",
+      "summary": "New research from the U.K.’s Imperial College and France’s Emlyon Business School mapped out how Silicon Valley founders commit fraud — and the role investors play.",
+      "published": "2026-07-31 19:00",
       "source": "techcrunch.com",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Investors love AI, as long as you’re a cloud host",
-      "url": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
-      "summary": "Amazon isn't slowing down on data center spending — but investors don't seem to mind.",
-      "published": "2026-07-30 22:41",
-      "source": "techcrunch.com",
+      "title": "The NHTSA is investigating 1.2 million Tesla vehicles over suspension failure reports",
+      "url": "https://www.theverge.com/transportation/973887/nhtsa-tesla-investigation-suspension",
+      "summary": "The National Highway Traffic Safety Administration (NHTSA) is probing nearly 1.2 million Tesla vehicles after receiving complaints about a suspension failure that could cause \"a loss of vehicle directional control,\" as reported earlier by Reuters. The preliminary investigation includes the 2018-2020 Model 3 and 2021-2023 Model Y, according to a filing from the NHTSA's Office [&#8230;]",
+      "published": "2026-07-31 18:33",
+      "source": "www.theverge.com",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Apple says gaming slowdown and App Store changes hurt services growth",
-      "url": "https://techcrunch.com/2026/07/30/apple-says-gaming-slowdown-and-app-store-changes-hurt-services-growth/",
-      "summary": "Apple said a slowdown in mobile gaming and changes to the App Store’s business model — including court-ordered payment rule changes in the U.S. — weighed on its services business, even as the company topped 1.5 billion paid subscriptions.",
-      "published": "2026-07-30 22:37",
-      "source": "techcrunch.com",
+      "title": "Google might launch a ‘Pixel Tag’",
+      "url": "https://www.theverge.com/tech/973889/google-pixel-tag-item-tracker",
+      "summary": "Google is seemingly working on an item tracker that might compete with Apple's AirTag. 9to5Google obtained an image of something called a \"Google Pixel Tag\" that has a small oval shape. The publication also linked to a Slovenian store listing about the Pixel Tag that describes the gadget as an item tracker with a speaker [&#8230;]",
+      "published": "2026-07-31 18:27",
+      "source": "www.theverge.com",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "I flagged two research papers for fake authors and both were accepted as orals",
-      "url": "https://geospatialml.com/posts/reviewing-ai-slop/",
+      "title": "June in Servo: real world compat, media queries, SharedWorker, and more",
+      "url": "https://servo.org/blog/2026/07/31/june-in-servo/",
       "summary": "",
-      "published": "2026-07-30 22:33",
+      "published": "2026-07-31 18:17",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Tim Cook hints at iCloud Plus tier for AI power users",
-      "url": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
-      "summary": "Apple may allow users to pay to increase their AI usage limits. During an earnings call on Thursday, Apple CEO Tim Cook said that he believes people will want to use Apple Intelligence and the upcoming Siri AI \"a lot,\" adding that \"we will have some kind of upgrade possibilities on iCloud Plus where people [&#8230;]",
-      "published": "2026-07-30 22:29",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Xbox CEO lays out priorities in memo after major &#8216;reset&#8217;",
-      "url": "https://www.theverge.com/games/973520/xbox-ceo-memo-one-year-growth",
-      "summary": "After a massive Xbox \"reset\" that laid off thousands of employees and spun off four studios, Xbox CEO Asha Sharma wants to get Xbox back to growth. In a memo obtained by The Verge, Sharma told staff by the end of fiscal year 2027 (which runs through next June), \"we will return XBOX to player [&#8230;]",
-      "published": "2026-07-30 22:10",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Apple&#8217;s iPhone and Mac sales keep growing despite RAM shortages",
-      "url": "https://www.theverge.com/tech/973430/apple-q3-2026-earnings",
-      "summary": "Apple's iPhone and Mac sales are on the rise even as a global memory shortage squeezes device makers. In its third-quarter earnings report released on Thursday, Apple revealed that iPhone sales jumped 22 percent to $54.25 billion and Mac sales increased 29 percent to $10.35 billion, driving the company's overall revenue to $109.4 billion. The [&#8230;]",
-      "published": "2026-07-30 20:49",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "The loss of Situational Awareness",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks",
-      "summary": "I am not by any means an expert at finance but I think I do now have some advice for people who are: Do not name your hedge fund anything that will be hilarious if it blows up. Don't use a name like \"Long-Term Capital Management\" or \"Amaranth Advisors\" (named for the floral symbol for [&#8230;]",
-      "published": "2026-07-30 20:46",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
-      "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
-      "summary": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.",
-      "published": "2026-07-30 20:26",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "CareCloud begins to notify hundreds of thousands after hackers stole medical records",
-      "url": "https://techcrunch.com/2026/07/30/carecloud-begins-to-notify-hundreds-of-thousands-after-hackers-stole-medical-records/",
-      "summary": "The health tech data giant, which handles vast amounts of patients' medical data, said hackers struck one of its protected health data stores.",
-      "published": "2026-07-30 20:13",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
-      "url": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
-      "summary": "Friend, the AI wearable, can now talk to its users — for an enhanced price.",
-      "published": "2026-07-30 19:44",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
-      "url": "https://github.com/AminBlg/SimpleEnglish",
+      "title": "qm",
+      "url": "https://github.com/yc-software/qm",
       "summary": "",
-      "published": "2026-07-30 19:34",
+      "published": "2026-07-31 18:04",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Samsung’s Galaxy Watch 9 is $40 off at Costco and comes with over $50 in freebies",
-      "url": "https://www.theverge.com/gadgets/973211/costco-galaxy-watch-9-preorder-costco-deal-sale",
-      "summary": "The Galaxy Watch 9 launches on August 7th, and not only does Costco have the best preorder incentives we’ve seen so far, the watch is also discounted. The deal includes the 40mm Watch 9 in cream or graphite, two wireless fast chargers for the watch, and a $50 Costco gift card, all for $339.99 — [&#8230;]",
-      "published": "2026-07-30 19:00",
+      "title": "The ban on robot vacuums won’t make them safer, only worse",
+      "url": "https://www.theverge.com/tech/973738/robot-vacuum-ban-fewer-choices-higher-prices",
+      "summary": "No other gadget knows as much about your home as a robot vacuum. They map your space, learn your routines, and many now carry a camera and microphone into every room in your house. As AI gives them a better understanding of what they see, the privacy and security risks these autonomous robots pose are [&#8230;]",
+      "published": "2026-07-31 17:30",
       "source": "www.theverge.com",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
-      "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
-      "summary": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools.",
-      "published": "2026-07-30 18:57",
+      "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
+      "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+      "summary": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI&#8217;s own models broke out of its test environment and got tangled up in&#160;a breach at Hugging Face&#160;—&#160;though as Equity’s hosts point out, sloppy security seems to have [&#8230;]",
+      "published": "2026-07-31 17:26",
       "source": "techcrunch.com",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "LinkedIn actually adds a ‘seems like AI slop’ button",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
-      "summary": "A lot of content on LinkedIn might seem like AI slop, and now, you'll be able to report those posts. As part of a series of updates to reduce the volume of AI slop on the platform, LinkedIn is introducing an actual button that lets you flag a post as something that \"Seems like AI [&#8230;]",
-      "published": "2026-07-30 18:43",
+      "title": "Tomodachi Life: Living the Dream is a quirky life sim that’s worth buying at this discount",
+      "url": "https://www.theverge.com/gadgets/973723/tomodachi-life-apple-marshall-stanmore-deal-sale",
+      "summary": "Looking to start your own island paradise full of Miis based on family, friends, and celebrities, but don’t feel like paying full fare? Woot has Tomodachi Life: Living the Dream for Switch on sale for $52.99 (usually $59.95). Sort of like Animal Crossing, but more off-kilter, this unique game sees you building and managing relationships [&#8230;]",
+      "published": "2026-07-31 17:09",
       "source": "www.theverge.com",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Florida plans to build air taxi pads using $200M intended for EV chargers",
-      "url": "https://techcrunch.com/2026/07/30/florida-plans-to-build-air-taxi-pads-using-200m-intended-for-ev-chargers/",
-      "summary": "Florida wants to use federal EV charger funds to build an air taxi network connecting golf courses, luxury apartment buildings, and airports.",
-      "published": "2026-07-30 18:38",
+      "title": "Here’s the problem with putting an AI image generator in Google Earth",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images",
+      "summary": "A text prompt was all it took to generate reality-warping images using Google Earth's satellite, aerial, and 3D imagery with a now-rolled back AI feature, like these images generated by Digital Digging's Henk van Ess that show \"refugees near the Mexican border\" and a bomb crater near a hospital in Gaza. Google initially responded to [&#8230;]",
+      "published": "2026-07-31 17:05",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
+      "url": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
+      "summary": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
+      "published": "2026-07-31 16:49",
       "source": "techcrunch.com",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "LinkedIn adds a button to report AI-generated ‘slop’",
-      "url": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
-      "summary": "LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a “seems like AI slop” reporting option. It's also replacing its own AI writing feature with a proofreading tool.",
-      "published": "2026-07-30 18:05",
+      "title": "The major labels propose rules to keep AI slop off the charts",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts",
+      "summary": "Several record labels, including the big three - Universal Music Group, Sony Music, and Warner Music Group - have proposed rules regarding chart eligibility for AI songs. In short, they wouldn't be. The proposal goes quite a bit further than a labeling proposal put forth by the RIAA, the International Federation of the Phonographic Industry [&#8230;]",
+      "published": "2026-07-31 16:36",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Siri AI could come with a paywall for power users",
+      "url": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
+      "summary": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions.",
+      "published": "2026-07-31 16:08",
       "source": "techcrunch.com",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Govee&#8217;s portable smart lamp is down to one of its best prices to date",
-      "url": "https://www.theverge.com/gadgets/973266/govee-table-lamp-classic-back-to-school-deal-sale",
-      "summary": "Buying multiple lamps for different rooms can get expensive. Govee’s rechargeable Table Lamp Classic gives you one lamp you can use throughout your home instead of getting one for every room, and right now it’s down to $59 ($21 off) at Amazon. That’s just $4 shy of the all-time low set during Prime Day, and [&#8230;]",
-      "published": "2026-07-30 18:01",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "NASA’s Curiosity rover found a ‘sea of polygons’ on Mars",
-      "url": "https://www.theverge.com/science/973314/nasa-curiosity-rover-mars-polygons",
-      "summary": "The latest discovery from NASA's Curiosity Mars rover is a field of honeycomb-shaped polygons covering a Martian valley called Valle Grande. As Gizmodo reports, Curiosity has snapped pictures of the unusual terrain texture before, called polygonal fractures, each about 1.5 to 3 inches wide, but NASA says it's previously only found them in small patches, [&#8230;]",
-      "published": "2026-07-30 17:20",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Google DeepMind’s new AI model can control a robot’s entire body",
-      "url": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
-      "summary": "Google DeepMind says the latest version of its Gemini Robotics AI model can \"control entire humanoid robots.\" While the previous model focused on controlling a humanoid robot's upper body, Gemini Robotics 2 now supports \"whole-body motions\" ranging from its feet to fingertips, according to an announcement on Thursday. The new model will allow humanoid robots [&#8230;]",
-      "published": "2026-07-30 17:18",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "ABC demands FCC drop its ‘punitive’ early license renewal of its stations",
-      "url": "https://www.theverge.com/policy/973289/abc-fcc-early-license-renewal-opposition",
-      "summary": "ABC filed its formal opposition to the Federal Communications Commission's effort to force it to submit to an early renewal of its broadcast station licenses, calling it an effort to chill the speech of broadcasters across the country. In a new filing with the FCC, ABC charges that the agency's willingness to pursue the early [&#8230;]",
-      "published": "2026-07-30 17:08",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Read this before you buy that TV streaming stick",
-      "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+      "title": "Big Food vs. the People",
+      "url": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
       "summary": "",
-      "published": "2026-07-30 17:04",
+      "published": "2026-07-31 16:04",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Stacked PRs are now live on GitHub",
-      "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+      "title": "GM and Ford are talking less and less about EVs",
+      "url": "https://techcrunch.com/2026/07/31/gm-and-ford-are-talking-less-and-less-about-evs/",
+      "summary": "The leading U.S. automakers are mentioning EVs on their investor calls at pre-pandemic rates, according to new data from TechCrunch and Hudson Labs.",
+      "published": "2026-07-31 15:47",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Samsung expects memory shortage to worsen through 2027 and last until 2028",
+      "url": "https://techcrunch.com/2026/07/31/samsung-expects-memory-shortage-to-worsen-through-2027-and-last-until-2028/",
+      "summary": "AI data center demand is fueling a multi-year chip shortage, pushing up component costs and retail device prices.",
+      "published": "2026-07-31 15:37",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "New York sues Kalshi for allegedly running an ‘illegal gambling operation’",
+      "url": "https://www.theverge.com/tech/973709/new-york-kalshi-lawsuit-illegal-gambling-operation",
+      "summary": "New York is suing Kalshi over claims the prediction market is running \"an illegal gambling operation.\" In the lawsuit, New York Attorney General Letitia James accuses Kalshi of violating state laws by accepting wagers without a license from the state's gaming commission, as reported earlier by CNBC. An investigation from the Office of the Attorney [&#8230;]",
+      "published": "2026-07-31 15:30",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Elevators",
+      "url": "https://john.fun/elevators",
       "summary": "",
-      "published": "2026-07-30 16:26",
+      "published": "2026-07-31 15:17",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+      "title": "国务院国资委：深化央企“人工智能+”专项行动，因企制宜培育新兴产业和未来产业",
+      "url": "https://36kr.com/newsflashes/3919556554305154?f=rss",
+      "summary": "36氪获悉，7月31日，国务院国资委党委召开扩大会议。会议强调，要指导中央企业主动对接和带头落实好国家政策，抓住重点、主动作为，充分发挥引领带动作用，更好助推经济持续向新向优向好发展。要锚定全年目标不动摇，切实加强现场督导调研，把中央企业生产经营情况摸清摸透，找准痛点、对症下药，夯实企业高质量发展基础。要着力推进原始创新和关键核心技术攻关，以更大力度加强基础研究，深化央企“人工智能+”专项行动，因企制宜培育新兴产业和未来产业。要持续深化提质增效，做好重点领域内卷治理，推进全产业链、全价值链降本节支，增强经营创现能力和资本积累积聚能力，以“自身稳”带动“行业稳”。要坚决守住风险底线，有效发挥司库体系功能作用，切实加强穿透监管，扎实抓好防汛救灾和安全生产工作，筑牢高质量发展的安全屏障。",
+      "published": "2026-07-31 12:59",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "热门中概股美股盘前普涨，阿里巴巴涨超2%",
+      "url": "https://36kr.com/newsflashes/3919553547038343?f=rss",
+      "summary": "36氪获悉，热门中概股美股盘前普涨，截至发稿，阿里巴巴涨超2%，拼多多涨0.61%，蔚来涨0.6%，理想汽车涨0.59%，百度涨0.33%，京东涨0.09%，小鹏汽车跌0.54%。",
+      "published": "2026-07-31 12:56",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "美股大型科技股盘前多数上涨，亚马逊涨超10%",
+      "url": "https://36kr.com/newsflashes/3919549841321345?f=rss",
+      "summary": "36氪获悉，美股大型科技股盘前多数上涨，截至发稿，亚马逊涨超10%，英特尔涨超4%，谷歌涨超1%，英伟达涨0.9%，Meta涨0.89%，特斯拉涨0.67%，苹果跌近8%，微软跌0.09%。",
+      "published": "2026-07-31 12:52",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "交大昂立：公司股票8月4日起实施其他风险警示，简称变更为“ST交昂”",
+      "url": "https://36kr.com/newsflashes/3919547923574152?f=rss",
+      "summary": "36氪获悉，交大昂立公告，公司于2026年7月31日收到中国证监会上海监管局下发的《行政处罚事先告知书》，根据相关规定，公司股票将被实施其他风险警示。公司股票将于2026年8月3日停牌。2026年8月4日起实施其他风险警示，实施后A股股票简称由“交大昂立”变更为“ST交昂”",
+      "published": "2026-07-31 12:50",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "2026年7月总票房突破50亿",
+      "url": "https://36kr.com/newsflashes/3919538914258311?f=rss",
+      "summary": "36氪获悉，据灯塔专业版，截至7月31日，2026年7月总票房（含预售）突破50亿，《功夫女足》《八仙！》《蜘蛛侠：崭新之日》《小黄人与大怪兽》《四渡》位列7月票房榜前五。",
+      "published": "2026-07-31 12:42",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "贝肯能源：控股股东将变更为极宁科技，股票将于8月3日复牌",
+      "url": "https://36kr.com/newsflashes/3919527719005827?f=rss",
+      "summary": "36氪获悉，贝肯能源公告，公司控股股东陈平贵及其配偶Anhua Sun与极宁科技签署股份转让协议，陈平贵拟转让11.65%股份给极宁科技，交易对价4.08亿元；Anhua Sun拟在限售期满后转让1.51%股份给极宁科技。完成后，极宁科技将持有13.16%股份，成为控股股东，实际控制人变更为潘涛。公司股票自2026年8月3日起复牌，本次事项尚存不确定性。",
+      "published": "2026-07-31 12:39",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "2连板中国宝安：第一大股东在股票交易异常波动期间增持1.6%股份",
+      "url": "https://36kr.com/newsflashes/3919520686321287?f=rss",
+      "summary": "36氪获悉，中国宝安公告，公司股票连续2个交易日（7月30日、31日）收盘价涨幅偏离值累计超20%，属于异常波动。在公司股票交易异常波动期间，公司第一大股东承兴投资以集中竞价交易方式增持公司股份4127.08万股，占公司总股本的1.6001%。",
+      "published": "2026-07-31 12:33",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "特朗普扬言将出台油价干预措施，雪佛龙与埃克森美孚利润大幅飙升",
+      "url": "https://36kr.com/newsflashes/3919514840231556?f=rss",
+      "summary": "埃克森美孚与雪佛龙公布二季度业绩，两家企业合计盈利265亿美元，依托特朗普主导的伊朗冲突引发原油与汽油价格暴涨实现获利。截至6月底的三个月内，雪佛龙净利润达122亿美元，同比激增四倍，创下其历史最高季度利润。埃克森美孚二季度净利润为145亿美元，较去年同期实现翻倍，也是自2022年油价飙升以来，该公司交出的最佳季度业绩。特朗普此前一直指责石油行业哄抬油价。6月末他在 “真实社交” 平台发文：“汽油零售商必须立刻下调油价！再不降价，麻烦就在眼前！”（新浪财经）",
+      "published": "2026-07-31 12:26",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "艾伯维第二季度净营收169.9亿美元",
+      "url": "https://36kr.com/newsflashes/3919511680609665?f=rss",
+      "summary": "7月31日，艾伯维公布第二季度业绩报告。公司第二季度净营收为169.90亿美元，按报告基准增长10.2%，按运营基准增长9.5%；第二季度调整后稀释每股收益为3.65美元，同比增长22.9%。此外，艾伯维宣布达成收购Apogee Therapeutics的最终协议，将进一步深化公司免疫学产品组合。（界面）",
+      "published": "2026-07-31 12:19",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "电投产融：山东莱阳核电项目获国务院常务会议核准",
+      "url": "https://36kr.com/newsflashes/3919516325949059?f=rss",
+      "summary": "36氪获悉，电投产融公告，公司获悉山东莱阳核电��目1、2号机组已获国务院常务会议核准。公司将成立国电投核电（莱阳）核能有限公司作为业主单位，负责项目投资、建设及运营管理。本期工程拟建设2台“国和一号”（CAP1400）非能动压水堆核电机组，单台机组额定功率1543MW。目前新项目公司尚未成立，由公司所属国电投莱阳核能有限公司继续推进前期及投资建设工作，各项施工准备工作正有序开展。",
+      "published": "2026-07-31 12:18",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "本月玩什么｜节奏天国、斯普拉遁 涂击队、刺客信条：黑旗 记忆重置",
+      "url": "https://sspai.com/post/112962",
+      "summary": "以上便是部分近期值得探讨的新游信息汇总，个人角度仅供参考。本文设有有奖互动环节：你有什么特别喜欢的操作系统模拟玩法的游戏吗？（我很喜欢《Uplink》）提前感谢你真诚的分享。>关注少数派小红书，感受精 ...<a href=\"https://sspai.com/post/112962\" target=\"_blank\">查看全文</a>",
+      "published": "2026-07-31 10:49",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "Progressive Web Components",
+      "url": "https://arielsalminen.com/2026/progressive-web-components/",
       "summary": "",
-      "published": "2026-07-30 15:15",
+      "published": "2026-07-31 10:04",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "本周看什么 | 最近值得一看的 10 部作品",
+      "url": "https://sspai.com/post/112961",
+      "summary": "📅本周新预告《银翼杀手2099》首支预告7月25日，剧集《银翼杀手2099》发布了首支预告，定档11月25日上线PrimeVideo。亨特·莎弗、杨紫琼主演，2099年的洛杉矶，擅用各种身份掩饰自己的 ...<a href=\"https://sspai.com/post/112961\" target=\"_blank\">查看全文</a>",
+      "published": "2026-07-31 09:57",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图",
+      "url": "https://sspai.com/post/112730",
+      "summary": "也许在某个瞬间，你会发现：三千年的时间很长，但古人与我们之间，并没有想象中那么遥远。<a href=\"https://sspai.com/post/112730\" target=\"_blank\">查看全文</a>",
+      "published": "2026-07-31 07:00",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "简单有效的 E-cise，如何让我摆脱体态不良的「三件套」？",
+      "url": "https://sspai.com/post/112833",
+      "summary": "无论你的运动专项为何，E-cise 都可以构成一个很好的辅助和补充。<a href=\"https://sspai.com/post/112833\" target=\"_blank\">查看全文</a>",
+      "published": "2026-07-31 02:21",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "派早报：小米汽车举行 SKYNOMAD 小米澎程技术发布会等",
+      "url": "https://sspai.com/post/112930",
+      "summary": "CHERRY 樱桃发布 MW5500 PRO 8K 无线游戏鼠标，零刻推出 SEi13 AI / SEi14 AI 迷你主机等<a href=\"https://sspai.com/post/112930\" target=\"_blank\">查看全文</a>",
+      "published": "2026-07-31 00:37",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "The Absurdity of Albert Camus",
+      "url": "https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus",
+      "summary": "",
+      "published": "2026-07-30 23:21",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
@@ -408,64 +462,10 @@
       "category": "科技"
     },
     {
-      "title": "陕北看海，黄土难寻",
-      "url": "https://sspai.com/post/112761",
-      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/112761\" target=\"_blank\">查看全文</a>",
-      "published": "2026-07-29 07:00",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "角落新声｜没有书房，也要给音乐留一个角落：聊聊我的黑胶「窝棚」",
-      "url": "https://sspai.com/post/112715",
-      "summary": "无论处在什么环境里，都别忘记：我们有听音乐的权利。<a href=\"https://sspai.com/post/112715\" target=\"_blank\">查看全文</a>",
-      "published": "2026-07-29 03:00",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "社区速递 151 | 派友的六月好物盘点、携程被重罚热议和 tomtoc 城市穿行背包",
-      "url": "https://sspai.com/post/112820",
-      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/112820\" target=\"_blank\">查看全文</a>",
-      "published": "2026-07-28 09:00",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "能力厚重，接入极轻：HarmonyOS 7 如何把鸿蒙生态入场门槛降到几行代码",
-      "url": "https://sspai.com/post/112822",
-      "summary": "在手机相册里选好一张图，拿着手机往电脑屏幕轻轻一碰，图片就直接出现在了《简讯》app「半角巷」的编辑框里。不用翻文件夹，也不用靠传输工具互联，《简讯》团队把这个改动叫做「跨端发送从五步变一步」。让人觉 ...<a href=\"https://sspai.com/post/112822\" target=\"_blank\">查看全文</a>",
-      "published": "2026-07-28 08:40",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "从《奥德赛》观影聊聊 IMAX 影院的分类",
-      "url": "https://sspai.com/post/112380",
-      "summary": "聊聊 IMAX 放映系统的区别及影厅选择策略，帮你选到视效更震撼、更接近导演创作意图的版本。<a href=\"https://sspai.com/post/112380\" target=\"_blank\">查看全文</a>",
-      "published": "2026-07-28 07:00",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "The American Grilled Cheese Sandwich Essay (2024)",
-      "url": "https://buttondown.com/theswordandthesandwich/archive/the-best-american-grilled-cheese-sandwich-essay/",
+      "title": "Twenty-five years ago it was cryptography, today it's model weights",
+      "url": "https://weeraman.com/because-we-can/",
       "summary": "",
-      "published": "2026-07-27 17:37",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Destroying a Community with a Gigantic \"Clogged Vacuum Cleaner\"",
-      "url": "https://gizmodo.com/this-viral-data-center-sounds-like-satans-buzzsaw-2000791122",
-      "summary": "",
-      "published": "2026-07-27 12:33",
+      "published": "2026-07-28 13:31",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
