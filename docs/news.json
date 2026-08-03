@@ -1,39 +1,282 @@
 {
-  "last_updated": "2026-08-02 01:27:18",
+  "last_updated": "2026-08-03 01:27:56",
   "total": 52,
   "articles": [
     {
-      "title": "金富科技：公司液冷产能和订单销量实现同比、环比稳步攀升",
-      "url": "https://36kr.com/newsflashes/3921703822273925?f=rss",
-      "summary": "金富科技近日在机构调研时表示，液冷行业需求持续爆发、行业整体处于高景气扩产周期，市场供货需求旺盛。公司紧抓行业发展机遇，结合简易程序定增募投项目及自有资金扩产项目，快速推动液冷产线建设、设备采购、新增厂区装修等，液冷板块扩产工作全力加速推进。依托分批次产线投产落地，公司液冷产能和订单销量实现同比、环比稳步攀升，持续匹配下游客户不断增长的订单需求。",
-      "published": "2026-08-02 01:23",
+      "title": "央行今日开展630亿元7天期逆回购操作及3000亿元隔夜逆回购操作",
+      "url": "https://36kr.com/newsflashes/3923120964464258?f=rss",
+      "summary": "36氪获悉，央行8月3日公开市场开展630亿元7天期逆回购操作，操作利率1.40%。同时，开展了3000亿元隔夜逆回购操作。",
+      "published": "2026-08-03 01:25",
       "source": "36kr.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2",
-      "url": "https://www.rfc-editor.org/rfc/rfc10015.html",
+      "title": "恒指开盘涨0.4%，恒生科技指数涨0.68%",
+      "url": "https://36kr.com/newsflashes/3923117951921539?f=rss",
+      "summary": "36氪获悉，恒指开盘涨0.4%，恒生科技指数涨0.68%；零售、电气设备板块领涨，阿里巴巴涨超3%，东方电气涨超2%；半导体、石油石化板块跌幅居前，山东墨龙跌超5%，澜起科技跌超2%。",
+      "published": "2026-08-03 01:21",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "8月3日人民币对美元中间价调贬4个基点",
+      "url": "https://36kr.com/newsflashes/3923113167875464?f=rss",
+      "summary": "36氪获悉，8月3日，人民币对美元中间价调贬4个基点，报6.7898，上一交易日中间价6.7894。",
+      "published": "2026-08-03 01:17",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "“亿维特航空”完成数亿元A+轮融资",
+      "url": "https://36kr.com/newsflashes/3923101406817926?f=rss",
+      "summary": "36氪获悉，电动垂直起降飞行器（eVTOL）研发制造商“亿维特航空”近日完成数亿元A+轮融资。本轮融资由上城资本、普华资本等投资，深蓝资本担任独家财务顾问。截至目前，亿维特航空已获得国家级基金、上市公司及地方国资等多方资本支持。",
+      "published": "2026-08-03 01:05",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "“方石机器人”完成数千万元A+轮融资",
+      "url": "https://36kr.com/newsflashes/3923097948745088?f=rss",
+      "summary": "36氪获悉，近日，“方石机器人”完成数千万元A+轮融资，本轮投资方为济南鹊华科创投，融资资金将主要用于新生产基地建设和产能扩充。",
+      "published": "2026-08-03 01:01",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "“奇点逃逸”完成千万级种子轮融资",
+      "url": "https://36kr.com/newsflashes/3923097236729472?f=rss",
+      "summary": "36氪获悉，近日，“奇点逃逸”完成千万级种子轮融资，由星连资本与水木创投联合领投，奇绩创坛跟投。其正在研发AI原生团队协作操作系统Nexus，让人、Agent、任务、知识和工具基于同一份组织状态持续协作，并让系统从每一次协作中有证据地变强。",
+      "published": "2026-08-03 01:00",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "格力博：储能业务整体尚处于前期布局与技术研发阶段",
+      "url": "https://36kr.com/newsflashes/3923092433644936?f=rss",
+      "summary": "36氪获悉，格力博在互动平台表示，公司储能业务整体尚处于前期布局与技术研发阶段，后续随着市场渠道拓展与产品打磨深入，订单规模有望稳步释放。",
+      "published": "2026-08-03 00:55",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "两市融资余额增加46.58亿元",
+      "url": "https://36kr.com/newsflashes/3923088154439301?f=rss",
+      "summary": "36氪获悉，截至7月31日，上交所融资余额报13273.98亿元，较前一交易日增加51.86亿元；深交所融资余额报12535.7亿元，较前一交易日减少5.28亿元；两市合计25809.68亿元，较前一交易日增加46.58亿元。",
+      "published": "2026-08-03 00:51",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "合规约束叠加海外壁垒，“新三样”ESG竞争力加速兑现",
+      "url": "https://36kr.com/newsflashes/3923078068399749?f=rss",
+      "summary": "A股ESG强制信披规则实施，叠加海外市场对进口产品设置严苛绿色准入门槛，倒逼“新三样”企业深化ESG合规管理、提质升级，整体成效显著。截至8月2日，新能源汽车、锂电池、光伏产业上市公司2025年度ESG报告披露率高于A股市场平均披露率，A级及以上高评级企业占比大幅领先市场整体水平。龙头公司通过持续完善供应链管理、搭建碳足迹管理体系，以标准化ESG建设拓展海外市场，构建全球化绿色竞争新优势。（中证报）",
+      "published": "2026-08-03 00:41",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "谋定后动“翻石头”，7月以来百亿级私募积极调研",
+      "url": "https://36kr.com/newsflashes/3923076172426884?f=rss",
+      "summary": "市场震荡之下，百亿级私募加快“翻石头”的步伐。私募排排网最新数据显示，7月有超过600家证券类私募参与A股公司调研活动，合计调研近1500次。其中，百亿级私募调研最为勤奋，调研方向也偏爱电子行业。在他们看来，市场风险的释放大概率接近尾声，叠加上市公司半年报密集披露，当下是逢低布局的重要窗口。（上证报）",
+      "published": "2026-08-03 00:39",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "美联储加息预期再博弈，黄金ETF重获资金关注",
+      "url": "https://36kr.com/newsflashes/3923075472616839?f=rss",
+      "summary": "随着市场对美联储货币政策路径再度进行博弈，黄金资产迎来资金加码。截至7月30日，7月以来全市场20只黄金相关ETF合计“吸金”逾85亿元。与此同时，海外黄金ETF资金流向也呈现回暖迹象。（上证报）",
+      "published": "2026-08-03 00:38",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",
+      "url": "https://github.com/johnsonjh/cpm386",
       "summary": "",
-      "published": "2026-08-01 23:44",
+      "published": "2026-08-03 00:38",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Unraveling the mysteries of habit formation",
-      "url": "https://www.kyoto-u.ac.jp/en/research-news/2026-07-28",
+      "title": "中信证券新材料第三季度投资策略：调整后仍看好科技，缩圈到核心新材料标的",
+      "url": "https://36kr.com/newsflashes/3923070773915015?f=rss",
+      "summary": "36氪获悉，中信证券研报称，2026年7月以来，海外和国内多因素共振导致A股科技板块经历了一轮剧烈调整。经历本轮深度调整后，目前综合量价和情绪指标以及相关事件，中信证券认为指数已处于底部区间，展望后市，产业趋势支撑下科技板块的市场主线地位并未动摇，但考虑到公募基金的科技持仓占比达到历史极值，类似上半年的普涨扩散很难重演，预计下半年的投资逻辑将转向高度聚焦。仍看好受益于AI需求带动、国产替代、技术迭代等逻辑的高壁垒材料环节（尤其是处于上行周期初期的细分材料），重点推荐份额领先、订单饱和、能够持续兑现利润的核心新材料标的。",
+      "published": "2026-08-03 00:33",
+      "source": "36kr.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "Why Book Corners won't sync contributions back to OpenStreetMap",
+      "url": "https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/",
       "summary": "",
-      "published": "2026-08-01 22:55",
+      "published": "2026-08-03 00:12",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "AI financial advice is surprisingly good, especially if you ask right questions",
-      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+      "title": "Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours",
+      "url": "https://github.com/pg83/shitty",
       "summary": "",
-      "published": "2026-08-01 22:25",
+      "published": "2026-08-02 23:05",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "派早报：DeepSeek V4 Flash 正式版发布",
+      "url": "https://sspai.com/post/113014",
+      "summary": "<p>DeepSeek V4 Flash 正式版发布</p><p>特朗普向科技公司频繁索要捐款</p><p>马斯克称从未讨论过出售特斯拉中国业务</p><p>国补调整后终端销售承压</p><p>风投机构重新涌入中国科技领域</p><p>统计显示实体光盘并不能保证游戏长期可玩</p><p>看看就行的简讯</p><p>少数派的近期动态</p><p>你可能错过的好文章</p><a href=\"https://sspai.com/post/113014\" target=\"_blank\">查看全文</a>",
+      "published": "2026-08-02 22:49",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "Rachika Nayar’s Heaven Come Crashing is an instrumental epic of desperate longing",
+      "url": "https://www.theverge.com/entertainment/974271/rachika-nayars-heaven-come-crashing-music-review",
+      "summary": "Two minutes and thirty seconds into the title track of Rachika Nayar's Heaven Come Crashing, an absolutely massive drum and bass beat drops. As a fan of Nayar's debut record Our Hands Against The Dusk, it caught me off guard. That album has no percussion on it at all. Heaven Comes Crashing is almost entirely [&#8230;]",
+      "published": "2026-08-02 21:53",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The global memory shortage hits the MacBook Air",
+      "url": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
+      "summary": "The global memory chip shortage appears to be affecting the availability of Apple’s most popular Mac.",
+      "published": "2026-08-02 21:33",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Sam Altman and AI’s decel debate",
+      "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+      "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
+      "published": "2026-08-02 20:54",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Fender’s CEO seems to think your bandmates are just analog AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
+      "summary": "Fender CEO Edward \"Bud\" Cole gave an interview to T3 in May celebrating the 75th anniversary of the Telecaster with comments on AI and music that initially flew under the radar. But it has started making the rounds recently, pouring more fuel on an already raging fire of bad PR following the company pissing off [&#8230;]",
+      "published": "2026-08-02 19:36",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Malaysia is reportedly shutting down Balaji Srinivasan’s Network School",
+      "url": "https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/",
+      "summary": "Let's see how this \"frontier community for techno-optimists\" is doing ...",
+      "published": "2026-08-02 17:05",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
+      "url": "https://github.com/wie-project/kakehashi",
+      "summary": "",
+      "published": "2026-08-02 16:26",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Xbox prices are increasing by up to €200 or £170",
+      "url": "https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros",
+      "summary": "When Microsoft announced its latest round of Xbox price bumps in June, it only gave US pricing. Now we know the pricing increases for the EU and UK, and they're dramatic. Depending on the model, Xbox prices are increasing by up to &#8364;200 or &#163;170. The 1TB Xbox Series X with a disc drive is [&#8230;]",
+      "published": "2026-08-02 16:14",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "TechCrunch Mobility: Two roads diverged — for robotaxis",
+      "url": "https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "published": "2026-08-02 16:05",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
+      "url": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
+      "summary": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital pen pals and nature journals, here are the latest App Store finds worth adding to your Home Screen.",
+      "published": "2026-08-02 15:23",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Skylight&#8217;s smart calendars are up to $90 off during its back-to-school sale",
+      "url": "https://www.theverge.com/gadgets/973789/skylight-calendar-2-max-back-to-school-deal-sale",
+      "summary": "The start of a new school year can feel hectic, as parents juggle their kids’ classes, extracurriculars and sports on top of work, appointments, and other responsibilities. It&#8217;s easy for things to slip through the cracks, but Skylight&#8217;s shared smart calendars can help keep everyone on track, and from August 2nd through August 9th they&#8217;re [&#8230;]",
+      "published": "2026-08-02 15:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "HP’s HyperX Omen 15 isn’t quite the budget-friendly gaming laptop its predecessor was",
+      "url": "https://www.theverge.com/tech/974155/hp-hyperx-omen-15-gaming-laptop-rtx-5050-review",
+      "summary": "The HP HyperX Omen 15, which I first saw at CES, replaces the HP Victus 15, a longtime bestselling budget gaming laptop. The Victus cost just $800, or less when on sale, and was a good entry point to decent laptop gaming. The Omen 15 has nice little upgrades over the Victus. Its RTX 5050 [&#8230;]",
+      "published": "2026-08-02 14:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Is paying artists enough to convince them to embrace AI?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
+      "summary": "Illustrators have spent years sounding the alarm about generative artificial intelligence startups training their models on artists' work without permission. They've pointed out how the practice is tantamount to theft, and in response, many gen AI boosters have argued that it's necessary for the technology's evolution. This has led to contentious legal battles, but it's [&#8230;]",
+      "published": "2026-08-02 13:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Foldables are sort of boring now — and that’s great news for Apple",
+      "url": "https://www.theverge.com/column/972937/foldable-phones-boring-apple",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on smartphones and Android, follow Dominic Preston. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Believe it or not, it didn't all start with [&#8230;]",
+      "published": "2026-08-02 12:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "从拉萨到雅鲁藏布江大峡谷，我的春日西藏游记",
+      "url": "https://sspai.com/post/112843",
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/112843\" target=\"_blank\">查看全文</a>",
+      "published": "2026-08-02 06:38",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "Karpathy’s Pelican",
+      "url": "https://twitter.com/karpathy/status/2083749667410727319",
+      "summary": "",
+      "published": "2026-08-02 04:05",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
@@ -53,24 +296,6 @@
       "summary": "How one founder house is betting work-life balance can beat burnout .",
       "published": "2026-08-01 21:14",
       "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Seedance 2.5",
-      "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
-      "summary": "",
-      "published": "2026-08-01 20:45",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Diátaxis",
-      "url": "https://diataxis.fr/",
-      "summary": "",
-      "published": "2026-08-01 20:33",
-      "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
@@ -102,29 +327,11 @@
       "category": "科技"
     },
     {
-      "title": "But can your calculator run Linux?",
-      "url": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
-      "summary": "",
-      "published": "2026-08-01 19:44",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
       "title": "Should you still buy your next smartphone — or subscribe to it instead?",
       "url": "https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/",
       "summary": "Apple's new Upgrade program is the latest sign that smartphone ownership is changing.",
       "published": "2026-08-01 18:47",
       "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Postmortem for Kernel Soundness Bug #14576",
-      "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
-      "summary": "",
-      "published": "2026-08-01 18:32",
-      "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
@@ -147,29 +354,11 @@
       "category": "科技"
     },
     {
-      "title": "Spider-Man: Brand New Day leak racks up millions of views",
-      "url": "https://www.theverge.com/entertainment/974199/spider-man-brand-new-day-leak-box-office-records",
-      "summary": "A bootleg of Spider-Man: Brand New Day was up on X for over seven hours before eventually being pulled. During that time, it reached over 5.9 million accounts and accumulated over 143,000 likes. Other accounts have reposted the leaked film, but none have lasted particularly long, as Disney now seems to be on top of [&#8230;]",
-      "published": "2026-08-01 17:00",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
       "title": "This $9 key physically locks your most addictive apps",
       "url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
       "summary": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
       "published": "2026-08-01 15:58",
       "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Trump blames Tim Walz for water hacks even though it’s probably Iran",
-      "url": "https://www.theverge.com/policy/974197/trump-tim-walz-minnesota-water-hacks-iran",
-      "summary": "The FBI, the EPA, and the Cybersecurity and Infrastructure Security Agency (CISA) have stopped short of officially blaming Iran for a spate of cyberattacks on Minnesota's water systems, but consensus is that Iran is likely behind them. That, of course, hasn't stopped Donald Trump from sharing his own theory - that Governor Tim Walz is [&#8230;]",
-      "published": "2026-08-01 15:23",
-      "source": "www.theverge.com",
       "lang": "en",
       "category": "科技"
     },
@@ -183,168 +372,6 @@
       "category": "科技"
     },
     {
-      "title": "The Art of 64-bit Assembly",
-      "url": "https://nostarch.com/art-64-bit-assembly-v2",
-      "summary": "",
-      "published": "2026-08-01 14:09",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Apps that help you break free from doomscrolling and get active",
-      "url": "https://techcrunch.com/2026/08/01/apps-that-help-you-break-free-from-doomscrolling-and-get-active/",
-      "summary": "If you’re looking to cut back on screen time and get a little more active, here’s a roundup of the apps that might help.",
-      "published": "2026-08-01 14:00",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "The Verge’s 2026 back-to-school shopping guide",
-      "url": "https://www.theverge.com/gadgets/968645/back-to-school-shopping-guide-gifts",
-      "summary": "Knowing exactly what your student needs for the school year ahead is next to impossible. Sure, you'll probably nail the essentials, but there will likely be a few items you forgot to buy, or didn't think they'd need to have. We're pulling our weight during the back-to-school season with a new shopping guide that's a [&#8230;]",
-      "published": "2026-08-01 14:00",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "What’s the best handheld mini fan?",
-      "url": "https://techcrunch.com/2026/08/01/whats-the-best-handheld-mini-fan/",
-      "summary": "From premium Shark and Dyson offerings to random Amazon devices, these mini fans will make your sweaty summer a little more managable.",
-      "published": "2026-08-01 13:36",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "You could be taking way better photos on your phone",
-      "url": "https://www.theverge.com/tech/973055/how-to-take-better-smartphone-photos",
-      "summary": "Your smartphone photos can look way better. If you're willing to put in a little extra work, use third party apps and spend a bit of time editing, it's possible to take photos that - under the right circumstances - can rival dedicated digital cameras. I post a lot of smartphone photos online, and \"How [&#8230;]",
-      "published": "2026-08-01 13:30",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "The Mermaid Mask is a perfect vacation murder mystery",
-      "url": "https://www.theverge.com/games/971660/the-mermaid-mask-review",
-      "summary": "The Mermaid Mask, the next point-and-click game from Tangle Tower developer SFB Games, has everything you could ask for in a great murder mystery. It starts with a compelling setup: The captain of a submarine is found dead in a locked room, his body next to a mysterious cauldron with blood trickling across the floor. [&#8230;]",
-      "published": "2026-08-01 13:00",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "The OG reading app just got a big update",
-      "url": "https://www.theverge.com/tech/973929/instapaper-app-pastebot-spiderman-movie-installer",
-      "summary": "Hi, friends! Welcome to Installer No. 138, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy August, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about microwave sounds and Meta glasses and Alex vs. Alix, testing the [&#8230;]",
-      "published": "2026-08-01 12:00",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "金山办公WPS存储管理新版本上线",
-      "url": "https://36kr.com/newsflashes/3920632482491776?f=rss",
-      "summary": "7月31日，金山办公首次参展ChinaJoy，现场除展示独立AI办公Agent灵犀和面向研发场景的WPS Comate外，还设置了面向WPS用户的反馈区。同日，包含存储管理等多项更新的WPS新版本正式上线。围绕C盘存储管理，新版本主要带来了两方面改进。首先，WPS新增统一的“存储管理”入口，原本分散在不同位置的磁盘占用查看、缓存清理和存储路径调整等功能，被集中到同一页面。其次，安装路径可以分别设置。",
-      "published": "2026-08-01 08:30",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "长三角多地发放结婚消费券",
-      "url": "https://36kr.com/newsflashes/3920617407196549?f=rss",
-      "summary": "在长三角部分地区，新人们除了能收到来自亲朋好友的祝福，还可能领到一份“官方随的份子”——结婚消费券。 浙江江山第二批结婚消费券定于8月19日当天启动发放，凡在七夕起一个月内登记的新人，每对可申领价值1000元的消费券。就在两个多月前的“520”，首批消费券同样引发了一波申领热潮。 长三角多地已先后试水。日前，浙江义乌市民政部门宣布再次延长结婚消费券活动时间，2026年10月底前，在当地登记结婚的新人均可申领价值1000元、由财政补贴的消费券。当地的结婚消费券发放活动2025年10月中旬启动，这已经是第二次延期。每对办理结婚登记的夫妻可领取10张“满200元减100元”满减券，用于婚礼婚庆、婚纱摄影、休闲旅游、酒店住宿、婚俗文创、零售餐饮等消费，领取后30日内核销。据义乌市婚姻登记中心介绍，到2026年6月底，已有3161对新人领取消费券。",
-      "published": "2026-08-01 08:15",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "印度央行：印度引资举措吸引超400亿美元外资",
-      "url": "https://36kr.com/newsflashes/3920583946186368?f=rss",
-      "summary": "印度积极吸引海外资本，自6月以来已引入资金超400亿美元，充实印度央行外汇储备。当前国际原油价格走高，印度政策制定者正借此稳定卢比汇率。 印度央行周六公布的数据显示，截至7月31日，非居民外币存款吸纳资金规模达3672亿美元。叠加海外外币借款与境外商业借款流入资金，引资总额约410亿美元。印度央行行长桑杰・马尔霍特拉本周接受采访时向投资者安抚卢比前景。他表示，卢比近期走弱源于地缘冲突、美元走强以及新兴市场普遍波动，并非印度经济基本面出现恶化。",
-      "published": "2026-08-01 08:00",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "美中贸委会会长：美国企业重视中国市场和对华合作",
-      "url": "https://36kr.com/newsflashes/3920583526526343?f=rss",
-      "summary": "当地时间7月31日，中国贸促会组织中国企业家代表团在华盛顿与美中贸易全国委员会及其会员企业交流座谈。中国贸促会会长任鸿斌、中国驻美国使馆经商处公参李勰、美中贸委会会长谭森等出席并发言。来自多个行业的中美企业代表参会并进行了积极沟通交流。美中贸委会会长谭森在接受媒体采访时表示，美国企业仍致力于在中国发展，重视中国市场，并希望加强与中国企业合作。",
-      "published": "2026-08-01 07:45",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "部分美国企业换上中国大模型以降低成本",
-      "url": "https://36kr.com/newsflashes/3920583026929281?f=rss",
-      "summary": "从AlphaGo称霸围棋界到ChatGPT面世，美国在算法大模型领域积累了显著的先发优势。但近年中国大模型的崛起对AI格局有所冲击。美国《华尔街日报》等多家媒体提到，中国大模型独角兽月之暗面新一代开源大模型Kimi K3撼动资本市场，并称其与DeepSeek在2025年发布时引发的市场恐慌如出一辙，连马斯克都赞其“令人印象深刻”。一些大型美国公司也开始转向中国大模型。据美联社消息，加密货币交易所Coinbase表示，正在转向使用中国人工智能模型以降低成本。爱彼迎采用了阿里巴巴的Qwen模型，并称赞其“快速且便宜”。",
-      "published": "2026-08-01 07:30",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "充电桩CCC认证自8月1日起开始强制实施",
-      "url": "https://36kr.com/newsflashes/3920582349974916?f=rss",
-      "summary": "8月1日起，市场监管总局（国家认监委）对电动汽车供电设备强制性产品认证（CCC认证）管理开始强制实施，通过开展防触电、短路保护、耐火耐燃等关键安全指标测试和企业现场质量保证能力、产品一致性检查，切实筑牢产品质量安全底线。随着我国新能源汽车的不断普及和发展，电动汽车供电设备（俗称充电桩）已经成为服务百姓出行需求的重要基础设施。8月1日起，未获得CCC认证的电动汽车供电设备，不得出厂、销售、进口或者在其他经营活动中使用。对于8月1日前已经投入运营的设备，经营者应当严格遵守《中华人民共和国产品质量法》《中华人民共和国消费者权益保护法》有关规定，保证其提供的商品或者服务符合保障人身、财产安全的要求。",
-      "published": "2026-08-01 07:15",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "国际足联放弃“出售世界杯部分股权”计划，亚足联主席发声",
-      "url": "https://36kr.com/newsflashes/3920581725924742?f=rss",
-      "summary": "据法新社报道，对于国际足联决定“撤回”一项商业计划，放弃继续推进“出售世界杯部分股权”一事，亚足联主席萨尔曼8月1日在一份声明中表示“欢迎”。根据亚足联网站发布的声明，萨尔曼还称，希望今后任何可能会对全球足球运动产生影响的倡议，都将及时以透明且有意义的方式提交给各大洲足球联合会、国际足联理事会、成员协会及其他利益相关方进行讨论。",
-      "published": "2026-08-01 07:00",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "岚图汽车：7月交付13189辆新车",
-      "url": "https://36kr.com/newsflashes/3920478712442503?f=rss",
-      "summary": "36氪获悉，8月1日，岚图汽车发布最新交付数据：7月交付13189辆，1-7月累计交付89453辆，同比增长31%。",
-      "published": "2026-08-01 06:42",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "吉尔吉斯斯坦与阿塞拜疆签署同盟关系条约",
-      "url": "https://36kr.com/newsflashes/3920436488678789?f=rss",
-      "summary": "据吉尔吉斯斯坦总统网站7月31日消息，吉总统扎帕罗夫当天在吉尔吉斯斯坦乔尔蓬阿塔市与来访的阿塞拜疆总统阿利耶夫签署同盟关系条约。扎帕罗夫当天与阿利耶夫举行会谈后向媒体发表声明。扎帕罗夫表示，两国签署同盟关系条约是元首会谈的一项重要成果，标志着双方合作进入新阶段。",
-      "published": "2026-08-01 06:30",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "浙江实施人工智能OPC术语团体标准：由1名核心自然人主导",
-      "url": "https://36kr.com/newsflashes/3920435807923841?f=rss",
-      "summary": "由浙江省数字经济发展中心等编制的《人工智能OPC术语》团体标准2026年8月1日起实施，将人工智能OPC（One Person Company，一人公司）界定为由1名核心自然人主导控制，员工一般不超过10人，以AI技术研究、开发、应用或服务为主营业务的公司。",
-      "published": "2026-08-01 06:15",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "鸿蒙智行月交付45046台",
-      "url": "https://36kr.com/newsflashes/3920418360569216?f=rss",
-      "summary": "鸿蒙智行：7月交付45,046台，1-7月累计交付28.6万台，同比增长13.7%。",
-      "published": "2026-08-01 06:00",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
       "title": "「弯道超车」赛车入门指北：进站不只为换胎，策略里的那本时间账",
       "url": "https://sspai.com/post/112701",
       "summary": "真正的比赛往往不只发生在赛道上，也发生在每一次进站窗口打开的时候。<a href=\"https://sspai.com/post/112701\" target=\"_blank\">查看全文</a>",
@@ -354,38 +381,11 @@
       "category": "科技"
     },
     {
-      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-      "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
-      "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
-      "published": "2026-07-31 22:47",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "With Switch 2, iPhone, and laptop tricks, the Sharge Disk Pro 2 is finally a worthy EDC",
-      "url": "https://www.theverge.com/gadgets/973886/sharge-disk-pro-2-hands-on-switch-2-hdmi-usb-c-dock",
-      "summary": "Sharge, the company that makes delightful retro Mac-shaped chargers and see-inside batteries, is finally impressing me with a portable SSD. I couldn't recommend the Sharge Disk, Disk Plus, or even the Disk Pro, but I'd be happy to own the new Disk Pro 2 Ultra. This isn't just a drive. It's a 4K HDMI dock [&#8230;]",
-      "published": "2026-07-31 22:09",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Rivian spinoff Also to start delivering e-bikes after months of delays",
-      "url": "https://techcrunch.com/2026/07/31/rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-delays/",
-      "summary": "Also has big plans beyond the TM-B. The startup mostly refers to itself as a \"vehicle\" company and has plans to make four-wheel pedal-assist cargo vehicles for Amazon.",
-      "published": "2026-07-31 22:00",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Silicon Valley loves young founders. Until it doesn’t.",
-      "url": "https://techcrunch.com/2026/07/31/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
-      "summary": "AI tools have democratized the opportunity to build, shortening the timelines of success and enabling more young people to start successful companies without stepping foot inside a Big Tech company.",
-      "published": "2026-07-31 22:00",
-      "source": "techcrunch.com",
+      "title": "Autoregressive Language Model on the 6502 Processor",
+      "url": "https://mattbeton.com/blog/bitnet-6502.html",
+      "summary": "",
+      "published": "2026-07-31 13:08",
+      "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
@@ -453,21 +453,21 @@
       "category": "科技"
     },
     {
-      "title": "少数派会员年度更新：把共同的热爱随身携带",
-      "url": "https://sspai.com/post/112858",
-      "summary": "感谢每一位已经同行多年的会员，也欢迎新朋友加入我们共同建设的社区。<a href=\"https://sspai.com/post/112858\" target=\"_blank\">查看全文</a>",
-      "published": "2026-07-30 03:01",
-      "source": "sspai.com",
-      "lang": "zh_cn",
+      "title": "Developers are attached to tools because tools encode trust",
+      "url": "https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/",
+      "summary": "",
+      "published": "2026-07-29 14:25",
+      "source": "Hacker News",
+      "lang": "en",
       "category": "科技"
     },
     {
-      "title": "派早报：中国电信将不再通过第三方互联网渠道提供号卡办理服务等",
-      "url": "https://sspai.com/post/112881",
-      "summary": "Bigme 大我推出 F13 彩墨屏 AI 数码相框，OpenAI 宣布开源 Codex Security CLI 等。<a href=\"https://sspai.com/post/112881\" target=\"_blank\">查看全文</a>",
-      "published": "2026-07-30 00:32",
-      "source": "sspai.com",
-      "lang": "zh_cn",
+      "title": "Note-Taking and Personal Knowledge Management",
+      "url": "https://unattributed.cc/note-taking-and-personal-knowledge-management",
+      "summary": "",
+      "published": "2026-07-28 14:21",
+      "source": "Hacker News",
+      "lang": "en",
       "category": "科技"
     }
   ]
