@@ -1,140 +1,311 @@
 {
-  "last_updated": "2026-08-03 01:27:56",
-  "total": 52,
+  "last_updated": "2026-08-04 01:18:18",
+  "total": 40,
   "articles": [
     {
-      "title": "央行今日开展630亿元7天期逆回购操作及3000亿元隔夜逆回购操作",
-      "url": "https://36kr.com/newsflashes/3923120964464258?f=rss",
-      "summary": "36氪获悉，央行8月3日公开市场开展630亿元7天期逆回购操作，操作利率1.40%。同时，开展了3000亿元隔夜逆回购操作。",
-      "published": "2026-08-03 01:25",
-      "source": "36kr.com",
+      "title": "派早报：MiniMax H3 开源、Qwen3.8-Max 发布等",
+      "url": "https://sspai.com/post/113053",
+      "summary": "少数派的近期动态投稿征文赢好礼！「角落新声」征文活动距离结束还有一周。火速投稿新一季少数派会员启航，更新权益，更多惊喜，还有实体纪念卡。点击了解你可能错过的文章角落新声｜两平米、两个角落，安放两个自己 ...<a href=\"https://sspai.com/post/113053\" target=\"_blank\">查看全文</a>",
+      "published": "2026-08-04 00:13",
+      "source": "sspai.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "恒指开盘涨0.4%，恒生科技指数涨0.68%",
-      "url": "https://36kr.com/newsflashes/3923117951921539?f=rss",
-      "summary": "36氪获悉，恒指开盘涨0.4%，恒生科技指数涨0.68%；零售、电气设备板块领涨，阿里巴巴涨超3%，东方电气涨超2%；半导体、石油石化板块跌幅居前，山东墨龙跌超5%，澜起科技跌超2%。",
-      "published": "2026-08-03 01:21",
-      "source": "36kr.com",
-      "lang": "zh_cn",
+      "title": "The studio behind Pokémon struggles to find its voice in Beast of Reincarnation",
+      "url": "https://www.theverge.com/entertainment/974505/beast-of-reincarnation-review-ps5-xbox",
+      "summary": "You have to imagine that the team at Game Freak is bursting with ideas. The studio puts out new mainline Pok&#233;mon adventures with a machinelike precision. But every so often it launches a curious experiment, whether it's an action title about a militarized elephant or turning horse races into a card game, showing that it's [&#8230;]",
+      "published": "2026-08-04 00:00",
+      "source": "www.theverge.com",
+      "lang": "en",
       "category": "科技"
     },
     {
-      "title": "8月3日人民币对美元中间价调贬4个基点",
-      "url": "https://36kr.com/newsflashes/3923113167875464?f=rss",
-      "summary": "36氪获悉，8月3日，人民币对美元中间价调贬4个基点，报6.7898，上一交易日中间价6.7894。",
-      "published": "2026-08-03 01:17",
-      "source": "36kr.com",
-      "lang": "zh_cn",
+      "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+      "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+      "summary": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
+      "published": "2026-08-03 23:19",
+      "source": "techcrunch.com",
+      "lang": "en",
       "category": "科技"
     },
     {
-      "title": "“亿维特航空”完成数亿元A+轮融资",
-      "url": "https://36kr.com/newsflashes/3923101406817926?f=rss",
-      "summary": "36氪获悉，电动垂直起降飞行器（eVTOL）研发制造商“亿维特航空”近日完成数亿元A+轮融资。本轮融资由上城资本、普华资本等投资，深蓝资本担任独家财务顾问。截至目前，亿维特航空已获得国家级基金、上市公司及地方国资等多方资本支持。",
-      "published": "2026-08-03 01:05",
-      "source": "36kr.com",
-      "lang": "zh_cn",
+      "title": "Snap CEO sidesteps Specs preorder questions on Q2 earnings call",
+      "url": "https://techcrunch.com/2026/08/03/snap-ceo-sidesteps-specs-pre-order-questions-on-q2-earnings-call/",
+      "summary": "When asked about product-market fit, Spiegel said he believes mass-market consumer adoption won't occur until the end of the decade.",
+      "published": "2026-08-03 22:10",
+      "source": "techcrunch.com",
+      "lang": "en",
       "category": "科技"
     },
     {
-      "title": "“方石机器人”完成数千万元A+轮融资",
-      "url": "https://36kr.com/newsflashes/3923097948745088?f=rss",
-      "summary": "36氪获悉，近日，“方石机器人”完成数千万元A+轮融资，本轮投资方为济南鹊华科创投，融资资金将主要用于新生产基地建设和产能扩充。",
-      "published": "2026-08-03 01:01",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "“奇点逃逸”完成千万级种子轮融资",
-      "url": "https://36kr.com/newsflashes/3923097236729472?f=rss",
-      "summary": "36氪获悉，近日，“奇点逃逸”完成千万级种子轮融资，由星连资本与水木创投联合领投，奇绩创坛跟投。其正在研发AI原生团队协作操作系统Nexus，让人、Agent、任务、知识和工具基于同一份组织状态持续协作，并让系统从每一次协作中有证据地变强。",
-      "published": "2026-08-03 01:00",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "格力博：储能业务整体尚处于前期布局与技术研发阶段",
-      "url": "https://36kr.com/newsflashes/3923092433644936?f=rss",
-      "summary": "36氪获悉，格力博在互动平台表示，公司储能业务整体尚处于前期布局与技术研发阶段，后续随着市场渠道拓展与产品打磨深入，订单规模有望稳步释放。",
-      "published": "2026-08-03 00:55",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "两市融资余额增加46.58亿元",
-      "url": "https://36kr.com/newsflashes/3923088154439301?f=rss",
-      "summary": "36氪获悉，截至7月31日，上交所融资余额报13273.98亿元，较前一交易日增加51.86亿元；深交所融资余额报12535.7亿元，较前一交易日减少5.28亿元；两市合计25809.68亿元，较前一交易日增加46.58亿元。",
-      "published": "2026-08-03 00:51",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "合规约束叠加海外壁垒，“新三样”ESG竞争力加速兑现",
-      "url": "https://36kr.com/newsflashes/3923078068399749?f=rss",
-      "summary": "A股ESG强制信披规则实施，叠加海外市场对进口产品设置严苛绿色准入门槛，倒逼“新三样”企业深化ESG合规管理、提质升级，整体成效显著。截至8月2日，新能源汽车、锂电池、光伏产业上市公司2025年度ESG报告披露率高于A股市场平均披露率，A级及以上高评级企业占比大幅领先市场整体水平。龙头公司通过持续完善供应链管理、搭建碳足迹管理体系，以标准化ESG建设拓展海外市场，构建全球化绿色竞争新优势。（中证报）",
-      "published": "2026-08-03 00:41",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "谋定后动“翻石头”，7月以来百亿级私募积极调研",
-      "url": "https://36kr.com/newsflashes/3923076172426884?f=rss",
-      "summary": "市场震荡之下，百亿级私募加快“翻石头”的步伐。私募排排网最新数据显示，7月有超过600家证券类私募参与A股公司调研活动，合计调研近1500次。其中，百亿级私募调研最为勤奋，调研方向也偏爱电子行业。在他们看来，市场风险的释放大概率接近尾声，叠加上市公司半年报密集披露，当下是逢低布局的重要窗口。（上证报）",
-      "published": "2026-08-03 00:39",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "美联储加息预期再博弈，黄金ETF重获资金关注",
-      "url": "https://36kr.com/newsflashes/3923075472616839?f=rss",
-      "summary": "随着市场对美联储货币政策路径再度进行博弈，黄金资产迎来资金加码。截至7月30日，7月以来全市场20只黄金相关ETF合计“吸金”逾85亿元。与此同时，海外黄金ETF资金流向也呈现回暖迹象。（上证报）",
-      "published": "2026-08-03 00:38",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",
-      "url": "https://github.com/johnsonjh/cpm386",
+      "title": "Windows XP 2002 for the Itanium: Unbridled rage",
+      "url": "https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/",
       "summary": "",
-      "published": "2026-08-03 00:38",
+      "published": "2026-08-03 22:04",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "中信证券新材料第三季度投资策略：调整后仍看好科技，缩圈到核心新材料标的",
-      "url": "https://36kr.com/newsflashes/3923070773915015?f=rss",
-      "summary": "36氪获悉，中信证券研报称，2026年7月以来，海外和国内多因素共振导致A股科技板块经历了一轮剧烈调整。经历本轮深度调整后，目前综合量价和情绪指标以及相关事件，中信证券认为指数已处于底部区间，展望后市，产业趋势支撑下科技板块的市场主线地位并未动摇，但考虑到公募基金的科技持仓占比达到历史极值，类似上半年的普涨扩散很难重演，预计下半年的投资逻辑将转向高度聚焦。仍看好受益于AI需求带动、国产替代、技术迭代等逻辑的高壁垒材料环节（尤其是处于上行周期初期的细分材料），重点推荐份额领先、订单饱和、能够持续兑现利润的核心新材料标的。",
-      "published": "2026-08-03 00:33",
-      "source": "36kr.com",
+      "title": "Your Fitbit data can now connect directly to Apple Health",
+      "url": "https://www.theverge.com/gadgets/974778/google-health-fitbit-data-apple-health-syncing",
+      "summary": "Google is rolling out an update that will finally allow you to connect your Fitbit workouts, steps, vitals, and other data to Apple Health, as reported earlier by 9to5Mac. With Google Health's 5.05 update, you can now tap your profile icon, select \"Partner apps,\" and choose Apple Health to link your data directly. Previously, you [&#8230;]",
+      "published": "2026-08-03 21:24",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Samsung’s discounted smart monitor is $349.99, its lowest price yet",
+      "url": "https://www.theverge.com/gadgets/974583/samsungs-m80f-smart-monitor-deal-sale",
+      "summary": "Samsung makes a variety of TVs and computer monitors, but if want both and you’re limited on space, you might want to consider the M80F. This capable 32-inch 4K panel combines features commonly found on both types of screens, and Amazon and B&#38;H Photo both have it discounted to $349.99, where it’s usually $400 or [&#8230;]",
+      "published": "2026-08-03 21:13",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "LLMs reward expertise",
+      "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+      "summary": "",
+      "published": "2026-08-03 21:13",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+      "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+      "summary": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models.",
+      "published": "2026-08-03 20:00",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated",
+      "url": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/",
+      "summary": "OpenAI and Anthropic admitted that their unreleased AI models escaped their sandboxes and hacked several companies in unprecedented cyberattacks. Who is legally to blame? Should prosecutors charge the two AI frontier labs? Can victims sue them? We spoke to lawyers who specialize in computer hacking laws to find out.",
+      "published": "2026-08-03 19:45",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
+      "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+      "summary": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
+      "published": "2026-08-03 19:28",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
+      "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+      "summary": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.",
+      "published": "2026-08-03 19:09",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Apple challenges UK government’s latest demand for iCloud backdoor: report",
+      "url": "https://techcrunch.com/2026/08/03/apple-challenges-uk-governments-latest-demand-for-icloud-backdoor-report/",
+      "summary": "Apple has appealed a new legal demand by the U.K. government, which critics say could threaten the privacy rights of users all over the world.",
+      "published": "2026-08-03 18:54",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+      "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+      "summary": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary.",
+      "published": "2026-08-03 18:43",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Outernet turns your saved posts into real-world adventures",
+      "url": "https://techcrunch.com/2026/08/03/outernet-turns-your-saved-posts-into-real-world-adventures/",
+      "summary": "Founded by the creators of viral offline events like San Francisco’s citywide scavenger hunt Pursuit, Outernet's app helps users save places and events they discover online, then nudges them to actually go.",
+      "published": "2026-08-03 18:00",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "WhatsApp says it is fixing an issue that disabled several accounts",
+      "url": "https://techcrunch.com/2026/08/03/whatsapp-says-it-is-is-fixing-an-issue-that-disabled-several-accounts/",
+      "summary": "Meta says it’s restoring access to WhatsApp accounts that were mistakenly flagged and placed “under review” after users reported being unexpectedly locked out of the messaging app.",
+      "published": "2026-08-03 17:46",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Europe’s AI labeling and transparency rules are now in effect",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+      "summary": "The European Union has ushered in some additional rules that aim to make it easier for people to identify chatbots and AI deepfakes online. The new transparency obligations under the bloc's landmark AI Act came into effect on August 2nd, requiring companies to disclose when people are interacting with AI models, and if content has [&#8230;]",
+      "published": "2026-08-03 17:38",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The first-gen Kindle Scribe is a big e-reader and digital notebook that’s $150 refurbished",
+      "url": "https://www.theverge.com/gadgets/974536/kindle-scribe-2022-refurbished-woot-deal-sale",
+      "summary": "The Kindle Scribe is worth considering if you’re heading back to school, as its large 10.2-inch screen can display textbooks and ebooks, or let you jot down handwritten notes during class. Now through August 8th, the first-gen model (with a Premium Pen) is down to just $149.99 with 16GB of storage in refurbished condition at [&#8230;]",
+      "published": "2026-08-03 17:17",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Sequoia’s Shaun Maguire leads $1B round for nuclear startup Valar Atomics",
+      "url": "https://techcrunch.com/2026/08/03/sequoias-shaun-maguire-leads-1b-round-for-nuclear-startup-valar-atomics/",
+      "summary": "Valar Atomics raised $1 billion at a $6 billion valuation after signing a development deal with Nvidia in June.",
+      "published": "2026-08-03 17:16",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Smaller, faster, safer: running Kimi and GLM at scale",
+      "url": "https://blog.cloudflare.com/smaller-faster-safer-models/",
+      "summary": "",
+      "published": "2026-08-03 17:08",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Base Power raises another $1B to save the grid using backyard batteries",
+      "url": "https://techcrunch.com/2026/08/03/base-power-raises-another-1b-to-save-the-grid-using-backyard-batteries/",
+      "summary": "Base Power’s $1 billion round will help the startup ramp production of its home batteries.",
+      "published": "2026-08-03 16:46",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Microsoft is bringing Xbox 360 games to PC",
+      "url": "https://www.theverge.com/games/974544/microsoft-xbox-360-games-pc-disc-digital-program",
+      "summary": "Building on its recently announced plans to bring original Xbox games to PC, Microsoft is also planning to let developers bring their Xbox 360 games to PC as well, according to a leaked document, seen by The Verge, that was sent to developers recently. Xbox 360 games will be able to run on the next-gen [&#8230;]",
+      "published": "2026-08-03 16:31",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "url": "https://openai.com/index/ten-advances-in-mathematics/",
+      "summary": "",
+      "published": "2026-08-03 16:27",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Bluesky’s new CEO wants a big tent, not a bubble",
+      "url": "https://www.theverge.com/podcast/974387/bluesky-toni-schneider-interview-ai-atproto-atmosphere",
+      "summary": "Today, I’m talking with Toni Schneider, who is the brand new CEO of the social platform Bluesky — he formally took over after a short stint as interim CEO. This is one of my favorite kinds of interviews to do on Decoder, because a couple years ago, we had Bluesky’s prior CEO, Jay Graber, on [&#8230;]",
+      "published": "2026-08-03 15:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Ask HN: Who is hiring? (August 2026)",
+      "url": "https://news.ycombinator.com/item?id=49156683",
+      "summary": "",
+      "published": "2026-08-03 15:00",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Ask HN: Who wants to be hired? (August 2026)",
+      "url": "https://news.ycombinator.com/item?id=49156682",
+      "summary": "",
+      "published": "2026-08-03 15:00",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Palworld’s expanding to mobile with a new MMORPG",
+      "url": "https://www.theverge.com/games/974450/palworld-online-mobile-mmo",
+      "summary": "After its 1.0 launch last month, Palworld is coming to iOS and Android with a new open-world MMORPG launching later this year, Polygon reports. Garena, the developer behind the new game, says in its announcement that Palworld Online \"reimagines the depth, freedom, and scale of the original PC survival creature-collecting title for mobile.\" The core [&#8230;]",
+      "published": "2026-08-03 14:50",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Spider-Man and The Odyssey are splitting up IMAX screens after a record-breaking weekend",
+      "url": "https://www.theverge.com/entertainment/974411/spider-man-the-odyssey-imax",
+      "summary": "Spider-Man: Brand New Day is joining The Odyssey in IMAX theaters after both movies led the biggest weekend in box office history. On Monday, IMAX announced that Spider-Man: Brand New Day will be available in select digital IMAX locations across North America starting Thursday, August 6th. The news comes as The Odyssey's exclusive three-weekend run [&#8230;]",
+      "published": "2026-08-03 14:26",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Samsung’s 2TB 9100 Pro SSD is actually somewhat reasonably priced",
+      "url": "https://www.theverge.com/gadgets/974391/samsung-nvme-ssd-2tb-steelseries-arctis-omni-pixel-10a-deal-sale",
+      "summary": "Next to buying RAM, finding a fast, high-capacity NVMe SSD at a reasonable price has been a challenge during RAMageddon. I don’t want to say it’s getting easier, but one of Samsung’s latest SSDs is cheaper than it has sold for since February 2026. That’s something, right? Amazon has the heatsink-less version of the Samsung [&#8230;]",
+      "published": "2026-08-03 14:16",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Devtools must be open source",
+      "url": "https://blog.exe.dev/devtools-must-be-open-source",
+      "summary": "",
+      "published": "2026-08-03 14:15",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "派评 | 近期值得关注的 App",
+      "url": "https://sspai.com/post/113040",
+      "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀<a href=\"https://sspai.com/post/113040\" target=\"_blank\">查看全文</a>",
+      "published": "2026-08-03 10:09",
+      "source": "sspai.com",
       "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "Why Book Corners won't sync contributions back to OpenStreetMap",
-      "url": "https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/",
-      "summary": "",
-      "published": "2026-08-03 00:12",
-      "source": "Hacker News",
-      "lang": "en",
+      "title": "把折叠屏外屏做成手机后：iKKO MindOne Pro 体验",
+      "url": "https://sspai.com/post/112685",
+      "summary": "在如今智能手机市场高度同质化、各家都在公模和微创新里打转的时代，一台形态奇特的设备总是能轻易抓住数码爱好者的眼球。前段时间，我在浏览iKKO官网时，被一台名为MindOnePro的手机吸引了。它接近正 ...<a href=\"https://sspai.com/post/112685\" target=\"_blank\">查看全文</a>",
+      "published": "2026-08-03 07:35",
+      "source": "sspai.com",
+      "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours",
-      "url": "https://github.com/pg83/shitty",
-      "summary": "",
-      "published": "2026-08-02 23:05",
-      "source": "Hacker News",
-      "lang": "en",
+      "title": "职人专访 #001：少数派背后的理想主义",
+      "url": "https://sspai.com/post/112966",
+      "summary": "因为这款手机壳，我跟老麦聊了一下午。<a href=\"https://sspai.com/post/112966\" target=\"_blank\">查看全文</a>",
+      "published": "2026-08-03 06:03",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "角落新声｜两平米、两个角落，安放两个自己",
+      "url": "https://sspai.com/post/112551",
+      "summary": "编者按：本文是「角落新声」征文活动的入围文章。本次主题征文由声擎冠名，邀你前来分享那个让你放松娱乐、拥抱汩汩心流、逃离尘世纷扰、找回本真自我的理想一隅。8月7日前投稿参与，即有机会获得声擎Cyber5 ...<a href=\"https://sspai.com/post/112551\" target=\"_blank\">查看全文</a>",
+      "published": "2026-08-03 02:52",
+      "source": "sspai.com",
+      "lang": "zh_cn",
       "category": "科技"
     },
     {
@@ -147,123 +318,6 @@
       "category": "科技"
     },
     {
-      "title": "Rachika Nayar’s Heaven Come Crashing is an instrumental epic of desperate longing",
-      "url": "https://www.theverge.com/entertainment/974271/rachika-nayars-heaven-come-crashing-music-review",
-      "summary": "Two minutes and thirty seconds into the title track of Rachika Nayar's Heaven Come Crashing, an absolutely massive drum and bass beat drops. As a fan of Nayar's debut record Our Hands Against The Dusk, it caught me off guard. That album has no percussion on it at all. Heaven Comes Crashing is almost entirely [&#8230;]",
-      "published": "2026-08-02 21:53",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "The global memory shortage hits the MacBook Air",
-      "url": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
-      "summary": "The global memory chip shortage appears to be affecting the availability of Apple’s most popular Mac.",
-      "published": "2026-08-02 21:33",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Sam Altman and AI’s decel debate",
-      "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
-      "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
-      "published": "2026-08-02 20:54",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Fender’s CEO seems to think your bandmates are just analog AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
-      "summary": "Fender CEO Edward \"Bud\" Cole gave an interview to T3 in May celebrating the 75th anniversary of the Telecaster with comments on AI and music that initially flew under the radar. But it has started making the rounds recently, pouring more fuel on an already raging fire of bad PR following the company pissing off [&#8230;]",
-      "published": "2026-08-02 19:36",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Malaysia is reportedly shutting down Balaji Srinivasan’s Network School",
-      "url": "https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/",
-      "summary": "Let's see how this \"frontier community for techno-optimists\" is doing ...",
-      "published": "2026-08-02 17:05",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
-      "url": "https://github.com/wie-project/kakehashi",
-      "summary": "",
-      "published": "2026-08-02 16:26",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Xbox prices are increasing by up to €200 or £170",
-      "url": "https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros",
-      "summary": "When Microsoft announced its latest round of Xbox price bumps in June, it only gave US pricing. Now we know the pricing increases for the EU and UK, and they're dramatic. Depending on the model, Xbox prices are increasing by up to &#8364;200 or &#163;170. The 1TB Xbox Series X with a disc drive is [&#8230;]",
-      "published": "2026-08-02 16:14",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "TechCrunch Mobility: Two roads diverged — for robotaxis",
-      "url": "https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-      "published": "2026-08-02 16:05",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
-      "url": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
-      "summary": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital pen pals and nature journals, here are the latest App Store finds worth adding to your Home Screen.",
-      "published": "2026-08-02 15:23",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Skylight&#8217;s smart calendars are up to $90 off during its back-to-school sale",
-      "url": "https://www.theverge.com/gadgets/973789/skylight-calendar-2-max-back-to-school-deal-sale",
-      "summary": "The start of a new school year can feel hectic, as parents juggle their kids’ classes, extracurriculars and sports on top of work, appointments, and other responsibilities. It&#8217;s easy for things to slip through the cracks, but Skylight&#8217;s shared smart calendars can help keep everyone on track, and from August 2nd through August 9th they&#8217;re [&#8230;]",
-      "published": "2026-08-02 15:00",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "HP’s HyperX Omen 15 isn’t quite the budget-friendly gaming laptop its predecessor was",
-      "url": "https://www.theverge.com/tech/974155/hp-hyperx-omen-15-gaming-laptop-rtx-5050-review",
-      "summary": "The HP HyperX Omen 15, which I first saw at CES, replaces the HP Victus 15, a longtime bestselling budget gaming laptop. The Victus cost just $800, or less when on sale, and was a good entry point to decent laptop gaming. The Omen 15 has nice little upgrades over the Victus. Its RTX 5050 [&#8230;]",
-      "published": "2026-08-02 14:00",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Is paying artists enough to convince them to embrace AI?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
-      "summary": "Illustrators have spent years sounding the alarm about generative artificial intelligence startups training their models on artists' work without permission. They've pointed out how the practice is tantamount to theft, and in response, many gen AI boosters have argued that it's necessary for the technology's evolution. This has led to contentious legal battles, but it's [&#8230;]",
-      "published": "2026-08-02 13:00",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Foldables are sort of boring now — and that’s great news for Apple",
-      "url": "https://www.theverge.com/column/972937/foldable-phones-boring-apple",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on smartphones and Android, follow Dominic Preston. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Believe it or not, it didn't all start with [&#8230;]",
-      "published": "2026-08-02 12:00",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
       "title": "从拉萨到雅鲁藏布江大峡谷，我的春日西藏游记",
       "url": "https://sspai.com/post/112843",
       "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/112843\" target=\"_blank\">查看全文</a>",
@@ -273,120 +327,12 @@
       "category": "科技"
     },
     {
-      "title": "Karpathy’s Pelican",
-      "url": "https://twitter.com/karpathy/status/2083749667410727319",
-      "summary": "",
-      "published": "2026-08-02 04:05",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Pixel 11 specs and price leak with no surprises",
-      "url": "https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak",
-      "summary": "Android Headlines claims to have the specs and price for the entire Pixel 11 lineup. What the site shared basically lines up with everything else that we've heard in the lead-up to the August 12th event. The Pixel 11 is expected to get a $100 price hike, starting at $899, but will come with 256GB [&#8230;]",
-      "published": "2026-08-01 21:31",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Inside the London hacker house taking a stand against founder burnout",
-      "url": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
-      "summary": "How one founder house is betting work-life balance can beat burnout .",
-      "published": "2026-08-01 21:14",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
-      "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
-      "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
-      "published": "2026-08-01 20:26",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Angela Nissel faces down grief with a laugh",
-      "url": "https://www.theverge.com/report/974226/angela-nissel-interview-good-grief-pass-the-bread-mom-is-dead",
-      "summary": "Angela Nissel's latest book, Good Grief, Pass the Bread, Mom Is Dead, is my kind of memoir. Sure, it's a deeply emotional tale about caring for a terminally ill parent. But it's delivered with the sort of gallows humor that I often turn to to get me through tough times. Of course, that sort of [&#8230;]",
-      "published": "2026-08-01 20:15",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
-      "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
-      "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
-      "published": "2026-08-01 19:45",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Should you still buy your next smartphone — or subscribe to it instead?",
-      "url": "https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/",
-      "summary": "Apple's new Upgrade program is the latest sign that smartphone ownership is changing.",
-      "published": "2026-08-01 18:47",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Is this Billboard Hot 100 hit AI slop?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
-      "summary": "Fenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the track \"Rubberz,\" which has climbed to number 58 on the Billboard Hot 100. Almost immediately, though, questions were raised about the song's origins, with many speculating that it was largely, [&#8230;]",
-      "published": "2026-08-01 18:20",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Sam Altman is still making the case for parenting via ChatGPT",
-      "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
-      "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
-      "published": "2026-08-01 17:07",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "This $9 key physically locks your most addictive apps",
-      "url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
-      "summary": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
-      "published": "2026-08-01 15:58",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Uber is building an autonomous vehicle empire, and here’s every company it’s using to do it",
-      "url": "https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker/",
-      "summary": "Uber has partnered with — and in some cases made direct investments in — about 30 autonomous vehicle companies over the past two years. Here's the list and the latest on the partnerships.",
-      "published": "2026-08-01 15:05",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
       "title": "「弯道超车」赛车入门指北：进站不只为换胎，策略里的那本时间账",
       "url": "https://sspai.com/post/112701",
       "summary": "真正的比赛往往不只发生在赛道上，也发生在每一次进站窗口打开的时候。<a href=\"https://sspai.com/post/112701\" target=\"_blank\">查看全文</a>",
       "published": "2026-08-01 04:54",
       "source": "sspai.com",
       "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "Autoregressive Language Model on the 6502 Processor",
-      "url": "https://mattbeton.com/blog/bitnet-6502.html",
-      "summary": "",
-      "published": "2026-07-31 13:08",
-      "source": "Hacker News",
-      "lang": "en",
       "category": "科技"
     },
     {
@@ -408,64 +354,10 @@
       "category": "科技"
     },
     {
-      "title": "App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图",
-      "url": "https://sspai.com/post/112730",
-      "summary": "也许在某个瞬间，你会发现：三千年的时间很长，但古人与我们之间，并没有想象中那么遥远。<a href=\"https://sspai.com/post/112730\" target=\"_blank\">查看全文</a>",
-      "published": "2026-07-31 07:00",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "简单有效的 E-cise，如何让我摆脱体态不良的「三件套」？",
-      "url": "https://sspai.com/post/112833",
-      "summary": "无论你的运动专项为何，E-cise 都可以构成一个很好的辅助和补充。<a href=\"https://sspai.com/post/112833\" target=\"_blank\">查看全文</a>",
-      "published": "2026-07-31 02:21",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "派早报：小米汽车举行 SKYNOMAD 小米澎程技术发布会等",
-      "url": "https://sspai.com/post/112930",
-      "summary": "CHERRY 樱桃发布 MW5500 PRO 8K 无线游戏鼠标，零刻推出 SEi13 AI / SEi14 AI 迷你主机等<a href=\"https://sspai.com/post/112930\" target=\"_blank\">查看全文</a>",
-      "published": "2026-07-31 00:37",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "App+1 | 免费、多功能的远程控制新选择：网易 UU 远程",
-      "url": "https://sspai.com/post/112405",
-      "summary": "从远程桌面到终端、端口映射和云电脑，网易 UU 远程帮你一站式搞定。<a href=\"https://sspai.com/post/112405\" target=\"_blank\">查看全文</a>",
-      "published": "2026-07-30 09:30",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "在流媒体时代，搭建一个专属于自己的「音乐探索系统」",
-      "url": "https://sspai.com/post/112656",
-      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/112656\" target=\"_blank\">查看全文</a>",
-      "published": "2026-07-30 06:53",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "Developers are attached to tools because tools encode trust",
-      "url": "https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/",
+      "title": "Amazonian civilization had estimated 3M people in 3% of forest area",
+      "url": "https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization",
       "summary": "",
-      "published": "2026-07-29 14:25",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Note-Taking and Personal Knowledge Management",
-      "url": "https://unattributed.cc/note-taking-and-personal-knowledge-management",
-      "summary": "",
-      "published": "2026-07-28 14:21",
+      "published": "2026-07-29 16:07",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
