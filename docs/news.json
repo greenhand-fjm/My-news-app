@@ -1,383 +1,311 @@
 {
-  "last_updated": "2026-08-05 01:21:01",
-  "total": 52,
+  "last_updated": "2026-08-06 01:18:26",
+  "total": 40,
   "articles": [
     {
-      "title": "人民币对美元中间价调升28个基点",
-      "url": "https://36kr.com/newsflashes/3925944318097541?f=rss",
-      "summary": "36氪获悉，8月5日，人民币对美元中间价调升28个基点，报6.7889，上一交易日中间价6.7917。",
-      "published": "2026-08-05 01:17",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "中信证券：传统主业稳健+AI收入渐显，美股应用软件迎来估值修复契机",
-      "url": "https://36kr.com/newsflashes/3925919120259207?f=rss",
-      "summary": "36氪获悉，中信证券研报表示，当下“AI吞噬软件”叙事正在逐步证伪：龙头厂商收入与在手订单仍保持稳健增长，应用软件基本面尚未出现市场此前担忧的结构性失速；同时模型厂商通过嵌入CRM、ERP、ITSM和HCM等既有工作流推进企业级落地，传统软件厂商的数据、行业知识及客户服务能力仍构成核心壁垒。短期看，模型同质化属性提升、软件企业AI收入占比提升等有望推动美股软件板块估值持续向上修复。中期维度，板块能否由估值修复走向反转，仍取决于AI产品能否带动软件企业整体营收增速回升，未来1—2个季度可能是重要观察窗口。",
-      "published": "2026-08-05 01:14",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "“哲源科技”完成近2亿元A2轮融资",
-      "url": "https://36kr.com/newsflashes/3925940167325829?f=rss",
-      "summary": "36氪获悉，北京哲源科技有限责任公司在A2轮获得近2亿人民币融资。本轮融资由圣湘生物携产业基金领投，中科创星作为老股东持续跟进，张江科投等联合跟投。本轮融资将主要用于高价值创新IP的持续产出与全球资产布局，以及基于生命世界模型驱动的AI4S平台升级。",
-      "published": "2026-08-05 01:12",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "MLCC景气度高企，概念股业绩预喜比例100%",
-      "url": "https://36kr.com/newsflashes/3925918166907266?f=rss",
-      "summary": "8月4日午后，MLCC概念活跃，概念指数收涨5.22%。消息面上，村田、三星电机、太阳诱电等日韩头部厂商先后针对AI服务器及车规高端高容MLCC上调价格，涨幅区间达15%～30%。据统计，MLCC概念股有19只，今年以来，股价平均上涨67.2%，昀冢科技、风华高科、三环集团、国瓷材料等6股的股价涨幅居前，年内均上涨超100%。从业绩预期来看，目前5只概念股发布上半年业绩预告，业绩全部预喜。按照预告下限数据来看，双星新材业绩预计扭亏，博杰股份、风华高科、三环集团、皖维高新的净利润均同比呈现增长。（证券时报）",
-      "published": "2026-08-05 01:11",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "全球最大的黄金ETF SPDR Gold Trust持仓较前日增加3.43吨",
-      "url": "https://36kr.com/newsflashes/3925917421762946?f=rss",
-      "summary": "截至2026年08月04日，全球最大的黄金ETF SPDR Gold Trust持仓量为1009.30吨，较前一个交易日增加3.43吨。（新浪财经）",
-      "published": "2026-08-05 01:08",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "AI应用向实向深，商业化价值闭环正在形成",
-      "url": "https://36kr.com/newsflashes/3925916589881476?f=rss",
-      "summary": "8月4日，A股AI应用再度爆发，传智教育、优刻得、凯文教育等领涨，这意味着市场对AI应用商业化的预期持续升温。产业层面上，近期国内外AI应用类公司披露的消息显示，AI应用已经下沉到AIGC、政企软件、AI教育、智能制造、智能医疗等应用场景，正在从技术验证迈入收入兑现阶段。多位业内人士认为，AI应用已经开始从编程智能体走向办公智能体，或先在个人应用领域爆发，进而延伸至企业组织，但最终能否形成商业闭环，取决于基于AI的新商业模式能否诞生。（上证报）",
-      "published": "2026-08-05 01:06",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "分红回购持续推进，券商多管齐下增强投资者信心",
-      "url": "https://36kr.com/newsflashes/3925915502852233?f=rss",
-      "summary": "从多家券商筹划回购事宜或披露股份回购最新进展，到2025年年度分红密集落地增强投资者获得感，近期上市券商提振投资者信心动作频频，部分券商控股股东计划增持股份，也向市场传递出对国内资本市场长期投资价值的看好。在业内人士看来，在市场风格经历再平衡的过程中，低估值、有业绩的券商板块具备修复空间，ROE持续创新高、业务结构持续优化、盈利成长性提升是券商板块估值提升的重要驱动因素。就投资布局而言，优质头部券商、一级投资具备特色的券商以及衍生品、财富管理等特色业务突出的中型券商值得关注。（中证报）",
-      "published": "2026-08-05 01:03",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "华泰证券：建议关注AI应用和国产模型两条投资主线",
-      "url": "https://36kr.com/newsflashes/3925914734066049?f=rss",
-      "summary": "36氪获悉，华泰证券研报称，GPT-5.6降价推动大模型竞争由能力排名进一步转向“同等智能成本”。OpenAI于7月30日将Terra和Luna价格分别下调20%和80%；次日发布的DeepSeek V4 Flash 0731在Artificial Analysis Intelligence Index达到50分，仅比Luna低1分，混合价格和平均任务成本分别约0.06美元/百万Token和0.03美元，较Luna分别低约65%和57%。华泰证券认为，Kimi K3以57分代表当前国产开放权重模型的强能力上限，DS V4 Flash则刷新50分能力区间的成本底线，中国模型已形成“强能力+高性价比”两条竞争路线，有望带动下游应用的起量。建议关注AI应用和国产模型两条投资主线。",
-      "published": "2026-08-05 01:00",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "科技新贵纷纷下场做VC，产业资本激活创新资本正循环",
-      "url": "https://36kr.com/newsflashes/3925914179942529?f=rss",
-      "summary": "一级市场频现“创而优则投”的故事。近期，GPU（图形处理器）企业沐曦股份旗下全资子公司沐曦数智出资3600万元，设立了淮安沐腾晨曦创业投资基金合伙企业（有限合伙），该基金总认缴规模2亿元，由上海万昂投资管理有限公司担任GP（普通合伙人）。梳理发现，今年以来，长鑫科技、兆易创新、长电科技等多家顶流科技公司都先后下场布局一级市场投资，成为市场上新一波新贵LP（有限合伙）。多年前，这些公司还是各大VC/PE（风险投资机构）争抢的优质赛道标的，一路依靠外部资本完成技术迭代与规模扩张，如今羽翼丰满后反向赋能一级市场。新型产业LP群体的崛起，也意味着一个全新的资本循环正在形成。（证券时报）",
-      "published": "2026-08-05 00:58",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "中信证券：预计年内黄金价格将回到上行通道",
-      "url": "https://36kr.com/newsflashes/3925901822965892?f=rss",
-      "summary": "36氪获悉，中信证券研报认为，今年以来黄金价格冲高后迅速下跌，但黄金仍处在大牛市，原因有美国财政赤字加速扩张、逆全球化下地缘裂痕难以弥合、全球央行购金持续托底。因此金价本轮下跌只是牛市中的暂时调整。当前的回撤幅度已逼近历史极值，4000美元/盎司附近大概率是本轮底部区域。展望后市，预计霍尔木兹海峡局势对黄金价格的影响将从压制转变为助推，美联储货币政策可能比市场预期更乐观，叠加美国军费暴涨推高赤字，预计年内黄金价格将回到上行通道。",
-      "published": "2026-08-05 00:55",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "谷歌课堂Gemini扩展至全年龄段学生，新增情境化引导提示",
-      "url": "https://36kr.com/newsflashes/3925901230356614?f=rss",
-      "summary": "当地时间8月4日，谷歌宣布自2026年8月10日起，Google Classroom中的Gemini功能将向全年龄段的K-12及高等教育学生开放，前提是其管理员已授予相关权限。学生可通过Classroom中的Gemini标签页将课程资料转化为抽认卡、练习测验等互动学习工具，或将其同步至Gemini Notebook以生成学习指南及音频概览。此外，该更新还引入了情境化引导提示功能，允许学生选择特定课程和作业，直接结合作业要求和教学大纲进行针对性辅导。（界面）",
-      "published": "2026-08-05 00:52",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "Lucid将在“运营重整”期间推迟推出平价电动车",
-      "url": "https://36kr.com/newsflashes/3925900711442816?f=rss",
-      "summary": "Lucid 首席执行官周二表示，该公司计划于2027年下半年推出更实惠的电动汽车，将原定于今年晚些时候的上市计划推迟，目前公司正在进行重大业务审查并削减成本。作为公司所谓“ 运营重置” 计划的一部分，Lucid 计划今年节省14亿美元现金，主要通过削减产量和库存来实现，此前该公司第二季度亏损持续扩大。（新浪财经）",
-      "published": "2026-08-05 00:50",
-      "source": "36kr.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "Eight Myths on Software Engineering and GenAI",
-      "url": "https://queue.acm.org/detail.cfm?id=3807963",
-      "summary": "",
-      "published": "2026-08-04 23:50",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
-      "url": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
-      "summary": "",
-      "published": "2026-08-04 23:31",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Don’t screw this up, Marvel",
-      "url": "https://www.theverge.com/entertainment/975297/spider-man-brand-new-day-marvel-sony-xmen-doomsday",
-      "summary": "In less than a week, Spider-Man: Brand New Day raked in $1 billion worldwide and had the biggest box office opening weekend in Hollywood history. The feature has been a reminder of why Sony is probably never going to give up the Spider-Man film rights, and highlighted how Marvel Studios was smart to strike a [&#8230;]",
-      "published": "2026-08-04 23:20",
+      "title": "Elon Musk&#8217;s attempt at an AI Wikipedia hasn&#8217;t been updated in months",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
+      "summary": "xAI's Grokipedia, an online encyclopedia with AI-generated articles that Elon Musk once promised would be a \"massive improvement\" over Wikipedia, apparently hasn't been updated since April 24th, according to a report from Lawfare. \"As far as we can tell, no entry has changed in more than three months,\" Lawfare said. Grokipedia launched in v0.1 in [&#8230;]",
+      "published": "2026-08-06 00:25",
       "source": "www.theverge.com",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "libexpat now funded by the City of Munich for up to 6 months",
-      "url": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
-      "summary": "",
-      "published": "2026-08-04 23:18",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Elon Musk repeatedly one-upped his execs on SpaceX’s first earnings call",
-      "url": "https://techcrunch.com/2026/08/04/elon-musk-repeatedly-one-upped-his-execs-on-spacexs-first-earnings-call/",
-      "summary": "Musk kept inflating the already-big promises being made by SpaceX CFO Bret Johnsen and Gwynne Shotwell on the company's first call.",
-      "published": "2026-08-04 22:30",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Lucid’s turnaround plan hinges on $1.4B in cash savings, robotaxis",
-      "url": "https://techcrunch.com/2026/08/04/lucids-turnaround-plan-hinges-on-1-4b-in-cash-savings-robotaxis/",
-      "summary": "Lucid's new CEO Silvio Napoli listed four must-win priorities, including the successful launch of its midsize EV, finishing a factory in Saudi Arabia, cutting expenses, and robotaxis.",
-      "published": "2026-08-04 22:24",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "We finally learned to center a div, then browsers added sidebars",
-      "url": "https://seg6.space/posts/center-div/",
-      "summary": "",
-      "published": "2026-08-04 22:24",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Pi's Minimalism Is Its Advantage",
-      "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
-      "summary": "",
-      "published": "2026-08-04 22:22",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "How to get the best hotel deals for TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/08/04/how-to-get-the-best-hotel-deals-for-techcrunch-disrupt-2026/",
-      "summary": "We’ve partnered with hotels around Moscone West during Disrupt, taking place October 13 to 15, to secure the best prices available for attendees.",
-      "published": "2026-08-04 22:18",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "DuckDB – Data power tools for your laptop, now in Clojure (2023)",
-      "url": "https://techascent.com/blog/just-ducking-around.html",
-      "summary": "",
-      "published": "2026-08-04 22:09",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Now you can securely link multiple phones to one Signal account",
-      "url": "https://www.theverge.com/tech/975407/signal-linked-devices-sync",
-      "summary": "You can link more devices with one phone number on Signal now, including an Android phone or iPhone. Signal already supported linking PCs and iPads, but not additional phones. When you link a device on Signal, you can check and respond to new messages across all of your linked devices. You can also choose whether [&#8230;]",
-      "published": "2026-08-04 22:02",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
-      "url": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
-      "summary": "The purchase illustrates just how interconnected Elon Musk's universe of companies are.",
-      "published": "2026-08-04 21:07",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "AMD&#8217;s data center business is booming while gaming takes a backseat",
-      "url": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
-      "summary": "Driven by demand for AI capacity, AMD's data center revenue more than doubled year-over-year in its latest earnings report, reaching $6.7 billion. That's up from $5.8 billion in Q1, and jumping 107 percent from the $3.2 billion it reported for the same period a year ago. During Tuesday's earnings call, AMD CEO Lisa Su said [&#8230;]",
-      "published": "2026-08-04 20:57",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel",
-      "url": "https://twitter.com/gwern/status/2084739205071343837",
-      "summary": "",
-      "published": "2026-08-04 20:48",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "SpaceX made more revenue as an AI company than a space company",
-      "url": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
-      "summary": "SpaceX's AI revenue grew more than three times to $2.6 billion from the year before, mostly because of deals that the company made to provide compute to other AI companies, according to SpaceX's quarterly earnings. The AI division, which the company said in its documents to go public was the source of most of its [&#8230;]",
-      "published": "2026-08-04 20:47",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "SpaceX doubles revenue on Anthropic and Google compute deals, Starlink growth",
-      "url": "https://techcrunch.com/2026/08/04/spacex-doubles-revenues-on-anthropic-and-google-compute-deals-starlink-growth/",
-      "summary": "SpaceX doubled its revenue compared to last year, according to its first quarterly earnings since going public in June.",
-      "published": "2026-08-04 20:36",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Android app developers may be unwittingly sharing their users’ location data with advertisers",
-      "url": "https://techcrunch.com/2026/08/04/android-app-developers-may-be-unwittingly-sharing-their-users-location-data-with-advertisers/",
-      "summary": "New findings by the Electronic Frontier Foundation aim to warn app developers that some of the third-party code they place in their apps may also collect their users' location data when they grant permission to the app.",
-      "published": "2026-08-04 20:26",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "EA is now a private company",
-      "url": "https://www.theverge.com/games/974736/ea-private-company-deal-closed",
-      "summary": "Electronic Arts has officially become a private company. Last September, EA announced that an investor group led by Saudi Arabia's Public Investment Fund (PIF), Silver Lake, and Affinity Partners would be taking the company private in a $55 billion deal, and on Tuesday, EA said the deal successfully closed. The PIF will reportedly own 93.4 [&#8230;]",
-      "published": "2026-08-04 20:18",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
-      "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
-      "summary": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards.",
-      "published": "2026-08-04 20:05",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Anthropic signs $10B deal with AI cloud startup Volta",
-      "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
-      "summary": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
-      "published": "2026-08-04 19:48",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
-      "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
-      "summary": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.",
-      "published": "2026-08-04 19:34",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
-      "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
-      "summary": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents.",
-      "published": "2026-08-04 19:28",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Telegram CEO says an extortionist planted CSAM in a chat to get it pulled from the App Store",
-      "url": "https://www.theverge.com/tech/975300/telegram-app-store-takedown-extortion-pavel-durov",
-      "summary": "Telegram CEO Pavel Durov blames an extortionist for planting child sexual abuse material (CSAM) in a public chat to get the app temporarily removed from Apple's App Store on Monday night. \"Apple removed Telegram from the App Store before contacting us,\" Durov says in a post on X. \"This creates a potential systemic risk for [&#8230;]",
-      "published": "2026-08-04 19:11",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "How an OpenAI influencer trip backfired",
-      "url": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
-      "summary": "The brand trip is a right of passage for influencers. It's a mark of legitimacy that a sponsor wants to invite them on an all-expenses-paid vacation, often with luxurious freebies and activities. Trips can also spur hard feelings from uninvited influencers, trigger criticism from the public, and project a certain frivolousness. Usually it is fast [&#8230;]",
-      "published": "2026-08-04 17:46",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Lenovo&#8217;s Legion Go S with SteamOS is down to its lowest price ever",
-      "url": "https://www.theverge.com/gadgets/975113/lenovo-legion-go-s-steamos-deal-sale",
-      "summary": "Memory and storage prices will be inflated for the foreseeable future, so we’re always happy to find a good deal on capable gaming hardware, like this discount on the Lenovo Legion Go S with a Z2 Go processor and SteamOS. Normally $1,137.41 (and selling for close to $1,000 at Best Buy), Lenovo has the handheld [&#8230;]",
-      "published": "2026-08-04 17:35",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "‘Not healthy’ LLM use is more common than you think",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
-      "summary": "Hank Green, a popular YouTuber and science communicator, said he is stepping back from production amid intense criticism over his use of AI. Green described his AI usage as \"not healthy,\" but stressed that he used it for finding research sources and not to write scripts. Much of the ensuing firestorm in this corner of [&#8230;]",
-      "published": "2026-08-04 17:33",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Waymo opens up robotaxi service in Dallas to everyone",
-      "url": "https://techcrunch.com/2026/08/04/waymo-opens-up-robotaxi-service-in-dallas-to-everyone/",
-      "summary": "Waymo has dropped the waitlist for its robotaxi service in Dallas, the latest step in the company's bid to scale its self-driving technology across the United States, U.K., and Europe.",
-      "published": "2026-08-04 17:31",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Take an extra $100 off your TechCrunch Disrupt 2026 pass: This week only!",
-      "url": "https://techcrunch.com/2026/08/04/take-an-extra-100-off-your-techcrunch-disrupt-2026-pass-this-week-only/",
+      "title": "Get up to $400 off your TechCrunch Disrupt 2026 pass until Friday",
+      "url": "https://techcrunch.com/2026/08/05/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/",
       "summary": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.",
-      "published": "2026-08-04 17:20",
+      "published": "2026-08-05 22:55",
       "source": "techcrunch.com",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "BMW’s in-car Spider-Man ad is villain behavior",
-      "url": "https://www.theverge.com/transportation/975172/bmw-spider-man-movie-infotainment-ad",
-      "summary": "When a premium car brand like BMW says it has a \"special surprise\" in store for drivers, I'd expect something more luxurious than having a movie commercial beamed onto the dashboard. That's exactly what's happening to many BMW owners, however, who are being shown banner ads for Spider-man: Brand New Day on their Control Display [&#8230;]",
-      "published": "2026-08-04 17:17",
+      "title": "X product chief Nikita Bier is leaving after one year",
+      "url": "https://www.theverge.com/tech/975955/x-twitter-nikita-bier-leaving",
+      "summary": "X head of product Nikita Bier is stepping down and says he will move into a role as an advisor, writing that \"it's time to pass the torch and demote myself to my natural state: a poster.\" He shared the update just over a month after celebrating his one-year anniversary on the job, and just [&#8230;]",
+      "published": "2026-08-05 22:19",
       "source": "www.theverge.com",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
-      "url": "https://mistral.ai/news/shieldstral/",
+      "title": "Nikita Bier steps down as X’s head of product",
+      "url": "https://techcrunch.com/2026/08/05/nikita-bier-steps-down-as-xs-head-of-product/",
+      "summary": "The serial entrepreneur is stepping down a little over a year after taking the \"24/7 job\" of overseeing X.",
+      "published": "2026-08-05 21:30",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The title cards in Blade Runner are amazing",
+      "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
       "summary": "",
-      "published": "2026-08-04 16:36",
+      "published": "2026-08-05 21:29",
       "source": "Hacker News",
       "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Travis Kalanick’s robotics startup Atoms taps former Uber finance chief as CFO",
+      "url": "https://techcrunch.com/2026/08/05/travis-kalanicks-robotics-startup-atoms-taps-former-uber-finance-chief-as-cfo/",
+      "summary": "Kalanick continues to get the band back together, after acquiring Anthony Levandowski's autonomy startup, and even soliciting investment from Uber.",
+      "published": "2026-08-05 21:26",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "NVIDIA’s Vera Whitepaper Has a Thread Loose",
+      "url": "https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread",
+      "summary": "",
+      "published": "2026-08-05 21:24",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Meta launches Muse Code, an AI agent for large code bases",
+      "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+      "summary": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
+      "published": "2026-08-05 21:21",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Prime Agent: A self-improving RLM agent",
+      "url": "https://www.primeintellect.ai/blog/prime-agent",
+      "summary": "",
+      "published": "2026-08-05 21:11",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Trump’s DOJ gains oversight of OpenAI’s green-card employee sponsorships",
+      "url": "https://techcrunch.com/2026/08/05/trumps-doj-gains-oversight-of-openais-green-card-employee-sponsorships/",
+      "summary": "The DOJ alleged that OpenAI did not meaningful attempt to hire U.S. citizens before seeking permanent residence for Visa-holding employees.",
+      "published": "2026-08-05 21:05",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Moove raises $250M to become the backbone of the robotaxi industry",
+      "url": "https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry/",
+      "summary": "Moove is scaling up the autonomous vehicle fleet management side of its business and plans to someday own, not just manage, Waymo robotaxis.",
+      "published": "2026-08-05 20:50",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "How Lightspeed found its newest hire … via Instagram DM",
+      "url": "https://techcrunch.com/2026/08/05/how-lightspeed-found-its-newest-hire-via-instagram-dm/",
+      "summary": "Lightspeed partners Josh Machiz and Claire Zau stopped by the Equity studio to talk about the strategies behind their growing social media presence and their podcast, Lightwork.",
+      "published": "2026-08-05 20:48",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Why Lightspeed is going all-in on creator-led venture capital",
+      "url": "https://techcrunch.com/video/why-lightspeed-is-going-all-in-on-creator-led-venture-capital/",
+      "summary": "Venture firms are turning to creators to build trust with the next generation of founders before a check is ever written.&#160;It&#8217;s&#160;a trend&#160;that&#8217;s&#160;been building with&#160;a16z&#8217;s acquisition&#160;of Erik Torenberg’s Turpentine podcast and&#160;OpenAI&#8217;s acquisition&#160;of TBPN.&#160;Lightspeed Venture Partners&#160;just made its own notable hire in that vein, bringing on&#160;Claire Zau, a seed investor with a major following on Instagram and [&#8230;]",
+      "published": "2026-08-05 20:48",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
+      "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+      "summary": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
+      "published": "2026-08-05 20:05",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+      "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+      "summary": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.",
+      "published": "2026-08-05 19:30",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Muse Code and Muse Spark 1.2",
+      "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
+      "summary": "",
+      "published": "2026-08-05 19:15",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Zed DeltaDB",
+      "url": "https://zed.dev/deltadb",
+      "summary": "",
+      "published": "2026-08-05 18:52",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+      "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+      "summary": "",
+      "published": "2026-08-05 18:18",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Reddit aims to make ‘karma’ less important for first-time posters with shift to AI moderation tools",
+      "url": "https://techcrunch.com/2026/08/05/reddit-aims-to-make-karma-less-important-for-first-time-posters-with-shift-to-ai-moderation-tools/",
+      "summary": "Reddit is expanding its moderation tools and building stronger abuse prevention systems that it says could eventually reduce communities’ reliance on karma and account-age requirements, making it easier for legitimate newcomers to participate.",
+      "published": "2026-08-05 18:00",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Lucid Motors just delayed its affordable EV. Now what?",
+      "url": "https://techcrunch.com/2026/08/05/lucid-motors-just-delayed-its-affordable-ev-now-what/",
+      "summary": "The Cosmos EV is now slated for release in the second half of 2027. CEO Silvio Napoli said he's focused on getting the EV right, as well as its nearer-term robotaxi project with Uber and Nuro.",
+      "published": "2026-08-05 17:57",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Two of Ring&#8217;s latest video doorbells are a lot cheaper than usual",
+      "url": "https://www.theverge.com/gadgets/975723/ring-wired-doorbell-pro-battery-doorbell-plus-deal-sale",
+      "summary": "Ring&#8217;s Wired Doorbell Pro and Battery Doorbell Plus are two of the brand&#8217;s most well-rounded video doorbells, whether you&#8217;re looking for a hardwired model or one that runs on a battery. Right now, its Wired Doorbell Pro is down to $199 ($50 off) at Amazon and Best Buy, while the Battery Doorbell Plus is on [&#8230;]",
+      "published": "2026-08-05 17:53",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Uber CEO brushes off reports of a Waymo break-up",
+      "url": "https://www.theverge.com/transportation/975651/uber-ceo-earnings-waymo-partnership",
+      "summary": "After Uber and Waymo ended their partnership in Phoenix earlier this year, experts and robotaxi watchers wondered whether the companies' improbable bromance was fraying. Not so, Uber CEO Dara Khosrowshahi said today. The two companies are committed to continue working together in Atlanta and Austin, and the partnership remains \"very strong.\" \"Waymo is a very [&#8230;]",
+      "published": "2026-08-05 17:34",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Apple’s selling refurbished MacBook Neos with a $100 discount",
+      "url": "https://www.theverge.com/gadgets/975603/refurbished-apple-macbook-neo-google-wireless-charger-deal-sale",
+      "summary": "Apple’s most affordable laptop, the MacBook Neo, is available once again at its pre-price hike price. All four colors are currently discounted and available refurbished through the company, with the base 256GB model listed for $599 (usually $699 new), and the upgraded version with 512GB of storage and TouchID selling for $679 (usually $799). The [&#8230;]",
+      "published": "2026-08-05 16:59",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Sure seems like Fenix Flexin used AI music generator Treblo",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo",
+      "summary": "We were pretty sure that Fenix Flexin's \"Rubberz\" was made using AI, but musician Medasin was confident that it was made using Treblo specifically. Now the company and a new detection tool seem to confirm it. On Monday, the company announced the open-source Treblo AI Music Classifier, which detects when a song was generated using [&#8230;]",
+      "published": "2026-08-05 16:57",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Google just announced a major shakeup of its top AI leadership",
+      "url": "https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup",
+      "summary": "Google is making some significant AI leadership changes, including a major shift for Google DeepMind leader Demis Hassabis. Hassabis will become the chair of Google DeepMind and the chief scientist at Alphabet, CEO Sundar Pichai announced on Wednesday. Hassabis will continue to lead Alphabet's Isomorphic Labs, which aims to use AI to develop drugs. Koray [&#8230;]",
+      "published": "2026-08-05 16:47",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "SpaceX is barely Space and mostly X",
+      "url": "https://www.theverge.com/science/975545/spacex-x-earnings-ai-data-centers-compute-space",
+      "summary": "Once, I had some questions about why SpaceX, Elon Musk's healthiest company, acquired xAI, his sickliest one. Now I have some questions about why we're calling the whole thing SpaceX. Look, what we have here, by revenue, is primarily a telecom company and a company that rents compute, according to SpaceX's first quarterly earnings statement [&#8230;]",
+      "published": "2026-08-05 16:35",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Discovery Loop",
+      "url": "https://www.discoveryloop.com/",
+      "summary": "",
+      "published": "2026-08-05 16:19",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+      "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+      "summary": "",
+      "published": "2026-08-05 16:05",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Reddit is introducing a new moderator: AI",
+      "url": "https://www.theverge.com/tech/975398/reddit-ai-rules-hub-moderator-old-reddit-developer-platform",
+      "summary": "Reddit is enlisting AI to help moderate new subreddits - and eventually the rest of site. The company is introducing automated moderation tools that rely on LLMs to help mods manage their communities, and it's expanding who can use those tools today ahead of a full launch later this year. The company calls the suite [&#8230;]",
+      "published": "2026-08-05 16:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Rogue AI agents created fake online identities in another hacking attempt",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking",
+      "summary": "Yet more rogue AI agents from OpenAI and Anthropic have been caught attempting to hack real targets online without permission. The discoveries add to a growing list of previously unknown incidents that have alarmed AI safety experts and intensified pressure for greater oversight of frontier systems. According to a report from the UK's AI Security [&#8230;]",
+      "published": "2026-08-05 15:14",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "196 张盗版碟，和我的游戏启蒙史",
+      "url": "https://sspai.com/post/112831",
+      "summary": "游戏首先要传播出去才会具备被用户接受和讨论的价值，那些曾经陪伴你我的盗版游戏，是否也为今天的你埋下过一颗种子？<a href=\"https://sspai.com/post/112831\" target=\"_blank\">查看全文</a>",
+      "published": "2026-08-05 09:24",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "Bookology：从藏书到笔记，打造你的私人阅读档案",
+      "url": "https://sspai.com/post/112953",
+      "summary": "作为长期阅读的用户，多年以来，我一直在使用Kindle、AppleBooks、PDF等多种工具读书。在管理阅读方面，我使用多款应用来进行：管理书籍我使用的是Calibre；追踪阅读和数据统计，我使用计 ...<a href=\"https://sspai.com/post/112953\" target=\"_blank\">查看全文</a>",
+      "published": "2026-08-05 07:15",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "角落新声｜桌面音箱进化史：换了 4 套搭配，我才明白自己的「心声」",
+      "url": "https://sspai.com/post/112891",
+      "summary": "从最初放个音箱响了就行的混沌，到后来对摆位与频响的死磕，这篇文章记录的，是我如何在这 1 平米的空间里，通过对声音和设备的不断调整，一步步厘清并重构自己精神生活一角的全过程。<a href=\"https://sspai.com/post/112891\" target=\"_blank\">查看全文</a>",
+      "published": "2026-08-05 02:15",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "派早报：OPPO A7 Pro Max 发布、CMF 推出开放式耳机 Clip Pro 等",
+      "url": "https://sspai.com/post/113087",
+      "summary": "索尼发布 FE 100-400mm F5.6-8 OSS 全画幅超远摄变焦镜头，国内航线燃油附加费下调等。<a href=\"https://sspai.com/post/113087\" target=\"_blank\">查看全文</a>",
+      "published": "2026-08-05 00:30",
+      "source": "sspai.com",
+      "lang": "zh_cn",
       "category": "科技"
     },
     {
@@ -417,15 +345,6 @@
       "category": "科技"
     },
     {
-      "title": "派早报：MiniMax H3 开源、Qwen3.8-Max 发布等",
-      "url": "https://sspai.com/post/113053",
-      "summary": "少数派的近期动态投稿征文赢好礼！「角落新声」征文活动距离结束还有一周。火速投稿新一季少数派会员启航，更新权益，更多惊喜，还有实体纪念卡。点击了解你可能错过的文章角落新声｜两平米、两个角落，安放两个自己 ...<a href=\"https://sspai.com/post/113053\" target=\"_blank\">查看全文</a>",
-      "published": "2026-08-04 00:13",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
       "title": "派评 | 近期值得关注的 App",
       "url": "https://sspai.com/post/113040",
       "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀<a href=\"https://sspai.com/post/113040\" target=\"_blank\">查看全文</a>",
@@ -439,33 +358,6 @@
       "url": "https://sspai.com/post/112685",
       "summary": "在如今智能手机市场高度同质化、各家都在公模和微创新里打转的时代，一台形态奇特的设备总是能轻易抓住数码爱好者的眼球。前段时间，我在浏览iKKO官网时，被一台名为MindOnePro的手机吸引了。它接近正 ...<a href=\"https://sspai.com/post/112685\" target=\"_blank\">查看全文</a>",
       "published": "2026-08-03 07:35",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "职人专访 #001：少数派背后的理想主义",
-      "url": "https://sspai.com/post/112966",
-      "summary": "因为这款手机壳，我跟老麦聊了一下午。<a href=\"https://sspai.com/post/112966\" target=\"_blank\">查看全文</a>",
-      "published": "2026-08-03 06:03",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "角落新声｜两平米、两个角落，安放两个自己",
-      "url": "https://sspai.com/post/112551",
-      "summary": "编者按：本文是「角落新声」征文活动的入围文章。本次主题征文由声擎冠名，邀你前来分享那个让你放松娱乐、拥抱汩汩心流、逃离尘世纷扰、找回本真自我的理想一隅。8月7日前投稿参与，即有机会获得声擎Cyber5 ...<a href=\"https://sspai.com/post/112551\" target=\"_blank\">查看全文</a>",
-      "published": "2026-08-03 02:52",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "派早报：DeepSeek V4 Flash 正式版发布",
-      "url": "https://sspai.com/post/113014",
-      "summary": "<p>DeepSeek V4 Flash 正式版发布</p><p>特朗普向科技公司频繁索要捐款</p><p>马斯克称从未讨论过出售特斯拉中国业务</p><p>国补调整后终端销售承压</p><p>风投机构重新涌入中国科技领域</p><p>统计显示实体光盘并不能保证游戏长期可玩</p><p>看看就行的简讯</p><p>少数派的近期动态</p><p>你可能错过的好文章</p><a href=\"https://sspai.com/post/113014\" target=\"_blank\">查看全文</a>",
-      "published": "2026-08-02 22:49",
       "source": "sspai.com",
       "lang": "zh_cn",
       "category": "科技"
