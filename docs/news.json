@@ -1,264 +1,345 @@
 {
-  "last_updated": "2026-08-19 00:32:04",
+  "last_updated": "2026-08-21 00:33:48",
   "total": 40,
   "articles": [
     {
-      "title": "Show HN: Interactive, animated architecture of any HuggingFace models",
-      "url": "https://modelmap.cc",
+      "title": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
+      "url": "https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/",
+      "summary": "Together, these permits would allow up to 8,000 robotaxis to be deployed over the next 12 months.",
+      "published": "2026-08-21 00:23",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+      "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+      "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
+      "published": "2026-08-21 00:13",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Learn what VCs actually want, from a founder who’s raised $1B",
+      "url": "https://techcrunch.com/video/learn-what-vcs-actually-want-from-a-founder-whos-raised-1b/",
+      "summary": "Investors want founders who understand the financial reality of their business. Messy data, misunderstood metrics, or waiting until you’re nearly out of cash to start fundraising can cost founders leverage, valuation, and even a term sheet. In this episode of Build Mode, host Isabelle Johannessen sits down with Sasha Orloff, founder and CEO of Puzzle [&#8230;]",
+      "published": "2026-08-20 23:32",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "派早报：华为发布 Pura X View、享界 G9 等多款新品",
+      "url": "https://sspai.com/post/113666",
+      "summary": "影石推出竖拍云台相机 Luna Pro，森海塞尔发布 MOMENTUM True Wireless 5 真无线耳机等。<a href=\"https://sspai.com/post/113666\" target=\"_blank\">查看全文</a>",
+      "published": "2026-08-20 23:00",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+      "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+      "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
+      "published": "2026-08-20 22:36",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+      "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+      "summary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
+      "published": "2026-08-20 22:09",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Google Discover is getting an AI chatbot-tuned feed",
+      "url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+      "summary": "Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google app in the \"coming days,\" will use AI to automatically tweak your feed and \"remember\" your preferences for future visits. You'll find the option within the three-dot menu on your [&#8230;]",
+      "published": "2026-08-20 21:50",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The Enhanced Games — tech’s steroid extravaganza — didn’t pay off, as company posts $60 million loss",
+      "url": "https://techcrunch.com/2026/08/20/the-enhanced-games-techs-steroid-extravaganza-didnt-pay-off-as-company-posts-60-million-loss/",
+      "summary": "An effort to transform the world of sports through steroid use doesn't exactly seem to be bearing financial fruit.",
+      "published": "2026-08-20 21:08",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "OK, can we actually cool data centers with our pee?",
+      "url": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
+      "summary": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous.",
+      "published": "2026-08-20 20:53",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
+      "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
       "summary": "",
-      "published": "2026-08-18 23:57",
+      "published": "2026-08-20 20:07",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Solo – a .so loader for static Linux binaries",
-      "url": "https://github.com/pg83/solo",
+      "title": "Someone targeted security researchers using a fake crypto conference as a lure",
+      "url": "https://techcrunch.com/2026/08/20/someone-targeted-security-researchers-using-a-fake-crypto-conference-as-a-lure/",
+      "summary": "A hacker pretending to work for a leading cryptocurrency news website targeted several cybersecurity professionals using Google Docs as a way to deliver malware.",
+      "published": "2026-08-20 20:00",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Riot is ending development on its League of Legends fighting game",
+      "url": "https://www.theverge.com/games/982986/riot-games-league-of-legends-fighting-game-2xko-end-development",
+      "summary": "Riot Games is already winding down work on 2XKO, the free-to-play League of Legends fighting game, less than a year after its initial launch. Riot says \"active development\" will conclude at the end of 2026 because the company hasn't \"seen enough players stick with the game to get to a path toward sustainability.\" Servers will [&#8230;]",
+      "published": "2026-08-20 19:59",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Mark buys a castle",
+      "url": "https://techcrunch.com/2026/08/20/mark-buys-a-castle/",
+      "summary": "Mark Zuckerberg just bought a cozy abode somewhat close to Meta’s international headquarters in Ireland.",
+      "published": "2026-08-20 19:55",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The Genesis GV90 blows the bloody doors off what’s possible in EV design",
+      "url": "https://www.theverge.com/transportation/982910/genesis-gv90-ev-suv-coach-door-heated-floor",
+      "summary": "Genesis, Hyundai's luxury brand, just revealed its first full-size, three-row electric SUV for the US market, the GV90. And arguably it has some of the wildest designs and features in the auto market today. Right off the bat, the coach-style doors signal that things aren't what they seem with the GV90. When the front and [&#8230;]",
+      "published": "2026-08-20 19:52",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The August 17 outage, and the work ahead",
+      "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
       "summary": "",
-      "published": "2026-08-18 23:51",
+      "published": "2026-08-20 19:22",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-      "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
-      "summary": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
-      "published": "2026-08-18 22:14",
+      "title": "Google gives publishers a new way to fight AI-driven traffic losses",
+      "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
+      "summary": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to the web.",
+      "published": "2026-08-20 19:18",
       "source": "techcrunch.com",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
-      "url": "https://github.com/DenisSergeevitch/desktop-fly",
+      "title": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
+      "url": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
+      "summary": "Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product.",
+      "published": "2026-08-20 19:15",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Castelion hits $13B valuation to mass-produce hypersonic missiles",
+      "url": "https://techcrunch.com/2026/08/20/castelion-hits-13b-valuation-to-mass-produce-hypersonic-missiles/",
+      "summary": "Founded in 2022, Castelion set out to manufacture hypersonic weapon systems at a lower cost and at faster speeds than traditional defense primes.",
+      "published": "2026-08-20 19:01",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Mark Zuckerberg bought an Irish castle",
+      "url": "https://www.theverge.com/tech/982955/meta-mark-zuckerberg-strancally-castle-ireland",
+      "summary": "Meta CEO Mark Zuckerberg now owns an actual castle. Zuckerberg and his wife Priscilla Chan bought Strancally Castle and its 440-acre estate in Ireland \"several weeks ago,\" according to The Irish Times. While the exact price of the purchase is unclear, the family could have paid \"anywhere between &#8364;20 million and &#8364;30 million\" for the [&#8230;]",
+      "published": "2026-08-20 18:50",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Consumer Rights Wiki",
+      "url": "https://consumerrights.wiki/w/Main_Page",
       "summary": "",
-      "published": "2026-08-18 21:50",
+      "published": "2026-08-20 18:19",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "DOJ’s probe into Andreessen Horowitz over board seats baffles VCs",
-      "url": "https://techcrunch.com/2026/08/18/dojs-probe-into-andreessen-horowitz-over-board-seats-baffles-vcs/",
-      "summary": "Since portfolio companies often pivot and expand into competing markets, investors view occasional conflicts of interest as unavoidable for large VC firms.",
-      "published": "2026-08-18 20:36",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "TikTok explores peer-to-peer payments via DMs, report says",
-      "url": "https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/",
-      "summary": "If rolled out, the feature would use the social media service’s TikTok Pay offering, which is already available in Southeast Asia for TikTok Shop purchases.",
-      "published": "2026-08-18 20:03",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "SteelSeries’ comfy wireless gaming headset is nearly half off",
-      "url": "https://www.theverge.com/gadgets/981611/steelseries-arctis-nova-3p-deal-sale",
-      "summary": "While many gaming headsets come with extra features, the tradeoff is that they’re often uncomfortable and heavy. A lightweight, affordable alternative that can connect to a bunch of platforms is available at Woot. The SteelSeries Arctis Nova 3P in cyan is on sale for $59.99, a 45 percent discount from their usual $109.99 price. This [&#8230;]",
-      "published": "2026-08-18 20:01",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
-      "url": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
-      "summary": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a post on Tuesday, Zak, Zelda, and Cody Williams write that they want the late actor's Instagram profile to be a \"safe, trusted place where the [&#8230;]",
-      "published": "2026-08-18 19:48",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
-      "summary": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and alignment techniques. The company had already put the brakes on a new model, Astra, that it thinks could have \"critical\" cybersecurity capabilities, and the [&#8230;]",
-      "published": "2026-08-18 19:28",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "How does IKEA come up with names for its products?",
-      "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
+      "title": "I should have loved biology (2020)",
+      "url": "https://jsomers.net/i-should-have-loved-biology/",
       "summary": "",
-      "published": "2026-08-18 18:11",
+      "published": "2026-08-20 17:50",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Turbovec – Google's TurboQuant for vector search in Rust",
-      "url": "https://github.com/RyanCodrai/turbovec",
+      "title": "Australia says Roblox hasn&#8217;t fixed its child predator problem",
+      "url": "https://www.theverge.com/games/982885/roblox-australia-safety-regulator-child-safety",
+      "summary": "Roblox is promising more changes to its child safety features following testing from Australia's online safety regulator, eSafety. eSafety has been looking into concerns that the company hasn't been in compliance with Australia's Online Safety Act, including \"allegedly failing to have sufficient measures in place to prevent contact between adults and children under 16.\" While [&#8230;]",
+      "published": "2026-08-20 17:42",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "FCC officially decides gigabit speeds are too good for you",
+      "url": "https://www.theverge.com/policy/982863/fcc-kills-gigabit-goal",
+      "summary": "Another day, another sad thing to report about our compromised Federal Communications Commission. Chairman Brendan Carr has followed through on his 2025 threat to kill long-term broadband speed goals established during the Biden administration, which aimed for eventually getting us to gigabit download and half-gigabit upload speeds. How dare we dream of spreading great download [&#8230;]",
+      "published": "2026-08-20 17:38",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Framework says it&#8217;s addressing a BIOS update that bricked some of its older laptops",
+      "url": "https://www.theverge.com/gadgets/982800/framework-laptop-13-amd-7040-bios-320-bricking-warranty",
+      "summary": "Some Framework Laptop 13 owners with last-gen AMD chips have reported that a recent BIOS update is bricking their laptops on both Windows and Linux. The BIOS update causing this issue is version 3.20 for Ryzen 7040-series mainboards, released back in July and still available on Framework's site at the time of this writing. Upon [&#8230;]",
+      "published": "2026-08-20 17:16",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "It’s Greg Brockman’s OpenAI now",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
+      "summary": "OpenAI has had a hell of a year. The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased model hacked another AI company. As it prepares for an IPO, a steady string of executives [&#8230;]",
+      "published": "2026-08-20 15:45",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "This app makes the Pixel 11&#8217;s HiLight feature actually useful",
+      "url": "https://www.theverge.com/tech/982791/this-app-makes-the-pixel-11s-hilight-feature-actually-useful",
+      "summary": "Google's new HiLight notification LED on the Pixel 11 Pro is nearly useless. Out of the box, the only two things it can glow for are when the phone is face down and you're interacting with Gemini, or when you get a call from a favorite contact. And even then, it can only glow one [&#8230;]",
+      "published": "2026-08-20 15:30",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "LG’s 65-inch B6 OLED is $300 lower than its previous best price",
+      "url": "https://www.theverge.com/gadgets/982695/lg-b6-65-inch-oled-doordash-digital-game-deal-sale",
+      "summary": "Best Buy has a whole host of LG products discounted for today’s Deal of the Day festivities, including laptops, home theater gear, and more. One that stood out is a price cut on LG’s 65-inch B6 OLED TV that’s deeper than I’ve seen before. At Best Buy, it’s $1,399.99 (originally $1,999.99) for the rest of [&#8230;]",
+      "published": "2026-08-20 15:08",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Malicious Rust crate Arrayref runs a build-time payload",
+      "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
       "summary": "",
-      "published": "2026-08-18 18:07",
+      "published": "2026-08-20 13:23",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "OpenAI institutes new safeguards after Hugging Face breach",
-      "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-      "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
-      "published": "2026-08-18 18:00",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Samsung’s Galaxy Buds 3 Pro are almost half off today",
-      "url": "https://www.theverge.com/gadgets/981525/galaxy-buds-3-pro-dji-pocket-deal-sale",
-      "summary": "If you’re looking for a feature-packed pair of earbuds that won’t break your wallet, Best Buy has the Samsung Galaxy Buds 3 Pro on sale for $139.99. That’s $40 lower than the current Amazon price, and a big discount from their original retail price of $249.99. These well-equipped earbuds feature excellent sound quality, crisp transparency [&#8230;]",
-      "published": "2026-08-18 17:47",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21",
-      "url": "https://techcrunch.com/2026/08/18/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/",
-      "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
-      "published": "2026-08-18 17:31",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Etched’s valuation doubles to $21B in a month",
-      "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
-      "summary": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
-      "published": "2026-08-18 17:21",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "PlayStation&#8217;s wireless gaming speakers launch in November",
-      "url": "https://www.theverge.com/tech/981562/sony-playstation-pulse-elevate-wireless-gaming-speakers-launch-date-preorder",
-      "summary": "Sony's Pulse Elevate wireless gaming speakers are launching on November 12th and will cost $219.99, the company announced on Tuesday. Announced nearly a year ago, the speakers are compatible with a PS5, PlayStation Portal, PC, and Mac, and they include \"studio-inspired planar magnetic drivers\" that offer \"lifelike sound across the entire audible spectrum,\" Sony says. [&#8230;]",
-      "published": "2026-08-18 17:18",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Apple overhauls its EU App Store fees, loosens rules for alternative app stores",
-      "url": "https://techcrunch.com/2026/08/18/apple-overhauls-its-eu-app-store-fees-loosens-rules-for-alternative-app-stores/",
-      "summary": "Apple is simplifying its EU App Store fees, replacing its per-install fee with a 5% commission for apps distributed outside the App Store and making it easier for developers to operate alternative app marketplaces.",
-      "published": "2026-08-18 17:12",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Apple squashes EU beef with new App Store rules",
-      "url": "https://www.theverge.com/tech/981504/apple-app-store-eu-rules-core-technology-commission",
-      "summary": "Apple is once again overhauling App Store rules in the European Union, which the company says will resolve its \"disagreements with the Commission over business terms and alternative distribution.\" As part of the changes, every developer that distributes apps will be moved to a single set of business terms, and digital transactions for apps distributed [&#8230;]",
-      "published": "2026-08-18 16:48",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Comcast adds motion sensing to millions of its newer routers, with a privacy catch",
-      "url": "https://techcrunch.com/2026/08/18/comcast-adds-motion-sensing-to-millions-of-its-newer-routers-with-a-privacy-catch/",
-      "summary": "A new feature added to Comcast's newest routers can detect if there is motion inside your home without needing traditional motion sensors.",
-      "published": "2026-08-18 16:39",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Tesla is finally launching the Cybercab — let’s hope it’s ready",
-      "url": "https://www.theverge.com/transportation/981398/tesla-cybercab-launch-robotaxi-fsd-safe-ready",
-      "summary": "The Tesla Cybercab, that golden two-seater central to Elon Musk's robo-supremacist ambitions, is finally nearing it's public launch. Whether or not the no-steering wheel and no-pedal vehicle is actually ready for public roads, let alone customers, remains very much in doubt. According to The Information, Tesla is planning a public launch of the Cybercab in [&#8230;]",
-      "published": "2026-08-18 16:26",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
-      "url": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
-      "summary": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos.",
-      "published": "2026-08-18 16:19",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Bluesky says its recent outage was caused by another DDoS attack",
-      "url": "https://techcrunch.com/2026/08/18/bluesky-says-its-recent-outage-was-caused-by-another-ddos-attack/",
-      "summary": "This is the latest large-scale DDoS attack to hit the social networking site this year.",
-      "published": "2026-08-18 15:59",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Peacock is raising prices across all of its streaming plans",
-      "url": "https://techcrunch.com/2026/08/18/peacock-is-raising-prices-across-all-of-its-streaming-plans/",
-      "summary": "\"These price changes allow Peacock to continue to create the best experience for its viewers, remain competitive in the marketplace, and deliver unique content across all genres,\" the company wrote on a support page.",
-      "published": "2026-08-18 15:26",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Peacock is raising prices by up to $3",
-      "url": "https://www.theverge.com/streaming/981418/peacock-price-increase-august-2026",
-      "summary": "Peacock is raising prices across its streaming plans once again, with the company's cheapest ad-supported Select tier going from $7.99 to $8.99 / month, as reported earlier by Variety. The Premium plan with ads is increasing from $10.99 to $12.99 / month, while the ad-free Premium Plus plan is getting the biggest hike, jumping from [&#8230;]",
-      "published": "2026-08-18 14:11",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Anthro Energy breaks ground on factory that could pave the road to solid-state batteries",
-      "url": "https://techcrunch.com/2026/08/18/anthro-energy-breaks-ground-on-factory-that-could-pave-the-road-to-solid-state-batteries/",
-      "summary": "Battery materials startup Anthro Energy has broken ground on a Louisville factory to make electrolytes, including those for solid-state batteries.",
-      "published": "2026-08-18 14:00",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Coyote vs. Acme is even funnier because Warner Bros. Discovery tried to kill it",
-      "url": "https://www.theverge.com/entertainment/981131/coyote-vs-acme-david-zaslac-warner-bros-discovery",
-      "summary": "There's an argument to be made that people wouldn't be all that interested in Coyote vs. Acme if it weren't for the way David Zaslav tried to kill it. By trying to shelve the project, Warner Bros. Discovery only drew attention to its habit of disappearing nearly completed movies in order to cash in on [&#8230;]",
-      "published": "2026-08-18 13:35",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Comcast is turning millions of its routers into motion detectors",
-      "url": "https://www.theverge.com/news/981381/comcast-xfinity-shield-wifi-motion-sensing",
-      "summary": "Comcast is bringing Wi-Fi motion sensing to millions of routers that are already in customers' homes, turning the devices into activity monitors. A new update to the Xfinity Internet app, arriving today, August 18th, enables the feature on compatible Xfinity routers at no extra cost. Announced as part of its new Xfinity Shield service, WiFi [&#8230;]",
-      "published": "2026-08-18 13:30",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "The Amazon tax",
-      "url": "https://seths.blog/2026/08/the-amazon-tax/",
+      "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+      "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
       "summary": "",
-      "published": "2026-08-18 13:22",
+      "published": "2026-08-20 10:08",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Using the railway network as a flatbed scanner",
-      "url": "https://philo.gay/linecam/",
+      "title": "新玩意 249｜少数派的编辑们最近买了啥？",
+      "url": "https://sspai.com/post/113650",
+      "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...<a href=\"https://sspai.com/post/113650\" target=\"_blank\">查看全文</a>",
+      "published": "2026-08-20 09:30",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "十年阅读历程，这是我的阅读工具推荐",
+      "url": "https://sspai.com/post/113567",
+      "summary": "从2017年开始，我养成了读书的习惯，到今年年底刚好完成十年的阅读之旅。在这十年里，我累计阅读的书籍有六百余本。在阅读的过程中，我使用了/曾经使用非常多的应用和服务，来辅助阅读、记录书单、整理笔记等。 ...<a href=\"https://sspai.com/post/113567\" target=\"_blank\">查看全文</a>",
+      "published": "2026-08-20 07:25",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "「务实且高效」的日系次旗舰：夏普 AQUOS R9 评测",
+      "url": "https://sspai.com/post/113497",
+      "summary": "在 R9 身上，我竟依稀能感到夏普正在谋求一种仰望星空和脚踏实地间的精妙平衡。<a href=\"https://sspai.com/post/113497\" target=\"_blank\">查看全文</a>",
+      "published": "2026-08-20 02:41",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "派早报：石头发布 A30 Pro Steam 3.0 洗地机、Framework 升级 Laptop 12 笔记本",
+      "url": "https://sspai.com/post/113638",
+      "summary": "哈浮 VERSA 飞行口袋云台相机发布，OpenAI 回应少量 Codex 用户调用 GPT-5.6 系列 AI 模型误删文件问题等。<a href=\"https://sspai.com/post/113638\" target=\"_blank\">查看全文</a>",
+      "published": "2026-08-20 00:46",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "HTML Can Do That",
+      "url": "https://chrisburnell.com/html-can-do-that/",
       "summary": "",
-      "published": "2026-08-18 12:43",
+      "published": "2026-08-19 15:11",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "iOS 27 测试版近期动向，还有 Apple 产品新消息",
+      "url": "https://sspai.com/post/113618",
+      "summary": "7月20日至今，Apple陆续发布了iOS27的DeveloperBeta4、5、6三个测试版本。随着9月秋季发布会的渐进，iOS27距离正式版的发布越来越近。今天，我们就来一起看看这三个Beta版本 ...<a href=\"https://sspai.com/post/113618\" target=\"_blank\">查看全文</a>",
+      "published": "2026-08-19 09:39",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "《控制》新作体验：新怪谈游戏的祖师爷，又杀回来了",
+      "url": "https://sspai.com/post/113588",
+      "summary": "本文首发于「游研社」，作者@亚锌，少数派经授权转载，仅对排版略作调整。阅读原文在ChinaJoy期间，我参与了Remedy举办的《控制：共振》闭门试玩会。其实在开始前，我除了战斗部分之外，还非常期待本 ...<a href=\"https://sspai.com/post/113588\" target=\"_blank\">查看全文</a>",
+      "published": "2026-08-19 07:20",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "App+1 | Inkive：把纸质书上划好的线存进 Obsidian",
+      "url": "https://sspai.com/post/111936",
+      "summary": "让纸书上的划线，回到你的数字笔记里。<a href=\"https://sspai.com/post/111936\" target=\"_blank\">查看全文</a>",
+      "published": "2026-08-19 02:54",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "I like 'em thick: an apology to my English teachers",
+      "url": "https://www.experimental-history.com/p/i-like-em-thick",
+      "summary": "",
+      "published": "2026-08-18 15:50",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
@@ -279,87 +360,6 @@
       "published": "2026-08-18 07:05",
       "source": "sspai.com",
       "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "App+1 | 让任务栏更有用：WindowSill",
-      "url": "https://sspai.com/post/113438",
-      "summary": "屏幕不是注意力中心的地方可以塞下多少有用的东西呢？<a href=\"https://sspai.com/post/113438\" target=\"_blank\">查看全文</a>",
-      "published": "2026-08-18 06:30",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "7月音乐精选：夏天赠予我们的 9 张专辑",
-      "url": "https://sspai.com/post/113454",
-      "summary": "编者注：2026年我们将重启少数派音乐推荐栏目FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ...<a href=\"https://sspai.com/post/113454\" target=\"_blank\">查看全文</a>",
-      "published": "2026-08-18 02:52",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "派早报：阿里巴巴出售灵犀互娱，Linux 7.2 内核稳定版发布等",
-      "url": "https://sspai.com/post/113566",
-      "summary": "少数派的近期动态新一季少数派会员启航，更新权益，更多惊喜，还有实体纪念卡。点击了解能让AI助手通过自然语言指令直接与您的Quote/0摘录墨水屏交互的DotSkill已上线。点击了解你可能错过的文章成 ...<a href=\"https://sspai.com/post/113566\" target=\"_blank\">查看全文</a>",
-      "published": "2026-08-18 00:04",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "派评 | 近期值得关注的 App",
-      "url": "https://sspai.com/post/113544",
-      "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀<a href=\"https://sspai.com/post/113544\" target=\"_blank\">查看全文</a>",
-      "published": "2026-08-17 10:14",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "分享我知识管理 12 年来最重要的经验：INL 结构",
-      "url": "https://sspai.com/post/113368",
-      "summary": "你是不是有几百个笔记，超级乱，都懒得打开？今天我们介绍一个方法，可以让你不怎么整理，就能快速找到重点。<a href=\"https://sspai.com/post/113368\" target=\"_blank\">查看全文</a>",
-      "published": "2026-08-17 07:00",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "当陶瓷水杯遇上像素屏：PixelMug 体验",
-      "url": "https://sspai.com/post/113448",
-      "summary": "如今，伴随着科技和生产力的发展，许多曾经只存在于科幻作品里的创意都逐渐变成了现实。各种新奇酷炫的产品，也开始在人们的刚需之外提供不一样的解法。尤其是那些无关「生产力」、单纯为了让生活变得更有意思的产品 ...<a href=\"https://sspai.com/post/113448\" target=\"_blank\">查看全文</a>",
-      "published": "2026-08-17 05:55",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "成年人包里的唯一一支笔：模块笔入门导购",
-      "url": "https://sspai.com/post/113445",
-      "summary": "如果你的包里想带一支笔以备不时之需，这支笔应该就是你想要的。<a href=\"https://sspai.com/post/113445\" target=\"_blank\">查看全文</a>",
-      "published": "2026-08-17 03:00",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "派早报：😭（放声大哭）成为最流行 emoji",
-      "url": "https://sspai.com/post/113524",
-      "summary": "<p>😭（放声大哭）成为最流行 emoji</p><p>美国要求合作方在中美 AI 竞赛中「选边站」</p><p>ChatGPT 上线使用历史记录功能</p><p>美国政府敦促苹果不要购买中国内存芯片</p><p>uBlock Origin 放弃维护 Facebook 广告规则</p><p>索尼加速向娱乐业务转型</p><p>看看就行的简讯</p><p>少数派的近期动态</p><p>你可能错过的好文章</p><a href=\"https://sspai.com/post/113524\" target=\"_blank\">查看全文</a>",
-      "published": "2026-08-16 22:54",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "Being ambitious and being a dad",
-      "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
-      "summary": "",
-      "published": "2026-08-16 16:08",
-      "source": "Hacker News",
-      "lang": "en",
       "category": "科技"
     }
   ]
