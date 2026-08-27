@@ -1,275 +1,338 @@
 {
-  "last_updated": "2026-08-26 00:34:20",
+  "last_updated": "2026-08-27 05:23:54",
   "total": 40,
   "articles": [
     {
-      "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
-      "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
-      "summary": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group.",
-      "published": "2026-08-26 00:06",
-      "source": "techcrunch.com",
-      "lang": "en",
+      "title": "来自 1997 年的迷你笔记本电脑，东芝 Libretto 50M 怀旧手记",
+      "url": "https://sspai.com/post/113222",
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/113222\" target=\"_blank\">查看全文</a>",
+      "published": "2026-08-27 03:01",
+      "source": "sspai.com",
+      "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
-      "url": "https://github.com/runetes/maiao",
+      "title": "Kusama Yayoi Dies at 97",
+      "url": "https://news.jp/i/1465528042000662661",
       "summary": "",
-      "published": "2026-08-25 22:40",
+      "published": "2026-08-27 02:21",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Garmin’s new Fenix 9 adds brighter screens and smoother map panning",
-      "url": "https://www.theverge.com/gadgets/984753/garmin-fenix-9-smartwatch-launch",
-      "summary": "Garmin just took the wraps off its new line of rugged Fenix 9 smartwatches, with the base model featuring an OLED display with a brightness of up to 3,000 nits, making it twice as bright as its predecessor. Starting at $999.99 for the 43mm case option, the Fenix 9 has 50 percent more RAM and [&#8230;]",
-      "published": "2026-08-25 22:20",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Trump is upping the price of Big Tech’s favorite visa",
-      "url": "https://www.theverge.com/policy/984723/trump-h1b-fee-asylum-legal-immigration",
-      "summary": "In the span of a few hours on Monday, the Department of Homeland Security announced that it would be implementing a fee of over $103,000 on H-1B visas, and news broke that the State Department plans on revoking the visas of up to 200,000 asylum seekers - which, according to The Associated Press, would be [&#8230;]",
-      "published": "2026-08-25 21:45",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Python's pre-declared constants are kinda weird",
-      "url": "https://sebsite.pw/w/20260801-pythonconstants.html",
+      "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+      "url": "https://github.com/SenteLabsAI/OpenExecutive",
       "summary": "",
-      "published": "2026-08-25 21:39",
+      "published": "2026-08-27 01:46",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
-      "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
+      "title": "Nvidia agrees to acquire Hugging Face for $13B",
+      "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
       "summary": "",
-      "published": "2026-08-25 20:49",
+      "published": "2026-08-27 01:12",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "X sends cease-and-desist to open source project Nitter over alleged scraping",
-      "url": "https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/",
-      "summary": "X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X front ends, demanding its instances and code repository be taken down over alleged scraping.",
-      "published": "2026-08-25 20:44",
+      "title": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation",
+      "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+      "summary": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
+      "published": "2026-08-27 00:24",
       "source": "techcrunch.com",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "At just $8, you owe it to yourself to grab Inscryption",
-      "url": "https://www.theverge.com/gadgets/984677/inscryption-humble-daniel-mullins-pony-island-deal-sale",
-      "summary": "If you watched the Gamescom 2026 announcements, you might have caught a trailer for the bizarre, frenetic Pony Island 2: Panda Circus, a game from Daniel Mullins. In case you haven’t heard of him, get a crash course with a fantastic discount on Inscryption. Humble is currently selling Steam versions of the secret-packed deckbuilder for [&#8230;]",
-      "published": "2026-08-25 20:38",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "The Witcher 3 is getting a remaster",
-      "url": "https://www.theverge.com/games/984680/the-witcher-3-wild-hunt-remastered-launch-date-trailer",
-      "summary": "CD Projekt Red is remastering The Witcher 3: Wild Hunt, the hit RPG that first launched in 2015, and the updated game will be available starting September 29th. The Witcher 3: Wild Hunt - Remastered will bring improvements to visuals and combat, a \"reimagined\" skill tree, and more, and it also includes the first two [&#8230;]",
-      "published": "2026-08-25 20:24",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious",
-      "url": "https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/",
-      "summary": "Instagram says the process can produce a first pass in under 10 seconds, potentially saving creators significant editing time while making video creation more approachable for people who don't have much experience with editing software.",
-      "published": "2026-08-25 19:22",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
-      "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+      "title": "Mechanical Turk shutting down September 30",
+      "url": "https://www.mturk.com/",
       "summary": "",
-      "published": "2026-08-25 19:07",
+      "published": "2026-08-26 23:55",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
-      "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
-      "summary": "The company's new fundraising total now stands at $232 million.",
-      "published": "2026-08-25 19:03",
+      "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
+      "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+      "summary": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips.",
+      "published": "2026-08-26 23:47",
       "source": "techcrunch.com",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Dreame’s dream of a rocket-powered car is dead",
-      "url": "https://www.theverge.com/transportation/984485/dreame-rocket-car-shut-down",
-      "summary": "Dreame, the Chinese vacuum company that aspires to be a global technology giant, is reportedly shutting down its automotive project after funding from the government dried up. According to CarNewsChina, the company's automotive division called \"Project Starry Sky\" once employed over 1,000 people, but now only a handful legal and HR staffers remain, charged with [&#8230;]",
-      "published": "2026-08-25 18:52",
-      "source": "www.theverge.com",
-      "lang": "en",
+      "title": "派早报：Apple 调整妙控键盘的键帽符号、闪迪推出宝可梦纪念款产品等",
+      "url": "https://sspai.com/post/113873",
+      "summary": "OpenAI 发布 ChatGPT Admin 插件、Commodore 推出《赛博朋克 2077》主题复古电脑等。<a href=\"https://sspai.com/post/113873\" target=\"_blank\">查看全文</a>",
+      "published": "2026-08-26 23:33",
+      "source": "sspai.com",
+      "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "SpaceX will build a second, $100B ‘Starbase’ spaceport in Louisiana",
-      "url": "https://techcrunch.com/2026/08/25/spacex-will-build-a-second-100b-starbase-spaceport-in-louisiana/",
-      "summary": "The company says it will start construction in 2027 and that a Starship rocket could take flight as soon as 2029.",
-      "published": "2026-08-25 18:26",
+      "title": "Meta’s $18B child-safety deal hinges on age-verification tech that doesn’t work well",
+      "url": "https://techcrunch.com/2026/08/26/metas-18b-child-safety-deal-hinges-on-age-verification-tech-that-doesnt-work-well/",
+      "summary": "The historic settlement reignites ongoing concern around how age-verification technology puts privacy at risk.",
+      "published": "2026-08-26 22:47",
       "source": "techcrunch.com",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Your vote matters! Decide which Audience Choice sessions will make it to TechCrunch Founder Summit",
-      "url": "https://techcrunch.com/2026/08/25/your-vote-matters-decide-which-audience-choice-sessions-will-make-it-to-techcrunch-founder-summit/",
-      "summary": "Each year, we get a huge influx of applicants to speak at TechCrunch’s events, and this year’s Founder Summit in Boston on November 4 will be no different!",
-      "published": "2026-08-25 18:22",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Take a look at Microsoft&#8217;s new 25th anniversary Halo accessories",
-      "url": "https://www.theverge.com/games/984530/microsoft-xbox-25th-anniversary-accessories",
-      "summary": "The new Designed for Xbox 25th Anniversary collection features a handful of limited edition gadgets available for pre-order today. Paying homage to the Halo special edition of the original Xbox, almost everything in the collection is translucent \"OG Green,\" matching the Xbox Series X25 limited edition console it announced in June at E3. That includes [&#8230;]",
-      "published": "2026-08-25 18:16",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Tonight marks your last chance to save up to $300 on a TechCrunch Disrupt 2026 pass",
-      "url": "https://techcrunch.com/2026/08/25/tonight-marks-your-last-chance-to-save-up-to-300-on-a-techcrunch-disrupt-2026-pass/",
-      "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
-      "published": "2026-08-25 18:01",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Claude Cowork finally remembers what you told the app in chat",
-      "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
-      "summary": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.",
-      "published": "2026-08-25 17:50",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Bose’s smallest Bluetooth speaker is a great deal at 35 percent off",
-      "url": "https://www.theverge.com/gadgets/984414/bose-soundlink-micro-seagate-game-drive-deal-sale",
-      "summary": "Bose may be best known for its QuietComfort headphones, but the brand’s Bluetooth speakers have earned a great reputation for featuring great sound and build quality. The compact Bose SoundLink Micro — its most compact Bluetooth speaker — is currently discounted to $79.99 at Amazon, a pretty great discount from its usual $129 price tag. [&#8230;]",
-      "published": "2026-08-25 17:39",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Waymo robotaxis are headed to Munich",
-      "url": "https://techcrunch.com/2026/08/25/waymo-robotaxis-are-headed-to-munich/",
-      "summary": "Germany's autonomous vehicle regulations have made it a hotspot for autonomous vehicle testing and eventual commercial robotaxi deployment.",
-      "published": "2026-08-25 17:32",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Gamescom Opening Night Live 2026: The biggest announcements and trailers",
-      "url": "https://www.theverge.com/games/983891/gamescom-opening-night-live-2026-geoff-keighley",
-      "summary": "The Geoff Keighley-hosted Opening Night Live event at Gamescom just wrapped up. Arguably the biggest announcement was the closer: a remastered version of The Witcher 3: Wild Hunt from CD Projekt Red that’s launching in September. But the show also featured a bunch of trailers for others games, including Gears of War: E-Day, Capcom’s upcoming [&#8230;]",
-      "published": "2026-08-25 17:20",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Instagram’s ‘First Draft’ trims your Reels clips for you",
-      "url": "https://www.theverge.com/tech/984463/instagram-first-draft-edit-reels",
-      "summary": "Instagram is launching a new Reels-editing feature that automatically trims your video clips to focus on the highlights. The feature, called First Draft, is rolling out to Instagram's iPhone app and provides a \"starting point\" that you can build upon with other edits, according to an announcement on Tuesday. An example shared by Instagram shows [&#8230;]",
-      "published": "2026-08-25 17:12",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Black hole singularity is a surface not a point",
-      "url": "https://arxiv.org/abs/2608.21590",
+      "title": "Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022",
+      "url": "https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html",
       "summary": "",
-      "published": "2026-08-25 17:02",
+      "published": "2026-08-26 22:44",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Nothing OS 5.0 brings a new Glyph Interface app and a more customizable homescreen",
-      "url": "https://www.theverge.com/gadgets/984430/nothing-os-5-launch-android-17",
-      "summary": "With the new design of Nothing OS 5.0, app icons and widgets can use adaptive color to get color tints pulled from your wallpaper, which update whenever your wallpaper changes. Alongside Android's built-in Dynamic Colors, the company says it allows you to have specific elements change to match your wallpaper \"while Nothing's predominantly monochrome character [&#8230;]",
-      "published": "2026-08-25 16:58",
+      "title": "Asahi Linux Progress Report: Linux 7.2",
+      "url": "https://asahilinux.org/2026/08/progress-report-7-2/",
+      "summary": "",
+      "published": "2026-08-26 22:35",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
+      "url": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
+      "summary": "Nvidia's predicting it will pull in $108 billion in revenue within just a few months. It wouldn't be the first company to rake in over $100 billion in quarterly revenue - Amazon, Apple, and Alphabet have repeatedly reached the milestone. Nvidia said in its latest earnings report that it brought in a record $96.2 billion [&#8230;]",
+      "published": "2026-08-26 21:40",
       "source": "www.theverge.com",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Life360 expands pet tracking with new $8 scannable tags and zoomie alerts",
-      "url": "https://techcrunch.com/2026/08/25/life360-expands-pet-tracking-with-new-8-scannable-tags-and-zoomie-alerts/",
-      "summary": "Life360’s new $7.99 scannable pet tags alert families when a lost pet is found and share its last known location, while new care-tracking features help households keep tabs on feeding, walks, medication, and more.",
-      "published": "2026-08-25 16:35",
+      "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
+      "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+      "summary": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
+      "published": "2026-08-26 21:37",
       "source": "techcrunch.com",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "That fake Grand Theft Auto VI demo is actually just malware",
-      "url": "https://techcrunch.com/2026/08/25/that-fake-grand-theft-auto-vi-demo-is-actually-just-malware/",
-      "summary": "Grand Theft Auto fans, eager for news about one of the most anticipated video games of all time, appear especially vulnerable to this new cyberattack.",
-      "published": "2026-08-25 15:48",
+      "title": "OpenAI’s rogue AI model incident was worse than we thought",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
+      "summary": "In July, an unreleased OpenAI model broke out of a restricted environment, figured out how to get access to the internet, allowed AI agents to talk to each other using a secret \"message board,\" and hacked into the internal systems of a different AI lab, Hugging Face. It took nearly two weeks for OpenAI to [&#8230;]",
+      "published": "2026-08-26 21:36",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "All the ways Instagram and Facebook are changing for teens",
+      "url": "https://www.theverge.com/tech/985329/instagram-facebook-meta-settlement-changes",
+      "summary": "Meta just agreed to make sweeping changes for teens as part of a child safety settlement reached with attorneys general across the US. Under the agreement, Meta must apply new safeguards across Instagram and Facebook that will change how teens interact with the social media platforms, as well as restrict their use during certain times. [&#8230;]",
+      "published": "2026-08-26 20:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
+      "url": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
+      "summary": "Consumer AI apps need to stop making users learn their product architecture.",
+      "published": "2026-08-26 19:37",
       "source": "techcrunch.com",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Pacific Fusion’s next fusion machine could clear a key hurdle to commercial power",
-      "url": "https://techcrunch.com/2026/08/25/pacific-fusion-next-fusion-machine-could-clear-key-hurdle-to-commercial-power/",
-      "summary": "Fusion startup Pacific Fusion broke ground on a demonstration facility in New Mexico that it says will generate enough energy to power itself.",
-      "published": "2026-08-25 15:30",
+      "title": "How do we explain OpenAI’s executive exodus?",
+      "url": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
+      "summary": "Was Greg Brockman the right executive all along?",
+      "published": "2026-08-26 19:34",
       "source": "techcrunch.com",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
-      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+      "title": "Amazon knocks $150 off Pixel 11 phones, with up to $200 in gift cards",
+      "url": "https://www.theverge.com/gadgets/984516/pixel-11-promo-code-doom-dark-ages-deal-sale",
+      "summary": "If you’ve been on the fence about Google’s latest Pixel phones, this might be your best chance to save some cash. Amazon is offering an extra $150 off the Pixel 11, Pixel 11 Pro, and Pixel 11 Pro XL when you use the coupon code PIXEL11 at checkout. While the discounted price appeared at checkout [&#8230;]",
+      "published": "2026-08-26 19:18",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "OpenAI releases its official report on the Hugging Face breach",
+      "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
+      "summary": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.",
+      "published": "2026-08-26 19:05",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Flipboard acquires Graze, the feed builder working to monetize the open social web",
+      "url": "https://techcrunch.com/2026/08/26/flipboard-acquires-graze-the-feed-builder-working-to-monetize-the-open-social-web/",
+      "summary": "Flipboard is acquiring Bluesky feed-building startup Graze, bringing its privacy-friendly ad technology and creator monetization tools into Flipboard’s growing open social web ecosystem.",
+      "published": "2026-08-26 18:35",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Medical device maker Boston Scientific says a cyberattack is causing a ‘global disruption’ to its operations",
+      "url": "https://techcrunch.com/2026/08/26/medical-device-maker-boston-scientific-says-a-cyberattack-is-causing-a-global-disruption-to-its-operations/",
+      "summary": "The company won't say if medical devices are affected or if any customer data was exfiltrated.",
+      "published": "2026-08-26 18:23",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Being a mom is hard — the heat is making it harder",
+      "url": "https://www.theverge.com/news/985225/heat-stress-children-climate-change-study",
+      "summary": "It's 8:52 AM and 86 degrees Fahrenheit (30 Celsius) where I live in Southern California. My husband just came back from a morning outing with our four-month-old. \"How was the botanic garden?\" I ask him. \"It was okay. It was just too hot,\" he tells me. I didn't expect us to spend so much of [&#8230;]",
+      "published": "2026-08-26 18:14",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The Switch 2’s $50 price increase is happening next week",
+      "url": "https://www.theverge.com/gadgets/984331/switch-2-price-increase-psa",
+      "summary": "This is a friendly reminder that the Nintendo Switch 2 will jump in price by $50 starting on September 1st. That’s next Tuesday! The company gave plenty of notice, but the time has finally come. The base 256GB model that ships without a game will go from $449.99 to $499.99. Nintendo recently announced two bundles [&#8230;]",
+      "published": "2026-08-26 18:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Tailcat – Like netcat, but over Tailscale’s data plane",
+      "url": "https://github.com/tailscale/tailcat",
       "summary": "",
-      "published": "2026-08-25 14:06",
+      "published": "2026-08-26 17:42",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "New Mac Studio with M5 Max and M5 Ultra",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+      "title": "Apple Maps has ads now",
+      "url": "https://www.theverge.com/tech/985249/apple-maps-iphone-ads",
+      "summary": "Ads have started popping up in Apple Maps, following Apple's announcement in March that it would let businesses pay for top spots. They're appearing on my iPhone as the first entry in the \"suggested places\" section in search, but Apple says they'll also show up at the top of search results. According to 9to5Mac, the [&#8230;]",
+      "published": "2026-08-26 17:34",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "US seizes domains of Chinese botnet used to hack NASA, Justice Department, and the Senate",
+      "url": "https://techcrunch.com/2026/08/26/us-seizes-domains-of-chinese-botnet-used-to-hack-nasa-justice-department-and-the-senate/",
+      "summary": "The Justice Department said that the domain seizures made the botnet and its command and control servers \"inoperable,\" as the domains were hardcoded into the botnet's code and were critical for the botnet's communication and essential operations.",
+      "published": "2026-08-26 17:01",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Capital F closes $17M debut fund with goal to back the future of the ‘female economy’",
+      "url": "https://techcrunch.com/2026/08/26/capital-f-closes-17m-debut-fund-with-goal-to-back-the-future-of-the-female-economy/",
+      "summary": "The firm backs companies building in the “female economy,” or the markets where women drive demand — women’s health, digital commerce, and AI tools.",
+      "published": "2026-08-26 17:00",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Google’s new AI transcription edits out your &#8216;ums&#8217; and &#8216;ahs&#8217;",
+      "url": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
+      "summary": "Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and more than 85 languages. Gemini 3.5 Transcribe is a new addition to the Gemini family that follows the launch of 3.5 Live Translate, and comes as we're still waiting for Google to release the Gemini 3.5 Pro model that it [&#8230;]",
+      "published": "2026-08-26 17:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Apple is holding its iPhone launch event on September 9",
+      "url": "https://techcrunch.com/2026/08/26/apple-is-holding-its-iphone-launch-event-on-september-9/",
+      "summary": "The event is expected to be a notable one, as Apple is rumored to unveil its long-awaited foldable iPhone. It'll also be the first Apple event with John Ternus as CEO, who is scheduled to take the reins of the tech giant from Tim Cook on September 1.",
+      "published": "2026-08-26 16:53",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Apple announces September iPhone launch event",
+      "url": "https://www.theverge.com/tech/983407/apple-iphone-launch-event-2026-date",
+      "summary": "Apple's next launch event will take place on September 9th at 1PM ET. Invites to the event, which has a \"Surprise and shine\" tagline, were sent out on Wednesday. The event will take place at the Steve Jobs Theater in Apple Park, but there will also be a livestream on Apple's website. September's show could [&#8230;]",
+      "published": "2026-08-26 16:03",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Volvo’s cars will warn one another about hazards in the road",
+      "url": "https://www.theverge.com/transportation/985070/volvo-connected-safety-hazard-alert-animal-cyclist",
+      "summary": "Volvo is updating three of its electric vehicles with new hazard alerts to warn drivers when there are animals or vulnerable road users ahead. The new connected safety features are based on Volvo's cars talking to one another, as opposed to crowdsourced alert systems used by popular navigation tools like Google Maps and Waze. The [&#8230;]",
+      "published": "2026-08-26 15:28",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "GLM-5.3-Flash",
+      "url": "https://z.ai/blog/glm-5.3-flash",
       "summary": "",
-      "published": "2026-08-25 13:03",
+      "published": "2026-08-26 14:08",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Apple introduces M6 and M5 Ultra",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-      "summary": "",
-      "published": "2026-08-25 13:01",
-      "source": "Hacker News",
-      "lang": "en",
+      "title": "开学季 | 这些软件和服务的教育优惠，能帮你省下不少钱",
+      "url": "https://sspai.com/post/68227",
+      "summary": "学生党到底有哪些专享福利？看这一篇就对了。<a href=\"https://sspai.com/post/68227\" target=\"_blank\">查看全文</a>",
+      "published": "2026-08-26 08:25",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "装了啥特别篇：少数派编辑部最近都 vibe 了啥？",
+      "url": "https://sspai.com/prime/story/zhuanglesha-260826",
+      "summary": "如今，vibecoding的话题热度居高不下。但抛开那些被吹上天的一人公司「壮举」，vibecoding能给一般用户的日常使用带来什么帮助呢？本期「装了啥」中，编辑部成员就分享了一些近期折腾出的小玩意 ...<a href=\"https://sspai.com/prime/story/zhuanglesha-260826\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a>，订阅后可阅读全文。</p>",
+      "published": "2026-08-26 07:59",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "《巫师 3：重制版》正式公开：科隆游戏展 2026 消息汇总",
+      "url": "https://sspai.com/post/113851",
+      "summary": "编注：本文首发于机核网，少数派经授权转载，仅对文章格式略作调整。科隆游戏展2026开幕夜为我们带来了海量新作公布与续作消息：从《巫师3：重制版》《魔法门之英雄无敌3：重制版》等经典IP重制，到《寂静岭 ...<a href=\"https://sspai.com/post/113851\" target=\"_blank\">查看全文</a>",
+      "published": "2026-08-26 07:11",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "在正镶白旗，用五天共同生活理解现代牧场",
+      "url": "https://sspai.com/post/113714",
+      "summary": "这一趟田野调查旅行打破了以往我对旅行的传统认识，不再是到了一个地方打卡就结束，而是要和当地人产生连接。<a href=\"https://sspai.com/post/113714\" target=\"_blank\">查看全文</a>",
+      "published": "2026-08-26 02:39",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "派早报：Apple 发布新款 Mac mini 和 Mac Studio 等",
+      "url": "https://sspai.com/post/113847",
+      "summary": "索尼正式发布 Xperia 10 VIII 手机，Apple 钱包上线郑州绿城通交通卡等。<a href=\"https://sspai.com/post/113847\" target=\"_blank\">查看全文</a>",
+      "published": "2026-08-26 00:09",
+      "source": "sspai.com",
+      "lang": "zh_cn",
       "category": "科技"
     },
     {
@@ -295,69 +358,6 @@
       "url": "https://sspai.com/post/112442",
       "summary": "你会把它当成一个金融账户，还是一件属于自己人生的收藏品？<a href=\"https://sspai.com/post/112442\" target=\"_blank\">查看全文</a>",
       "published": "2026-08-25 03:13",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "派早报：阿里云视频生成模型 Wan3.0 上线，小米发布三款玄戒芯片等",
-      "url": "https://sspai.com/post/113813",
-      "summary": "少数派的近期动态新一季少数派会员启航，更新权益，更多惊喜，还有实体纪念卡。点击了解能让AI助手通过自然语言指令直接与您的Quote/0摘录墨水屏交互的DotSkill已上线。点击了解你可能错过的文章快 ...<a href=\"https://sspai.com/post/113813\" target=\"_blank\">查看全文</a>",
-      "published": "2026-08-25 00:28",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "派评 | 近期值得关注的 App",
-      "url": "https://sspai.com/post/113795",
-      "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀<a href=\"https://sspai.com/post/113795\" target=\"_blank\">查看全文</a>",
-      "published": "2026-08-24 09:52",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "Windows On ARM 原生应用少？你可以试试这些改造方法",
-      "url": "https://sspai.com/prime/story/create-your-own-windows-apps",
-      "summary": "相比大家熟知的基于Intel或AMD处理器的传统x86架构Windows，不少人以为WindowsonARM是近几年的新产物。事实上，微软早在2012年就曾通过WindowsRT尝试探索ARM设备，但 ...<a href=\"https://sspai.com/prime/story/create-your-own-windows-apps\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a>，订阅后可阅读全文。</p>",
-      "published": "2026-08-24 08:28",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "AI 助力改造非智能升降桌：智能升降、语音控制、多端联动……",
-      "url": "https://sspai.com/post/113563",
-      "summary": "把非智能的双电机升降桌，改成我梦想中的智能升降中枢。<a href=\"https://sspai.com/post/113563\" target=\"_blank\">查看全文</a>",
-      "published": "2026-08-24 07:14",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "快捷指令 | 让特定 app 小点声：在 iPhone 上实现独立音量控制",
-      "url": "https://sspai.com/post/112983",
-      "summary": "有些 app 总是太吵，有些又总嫌声音不够大；既然 iOS 还没有提供真正的应用独立音量，不妨用快捷指令让 iPhone 自动记住每个 app 该有多大声。<a href=\"https://sspai.com/post/112983\" target=\"_blank\">查看全文</a>",
-      "published": "2026-08-24 03:30",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "派早报：九家车企召回近 430 万辆不易识别应急拉手汽车",
-      "url": "https://sspai.com/post/113767",
-      "summary": "<p>九家车企召回近 430 万辆不易识别应急拉手汽车</p><p>英伟达达成 70 亿美元合作，研发顶级开放权重模型</p><p>高院发布著作权新司法解释，网络转载不允许先转后付</p><p>买家利用仅退款漏洞倒卖 13 万元火鸡面被刑拘</p><p>国际加紧制定统一月球时间</p><p>个人消费贷贴息政策扩展覆盖买车、装修等</p><p>看看就行的小道消息</p><p>少数派的近期动态</p><p>你可能错过的好文章</p><a href=\"https://sspai.com/post/113767\" target=\"_blank\">查看全文</a>",
-      "published": "2026-08-23 23:13",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "AI 时代的 Surface Pro 7 改造指南：看板、轻量工作站与 Linux 笔记本",
-      "url": "https://sspai.com/prime/story/surface-pro-7-linux-ai-dashboard",
-      "summary": "手头这台闲置的SurfacePro7在桌角放了挺长一段时间。当年买它看重的是二合一的便携形态，但放在Windows11下只要长时间亮屏就一定会过热、偶尔跳屏，基本处于不可用的状态。直到前阵子在网上看到 ...<a href=\"https://sspai.com/prime/story/surface-pro-7-linux-ai-dashboard\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a>，订阅后可阅读全文。</p>",
-      "published": "2026-08-23 07:25",
       "source": "sspai.com",
       "lang": "zh_cn",
       "category": "科技"
