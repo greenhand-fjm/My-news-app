@@ -1,7 +1,322 @@
 {
-  "last_updated": "2026-08-27 05:23:54",
+  "last_updated": "2026-08-28 07:19:59",
   "total": 40,
   "articles": [
+    {
+      "title": "Sovereign Tech Agency invests €500k in Flatpak",
+      "url": "https://modal.cx/blog/announcing-flatpak-sta/",
+      "summary": "",
+      "published": "2026-08-28 05:42",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "全球首款阔直板探索计划：华为 Pura X View 新品有奖体验",
+      "url": "https://sspai.com/post/113883",
+      "summary": "继创新形态的阔折叠手机取得了市场的广泛好评后，华为延续阔屏设计，带来全球首款阔直板旗舰HUAWEIPuraXView。HUAWEIPuraXView薄至6.68mm，轻至201g，拥有7000mAh超 ...<a href=\"https://sspai.com/post/113883\" target=\"_blank\">查看全文</a>",
+      "published": "2026-08-28 04:00",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
+      "summary": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump administration. The lawsuit, filed in March in a California district court, accused the Trump administration of unlawfully retaliating against Anthropic for setting \"red [&#8230;]",
+      "published": "2026-08-28 03:14",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "AI, athletes, and Keith Rabois: StrictlyVC is back in New York on September 10",
+      "url": "https://techcrunch.com/2026/08/27/ai-athletes-and-keith-rabois-strictlyvc-is-back-in-new-york-on-september-10/",
+      "summary": "A boutique StrictlyVC evening returns to New York's West Village on September 10 with Keith Rabois, Craig Shapiro, Jason Levien, Tristan Walker, Brynn Putnam, and Deven Parekh — covering AI, sports investing, community-building, venture economics, and politics, with cocktails, food, and networking throughout the night.",
+      "published": "2026-08-28 02:02",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Stripe said to abandon $50B pursuit of PayPal",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-28/advent-stripe-consortium-is-said-to-drop-pursuit-of-paypal",
+      "summary": "",
+      "published": "2026-08-28 01:57",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "桌面升级，灯也要跟着进化：明基 iScreenBar 与 ScreenBar Max 体验",
+      "url": "https://sspai.com/post/113909",
+      "summary": "2017年，明基推出第一代ScreenBar，把原本占据桌面的灯座挪到屏幕上方，再用非对称光路照亮桌面、避开屏幕，由此创造了世界上第一盏屏幕挂灯。此后近十年的产品迭代，大致沿着物理结构和智能体验两个方 ...<a href=\"https://sspai.com/post/113909\" target=\"_blank\">查看全文</a>",
+      "published": "2026-08-28 01:56",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "The GTA VI ‘extended look’ is now streaming on YouTube",
+      "url": "https://www.theverge.com/games/985910/grand-theft-auto-gta-vi-extended-look-youtube-netflix-stream",
+      "summary": "Rockstar has officially published its \"extended look\" at Grand Theft Auto VI on YouTube and on its website, as promised. The in-depth preview, which \"entirely\" features footage captured from the PS5 version of the game, initially premiered on Netflix at 3PM ET. But because Rockstar allowed creators to post reaction videos, you've technically been able [&#8230;]",
+      "published": "2026-08-28 01:05",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "派早报：智谱开源 GLM-5.3-Flash 原生多模态模型等",
+      "url": "https://sspai.com/post/113922",
+      "summary": "Perplexity AI 推出 Portable Computer，明基推出 Creative Pro PV50 系列专业显示器。<a href=\"https://sspai.com/post/113922\" target=\"_blank\">查看全文</a>",
+      "published": "2026-08-28 00:29",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "The biggest video game of all time looks like a movie",
+      "url": "https://www.theverge.com/games/985891/grand-theft-auto-vi-gta-6-netflix-youtube-extended-look-game-movie",
+      "summary": "I think I know why Rockstar Games debuted its \"extended look\" of Grand Theft Auto VI on Netflix instead of immediately dropping it for free on YouTube. Unlike most video game trailers, the almost 27-minute preview of GTA VI felt more like a slice of a prestige crime drama than any video game trailer that [&#8230;]",
+      "published": "2026-08-27 23:20",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+      "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+      "published": "2026-08-27 23:16",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
+      "url": "https://github.com/elyosh/OpenTIE/",
+      "summary": "",
+      "published": "2026-08-27 22:10",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Meta addresses ‘pervert glasses’ reputation with a privacy fix and a new marketing campaign",
+      "url": "https://www.theverge.com/tech/985851/meta-privacy-loophole-fix-marketing-campaign",
+      "summary": "Meta is updating its AI-powered smart glasses to close a loophole that allowed wearers to keep recording after covering the front-facing LED. Alex Himel, Meta's vice president of augmented reality, writes in a post on Threads that \"the camera will now stop working if the light is covered during a recording.\" The company's line of [&#8230;]",
+      "published": "2026-08-27 21:37",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Rivian’s CFO is leaving the company",
+      "url": "https://techcrunch.com/2026/08/27/rivians-cfo-is-leaving-the-company/",
+      "summary": "Claire McDonough is stepping down on October 30 to pursue a new opportunity, the company said in a filing on Thursday.",
+      "published": "2026-08-27 20:23",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Bluesky adds an ‘algorithmic opt-out’ feature for those who don’t want to go viral",
+      "url": "https://techcrunch.com/2026/08/27/bluesky-adds-an-algorithmic-opt-out-feature-for-those-who-dont-want-to-go-viral/",
+      "summary": "Sometimes people just want to post to their followers, Bluesky says.",
+      "published": "2026-08-27 20:15",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Buried in Meta’s $18B settlement is a legal pass on kids’ data",
+      "url": "https://techcrunch.com/2026/08/27/buried-in-metas-18b-settlement-is-a-legal-pass-on-kids-data/",
+      "summary": "Meta’s settlement with 29 states allows it to retain certain data from children under 13 to train and test age-detection models, highlighting a privacy trade-off built into the deal.",
+      "published": "2026-08-27 20:04",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series",
+      "url": "https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games",
+      "summary": "It’s been over a decade and two console generations since GTA V came out, and its sequel is still a work in progress. GTA VI has faced multiple delays, with developer Rockstar Games bumping back its predicted release date twice, eventually shifting to November 19th, 2026, a full year after its originally planned fall 2025 [&#8230;]",
+      "published": "2026-08-27 20:01",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "YouTube now lets creators tag Amazon products and earn commissions from purchases",
+      "url": "https://techcrunch.com/2026/08/27/youtube-now-lets-creators-tag-amazon-products-and-earn-commissions-from-purchases/",
+      "summary": "The update turns product recommendations into a more direct revenue stream for creators, and for Amazon, the move puts its massive online marketplace inside one of the most popular video platforms.",
+      "published": "2026-08-27 19:54",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+      "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+      "summary": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
+      "published": "2026-08-27 19:52",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "GTA VI looks just as great as we could hope for",
+      "url": "https://www.theverge.com/games/983941/grand-theft-auto-vi-gta-netflix-extended-look",
+      "summary": "Netflix and Rockstar Games finally debuted their \"extended look\" at Grand Theft Auto VI. It showed that the new game looks to keep much of the spirit of GTA - exploration, driving, crimes, shooting, and cinematic story scenes. But everything just looks much better than previous entries, with impressive graphics, densely-packed rooms, and detailed environments. [&#8230;]",
+      "published": "2026-08-27 19:49",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Google’s AI note-taking app now allows you to interact with books",
+      "url": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
+      "summary": "Google's AI note-taking app, Gemini Notebook, can now pull information from the books you've purchased. The new \"Expert Intelligence\" feature allows you to bring titles from Google Play Books directly into Gemini Notebook, which means you can ask questions about the material, as well as generate plans, infographics, AI podcasts, and more based on their [&#8230;]",
+      "published": "2026-08-27 19:30",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Google tells Android app developers to cool it on memory use, or else",
+      "url": "https://www.theverge.com/tech/985679/google-play-android-17-memory-limit",
+      "summary": "Google will start policing memory-hungry Android apps as a direct response to the RAM crisis. Spotted by TechCrunch, the company yesterday published a memo addressing the Play Store's role in enforcing new memory-usage restrictions. The post emphasizes the importance of meeting new memory usage limits for apps, in order \"to help developers navigate industry-wide hardware [&#8230;]",
+      "published": "2026-08-27 18:33",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Gemini-3.5-Transcribe",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
+      "summary": "",
+      "published": "2026-08-27 18:03",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "ATF declares ‘major incident’ as ransomware gang claims hack",
+      "url": "https://techcrunch.com/2026/08/27/atf-declares-major-incident-as-ransomware-gang-claims-hack/",
+      "summary": "The ATF is the latest federal government agency in recent years to notify Congress of a \"major incident\" involving its cybersecurity.",
+      "published": "2026-08-27 17:54",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+      "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+      "summary": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of cyber threats.",
+      "published": "2026-08-27 17:43",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+      "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+      "summary": "",
+      "published": "2026-08-27 17:17",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Google’s new Fitbit Air brings Pokémon Sleep to your wrist",
+      "url": "https://techcrunch.com/2026/08/27/googles-new-fitbit-air-brings-pokemon-sleep-to-your-wrist/",
+      "summary": "Google teamed up with the Pokémon Company to introduce a special-edition Fitbit Air that works with the Pokémon Sleep app.",
+      "published": "2026-08-27 17:05",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Fashion startup Atorie raises $9.5M to bring consumers luxury goods without the markup",
+      "url": "https://techcrunch.com/2026/08/27/fashion-startup-atorie-raises-9-5m-to-bring-consumers-luxury-goods-without-the-markup/",
+      "summary": "Shoppers can visit the Atorie website and buy handbags or clothes made from the same material — and coming from the same factory — that manufacturers use in high-end goods.",
+      "published": "2026-08-27 17:00",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Hoomanely’s building a smart feeding bowl and an AI platform to help owners spot when their pup is sick",
+      "url": "https://techcrunch.com/2026/08/27/hoomanelys-building-a-smart-feeding-bowl-and-an-ai-platform-to-help-owners-spot-when-their-pup-is-sick/",
+      "summary": "Hoomanely has developed a smart bowl to measure and record dogs' feeding data, then tells owners if behaviors change.",
+      "published": "2026-08-27 16:53",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Speedo’s new smart goggles module can track all four swim strokes",
+      "url": "https://www.theverge.com/gadgets/985650/speedo-iq-vanquisher-goggles-module",
+      "summary": "Speedo is launching a removable smart module for its Vanquisher goggles that can analyze a swimmer's performance across all four swim strokes: freestyle, backstroke, breaststroke, and butterfly. The new Speedo iQ system uses swim-specific sensors to analyze head movement in the water, time breaths, and track distance per stroke. Unlike other smart goggles, such as [&#8230;]",
+      "published": "2026-08-27 16:18",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Jensen Huang says Nvidia achieved AGI, again — not that it matters",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
+      "summary": "On Nvidia's earnings call Wednesday, CEO Jensen Huang casually announced the company had \"achieved AGI,\" one of the tech industry's ultimate goals some of its biggest players have spent years chasing. Almost immediately, Huang dismissed the coveted milestone as \"senseless.\" He's right. For the supposed finish line of the AI race, there is no consensus [&#8230;]",
+      "published": "2026-08-27 16:15",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Small Models Have Arrived",
+      "url": "https://calv.info/small-models-have-arrived",
+      "summary": "",
+      "published": "2026-08-27 15:56",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "507 Mechanical Movements",
+      "url": "https://507movements.com/",
+      "summary": "",
+      "published": "2026-08-27 14:08",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Microduck",
+      "url": "https://pollen-robotics.com/microduck/",
+      "summary": "",
+      "published": "2026-08-27 10:57",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "新玩意 250｜少数派的编辑们最近买了啥？",
+      "url": "https://sspai.com/post/113905",
+      "summary": "关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。@小葵：超大号封闭式猫砂盆参 ...<a href=\"https://sspai.com/post/113905\" target=\"_blank\">查看全文</a>",
+      "published": "2026-08-27 10:00",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "日常使用 Linux 的第六个年头，这些经验希望能打消你的顾虑",
+      "url": "https://sspai.com/post/89194",
+      "summary": "不知不觉，我日常使用 Linux 已经有第 6 个年头了。一个词概括，「舒适」。<a href=\"https://sspai.com/post/89194\" target=\"_blank\">查看全文</a>",
+      "published": "2026-08-27 07:28",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
     {
       "title": "来自 1997 年的迷你笔记本电脑，东芝 Libretto 50M 怀旧手记",
       "url": "https://sspai.com/post/113222",
@@ -12,282 +327,12 @@
       "category": "科技"
     },
     {
-      "title": "Kusama Yayoi Dies at 97",
-      "url": "https://news.jp/i/1465528042000662661",
-      "summary": "",
-      "published": "2026-08-27 02:21",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
-      "url": "https://github.com/SenteLabsAI/OpenExecutive",
-      "summary": "",
-      "published": "2026-08-27 01:46",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Nvidia agrees to acquire Hugging Face for $13B",
-      "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
-      "summary": "",
-      "published": "2026-08-27 01:12",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation",
-      "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
-      "summary": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
-      "published": "2026-08-27 00:24",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Mechanical Turk shutting down September 30",
-      "url": "https://www.mturk.com/",
-      "summary": "",
-      "published": "2026-08-26 23:55",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
-      "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
-      "summary": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips.",
-      "published": "2026-08-26 23:47",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
       "title": "派早报：Apple 调整妙控键盘的键帽符号、闪迪推出宝可梦纪念款产品等",
       "url": "https://sspai.com/post/113873",
       "summary": "OpenAI 发布 ChatGPT Admin 插件、Commodore 推出《赛博朋克 2077》主题复古电脑等。<a href=\"https://sspai.com/post/113873\" target=\"_blank\">查看全文</a>",
       "published": "2026-08-26 23:33",
       "source": "sspai.com",
       "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "Meta’s $18B child-safety deal hinges on age-verification tech that doesn’t work well",
-      "url": "https://techcrunch.com/2026/08/26/metas-18b-child-safety-deal-hinges-on-age-verification-tech-that-doesnt-work-well/",
-      "summary": "The historic settlement reignites ongoing concern around how age-verification technology puts privacy at risk.",
-      "published": "2026-08-26 22:47",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022",
-      "url": "https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html",
-      "summary": "",
-      "published": "2026-08-26 22:44",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Asahi Linux Progress Report: Linux 7.2",
-      "url": "https://asahilinux.org/2026/08/progress-report-7-2/",
-      "summary": "",
-      "published": "2026-08-26 22:35",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
-      "url": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
-      "summary": "Nvidia's predicting it will pull in $108 billion in revenue within just a few months. It wouldn't be the first company to rake in over $100 billion in quarterly revenue - Amazon, Apple, and Alphabet have repeatedly reached the milestone. Nvidia said in its latest earnings report that it brought in a record $96.2 billion [&#8230;]",
-      "published": "2026-08-26 21:40",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
-      "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
-      "summary": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
-      "published": "2026-08-26 21:37",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "OpenAI’s rogue AI model incident was worse than we thought",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
-      "summary": "In July, an unreleased OpenAI model broke out of a restricted environment, figured out how to get access to the internet, allowed AI agents to talk to each other using a secret \"message board,\" and hacked into the internal systems of a different AI lab, Hugging Face. It took nearly two weeks for OpenAI to [&#8230;]",
-      "published": "2026-08-26 21:36",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "All the ways Instagram and Facebook are changing for teens",
-      "url": "https://www.theverge.com/tech/985329/instagram-facebook-meta-settlement-changes",
-      "summary": "Meta just agreed to make sweeping changes for teens as part of a child safety settlement reached with attorneys general across the US. Under the agreement, Meta must apply new safeguards across Instagram and Facebook that will change how teens interact with the social media platforms, as well as restrict their use during certain times. [&#8230;]",
-      "published": "2026-08-26 20:00",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
-      "url": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
-      "summary": "Consumer AI apps need to stop making users learn their product architecture.",
-      "published": "2026-08-26 19:37",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "How do we explain OpenAI’s executive exodus?",
-      "url": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
-      "summary": "Was Greg Brockman the right executive all along?",
-      "published": "2026-08-26 19:34",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Amazon knocks $150 off Pixel 11 phones, with up to $200 in gift cards",
-      "url": "https://www.theverge.com/gadgets/984516/pixel-11-promo-code-doom-dark-ages-deal-sale",
-      "summary": "If you’ve been on the fence about Google’s latest Pixel phones, this might be your best chance to save some cash. Amazon is offering an extra $150 off the Pixel 11, Pixel 11 Pro, and Pixel 11 Pro XL when you use the coupon code PIXEL11 at checkout. While the discounted price appeared at checkout [&#8230;]",
-      "published": "2026-08-26 19:18",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "OpenAI releases its official report on the Hugging Face breach",
-      "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
-      "summary": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.",
-      "published": "2026-08-26 19:05",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Flipboard acquires Graze, the feed builder working to monetize the open social web",
-      "url": "https://techcrunch.com/2026/08/26/flipboard-acquires-graze-the-feed-builder-working-to-monetize-the-open-social-web/",
-      "summary": "Flipboard is acquiring Bluesky feed-building startup Graze, bringing its privacy-friendly ad technology and creator monetization tools into Flipboard’s growing open social web ecosystem.",
-      "published": "2026-08-26 18:35",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Medical device maker Boston Scientific says a cyberattack is causing a ‘global disruption’ to its operations",
-      "url": "https://techcrunch.com/2026/08/26/medical-device-maker-boston-scientific-says-a-cyberattack-is-causing-a-global-disruption-to-its-operations/",
-      "summary": "The company won't say if medical devices are affected or if any customer data was exfiltrated.",
-      "published": "2026-08-26 18:23",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Being a mom is hard — the heat is making it harder",
-      "url": "https://www.theverge.com/news/985225/heat-stress-children-climate-change-study",
-      "summary": "It's 8:52 AM and 86 degrees Fahrenheit (30 Celsius) where I live in Southern California. My husband just came back from a morning outing with our four-month-old. \"How was the botanic garden?\" I ask him. \"It was okay. It was just too hot,\" he tells me. I didn't expect us to spend so much of [&#8230;]",
-      "published": "2026-08-26 18:14",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "The Switch 2’s $50 price increase is happening next week",
-      "url": "https://www.theverge.com/gadgets/984331/switch-2-price-increase-psa",
-      "summary": "This is a friendly reminder that the Nintendo Switch 2 will jump in price by $50 starting on September 1st. That’s next Tuesday! The company gave plenty of notice, but the time has finally come. The base 256GB model that ships without a game will go from $449.99 to $499.99. Nintendo recently announced two bundles [&#8230;]",
-      "published": "2026-08-26 18:00",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Tailcat – Like netcat, but over Tailscale’s data plane",
-      "url": "https://github.com/tailscale/tailcat",
-      "summary": "",
-      "published": "2026-08-26 17:42",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Apple Maps has ads now",
-      "url": "https://www.theverge.com/tech/985249/apple-maps-iphone-ads",
-      "summary": "Ads have started popping up in Apple Maps, following Apple's announcement in March that it would let businesses pay for top spots. They're appearing on my iPhone as the first entry in the \"suggested places\" section in search, but Apple says they'll also show up at the top of search results. According to 9to5Mac, the [&#8230;]",
-      "published": "2026-08-26 17:34",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "US seizes domains of Chinese botnet used to hack NASA, Justice Department, and the Senate",
-      "url": "https://techcrunch.com/2026/08/26/us-seizes-domains-of-chinese-botnet-used-to-hack-nasa-justice-department-and-the-senate/",
-      "summary": "The Justice Department said that the domain seizures made the botnet and its command and control servers \"inoperable,\" as the domains were hardcoded into the botnet's code and were critical for the botnet's communication and essential operations.",
-      "published": "2026-08-26 17:01",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Capital F closes $17M debut fund with goal to back the future of the ‘female economy’",
-      "url": "https://techcrunch.com/2026/08/26/capital-f-closes-17m-debut-fund-with-goal-to-back-the-future-of-the-female-economy/",
-      "summary": "The firm backs companies building in the “female economy,” or the markets where women drive demand — women’s health, digital commerce, and AI tools.",
-      "published": "2026-08-26 17:00",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Google’s new AI transcription edits out your &#8216;ums&#8217; and &#8216;ahs&#8217;",
-      "url": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
-      "summary": "Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and more than 85 languages. Gemini 3.5 Transcribe is a new addition to the Gemini family that follows the launch of 3.5 Live Translate, and comes as we're still waiting for Google to release the Gemini 3.5 Pro model that it [&#8230;]",
-      "published": "2026-08-26 17:00",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Apple is holding its iPhone launch event on September 9",
-      "url": "https://techcrunch.com/2026/08/26/apple-is-holding-its-iphone-launch-event-on-september-9/",
-      "summary": "The event is expected to be a notable one, as Apple is rumored to unveil its long-awaited foldable iPhone. It'll also be the first Apple event with John Ternus as CEO, who is scheduled to take the reins of the tech giant from Tim Cook on September 1.",
-      "published": "2026-08-26 16:53",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Apple announces September iPhone launch event",
-      "url": "https://www.theverge.com/tech/983407/apple-iphone-launch-event-2026-date",
-      "summary": "Apple's next launch event will take place on September 9th at 1PM ET. Invites to the event, which has a \"Surprise and shine\" tagline, were sent out on Wednesday. The event will take place at the Steve Jobs Theater in Apple Park, but there will also be a livestream on Apple's website. September's show could [&#8230;]",
-      "published": "2026-08-26 16:03",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Volvo’s cars will warn one another about hazards in the road",
-      "url": "https://www.theverge.com/transportation/985070/volvo-connected-safety-hazard-alert-animal-cyclist",
-      "summary": "Volvo is updating three of its electric vehicles with new hazard alerts to warn drivers when there are animals or vulnerable road users ahead. The new connected safety features are based on Volvo's cars talking to one another, as opposed to crowdsourced alert systems used by popular navigation tools like Google Maps and Waze. The [&#8230;]",
-      "published": "2026-08-26 15:28",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "GLM-5.3-Flash",
-      "url": "https://z.ai/blog/glm-5.3-flash",
-      "summary": "",
-      "published": "2026-08-26 14:08",
-      "source": "Hacker News",
-      "lang": "en",
       "category": "科技"
     },
     {
@@ -313,51 +358,6 @@
       "url": "https://sspai.com/post/113851",
       "summary": "编注：本文首发于机核网，少数派经授权转载，仅对文章格式略作调整。科隆游戏展2026开幕夜为我们带来了海量新作公布与续作消息：从《巫师3：重制版》《魔法门之英雄无敌3：重制版》等经典IP重制，到《寂静岭 ...<a href=\"https://sspai.com/post/113851\" target=\"_blank\">查看全文</a>",
       "published": "2026-08-26 07:11",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "在正镶白旗，用五天共同生活理解现代牧场",
-      "url": "https://sspai.com/post/113714",
-      "summary": "这一趟田野调查旅行打破了以往我对旅行的传统认识，不再是到了一个地方打卡就结束，而是要和当地人产生连接。<a href=\"https://sspai.com/post/113714\" target=\"_blank\">查看全文</a>",
-      "published": "2026-08-26 02:39",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "派早报：Apple 发布新款 Mac mini 和 Mac Studio 等",
-      "url": "https://sspai.com/post/113847",
-      "summary": "索尼正式发布 Xperia 10 VIII 手机，Apple 钱包上线郑州绿城通交通卡等。<a href=\"https://sspai.com/post/113847\" target=\"_blank\">查看全文</a>",
-      "published": "2026-08-26 00:09",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "社区速递 155 | 适马千元人像神头与七月派友剁手清单",
-      "url": "https://sspai.com/post/113828",
-      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/113828\" target=\"_blank\">查看全文</a>",
-      "published": "2026-08-25 09:00",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "台湾打工换宿｜用人与人的喜好串起淡水的地图",
-      "url": "https://sspai.com/post/113673",
-      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/113673\" target=\"_blank\">查看全文</a>",
-      "published": "2026-08-25 07:00",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "App+1｜ArkFlow：满足你的卡面收集癖，给信用卡做个卡面墙",
-      "url": "https://sspai.com/post/112442",
-      "summary": "你会把它当成一个金融账户，还是一件属于自己人生的收藏品？<a href=\"https://sspai.com/post/112442\" target=\"_blank\">查看全文</a>",
-      "published": "2026-08-25 03:13",
       "source": "sspai.com",
       "lang": "zh_cn",
       "category": "科技"
