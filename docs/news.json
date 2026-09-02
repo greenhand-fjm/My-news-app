@@ -1,14 +1,320 @@
 {
-  "last_updated": "2026-09-01 02:19:37",
+  "last_updated": "2026-09-02 01:41:40",
   "total": 40,
   "articles": [
     {
-      "title": "Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year",
-      "url": "https://techcrunch.com/2026/08/31/lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-for-a-year/",
-      "summary": "Founded by a 20-year-old, Alteon is developing autonomous aircraft that hopes to harvest wind energy to stay aloft for several months.",
-      "published": "2026-09-01 00:30",
+      "title": "Claude Fable 5.1 made me a nice animated pelican",
+      "url": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
+      "summary": "",
+      "published": "2026-09-02 01:05",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Larry Page’s flying car company Pivotal loses its CEO",
+      "url": "https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/",
+      "summary": "The company told TechCrunch he is \"pursuing new endeavors.\" Karklin will be replaced on an interim basis by Mike Ross, an aviation executive who joined Pivotal's board of directors in November 2025.",
+      "published": "2026-09-01 23:59",
       "source": "techcrunch.com",
       "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "派早报：英伟达正式发布 DLSS 5、戴森发布智能电动牙刷 CameraJet 等",
+      "url": "https://sspai.com/post/114093",
+      "summary": "索尼发布三款 ULT Tower 派对音箱，Starman Optical 收购 GoPro 等。<a href=\"https://sspai.com/post/114093\" target=\"_blank\">查看全文</a>",
+      "published": "2026-09-01 23:58",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "The efficient frontier of LLM inference",
+      "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
+      "summary": "",
+      "published": "2026-09-01 23:48",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Reliance’s JioHotstar takes its streaming empire global — without sports",
+      "url": "https://techcrunch.com/2026/09/01/reliances-jiohotstar-takes-its-streaming-empire-global-without-sports/",
+      "summary": "JioHotstar will only have entertainment content when it launches in the UK, Canada, and Singapore.",
+      "published": "2026-09-01 23:00",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Google needs Hollywood more than the studios need AI",
+      "url": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
+      "summary": "Google has reportedly been reaching out to a number of Hollywood's biggest studios, hoping to strike licensing agreements that would allow it to train its AI models on copyrighted material in exchange for massive piles of cash. In theory, these deals would be a win-win: a huge financial boon to the studios that would also [&#8230;]",
+      "published": "2026-09-01 22:50",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "My local model setup on an M4 Pro Mac Mini",
+      "url": "https://lws.io/blog/my-local-model-setup/",
+      "summary": "",
+      "published": "2026-09-01 22:30",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Apple follows Google in adopting Trump’s ‘Lake America’ name",
+      "url": "https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/",
+      "summary": "Apple Maps is following President Trump's executive order to change the name of Lake Ontario to Lake America.",
+      "published": "2026-09-01 22:13",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+      "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+      "summary": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
+      "published": "2026-09-01 22:08",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+      "url": "https://masteranza.github.io/weedout/",
+      "summary": "",
+      "published": "2026-09-01 22:06",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+      "summary": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealous safeguards. The company claims Claude Fable 5.1 offers stronger performance than Fable 5, but costs around 25 percent less typically and up to 45 percent less for complex agentic tasks, thanks to reduced pricing [&#8230;]",
+      "published": "2026-09-01 22:01",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Apple Maps follows Google in renaming Lake Ontario",
+      "url": "https://www.theverge.com/tech/987784/apple-maps-lake-america-renaming",
+      "summary": "Apple Maps has officially changed the name of Lake Ontario to Lake America, as reported earlier by Bloomberg. The company joins Google in re-labeling the Great Lake following an executive order signed by President Donald Trump in the midst of a trade dispute with Canada. The Canadian version of Apple Maps still shows \"Lake Ontario\" [&#8230;]",
+      "published": "2026-09-01 21:22",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
+      "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+      "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
+      "published": "2026-09-01 21:06",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Lenovo&#8217;s 2-in-1 Yoga 7i is a great Labor Day deal at $750",
+      "url": "https://www.theverge.com/gadgets/987670/lenovo-yoga-7i-2in1-deal-sale",
+      "summary": "Best Buy is celebrating Labor Day all week long with big deals, including a deep discount on the Lenovo Yoga 7i 2-in-1, taking its original $1,1199.99 price down to $749.99. It’s a capable configuration for the price, with a Core 7 Ultra 256V processor, 16GB of LPDDR5X memory, and a 512GB SSD. The IPS touchscreen [&#8230;]",
+      "published": "2026-09-01 20:54",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Google’s Android update tackles motion sickness, accessibility, and more",
+      "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+      "summary": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
+      "published": "2026-09-01 20:53",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "X says attackers are targeting user accounts after the launch of X Money",
+      "url": "https://techcrunch.com/2026/09/01/x-says-attackers-are-targeting-accounts-after-the-launch-of-x-money/",
+      "summary": "X is investigating a wave of unsolicited password reset emails that it believes may be tied to the rollout of its new payments service.",
+      "published": "2026-09-01 20:48",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
+      "summary": "After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of a different unreleased model suite, Astra, in order to shore up its safety work, the company wrote Tuesday in a blog post. In July, an unreleased OpenAI model broke out of its restricted environment, finagled its way into [&#8230;]",
+      "published": "2026-09-01 20:45",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Hang on to Your Firefox",
+      "url": "https://www.newsonaut.com/articles/hang-on-to-your-firefox",
+      "summary": "",
+      "published": "2026-09-01 20:30",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "On first listen, the Sonos Beam Ultra sounds great",
+      "url": "https://www.theverge.com/tech/987574/sonos-beam-ultra-first-listen",
+      "summary": "Sonos unveiled a bunch of new stuff today at its open house event. There's the $699 Beam Ultra soundbar and the $449 Ace Ultra headphones, plus several under-the-hood app updates (some coming sooner than others). While the show floor was a less than ideal venue to judge audio quality of either new product, a private [&#8230;]",
+      "published": "2026-09-01 20:08",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "John Ternus hypes ‘huge launch next week’ in first memo as Apple CEO",
+      "url": "https://techcrunch.com/2026/09/01/john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo/",
+      "summary": "Apple is hosting its iPhone release event next week, which is rumored to feature the first-ever foldable iPhone.",
+      "published": "2026-09-01 19:45",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Tim Cook did alright by the environment — but AI could upend his climate legacy",
+      "url": "https://www.theverge.com/tech/987550/tim-cook-apple-environment-sustainability-legacy",
+      "summary": "As he steps down from his post as Apple CEO today, Tim Cook leaves behind a mostly positive environmental record. As far as billionaire tech moguls and the environment go, Cook will likely be remembered as one of the better ones - certainly far from the worst. But it will become harder for the company [&#8230;]",
+      "published": "2026-09-01 19:43",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Anthropic’s new Fable release is cheaper, less restrictive",
+      "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+      "summary": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
+      "published": "2026-09-01 19:39",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Thrive’s Kushner defends involvement in FIFA mess, hires Elon’s go-to lawyer",
+      "url": "https://techcrunch.com/2026/09/01/thrives-kushner-defends-involvement-in-fifa-mess-hires-elons-go-to-lawyer/",
+      "summary": "New York's prestigious-yet-secretive venture firm Thrive Capital finally speaks out about its involvement in the messy drama upending international soccer.",
+      "published": "2026-09-01 19:30",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The rise of AI &#8216;civilizations&#8217; and the fall of corporate responsibility",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
+      "summary": "Depending on who you ask, developer platform Hugging Face was recently attacked by OpenAI - after it lost control of its own AI tools - or by a succession of AI \"civilizations.\" Welcome to the linguistic battlefield of AI safety, where word choices can shift responsibility for a massive cybersecurity incident from a company to [&#8230;]",
+      "published": "2026-09-01 19:02",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+      "url": "https://danluu.com/zitron/",
+      "summary": "",
+      "published": "2026-09-01 18:35",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "John Ternus sends first memo as Apple CEO teasing a &#8216;huge launch next week&#8217;",
+      "url": "https://www.theverge.com/tech/987583/apple-john-ternus-staff-memo",
+      "summary": "New Apple CEO John Ternus sent out his first staff memo, thanking his predecessor Tim Cook, and quickly turning to what the company will do next, reports Bloomberg. \"We have a huge launch next week that's going to be phenomenal. Thanks for everything you've all done to make it possible,\" writes Ternus, referring to the [&#8230;]",
+      "published": "2026-09-01 18:24",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Apple accuses OpenAI of destroying evidence",
+      "url": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
+      "summary": "Apple is pushing for \"expedited discovery\" in its legal battle against OpenAI over concerns the company is actively destroying evidence, as reported earlier by Bloomberg. In a filing on Monday, Apple alleges OpenAI only just handed over a MacBook used by a former employee at the center of the lawsuit, which contained discussions about \"destroying [&#8230;]",
+      "published": "2026-09-01 18:19",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Who is John Ternus, the new Apple CEO?",
+      "url": "https://techcrunch.com/2026/09/01/who-is-john-ternus-the-incoming-apple-ceo/",
+      "summary": "Starting on September 1, Ternus will lead one of the world's most valuable companies, but if you're not a dedicated Apple enthusiast, you've probably never heard of this man, who has largely remained out of the spotlight until now.",
+      "published": "2026-09-01 18:02",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "summary": "",
+      "published": "2026-09-01 17:53",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
+      "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+      "summary": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
+      "published": "2026-09-01 17:35",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
+      "url": "https://github.com/ankidroid/Anki-Android/issues/21656",
+      "summary": "",
+      "published": "2026-09-01 10:11",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "社区速递 156 | 满血全功能磁吸转换头与手机 AI 通话的真实体验",
+      "url": "https://sspai.com/post/114078",
+      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/114078\" target=\"_blank\">查看全文</a>",
+      "published": "2026-09-01 09:00",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "线下活动 | 全新 iPhone 发布在即，来与少数派一起看 Apple 发布会",
+      "url": "https://sspai.com/post/114071",
+      "summary": "北京时间9月10日凌晨，Apple一年一度的秋季特别活动即将拉开帷幕，我们会在Keynote讲演环节中见到新一年度的iPhone、AppleWatch等多个新品。除了备受期待的iPhone18Pro系 ...<a href=\"https://sspai.com/post/114071\" target=\"_blank\">查看全文</a>",
+      "published": "2026-09-01 07:18",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "开学季｜值得关注的官翻渠道汇总（2026）",
+      "url": "https://sspai.com/post/114062",
+      "summary": "不管你是大学新生想要购置数码产品，还是即将踏入职场的毕业生租房想要添置小家电，在处于身份和环境转换的新阶段里，都可以试着把钱用在刀刃上、选择性价比更高的产品和销售渠道。<a href=\"https://sspai.com/post/114062\" target=\"_blank\">查看全文</a>",
+      "published": "2026-09-01 07:00",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "线索若隐若现：深入 Tim Cook 和 Nike 的商业连接",
+      "url": "https://sspai.com/post/111081",
+      "summary": "一直以来，Apple 和 Nike 之间的商业关系在公众视野里简单明了。但在两者中间，Apple 的前任 CEO Tim Cook 一直扮演着连接者的角色，他和 Nike 之间的关系也因此而显得十分微妙。在本期节目中，我们就来一起深入 Apple、Nike 和 Tim Cook 之间的商业三角关系。<a href=\"https://sspai.com/post/111081\" target=\"_blank\">查看全文</a>",
+      "published": "2026-09-01 03:00",
+      "source": "sspai.com",
+      "lang": "zh_cn",
       "category": "科技"
     },
     {
@@ -18,249 +324,6 @@
       "published": "2026-09-01 00:17",
       "source": "sspai.com",
       "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
-      "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
-      "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
-      "published": "2026-09-01 00:13",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Carmack: Has early Scratch experience led to fulfilling careers?",
-      "url": "https://twitter.com/ID_AA_Carmack/status/2094450188911845827",
-      "summary": "",
-      "published": "2026-08-31 23:46",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Polymarket reportedly raises $300 million from Donald Trump Jr.’s investment fund",
-      "url": "https://techcrunch.com/2026/08/31/polymarket-reportedly-raises-300-million-from-donald-trump-jr-s-investment-fund/",
-      "summary": "The firm, 1789 Capital, led the funding round that reportedly will total around $1 billion.",
-      "published": "2026-08-31 23:41",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "a16z brings growth fund to $8.5B days after launching new $1.1B fund",
-      "url": "https://techcrunch.com/2026/08/31/a16z-brings-growth-fund-to-8-5b-days-after-launching-new-1-1b-fund/",
-      "summary": "Andreessen Horowitz held out its hand and returned with billions more in new funds to invest in startups.",
-      "published": "2026-08-31 23:14",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Run macOS Software on Linux",
-      "url": "https://www.darlinghq.org/",
-      "summary": "",
-      "published": "2026-08-31 22:53",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "The Google TV Streamer now costs $50 more",
-      "url": "https://www.theverge.com/tech/987032/google-tv-streamer-price-increase",
-      "summary": "Google raised the price of its 4K streaming box to $149, up $50 from its original $99 price. The new price is currently live at the Google Store and Best Buy, but Amazon appears to still be offering the original price. The price hike comes just a couple of weeks after Google launched its new [&#8230;]",
-      "published": "2026-08-31 22:32",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "A group funded by Andreessen, Horowitz, and Brockman plans data center ads to sway midterms",
-      "url": "https://techcrunch.com/2026/08/31/a-group-funded-by-andreessen-horowitz-and-brockman-plan-data-center-ads-to-sway-midterms/",
-      "summary": "Build American AI plans to lobby voters in select states about the virtues of data centers by spending millions of dollars on ads.",
-      "published": "2026-08-31 22:14",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "JMGO’s very bright all-in-one projector looks ideal for gamers and sports",
-      "url": "https://www.theverge.com/tech/985986/jmgo-4k-gaming-projector-price-specs",
-      "summary": "JMGO's 4K 120Hz Iris Ultra Max all-in-one Google TV projector is now available outside China. It gets its name from a new dual-iris system that lets it produce an impressive 10,000:1 native contrast, according to JMGO. It boosts the contrast - always an issue with projectors - by placing two separate physical apertures (irises) along [&#8230;]",
-      "published": "2026-08-31 22:00",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "FTC lawsuit alleges Amazon has been ‘secretly and systematically’ overcharging for ads",
-      "url": "https://www.theverge.com/tech/986982/amazon-advertising-prices-ftc-lawsuit",
-      "summary": "The FTC and 22 state attorneys general are suing Amazon for allegedly using a \"secret ad surcharge\" to drive up prices for ads on its website and app. FTC chairman Andrew Ferguson claims in a blog post on the lawsuit that the higher advertising prices \"were largely passed on to American consumers.\" According to the [&#8230;]",
-      "published": "2026-08-31 21:41",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "I went to the loneliest baseball game on Apple Vision Pro",
-      "url": "https://www.theverge.com/tech/986967/apple-vision-pro-mlb-red-sox-yankees-immersive-game",
-      "summary": "This weekend, I strapped on an Apple Vision Pro to watch a baseball game in immersive virtual reality for the first time. It was technically impressive, visually pretty remarkable, and also didn't make that much sense. Apple and Major League Baseball chose a classic match-up of the Boston Red Sox and the New York Yankees [&#8230;]",
-      "published": "2026-08-31 21:18",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
-      "url": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
-      "summary": "",
-      "published": "2026-08-31 21:10",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "FTC accuses Amazon of running a ‘secret ad surcharge scheme’ in new lawsuit",
-      "url": "https://techcrunch.com/2026/08/31/ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit/",
-      "summary": "Amazon is facing a new lawsuit from the FTC and 22 states for allegedly secretly charging businesses more for advertising.",
-      "published": "2026-08-31 20:20",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "The Pentagon now has its own version of ChatGPT and Grok",
-      "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
-      "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
-      "published": "2026-08-31 20:13",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Apply now to host a Side Event at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/08/31/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026/",
-      "summary": "Apply before September 4 to be a part of the TechCrunch Disrupt community by hosting your own Side Event.",
-      "published": "2026-08-31 19:32",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Alienware’s budget-friendly QD-OLED is discounted for the first time",
-      "url": "https://www.theverge.com/gadgets/986901/alienware-qdoled-2726dm-deal-sale",
-      "summary": "While memory and storage prices are still high, there are still good discounts on other gaming-related hardware. Take Alienware’s AW2726DM, for example. Dell is selling it for $319.99, a $30 break from the usual price of $349.99. The 27-inch gaming monitor features an QD-OLED panel for deep, immersive black levels, and quantum dots for full [&#8230;]",
-      "published": "2026-08-31 19:31",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Instagram puts new limits on undisclosed AI profiles",
-      "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
-      "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
-      "published": "2026-08-31 19:16",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Apple’s top App Store exec, Phil Schiller, follows wave of exits as CEO Tim Cook steps down",
-      "url": "https://techcrunch.com/2026/08/31/apples-top-app-store-exec-phil-schiller-follows-wave-of-exits-as-ceo-tim-cook-steps-down/",
-      "summary": "The longtime executive won't be leaving Apple just yet but staff at the company say it's a step closer to Schiller retiring.",
-      "published": "2026-08-31 19:02",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Microsoft tests fix for latest hours-long Outlook outage",
-      "url": "https://techcrunch.com/2026/08/31/microsoft-tests-fix-for-latest-hours-long-outlook-outage/",
-      "summary": "Microsoft says it's testing a fix for the widespread Outlook issues that have led to email delays and failures.",
-      "published": "2026-08-31 18:56",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Kalshi bans George Santos for life over State of the Union bets",
-      "url": "https://techcrunch.com/2026/08/31/kalshi-bans-george-santos-for-life-over-state-of-the-union-bets/",
-      "summary": "The disciplinary action comes two months after the Commodity Futures Trading Commission settled charges against Santos.",
-      "published": "2026-08-31 18:53",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
-      "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
-      "summary": "",
-      "published": "2026-08-31 18:21",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Car owners want tech they can ignore",
-      "url": "https://www.theverge.com/news/986721/car-tech-survey-jd-power-smart-ignition",
-      "summary": "Automakers keep shoving more tech into their cars, despite evidence that consumers are increasingly fed up with huge screens and glitchy software. In fact, the features that car owners appreciate the most happen to be the ones they barely notice, according to the latest tech survey from JD Power. The consumer research firm surveyed 68,084 [&#8230;]",
-      "published": "2026-08-31 17:11",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Phil Schiller is leaving his biggest jobs at Apple",
-      "url": "https://www.theverge.com/tech/986869/apple-phil-schiller-stepping-down",
-      "summary": "Longtime Apple executive Phil Schiller is stepping down from his role as the head of the App Store and Apple events, according to a report from Bloomberg. Following the change, Schiller will keep his Apple Fellow title and continue \"working on unspecified initiatives,\" Bloomberg reports. Schiller initially joined Apple in 1987 and became the company's [&#8230;]",
-      "published": "2026-08-31 16:54",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "I turned my security cameras into an automatic bird identification system",
-      "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
-      "summary": "",
-      "published": "2026-08-31 16:47",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Markiplier is now GoPro’s biggest shareholder",
-      "url": "https://www.theverge.com/tech/986847/markiplier-gopro-investor",
-      "summary": "YouTuber Mark \"Markiplier\" Fischbach has invested enough in GoPro to become its single largest shareholder, with an 8.5 percent stake in the company, Bloomberg reports. Speaking to Bloomberg, Fischbach said he thought GoPro \"seems undervalued\" and sees his investment as \"part of a larger mission to make filmmaking more accessible,\" following the release of his [&#8230;]",
-      "published": "2026-08-31 16:38",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Read Tim Cook&#8217;s final message to Apple staff as CEO",
-      "url": "https://www.theverge.com/tech/986832/read-tim-cooks-final-message-as-ceo-to-apple-staff",
-      "summary": "Steve Jobs' successor carried the torch of the iPhone and built Apple into a global powerhouse with few rivals. Since becoming CEO in 2011, Tim Cook has led the company to become one of the most dominant forces in the daily lives of billions of people. Today is his last day as CEO. We'll have [&#8230;]",
-      "published": "2026-08-31 16:30",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Debian won&#8217;t ban AI code from its Linux distribution",
-      "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
-      "summary": "Debian voted to allow developers to use AI tools in their contributions to the Linux distribution's \"development, maintenance, [and] documentation.\" The new policy on AI acknowledges that \"responsible\" use of AI can improve developers' productivity, and goes on to say, \"generative AI is neither exempt from nor subject to special rules beyond the standards already [&#8230;]",
-      "published": "2026-08-31 15:34",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Playa Phone",
-      "url": "https://playaphone.com/",
-      "summary": "",
-      "published": "2026-08-31 14:52",
-      "source": "Hacker News",
-      "lang": "en",
       "category": "科技"
     },
     {
@@ -297,69 +360,6 @@
       "published": "2026-08-31 06:57",
       "source": "sspai.com",
       "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "全球仅剩三位数的物种，科学家却连一个准数都数不出来",
-      "url": "https://sspai.com/post/113827",
-      "summary": "门前大桥下游过勺嘴鹬，快来快来数一数……这究竟怎么数呀？\n<a href=\"https://sspai.com/post/113827\" target=\"_blank\">查看全文</a>",
-      "published": "2026-08-31 02:53",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "派早报：GTA 6 引发请假玩游戏热潮",
-      "url": "https://sspai.com/post/114022",
-      "summary": "<p>GTA 6 引发请假玩游戏热潮</p><p>Sam Altman 为 OpenAI 高管定制豪华表</p><p>海信发布 A10 系列墨水屏手机</p><p>Pixel 11 削减内存安全特性，GrapheneOS 考虑放弃支持</p><p>「承重」等 Claude 滥用词在 GitHub 蔓延</p><p>工信部曝光车企监督检查典型案例</p><p>看看就行的简讯</p><p>少数派的近期动态</p><p>你可能错过的好文章</p><a href=\"https://sspai.com/post/114022\" target=\"_blank\">查看全文</a>",
-      "published": "2026-08-30 22:59",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "Terence Tao explains 6 essential mathematical concepts [video]",
-      "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
-      "summary": "",
-      "published": "2026-08-30 22:37",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "城市漫步指南 | 佛罗伦萨：来自六月的梦幻艺术夏令营",
-      "url": "https://sspai.com/post/113974",
-      "summary": "我种草佛罗伦萨的理由绝对是世所罕见：因为SEVENTEEN的NanaTour有很大一部分是在佛罗伦萨及其周边拍摄的。从去年夏天看了这个综艺开始，我就一直对这个地方念念不忘，心想夏日的意大利到底是有何种 ...<a href=\"https://sspai.com/post/113974\" target=\"_blank\">查看全文</a>",
-      "published": "2026-08-30 07:00",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "2026 烟灶选购指南",
-      "url": "https://sspai.com/post/112775",
-      "summary": "如何在新老国标换代这一年买到合适自己的烟机灶具呢？<a href=\"https://sspai.com/post/112775\" target=\"_blank\">查看全文</a>",
-      "published": "2026-08-29 01:20",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "本周看什么 | 最近值得一看的 10 部作品",
-      "url": "https://sspai.com/post/113944",
-      "summary": "📅本周新预告《社交清算》新预告8月27日，电影《社交清算》发布了新预告，将于10月9日在北美上映。凭借《社交网络》斩获奥斯卡金像奖的艾伦・索金带来全新姐妹篇，当科技巨头以「言论自由」为名逃避责任，当算 ...<a href=\"https://sspai.com/post/113944\" target=\"_blank\">查看全文</a>",
-      "published": "2026-08-28 09:44",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "'Mad honey' that can stop your heart is being sold online",
-      "url": "https://phys.org/news/2026-08-mad-honey-heart-sold-online.html",
-      "summary": "",
-      "published": "2026-08-28 09:17",
-      "source": "Hacker News",
-      "lang": "en",
       "category": "科技"
     }
   ]
