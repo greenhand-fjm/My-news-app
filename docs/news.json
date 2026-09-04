@@ -1,7 +1,286 @@
 {
-  "last_updated": "2026-09-03 01:46:22",
+  "last_updated": "2026-09-04 01:40:14",
   "total": 40,
   "articles": [
+    {
+      "title": "Crusoe reportedly raises $3B at a  $30B valuation",
+      "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+      "summary": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
+      "published": "2026-09-04 00:48",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The unusually muted Tesla Cybercab launch",
+      "url": "https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk",
+      "summary": "At a private, closed-door event in Austin, Texas today, Tesla officially launched its gilded car of the future. It's a huge milestone for Elon Musk, who has been hyping the imminent arrival of driverless cars for years and has bet the future of his company on AI, autonomous vehicles, and humanoid robots. It was an [&#8230;]",
+      "published": "2026-09-04 00:25",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Steve Ballmer got suspended by the NBA because of a podcast and a jumbotron corruption scandal",
+      "url": "https://www.theverge.com/entertainment/989962/steve-ballmer-kawhi-leonard-pablo-torre-finds-out",
+      "summary": "Last September, Steve Ballmer insisted in an ESPN interview that the Clippers weren't involved in a shady-looking $28 million endorsement deal for his star player, Kawhi Leonard, that involved no actual endorsing. Now, the former Microsoft CEO has been suspended by the NBA for a year, while the league says his team will forfeit five [&#8230;]",
+      "published": "2026-09-03 23:37",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Oura files to go public",
+      "url": "https://techcrunch.com/2026/09/03/oura-files-to-go-public/",
+      "summary": "The ring maker says that its business has shown significant revenue growth over the past year.",
+      "published": "2026-09-03 22:35",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Tesla is asking people if they want to buy and run Cybercab fleets",
+      "url": "https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/",
+      "summary": "The company published a form on its website Thursday soliciting info from people who are interested in \"Cybercab fleet vehicle purchasing.\"",
+      "published": "2026-09-03 22:18",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "You can watch the coolant flow inside Ugreen’s liquid-cooled power bank",
+      "url": "https://www.theverge.com/tech/988648/ugreen-magflow-pro-magnetic-wireless-power-bank-10k-liquid-cooling",
+      "summary": "Does your power bank have \"CryoPulse technology\" or a \"Cyber Window\"? If you disappointingly answered \"no\" to both, you might want to consider upgrading to Ugreen's new MagFlow Pro Magnetic Power Bank. It's available starting today for $149.99, which puts it on the really expensive end of power banks with only a 10,000mAh battery, but [&#8230;]",
+      "published": "2026-09-03 22:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+      "url": "https://armature.tech/blog/which-tools-coding-agents-install",
+      "summary": "",
+      "published": "2026-09-03 21:20",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Startup ARR is less secure than ever, new research shows",
+      "url": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/",
+      "summary": "The AI era has completely broken enterprise buying patterns, and startups haven't yet figured out how to navigate.",
+      "published": "2026-09-03 20:59",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Dungeons &#038; Dragons is getting a &#8216;Ravenloft&#8217; live-action Netflix series",
+      "url": "https://www.theverge.com/entertainment/989880/dungeons-and-dragons-ravenloft-netflix",
+      "summary": "A Ravenloft series is currently in development from executive producer Alfonso Cuar&#243;n, writer and executive producer John August, and Hasbro Entertainment, Deadline reports. It could bring to life one of Dungeons &#38; Dragons' most iconic campaign settings, which got an update earlier this year with Ravenloft: The Horrors Within. Netflix's Ravenloft series will reportedly center [&#8230;]",
+      "published": "2026-09-03 20:48",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The Cybercab is Tesla’s ‘fork in the road’ moment",
+      "url": "https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/",
+      "summary": "The company is about to formally launch the gold two-seater, with no steering wheel or pedals -- a move that could change Tesla forever.",
+      "published": "2026-09-03 19:42",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+      "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+      "summary": "The high-profile startup's annual revenue run rate stands at over $100 million.",
+      "published": "2026-09-03 19:36",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Utilities are racing to link up with fusion startups, with Realta Fusion the latest to benefit",
+      "url": "https://techcrunch.com/2026/09/03/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit/",
+      "summary": "The grid has been straining under the weight of new AI data centers, and that has utilities courting fusion startups.",
+      "published": "2026-09-03 19:29",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "GPT-6 Astra",
+      "url": "https://openai.com/index/gpt-6-astra/",
+      "summary": "",
+      "published": "2026-09-03 18:41",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Abliteration.ai is making a business out of removing AI guardrails",
+      "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+      "summary": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
+      "published": "2026-09-03 18:37",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Congressman says TikTok backed out of a meeting to avoid child safety questions",
+      "url": "https://www.theverge.com/policy/989769/tiktok-house-committee-china-kids-online-safety",
+      "summary": "TikTok backed out of a congressional committee's \"public roundtable\" set for this month over concerns it would be asked about child safety practices, the chair of the committee said. After negotiating \"in good faith\" to bring TikTok's chief security officer before the House Select Committee on China to answer questions about Chinese government access to [&#8230;]",
+      "published": "2026-09-03 18:37",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+      "url": "https://inference-docs.cerebras.ai/models/overview",
+      "summary": "",
+      "published": "2026-09-03 18:32",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Meta is paying to peek at how you use their latest AI model",
+      "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+      "summary": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs.",
+      "published": "2026-09-03 18:19",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Samsung&#8217;s beloved Q Series sound system is hundreds off for Labor Day",
+      "url": "https://www.theverge.com/gadgets/989499/samsung-q-series-soundbar-dbrand-killswitch-2-deal-sale",
+      "summary": "Researching, buying, then finally assembling a sound system for your TV is daunting, but it doesn’t have to be. If you want one of the best kits you can get at a rare discount, Best Buy and Amazon are selling the Samsung Q990F Soundbar for $999.99. It normally retails between $1,300 and $1,600. This bundle [&#8230;]",
+      "published": "2026-09-03 18:14",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+      "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+      "summary": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
+      "published": "2026-09-03 18:01",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+      "summary": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use. As OpenAI announced earlier this week, it's also the first model designated as meeting OpenAI's \"critical cybersecurity capability threshold\" - but the company promises that won't [&#8230;]",
+      "published": "2026-09-03 18:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Qualcomm backs Ultrahuman in $70M round on bet to turn smart rings into computers",
+      "url": "https://techcrunch.com/2026/09/03/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers/",
+      "summary": "Ultrahuman is targeting a $200 million annual revenue run rate by January 2027 as it builds a new Qualcomm-powered smart ring.",
+      "published": "2026-09-03 17:00",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Microsoft slashes Xbox Cloud Gaming to just 15 hours a month for Ultimate subscribers",
+      "url": "https://www.theverge.com/news/989166/microsoft-xbox-cloud-gaming-hourly-limits-changes",
+      "summary": "Microsoft is announcing some major changes to Xbox Cloud Gaming today, less than a year after opening up cloud gaming to its Xbox Game Pass Premium and Essential tiers. While all Game Pass plans have included unlimited cloud gaming over the past year, from November this will be limited to just 15 hours on Ultimate, [&#8230;]",
+      "published": "2026-09-03 17:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Microsoft opens up Xbox Cloud Gaming with new pay-as-you-go option",
+      "url": "https://www.theverge.com/news/989211/microsoft-xbox-cloud-gaming-pay-as-you-go-option",
+      "summary": "Microsoft says it will let anyone access Xbox Cloud Gaming in November, without the need to subscribe to Xbox Game Pass. The change to a pay-as-you-go model is part of some sweeping changes to Xbox Cloud Gaming today, and is designed for people who don't use cloud access enough to warrant a monthly subscription. \"Players [&#8230;]",
+      "published": "2026-09-03 17:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Circular unveils Ring 3 series with contactless payments and on-finger vibration alerts",
+      "url": "https://techcrunch.com/2026/09/03/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts/",
+      "summary": "The Circular Ring 3 series announcement comes amid a year of heightened competition in the smart ring market, following the launches of the Oura Ring 5 and RingConn Gen 3.",
+      "published": "2026-09-03 16:42",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
+      "url": "https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california",
+      "summary": "",
+      "published": "2026-09-03 16:21",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "I held the first truly bezel-free phone",
+      "url": "https://www.theverge.com/tech/985009/tecno-bezelless-concept-phone-ifa",
+      "summary": "Cast your mind back a decade or so, and smartphone makers were obsessed with shrinking the bezel on phones. Screens got bigger, the black bars around them got smaller, and for a while it looked like truly edge-to-edge displays were imminent. Then, progress just stopped. The bezel shrunk down until it was a millimeter or [&#8230;]",
+      "published": "2026-09-03 16:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": ".name Termination",
+      "url": "https://neil.fraser.name/news/2026/09/03/",
+      "summary": "",
+      "published": "2026-09-03 14:54",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+      "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
+      "summary": "",
+      "published": "2026-09-03 14:28",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "新玩意 251｜少数派的编辑们最近买了啥？",
+      "url": "https://sspai.com/post/114154",
+      "summary": "关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。@什么陈：洗手间置物架参考价 ...<a href=\"https://sspai.com/post/114154\" target=\"_blank\">查看全文</a>",
+      "published": "2026-09-03 10:18",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "TDS REVIEW | 无印良品 MUJI 头戴式蓝牙降噪耳机体验",
+      "url": "https://sspai.com/post/113998",
+      "summary": "经过一个季度的使用，聊聊这个此前不会考虑其数码产品的品牌。<a href=\"https://sspai.com/post/113998\" target=\"_blank\">查看全文</a>",
+      "published": "2026-09-03 07:00",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "当说起「Hi-Fi」时，我们到底在追求什么？",
+      "url": "https://sspai.com/post/113159",
+      "summary": "聊聊 Hi-Fi 这件事。<a href=\"https://sspai.com/post/113159\" target=\"_blank\">查看全文</a>",
+      "published": "2026-09-03 03:32",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
     {
       "title": "派早报：Google 发布 Gemini 3.8 Flash、理想推出新一代 MEGA 等",
       "url": "https://sspai.com/post/114113",
@@ -12,259 +291,7 @@
       "category": "科技"
     },
     {
-      "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
-      "summary": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
-      "published": "2026-09-02 23:01",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Uber beats Waymo as first to launch robotaxis in London",
-      "url": "https://www.theverge.com/news/988415/uber-wayve-robotaxi-london-launch",
-      "summary": "Uber beat out Waymo in launching a commercial robotaxi service in London, the city's first. The vehicles use autonomous driving tech developed by Wayve, a UK-based startup, and will initially feature safety drivers behind the wheel. The launch is a milestone for Uber, which has been plotting a UK launch with Wayve for several years. [&#8230;]",
-      "published": "2026-09-02 23:00",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-      "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
-      "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
-      "published": "2026-09-02 22:44",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
-      "url": "https://ronanrx.com/",
-      "summary": "",
-      "published": "2026-09-02 22:36",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
-      "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
-      "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
-      "published": "2026-09-02 22:24",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Google spared from ad-business breakup, but judge orders changes to how it operates",
-      "url": "https://techcrunch.com/2026/09/02/google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates/",
-      "summary": "Google has dodged an effort to break up its ad business, but a judge said Wednesday that the company will need to adjust its business to benefit competitors.",
-      "published": "2026-09-02 21:38",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
-      "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
-      "summary": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
-      "published": "2026-09-02 20:19",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "MapQuest is now the No. 1 US app after bucking Trump’s ‘Lake America’ renaming",
-      "url": "https://techcrunch.com/2026/09/02/mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming/",
-      "summary": "The once-dominant mapping app has surged to the top of Apple’s U.S. App Store after refusing to adopt Trump’s “Lake America” name, drawing more than half of its 2026 U.S. downloads in just six days.",
-      "published": "2026-09-02 20:12",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
-      "summary": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasoning steps on complex tasks and \"calling tools iteratively.\" It has the same introductory pricing as 3.7 Flash, $0.75 per million input tokens and $3.75 per million [&#8230;]",
-      "published": "2026-09-02 20:11",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Fable 5.1 World Modeling",
-      "url": "https://github.com/PhiloLabs/fable51-worlds",
-      "summary": "",
-      "published": "2026-09-02 19:49",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "It sure looks like hackers breached a major ID card verification service",
-      "url": "https://techcrunch.com/2026/09/02/it-sure-looks-like-hackers-breached-a-major-id-card-verification-service/",
-      "summary": "An identity theft search site claimed to have more than 150 million driver's license photos stolen from an ID verification service. The crime site has now shut down.",
-      "published": "2026-09-02 19:35",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Muse Spark 1.3",
-      "url": "https://developer.meta.com/ai/models/muse-spark/",
-      "summary": "",
-      "published": "2026-09-02 19:35",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Delivery Hero board backs Uber’s $15B takeover bid",
-      "url": "https://techcrunch.com/2026/09/02/delivery-hero-board-backs-ubers-15b-takeover-bid/",
-      "summary": "If approved, the combined company would become one of the largest food delivery platforms in the world.",
-      "published": "2026-09-02 19:25",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Here are some of REI’s best Labor Day sale deals",
-      "url": "https://www.theverge.com/gadgets/988398/rei-labor-day-sale-deal-2026",
-      "summary": "Summer is winding down, but REI’s Labor Day sale is here to help save you some bucks on gear that’ll let you get the most out of your upcoming outdoor expeditions. There are many, many discounts, from men’s and women’s clothing and REI Co-op gear to equipment for camping and hiking and more. The sale [&#8230;]",
-      "published": "2026-09-02 18:56",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "1Password wades into a right-wing mess after funding a Linux project",
-      "url": "https://www.theverge.com/tech/988536/1password-dhh-linux-controversy",
-      "summary": "1Password faced immediate backlash from customers this week over a $300,000 pledge in support of a Linux distro created by David Heinemeier Hansson, who has regularly published overtly racist blog posts that include comments calling for deportation of ethnic minorities in Europe. The popular password manager is now a \"distinguished corporate patron\" of Omacom, the [&#8230;]",
-      "published": "2026-09-02 18:48",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Amazon’s AI assistant can now spot fake emails from the company",
-      "url": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
-      "summary": "Amazon is trying to combat impersonation scams with a new feature that allows you to use its AI assistant to determine whether an email, text message, or phone call actually came from the company. With the update, you can ask Alexa for Shopping about a message you received, and it will use AI to compare [&#8230;]",
-      "published": "2026-09-02 17:52",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
-      "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
-      "summary": "The internet has a trust problem, and&#160;it’s&#160;not just because social media feeds are filling up with AI&#160;slop. AI-generated text and images are now making their way into job applications, product reviews,&#160;and even insurance claims, leaving platforms and users alike scrambling to figure out&#160;what’s&#160;real.&#160; A handful of startups have cropped up in the past couple of [&#8230;]",
-      "published": "2026-09-02 17:18",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "X shifts US creator payouts from Stripe to X Money",
-      "url": "https://techcrunch.com/2026/09/02/x-shifts-us-creator-payouts-from-stripe-to-x-money/",
-      "summary": "X says U.S. creator payouts will now be handled through its X Money payments service, a change that appears to replace the previous Stripe-powered payout system.",
-      "published": "2026-09-02 17:12",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
-      "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
-      "summary": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use\nglobally,\" the brief reads.",
-      "published": "2026-09-02 17:09",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Range Rover’s new EV looks just like a regular Range Rover — that’s refreshing",
-      "url": "https://www.theverge.com/transportation/988232/range-rover-electric-range-battery-specs",
-      "summary": "I think automakers are finally getting the memo. Rather than try to reinvent the wheel with its new electric vehicle, Range Rover just made one that looks nearly identical to its lineup of gas-powered SUVs. They didn't try to pass off some sleek, spaceship-looking pod as a Range Rover. Sometimes familiar designs are the way [&#8230;]",
-      "published": "2026-09-02 17:01",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Enhanced geothermal notches another win as Google buys 400 MW from Fervo",
-      "url": "https://techcrunch.com/2026/09/02/enhanced-geothermal-notches-another-win-as-google-buys-400-mw-from-fervo/",
-      "summary": "Fervo's deal with Google could expand to 1 gigawatt of geothermal power, enough to supply a very large AI data center in Utah.",
-      "published": "2026-09-02 16:54",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "The best tech and gadgets announced at IFA so far",
-      "url": "https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones",
-      "summary": "The doors to Europe's largest consumer tech show haven't opened to the public yet, but there's already plenty of news coming out of IFA 2026 in Berlin, Germany. If you're already struggling to keep up with what has been announced, here are some of the best new gadgets and upgrades from the show - including [&#8230;]",
-      "published": "2026-09-02 16:43",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
-      "summary": "OpenAI is on the cusp of releasing its most powerful AI model yet, Astra, following weeks of delays to shore up safety protocols after its agents attacked real targets during testing. As details about the model trickle out, researchers are warning it \"may be the single worst development for AI security/safety to date.\" Shortly after [&#8230;]",
-      "published": "2026-09-02 16:40",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
-      "summary": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. The landmark lawsuit, filed in December 2023, alleging that OpenAI unlawfully trained its AI systems on articles from The New York Times and seeks to recoup \"billions of dollars\" in damages from [&#8230;]",
-      "published": "2026-09-02 16:12",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Google is sending MrBeast into the wilderness, armed with AI",
-      "url": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
-      "summary": "MrBeast will feature Gemini, Google Health, and the Fitbit Air in upcoming videos as part of a multi-year partnership with Google. The deal will kick off with a video featuring Jimmy \"MrBeast\" Donaldson turning to Gemini for wilderness survival advice: First up on September 5 is a new MrBeast video following Jimmy and his crew [&#8230;]",
-      "published": "2026-09-02 15:47",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
-      "summary": "",
-      "published": "2026-09-02 15:12",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Google avoids a breakup of its ad tech business",
-      "url": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
-      "summary": "",
-      "published": "2026-09-02 14:46",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
-      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
-      "summary": "",
-      "published": "2026-09-02 13:59",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "折叠屏 iPhone、新款 HomePod…… Apple 发布会有哪些看点？",
+      "title": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？",
       "url": "https://sspai.com/post/114084",
       "summary": "上周，Apple公布了今年秋季发布会的时间和主题，这场名为「Surpriseandshine」的发布会将于北京时间9月10日凌晨一点在ApplePark举行。与过去两年的秋季发布会不同，今年的「科技春 ...<a href=\"https://sspai.com/post/114084\" target=\"_blank\">查看全文</a>",
       "published": "2026-09-02 09:40",
@@ -291,12 +318,21 @@
       "category": "科技"
     },
     {
-      "title": "派早报：英伟达正式发布 DLSS 5、戴森发布智能电动牙刷 CameraJet 等",
-      "url": "https://sspai.com/post/114093",
-      "summary": "索尼发布三款 ULT Tower 派对音箱，Starman Optical 收购 GoPro 等。<a href=\"https://sspai.com/post/114093\" target=\"_blank\">查看全文</a>",
-      "published": "2026-09-01 23:58",
-      "source": "sspai.com",
-      "lang": "zh_cn",
+      "title": "New type of dice guarantees no tie when deciding who goes first",
+      "url": "https://www.cbc.ca/lite/story/9.7328614",
+      "summary": "",
+      "published": "2026-09-02 01:50",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The largest electric aircraft just flew [video]",
+      "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
+      "summary": "",
+      "published": "2026-09-01 19:02",
+      "source": "Hacker News",
+      "lang": "en",
       "category": "科技"
     },
     {
@@ -324,42 +360,6 @@
       "published": "2026-09-01 07:00",
       "source": "sspai.com",
       "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "线索若隐若现：深入 Tim Cook 和 Nike 的商业连接",
-      "url": "https://sspai.com/post/111081",
-      "summary": "一直以来，Apple 和 Nike 之间的商业关系在公众视野里简单明了。但在两者中间，Apple 的前任 CEO Tim Cook 一直扮演着连接者的角色，他和 Nike 之间的关系也因此而显得十分微妙。在本期节目中，我们就来一起深入 Apple、Nike 和 Tim Cook 之间的商业三角关系。<a href=\"https://sspai.com/post/111081\" target=\"_blank\">查看全文</a>",
-      "published": "2026-09-01 03:00",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "派早报：OpenClaw 推出 2.0 版本更新，网易 CC 直播正式停运等",
-      "url": "https://sspai.com/post/114055",
-      "summary": "少数派的近期动态能让AI助手通过自然语言指令直接与您的Quote/0摘录墨水屏交互的DotSkill已上线。点击了解你可能错过的文章全球仅剩三位数的物种，科学家却连一个准数都数不出来屏幕之外，桌面之上 ...<a href=\"https://sspai.com/post/114055\" target=\"_blank\">查看全文</a>",
-      "published": "2026-09-01 00:17",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "Reverse Engineering Unknown File Formats with ImHex",
-      "url": "https://werwolv.net/posts/file_format_reverse_engineering/",
-      "summary": "",
-      "published": "2026-08-31 12:01",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Holden's Lightning Flight",
-      "url": "https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight",
-      "summary": "",
-      "published": "2026-08-31 11:29",
-      "source": "Hacker News",
-      "lang": "en",
       "category": "科技"
     }
   ]
