@@ -1,23 +1,212 @@
 {
-  "last_updated": "2026-09-13 01:42:34",
+  "last_updated": "2026-09-14 02:01:00",
   "total": 40,
   "articles": [
     {
-      "title": "Align AI and Mathematics–To Something Else",
-      "url": "https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/",
+      "title": "The case against JPEG XL",
+      "url": "https://giannirosato.com/blog/post/case-against-jxl/",
       "summary": "",
-      "published": "2026-09-13 00:47",
+      "published": "2026-09-14 01:02",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Everyone should slow down AI development except for me",
-      "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+      "title": "Open-Source AI and Open Models Reading List",
+      "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
       "summary": "",
-      "published": "2026-09-13 00:30",
+      "published": "2026-09-14 00:22",
       "source": "Hacker News",
       "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "派早报：美国 AI 高管呼吁放缓研发，特朗普反对",
+      "url": "https://sspai.com/post/114539",
+      "summary": "<p>美国 AI 高管呼吁放缓研发，特朗普反对</p><p>苹果解释 Apple Watch 不会持续录音</p><p>LG 否认智能电视监控用户</p><p>暴雪公布《魔兽世界》怀旧服</p><p>儿童贴身使用笔记本电脑导致皮肤灼伤</p><p>Android 开始支持密码管理器迁移</p><p>看看就行的简讯</p><p>少数派的近期动态</p><p>你可能错过的好文章</p><a href=\"https://sspai.com/post/114539\" target=\"_blank\">查看全文</a>",
+      "published": "2026-09-13 22:55",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
+      "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
+      "summary": "",
+      "published": "2026-09-13 21:47",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
+      "url": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
+      "summary": "Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why — even as everyone else piles into OpenAI and Anthropic — his $90 billion firm is deliberately staying diversified.",
+      "published": "2026-09-13 21:30",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+      "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+      "summary": "",
+      "published": "2026-09-13 21:06",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Larry Ellison cancels $7.5 billion sale of Oracle stock",
+      "url": "https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/",
+      "summary": "Oracle had previously disclosed that Ellison planned to sell 50 million shares worth around $7.5 billion.",
+      "published": "2026-09-13 20:49",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
+      "url": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
+      "summary": "From floating reactors to brain chips: VCs picked their favorite YC startups from the summer batch.",
+      "published": "2026-09-13 20:28",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Trump and Mike Johnson think the AI industry is overreacting",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+      "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Hassabis offered tentative support for Amodei's proposal. Donald Trump and House Speaker Mike Johnson, however, [&#8230;]",
+      "published": "2026-09-13 19:41",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "What’s behind the AI industry’s latest warnings of doom?",
+      "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+      "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
+      "published": "2026-09-13 19:40",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Apple is reportedly working on iPhone game controllers",
+      "url": "https://www.theverge.com/tech/994426/apple-iphone-game-controllers",
+      "summary": "Bloomberg's Mark Gurman says Apple is developing two game controllers for the iPhone and will likely sell them under the Beats brand. Rumors that Apple might enter the game controller business have circulated for some time. But last week, MacRumors reported finding two references in macOS 26.7's code to two game controllers identified as first-party [&#8230;]",
+      "published": "2026-09-13 18:30",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Why is Google still serving dodgy ads?",
+      "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
+      "summary": "",
+      "published": "2026-09-13 17:37",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The Units’ Digital Stimulation is synthpunk perfection",
+      "url": "https://www.theverge.com/entertainment/994415/the-units-digital-stimulation-synthpunk-review",
+      "summary": "The Units are a band I discovered in part thanks to No Dogs in Space. During their miniseries on The Screamers (another incredible band worth checking out), they mention synthpunk.org as one of their sources. And there's no better way to get my attention than to combine two of my favorite things - punk rock [&#8230;]",
+      "published": "2026-09-13 17:36",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+      "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+      "summary": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.",
+      "published": "2026-09-13 16:30",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "TechCrunch Mobility: Lyft has entered the robotaxi chat",
+      "url": "https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation, and now, more than ever, the role AI is playing in it.",
+      "published": "2026-09-13 16:04",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Waymo pulls over, calls cops on riders with a ghost gun",
+      "url": "https://www.theverge.com/transportation/994405/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun",
+      "summary": "Two people were arrested in San Fransico while riding around in a Waymo robotaxi after the cab pulled over and called the cops on them. The riders were juveniles in possession of a loaded AR-style ghost gun and were taken to a juvenile hall. While the police report did not specify who was operating the [&#8230;]",
+      "published": "2026-09-13 14:28",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
+      "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
+      "summary": "",
+      "published": "2026-09-13 14:28",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Data collected by cars and sold to third parties",
+      "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
+      "summary": "",
+      "published": "2026-09-13 13:45",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Fusion power startups find new partners in the defense world",
+      "url": "https://techcrunch.com/2026/09/13/fusion-power-startups-find-new-partners-in-the-defense-world/",
+      "summary": "Fusion startups are inking defense-related deals, reigniting the relationship between fusion and national security that might have gone dormant, but never completely disappeared.",
+      "published": "2026-09-13 13:15",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Your Mother Your Mother Your Mother will make you forget all about Marvel’s Blade disaster",
+      "url": "https://www.theverge.com/entertainment/994393/your-mother-your-mother-your-mother-review-tiff-2026",
+      "summary": "Marvel's mishandling of its Blade reboot will likely go down as one of the studio's biggest mistakes. There was a great actor in place to play the vampire hunter (Mahershala Ali), and a promising director set to take over the reins (Bassam Tariq). In retrospect, though, the disappointing demise of Blade might not be such [&#8230;]",
+      "published": "2026-09-13 13:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Your car is selling your data",
+      "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on cars, data privacy, and autonomous vehicles, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Earlier this year, the Federal Trade Commission [&#8230;]",
+      "published": "2026-09-13 12:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Apple’s new phones are here",
+      "url": "https://www.theverge.com/tech/994218/apple-iphone-18-pro-airpods-5-meta-muse-ai-sony-headphones",
+      "summary": "Hi, friends! Welcome to Installer No. 143, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, new tech season is here, and also you can read all the old editions at the Installer homepage.) This week, I've been devouring every iPhone Duo video I can find, clicking on [&#8230;]",
+      "published": "2026-09-13 12:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "搭建自己的 HomeLab（一）：聊聊我的硬件清单",
+      "url": "https://sspai.com/post/113880",
+      "summary": "作为系列的第一篇，这里想把三件事讲清楚：什么是 HomeLab、我为什么愿意折腾它、以及这套东西需要哪些硬件、它们大概又要花多少钱。系列其他文章的目录放在文末。<a href=\"https://sspai.com/post/113880\" target=\"_blank\">查看全文</a>",
+      "published": "2026-09-13 07:51",
+      "source": "sspai.com",
+      "lang": "zh_cn",
       "category": "科技"
     },
     {
@@ -44,15 +233,6 @@
       "summary": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement, and the possibility of building an AI that was beyond human control. On the latter, he [&#8230;]",
       "published": "2026-09-12 21:16",
       "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-      "url": "https://withspecific.com/benchmarks/real-swe",
-      "summary": "",
-      "published": "2026-09-12 20:25",
-      "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
@@ -93,92 +273,11 @@
       "category": "科技"
     },
     {
-      "title": "Sylvan Esso think you should splurge on good-quality yogurt",
-      "url": "https://www.theverge.com/entertainment/994340/sylvan-esso-ow-infinity-interview-music",
-      "summary": "Amelia Meath and Nick Sanborn, better known as Sylvan Esso, have been bringing their low-key electro-pop to the masses since 2014, bursting onto the scene with their self-titled debut album and the single \"Hey Mami.\" Over the years, they've put out a number of excellent records, dabbling in dustier, more fragile textures on Free Love, [&#8230;]",
-      "published": "2026-09-12 16:35",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Make your first edit to OpenStreetMap",
-      "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
-      "summary": "",
-      "published": "2026-09-12 16:25",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Anthropic CEO says it’s time to pump the brakes on AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
-      "summary": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a winding essay, Amodei proposed a three-step plan to \"pace the frontier\" - jargon that simply means to slow [&#8230;]",
-      "published": "2026-09-12 16:23",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "LG responds to TV spying allegations",
-      "url": "https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations",
-      "summary": "Earlier this week, Gamers Nexus, Level1Techs, and independent security researchers detailed some alarming findings about how LG's TVs are logging and uploading data on its users. Now the company is pushing back against those allegations, saying that \"Some recent media coverage may have contributed to misconceptions about how LG smart TVs work.\" LG released a [&#8230;]",
-      "published": "2026-09-12 15:19",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Nvidia is the central bank of AI",
-      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-      "summary": "",
-      "published": "2026-09-12 15:08",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Trump is giving data centers a pass to pollute",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
-      "summary": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a briefing and new report. They are urging - perhaps futilely - the president to adopt a \"Data Center Health Protection [&#8230;]",
-      "published": "2026-09-12 14:41",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
       "title": "Revolut confirms customer data breach through fake government requests",
       "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
       "summary": "Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators.",
       "published": "2026-09-12 14:40",
       "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Laika’s stop-motion fantasy Wildwood looks so smooth",
-      "url": "https://www.theverge.com/entertainment/994314/tiff-2026-wildwood-stuffed-julian",
-      "summary": "Due to a scheduling mishap, I was only able to check out two movies on my second day at the Toronto International Film Festival - but I did manage to get an early look at and some fascinating details on one of my most anticipated films this year. Even if you don't know the name [&#8230;]",
-      "published": "2026-09-12 13:00",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Where to preorder the iPhone 18 Pro and Pro Max",
-      "url": "https://www.theverge.com/gadgets/988337/iphone-18-pro-max-preorder-buy",
-      "summary": "The iPhone 18 Pro and 18 Pro Max are almost here. Announced at Apple's September 2026 \"Sunrise and shine\" event alongside the iPhone Duo and other new gear, the two upgraded phones feature the faster A20 Pro processor with more GPU power as well as more neural cores for AI-related tasks, plus some welcome improvements [&#8230;]",
-      "published": "2026-09-12 12:00",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "OpenAI just wants to win",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
-      "summary": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium Prize problem. In normal circumstances, this would have been celebrated as a historic achievement. Instead, many mathematicians have watched OpenAI's relentless advance with [&#8230;]",
-      "published": "2026-09-12 11:00",
-      "source": "www.theverge.com",
       "lang": "en",
       "category": "科技"
     },
@@ -189,69 +288,6 @@
       "published": "2026-09-12 07:00",
       "source": "sspai.com",
       "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-      "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
-      "published": "2026-09-11 22:58",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
-      "url": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/",
-      "summary": "\"It's actually allegedly being built out now,\" said Rabois, who has clearly dealt with a missed construction timeline or two.",
-      "published": "2026-09-11 21:19",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-      "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
-      "published": "2026-09-11 20:59",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "OpenAI’s feud with mathematicians is only escalating",
-      "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-      "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
-      "published": "2026-09-11 20:57",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
-      "summary": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.",
-      "published": "2026-09-11 20:33",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
-      "url": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
-      "summary": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.",
-      "published": "2026-09-11 20:30",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
-      "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
-      "summary": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
-      "published": "2026-09-11 19:35",
-      "source": "techcrunch.com",
-      "lang": "en",
       "category": "科技"
     },
     {
@@ -300,6 +336,15 @@
       "category": "科技"
     },
     {
+      "title": "Julia 1.13 highlights",
+      "url": "https://julialang.org/blog/2026/09/julia-1.13-highlights/",
+      "summary": "",
+      "published": "2026-09-10 12:27",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
       "title": "App+1｜下一节：教学工作紧张忙碌，下一节课从从容容",
       "url": "https://sspai.com/post/114384",
       "summary": "祝每一位老师教师节快乐！<a href=\"https://sspai.com/post/114384\" target=\"_blank\">查看全文</a>",
@@ -309,57 +354,12 @@
       "category": "科技"
     },
     {
-      "title": "Getting 50 GB/S Back from the Apple Neural Engine",
-      "url": "https://eiln.github.io/posts/ane-dma.html",
-      "summary": "",
-      "published": "2026-09-10 00:16",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
       "title": "派早报：Apple 发布 iPhone Duo 折叠屏等",
       "url": "https://sspai.com/post/114394",
       "summary": "奥之心发布 OM SYSTEM PEN 相机、Sonos 更新音频系统等。<a href=\"https://sspai.com/post/114394\" target=\"_blank\">查看全文</a>",
       "published": "2026-09-09 22:38",
       "source": "sspai.com",
       "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "一图流 | 一张图带你看完 2026 Apple 秋季发布会",
-      "url": "https://sspai.com/post/114393",
-      "summary": "9 月 10 日凌晨，Apple 召开新品发布会。推出了新一代的 iPhone 18 Pro 系列、Apple Watch Series 12、Apple Watch Ultra 4 以及 AirPods 5 系列。<a href=\"https://sspai.com/post/114393\" target=\"_blank\">查看全文</a>",
-      "published": "2026-09-09 21:30",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "可以「折」的 iPhone 正式亮相：Apple 发布会看点回顾",
-      "url": "https://sspai.com/post/114392",
-      "summary": "9 月 10 日凌晨，Apple 召开新品发布会。推出了新一代的 iPhone 18 Pro 系列、Apple Watch Series 12、Apple Watch Ultra 4 以及 AirPods 5 系列。<a href=\"https://sspai.com/post/114392\" target=\"_blank\">查看全文</a>",
-      "published": "2026-09-09 21:21",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "Stabilizing Rust's Never Type",
-      "url": "https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/",
-      "summary": "",
-      "published": "2026-09-09 11:57",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Apple iPod Engraver (2019)",
-      "url": "https://dunstanorchard.com/apple-ipod-engraver/",
-      "summary": "",
-      "published": "2026-09-09 01:57",
-      "source": "Hacker News",
-      "lang": "en",
       "category": "科技"
     }
   ]
