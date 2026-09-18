@@ -1,14 +1,293 @@
 {
-  "last_updated": "2026-09-17 02:04:12",
+  "last_updated": "2026-09-18 01:50:49",
   "total": 40,
   "articles": [
     {
-      "title": "Snap tries to make the case again for its $2,200 smart glasses",
-      "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
-      "summary": "Snap unveiled new features for its smart glasses this week.",
-      "published": "2026-09-17 00:58",
+      "title": "Claude Code from Source",
+      "url": "https://claude-code-from-source.com/",
+      "summary": "",
+      "published": "2026-09-18 01:14",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Goose: 1.16x faster than C++ and 1.12x than safe Rust, while memory safe",
+      "url": "https://github.com/aardappel/goose/tree/master",
+      "summary": "",
+      "published": "2026-09-18 01:04",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "派早报：欧盟拟禁止 13 岁以下儿童使用社交媒体等",
+      "url": "https://sspai.com/post/114699",
+      "summary": "少数派的近期动态口袋先知新版本1.3.3上线，你可以自定义任何你想展示的屏幕效果。了解更多能让AI助手通过自然语言指令直接与您的Quote/0摘录墨水屏交互的DotSkill已上线。点击了解八月买了什 ...<a href=\"https://sspai.com/post/114699\" target=\"_blank\">查看全文</a>",
+      "published": "2026-09-18 00:17",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
+      "url": "https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/",
+      "summary": "Geothermal startup Mazama is drilling three miles underground to tap superhot rock, with one well capable of generating 15 MW of electricity 24/7.",
+      "published": "2026-09-18 00:02",
       "source": "techcrunch.com",
       "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
+      "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+      "summary": "The round values the data center giant at $30.9 billion.",
+      "published": "2026-09-17 23:25",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Google DeepMind launches institute to widen the AGI debate",
+      "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+      "summary": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their minds, as more data and information comes to light at the fast-moving frontier.\"",
+      "published": "2026-09-17 23:21",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Amazon-owned Zoox’s 100-robotaxi limit in Nevada is about to disappear",
+      "url": "https://techcrunch.com/2026/09/17/amazon-owned-zooxs-100-robotaxi-limit-in-nevada-is-about-to-disappear/",
+      "summary": "An updated permit shows the 100-cap will expire later this month just as competition in Las Vegas heats up.",
+      "published": "2026-09-17 23:08",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "PrismML hopes its tiny LLM will change how we all use AI",
+      "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
+      "summary": "If AI lab PrismML isn't on your radar yet, it should be.",
+      "published": "2026-09-17 22:34",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
+      "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
+      "summary": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies.",
+      "published": "2026-09-17 22:14",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+      "url": "https://prismml.com/news/bonsai-2-27b",
+      "summary": "",
+      "published": "2026-09-17 21:13",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+      "url": "https://bend-lang.com/",
+      "summary": "",
+      "published": "2026-09-17 20:36",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The fix for rogue AI agents could be more AI",
+      "url": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
+      "summary": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review.",
+      "published": "2026-09-17 20:34",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+      "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
+      "summary": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it.",
+      "published": "2026-09-17 20:34",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Is the AI safety debate about safety or control?",
+      "url": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
+      "summary": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety.",
+      "published": "2026-09-17 20:19",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Astra for Law",
+      "url": "https://openai.com/index/astra-for-law/",
+      "summary": "",
+      "published": "2026-09-17 20:17",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "UN turns to Google to make its global data ready for AI agents",
+      "url": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
+      "summary": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
+      "published": "2026-09-17 20:00",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+      "summary": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.",
+      "published": "2026-09-17 19:46",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The AI Superintelligence Slowdown",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
+      "summary": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a number of leading US AI companies are publicly suggesting it’s time [&#8230;]",
+      "published": "2026-09-17 19:28",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
+      "summary": "The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of files and artifacts. Similar to Grok Bot and other tools that manage groups of AI agents, each project has \"threads\" running different tasks in parallel, with a \"coordinator\" directing everything: [&#8230;]",
+      "published": "2026-09-17 18:58",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Waymo restarts San Antonio service 5 months after flooding troubles",
+      "url": "https://techcrunch.com/2026/09/17/waymo-restarts-san-antonio-service-five-months-after-flooding-troubles/",
+      "summary": "The company suspended service in the city in April after one of its robotaxis got swept away.",
+      "published": "2026-09-17 18:30",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Save $30 or more on a refurbished Apple TV 4K",
+      "url": "https://www.theverge.com/gadgets/997009/refurbished-apple-tv-4k-ring-doorbell-deal-sale",
+      "summary": "Most hardware prices have soared in 2026, and that includes a variety of Apple laptops, tablets, and smart devices. Thankfully, you can offset some of the increased costs on an Apple TV 4K by buying one refurbished through the company. The 64GB model is selling for $169, $30 lower than the new retail price. The [&#8230;]",
+      "published": "2026-09-17 17:14",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Hister: A private search engine for the pages you visit and the files you keep",
+      "url": "https://github.com/asciimoo/hister",
+      "summary": "",
+      "published": "2026-09-17 16:25",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Xbox’s clever disc-to-digital feature was 15 years in the making",
+      "url": "https://www.theverge.com/tech/996826/microsoft-xbox-disc-to-digital-history-notepad",
+      "summary": "When Xbox announced a new feature last month that lets you digitize existing physical game collections, I immediately thought of the Xbox One. Disc-to-digital seems like a clever new feature for Xbox, perfectly timed as a response to Sony killing PlayStation discs. But the reality is that it has been 15 years in the making [&#8230;]",
+      "published": "2026-09-17 16:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Camp Snap’s 110D gives slim retro film cameras a digital upgrade",
+      "url": "https://www.theverge.com/tech/996453/camp-snap-110d-digital-camera-retro-horizontal-kodak-100-film",
+      "summary": "Camp Snap is expanding its small collection of screenless digital point-and-shoot cameras with the new pocket-friendly 110D featuring a thin horizontal design first popularized by Kodak film cameras in the 1970s. The Camp Snap 110D is available for preorder starting today for $74.95 in back in black (black and gray) or dreamsicle (white and orange) [&#8230;]",
+      "published": "2026-09-17 15:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Your robotaxi might be a narc",
+      "url": "https://www.theverge.com/transportation/996863/robotaxi-waymo-police-privacy-surveillance",
+      "summary": "In early September, two teenagers got into a Waymo, but then ended up in the back of a police car. The robotaxi company said it detected \"a violation of our terms of service involving a firearm,\" pulled the car over, and alerted emergency services, according to the Los Angeles Times. Police arrested the passengers after [&#8230;]",
+      "published": "2026-09-17 15:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
+      "url": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
+      "summary": "Today, I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. As you’re no doubt aware, the biggest story in tech right now is the spiraling debate about AI safety and regulation.&#160; It should come as no surprise that Mustafa has strong opinions on how AI should be built and regulated. Microsoft just published a [&#8230;]",
+      "published": "2026-09-17 14:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "AI is feared globally as the destroyer of jobs",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs",
+      "summary": "Pew Research has published a new global survey that sheds light on how people view AI, including its impact on jobs, life in general, and income inequality. The survey questioned 42,151 people across 37 countries from February 8th to May 13th - well ahead of recent apocalyptic warnings. A majority sees AI as a threat [&#8230;]",
+      "published": "2026-09-17 14:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Lunacy Audio Nova is a place to build and sell your own AI-powered music plug-ins",
+      "url": "https://www.theverge.com/tech/996860/lunacy-audio-nova-ai-music-plugin-vst",
+      "summary": "Lunacy, purveyor of fine VST plug-ins like Cube, a synth that you control by moving a ball around a 3D space, has just launched Nova, a platform where creators can build custom music tools using AI and sell them to others. At first, there will be a handful of instruments available, built either by Lunacy [&#8230;]",
+      "published": "2026-09-17 14:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Bose’s next open earbuds have more bass, more volume, and more battery life",
+      "url": "https://www.theverge.com/tech/996341/bose-ultra-open-earbuds-second-gen-wireless-sport",
+      "summary": "Bose announced a new version of its Ultra Open Earbuds that helped kick off the industry trend of clip-on wireless earbuds nearly two-and-a-half years ago. The new Ultra Open Earbuds (2nd Gen) feature a subtle redesign with improved performance in both sound quality and battery life. They're also joined by a new cheaper alternative called [&#8230;]",
+      "published": "2026-09-17 13:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "城市漫步指南｜威海初秋，看海玩沙",
+      "url": "https://sspai.com/post/114557",
+      "summary": "9 月刚开渔，避开暑假，正是玩沙吃海鲜的好时节。而威海，胶东半岛尖端上的海滨小城，有历史厚重的一面，也有现代休闲的一面。多留几天给它，会有很丰富的度假体验。<a href=\"https://sspai.com/post/114557\" target=\"_blank\">查看全文</a>",
+      "published": "2026-09-17 09:47",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "具透 | macOS 27 正式版来了，这些是你值得了解新细节",
+      "url": "https://sspai.com/post/114643",
+      "summary": "除了只支持 Apple Silicon，macOS 27 Golden Gate 还有这些变化。<a href=\"https://sspai.com/post/114643\" target=\"_blank\">查看全文</a>",
+      "published": "2026-09-17 07:00",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "一个小创意的诞生：BeatBox 雪漫天外壳定制指南",
+      "url": "https://sspai.com/post/114451",
+      "summary": "今年早些时候，在少数派 × 飞傲联名 CD 机盖板设计大赛中，不少朋友都参与设计了自己的 CD 机盖板，但如何才能把它们制作出来呢？<a href=\"https://sspai.com/post/114451\" target=\"_blank\">查看全文</a>",
+      "published": "2026-09-17 03:11",
+      "source": "sspai.com",
+      "lang": "zh_cn",
       "category": "科技"
     },
     {
@@ -21,253 +300,10 @@
       "category": "科技"
     },
     {
-      "title": "Musk’s long-time backer is giving SpaceX stock to its investors",
-      "url": "https://techcrunch.com/2026/09/16/musks-long-time-backer-is-giving-spacex-stock-to-its-investors/",
-      "summary": "Valor Equity Partners is handing out stock to its LPs instead of cash returns.",
-      "published": "2026-09-16 23:50",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Al Gore says the real AI risk isn’t data centers — it’s what industry leaders are warning about",
-      "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
-      "summary": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.",
-      "published": "2026-09-16 23:43",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
-      "url": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
-      "summary": "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with things like work tasks and keeping track of travel information. It seems similar to AI assistants like Meta's Muse and Gemini's Spark, though Snap is pitching Specs Intelligence as an \"anticipatory AI service\" that \"helps you [&#8230;]",
-      "published": "2026-09-16 23:40",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "I wore Snap’s $2,200 smart glasses",
-      "url": "https://www.theverge.com/tech/996422/snap-specs-hands-on-ar-glasses",
-      "summary": "My favorite part of wearing the Specs, Snap's new augmented reality glasses, was playing dominoes. Sitting across the table from a Snap employee wearing the same pair of chunky glasses, I could select a virtual domino with a pinch and then move my hand to drop it in place, watching the tile snap down in [&#8230;]",
-      "published": "2026-09-16 23:40",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "OpenSpec – A lightweight and configurable AI spec framework",
-      "url": "https://openspec.dev/",
+      "title": "Wax motor",
+      "url": "https://en.wikipedia.org/wiki/Wax_motor",
       "summary": "",
-      "published": "2026-09-16 23:06",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "US automakers could soon be forced to include AM radio for free",
-      "url": "https://techcrunch.com/2026/09/16/us-automakers-could-soon-be-forced-to-include-am-radio-for-free/",
-      "summary": "The House of Representatives, in rare bipartisan support, overwhelmingly approved legislation that would require new vehicles to include AM radio.",
-      "published": "2026-09-16 22:37",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Noise wants to help everyday people  become paid content creators",
-      "url": "https://techcrunch.com/2026/09/16/noise-wants-to-help-everyday-people-become-paid-content-creators/",
-      "summary": "Marketing platform Noise is on a mission to help anyone with a smart phone make money from their content.",
-      "published": "2026-09-16 21:35",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Pulley, a Carta rival, is shutting down",
-      "url": "https://techcrunch.com/2026/09/16/pulley-a-carta-rival-is-shutting-down/",
-      "summary": "Cap table management platform Pulley, backed by General Catalyst, Stripe, and Founders Fund,   announced that it's closing shop in December.",
-      "published": "2026-09-16 21:23",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
-      "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
-      "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
-      "published": "2026-09-16 21:07",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
-      "url": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
-      "summary": "Christopher Nolan's engrossing take on The Odyssey dominated at the box office and spurred a newfound interest in classic literature among filmgoers. But a new retelling of the story made entirely with AI is so bad that it might just make viewers hate the original tale altogether. The new film, called Odysseus: The Fall, comes [&#8230;]",
-      "published": "2026-09-16 20:59",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
-      "url": "https://arxiv.org/abs/2609.16338",
-      "summary": "",
-      "published": "2026-09-16 20:59",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "The AI data center e-waste problem is huge — and getting bigger",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
-      "summary": "E-waste from the AI boom has been vastly underestimated, a new report warns. By 2050, it could become enough trash to fill 23 million shipping containers - roughly enough 40-foot containers to circle the world six times if lined up in a row. It's a significantly higher estimate of AI's e-waste than previous studies have [&#8230;]",
-      "published": "2026-09-16 20:40",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Backups Aren't Simple",
-      "url": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
-      "summary": "",
-      "published": "2026-09-16 20:27",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
-      "url": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
-      "summary": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?",
-      "published": "2026-09-16 20:12",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Xiaomi Mimo 2.6 live post-training dashboard",
-      "url": "https://mimo.xiaomi.com/rl/",
-      "summary": "",
-      "published": "2026-09-16 20:09",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "X will now let US users trade via Cashtags",
-      "url": "https://techcrunch.com/2026/09/16/x-will-now-let-u-s-users-trade-via-cashtags/",
-      "summary": "The move closes the gap between the market discussions taking place on the timeline, and the market itself.",
-      "published": "2026-09-16 19:57",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Automattic’s interim CEO and legal chief signed reciprocal severance deals during Mullenweg’s brief ouster",
-      "url": "https://techcrunch.com/2026/09/16/automattics-interim-ceo-and-legal-chief-signed-reciprocal-severance-deals-during-mullenwegs-brief-ouster/",
-      "summary": "CFO Mark Davies and legal chief Andy Missan signed each other’s severance agreements while Matt Mullenweg was on leave, providing a year of salary and additional equity vesting if their departures qualify for the benefits.",
-      "published": "2026-09-16 19:35",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Former Waymo CFO jumps to self-driving startup Wayve",
-      "url": "https://techcrunch.com/2026/09/16/former-waymo-cfo-jumps-to-self-driving-startup-wayve/",
-      "summary": "Elisa de Martel, who left her position as chief financial officer at Alphabet's autonomous vehicle company Waymo in January, will be based out of Silicon Valley.",
-      "published": "2026-09-16 19:02",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Training a 4B model to produce 81% faster query plans than Postgres",
-      "url": "https://rohanbansal.com/qorl",
-      "summary": "",
-      "published": "2026-09-16 18:50",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Hear why Science Corp CEO Max Hodak says the screen era is ending at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/16/hear-why-science-corp-ceo-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/",
-      "summary": "At this year's Disrupt, Science Corp CEO Max Hodak will present a vision for screen-free interfaces that can even offer medical help. Register before September 25 to save up to $200 on your pass.",
-      "published": "2026-09-16 18:45",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Resident Evil is a comedy first and a thrilling nightmare second",
-      "url": "https://www.theverge.com/entertainment/996416/resident-zach-cregger-review",
-      "summary": "When Paul W.S. Anderson's Resident Evil hit theaters in 2002, video game movies were largely seen as a niche. Films like Mortal Kombat and Tomb Raider had proven that big-screen game adaptations could be successful, but the commercial and critical failure of projects like the 1993 Super Mario Bros. still cast a long shadow. And [&#8230;]",
-      "published": "2026-09-16 18:45",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Walmart takes a bite off the cost of Metroid Ravenous physical preorders",
-      "url": "https://www.theverge.com/gadgets/996379/metroid-ravenous-preorder-deal-sale",
-      "summary": "The Metroid series is going back to its 2D roots again with Metroid Ravenous for the Nintendo Switch 2, the first side-scrolling game in the series since 2021’s Metroid Dread for the Nintendo Switch. If you’re already excited enough to consider preordering, you can save $10 on the physical version of the game when you [&#8230;]",
-      "published": "2026-09-16 18:20",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Apple might make servers again to cash in on the AI rush",
-      "url": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
-      "summary": "According to The Information, Apple is planning to get back into the server game and might just pair up with Nvidia to make it happen. Apple retired its Xserve line in 2011 and has largely left enterprise machines to other manufacturers since. But the growing demand for compute power as the AI industry continues to [&#8230;]",
-      "published": "2026-09-16 17:20",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Your ‘health age’ is fake",
-      "url": "https://www.theverge.com/column/995939/optimizer-health-age-wearables-longevity",
-      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. During last week's Apple Watch announcement, I let out a distinct \"Noooo!\" in the Steve Jobs Theater. Along with a [&#8230;]",
-      "published": "2026-09-16 17:00",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Google will now let any AI agent run your smart home",
-      "url": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
-      "summary": "Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data using the standardized Model Context Protocol. Google Home MCP is a new integration that lets third-party AI agents control and monitor your smart home and act on [&#8230;]",
-      "published": "2026-09-16 17:00",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Claude comes for Gemini with its own take on Docs and Slides",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
-      "summary": "Claude is getting a pair of new tools today: Docs and Slides. They'll let you create documents and presentations through Claude chats, which you can export, edit, and share with other users. As part of the announcement, Anthropic is also simplifying how Claude chats work, merging regular chats and Cowork into \"one Claude,\" with all [&#8230;]",
-      "published": "2026-09-16 16:30",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Small programming tricks",
-      "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
-      "summary": "",
-      "published": "2026-09-16 15:56",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Nvidia announces native GPU programming in Rust",
-      "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
-      "summary": "",
-      "published": "2026-09-16 11:15",
+      "published": "2026-09-16 12:35",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
@@ -300,19 +336,10 @@
       "category": "科技"
     },
     {
-      "title": "派早报：Steam Frame 开启预购、WPS 多端支持 Markdown 等",
-      "url": "https://sspai.com/post/114638",
-      "summary": "华为与问界调整鸿蒙智行合作模式，雅马哈发布 B200A 条形音箱等。<a href=\"https://sspai.com/post/114638\" target=\"_blank\">查看全文</a>",
-      "published": "2026-09-16 00:39",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "The engineering behind the US Strategic Petroleum Reserve",
-      "url": "https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve",
+      "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
+      "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
       "summary": "",
-      "published": "2026-09-15 22:15",
+      "published": "2026-09-15 17:28",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
@@ -331,33 +358,6 @@
       "url": "https://sspai.com/post/114565",
       "summary": "少数派在体验了新版系统之后，帮你整理了 iOS 27 中值得关注的新功能和新特性，希望帮你能了解新版系统的方方面面。<a href=\"https://sspai.com/post/114565\" target=\"_blank\">查看全文</a>",
       "published": "2026-09-15 07:00",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "开学季 | 学生理财的三条建议，学生党也可以一样理财",
-      "url": "https://sspai.com/post/47126",
-      "summary": "学生理财应是「理」字当头，培养收支的计划性是第一位，也恰恰是理财投资的基础。<a href=\"https://sspai.com/post/47126\" target=\"_blank\">查看全文</a>",
-      "published": "2026-09-15 03:10",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "派评｜近期值得关注的 App",
-      "url": "https://sspai.com/post/114577",
-      "summary": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀<a href=\"https://sspai.com/post/114577\" target=\"_blank\">查看全文</a>",
-      "published": "2026-09-14 09:24",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "Excel AI 辅助工作流横评：数据分析高手还是照葫芦画瓢？",
-      "url": "https://sspai.com/prime/story/ai-assisted-spreadsheeting-a-survey",
-      "summary": "用具体的测试数据和盲评结果，聊聊当下 AI 辅助制作 Excel 的真实水平，以及我使用 AI 辅助制作 Excel 的心得。<a href=\"https://sspai.com/prime/story/ai-assisted-spreadsheeting-a-survey\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a>，订阅后可阅读全文。</p>",
-      "published": "2026-09-14 08:35",
       "source": "sspai.com",
       "lang": "zh_cn",
       "category": "科技"
