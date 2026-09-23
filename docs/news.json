@@ -1,14 +1,311 @@
 {
-  "last_updated": "2026-09-22 02:07:25",
+  "last_updated": "2026-09-23 02:05:11",
   "total": 40,
   "articles": [
     {
-      "title": "Claude Status – Elevated errors for multiple models",
-      "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+      "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+      "summary": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward. On Monday, the company announced a new independent panel of mathematicians tasked with advising it and other AI companies on their interactions with mathematical research and the wider [&#8230;]",
+      "published": "2026-09-23 00:17",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "派早报：OPPO Find X10 系列发布、Beats 360 头戴式耳机发布等",
+      "url": "https://sspai.com/post/114889",
+      "summary": "高通发布两款第六代骁龙 8 旗舰芯片，Claude Opus 5.5 与 GPT-6 Sol/Luna 发布等。<a href=\"https://sspai.com/post/114889\" target=\"_blank\">查看全文</a>",
+      "published": "2026-09-22 23:30",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+      "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+      "summary": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
+      "published": "2026-09-22 23:21",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Paramount will need to release way more movies to make this merger work",
+      "url": "https://www.theverge.com/entertainment/999056/paramount-warner-bros-discovery-merger-annual-film-quota-guardrails",
+      "summary": "Now that Paramount has reached a settlement with the 12 states that were suing to block its $110 billion merger with Warner Bros. Discovery (WBD), the studio is even closer to becoming one of the world's biggest production houses. In addition to spending at least $300 million more on film and TV projects produced in [&#8230;]",
+      "published": "2026-09-22 22:26",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+      "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+      "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
+      "published": "2026-09-22 21:56",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
+      "url": "https://foxscript.org/",
       "summary": "",
-      "published": "2026-09-22 01:05",
+      "published": "2026-09-22 21:00",
       "source": "Hacker News",
       "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+      "summary": "Rabbit, the company behind the underwhelming R1 device, is rolling out a standalone AI agent that you don't need its hardware to use, as reported earlier by Wired. The startup says its new OS3 \"agentic operating system\" runs in the cloud but operates locally across Windows, Mac, and Linux devices. According to Rabbit, you can [&#8230;]",
+      "published": "2026-09-22 20:52",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Saudi Arabia’s new Exobot EVs make the Cybertruck look normal",
+      "url": "https://www.theverge.com/transportation/998791/ceer-ev-saudi-arabia-foxconn-exobot",
+      "summary": "The Kingdom of Saudi Arabia is mostly known for its global dominance over petroleum production and oil reserves - not necessarily cars and auto manufacturing, and certainly not electric vehicle production. So it was a little surprising on Monday when a Saudi startup called Ceer unveiled a pair of hyper-angular, spaceship-like EVs, with plans to [&#8230;]",
+      "published": "2026-09-22 20:14",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+      "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+      "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
+      "published": "2026-09-22 20:00",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Qualcomm’s Snapdragon 8 Elite Gen 6 comes in an Extreme version too",
+      "url": "https://www.theverge.com/gadgets/998842/qualcomm-snapdragon-8-elite-extreme-gen-6",
+      "summary": "Qualcomm has announced the Snapdragon 8 Elite Gen 6, this year joined by the 8 Elite Extreme Gen 6 too. The company describes both new phone chips as flagships, and the spec differences are relatively minor, mostly limited to improved AI processing, video capture, and gaming performance on the Extreme model. Both Gen 6 chips [&#8230;]",
+      "published": "2026-09-22 20:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Motorola’s wild-looking Signature 27 runs Qualcomm’s new Extreme chipset",
+      "url": "https://www.theverge.com/tech/998844/motorola-signature-27-specs-snapdragon-8-elite-extreme-gen-6",
+      "summary": "Motorola is the first company to announce a phone running Qualcomm's top-end Snapdragon 8 Elite Extreme Gen 6 chip. The Signature 27 looks set to be Motorola's most advanced flagship in some years, though we're still waiting for the full specs, price, and release date. Any prospective buyers will first have to get over the [&#8230;]",
+      "published": "2026-09-22 20:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Apple clarifies that Texture and Grain controls are exclusive to the latest iPhones’ cameras",
+      "url": "https://www.theverge.com/tech/998874/apple-iphone-18-pro-ios-27-camera-texture-grain-photographic-style",
+      "summary": "Apple's new texture and grain controls for stylizing photos will be more limited on older phones than initially expected. A confusingly worded press release from Apple indicated that the new features, announced alongside the iPhone 18 and 18 Pro earlier this month, would be \"available\" on older devices like the iPhone 16 and iPhone Air [&#8230;]",
+      "published": "2026-09-22 19:48",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Score free Pixel Buds 2A when you preorder a Googlebook at Best Buy",
+      "url": "https://www.theverge.com/gadgets/998932/googlebook-preorder-pixel-buds-2a-deal-sale",
+      "summary": "The Android-powered Googlebooks are coming soon, with familiar brands and specs that rival Windows Copilot machines. For anyone eager to get their hands on any the new laptops, there’s a preorder perk you may want to know about lasting until October 25th, 2026. When you add a Googlebook to your cart at Best Buy, a [&#8230;]",
+      "published": "2026-09-22 19:28",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Apple could take on Whoop with a new fitness tracker, report says",
+      "url": "https://techcrunch.com/2026/09/22/apple-could-take-on-whoop-with-a-new-fitness-tracker-report-says/",
+      "summary": "Apple may be developing a new fitness tracker as part of its new generation of hardware devices.",
+      "published": "2026-09-22 19:27",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
+      "url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+      "summary": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content.",
+      "published": "2026-09-22 19:09",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "SAML: A fractal of bad design",
+      "url": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
+      "summary": "",
+      "published": "2026-09-22 18:57",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Hacking group ShinyHunters claims it breached the FBI, stole agents’ and applicants’ data",
+      "url": "https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data/",
+      "summary": "The theft of agents' personal information could present a major counterintelligence threat, where agents and their families are extorted into cooperating with a foreign government.",
+      "published": "2026-09-22 18:40",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "a16z is challenging Silicon Valley’s love for drop-outs by launching a school",
+      "url": "https://techcrunch.com/2026/09/22/a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school/",
+      "summary": "This academy for promising high school grads is somewhere between a trade school, Y Combinator, and Peter Thiel's Fellowship Program.",
+      "published": "2026-09-22 18:24",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Save $30 on Apple’s Magic Keyboard with Touch ID and a numpad",
+      "url": "https://www.theverge.com/gadgets/998824/apple-magic-keyboard-touch-interstellar-4k-blu-ray-deal-sale",
+      "summary": "Until the end of the day on September 22nd, 2026, Best Buy and Amazon have the black Apple Magic Keyboard on sale for $169.99, a $30 discount from the usual price. This is the souped-up version of Apple’s full-size, wireless keyboard, with a Touch ID button, numerical pad, arrow keys, plus additional function keys. The [&#8230;]",
+      "published": "2026-09-22 18:10",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+      "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+      "summary": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra.",
+      "published": "2026-09-22 18:00",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "GPT-6 Sol and Luna",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+      "summary": "",
+      "published": "2026-09-22 18:00",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
+      "url": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
+      "summary": "",
+      "published": "2026-09-22 17:46",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "San Francisco sues Trump Media for selling early access to Trump posts",
+      "url": "https://www.theverge.com/tech/998914/trump-truth-social-api-lawsuit-san-francisco",
+      "summary": "San Francisco is suing the Trump Media &#38; Technology Group, the parent company behind Truth Social, for selling early access to President Donald Trump's posts on the social media site. The lawsuit, filed today in California state court, alleges that the Truth API feed is a \"corrupt business scheme\" that violates both California's Unfair Competition [&#8230;]",
+      "published": "2026-09-22 17:43",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Waymo’s latest expansion strategy: teenagers",
+      "url": "https://techcrunch.com/2026/09/22/waymos-latest-expansion-strategy-teenagers/",
+      "summary": "Waymo is opening its robotaxi service to teenagers aged 13 to 17 in Nashville, its second city to offer rides to minors.",
+      "published": "2026-09-22 17:36",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+      "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+      "summary": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
+      "published": "2026-09-22 16:30",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Claude Opus 5.5",
+      "url": "https://www.anthropic.com/claude-opus-5-5",
+      "summary": "",
+      "published": "2026-09-22 16:29",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Stolen passwords are exposing America’s water providers to hackers",
+      "url": "https://techcrunch.com/2026/09/22/stolen-passwords-are-exposing-americas-water-providers-to-hackers/",
+      "summary": "Researchers say another looming threat hangs over some of America's most important critical infrastructure.",
+      "published": "2026-09-22 15:50",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Noble Carbon will show how it’s making EV charger installs painless at TechCrunch Disrupt",
+      "url": "https://techcrunch.com/2026/09/22/noble-carbon-will-show-how-its-making-ev-charger-installs-painless-at-techcrunch-disrupt/",
+      "summary": "Noble Carbon has developed a smart circuit breaker that allows households to electrify without the pain of a main panel upgrade.",
+      "published": "2026-09-22 15:00",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "可定制、更出彩，头戴式耳机新选择：Beats 360 首发体验",
+      "url": "https://sspai.com/post/114878",
+      "summary": "在BeatsStudioPro发布3年之后，Beats终于想起来要更新一下自家头戴式耳机的旗舰款了，推出了全新的Beats360。值得一提的是，Beats不久前刚刚度过了成立后的20周年生日，Beat ...<a href=\"https://sspai.com/post/114878\" target=\"_blank\">查看全文</a>",
+      "published": "2026-09-22 14:00",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+      "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+      "summary": "",
+      "published": "2026-09-22 13:52",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "怀旧手记｜25 年前的笔记本，如何兼顾轻薄、时尚与性能？",
+      "url": "https://sspai.com/post/114551",
+      "summary": "黄金时代「时尚与科技结合」的浪漫。<a href=\"https://sspai.com/post/114551\" target=\"_blank\">查看全文</a>",
+      "published": "2026-09-22 08:11",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "App+1 | Coast：用十年经验，给记账这件事一个「终点」",
+      "url": "https://sspai.com/post/114479",
+      "summary": "从大学时代入不敷出开始记账，到 10 年后发现记账数据没有被充分利用，再到用 Vibe Coding 把自己的想法做成了一款 App——10 年的记账经验变成了产品设计的基础，而 Vibe Coding 让一个非技术出身的人有能力把这些想法实现出来。<a href=\"https://sspai.com/post/114479\" target=\"_blank\">查看全文</a>",
+      "published": "2026-09-22 06:39",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "What California is learning from solar panels built over irrigation canals",
+      "url": "https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals",
+      "summary": "",
+      "published": "2026-09-22 03:10",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "少数派独家｜泡泡骚 Low Pro 碳纹黑款，把握持与支撑收进 2.6mm",
+      "url": "https://sspai.com/post/114823",
+      "summary": "如果你关注了前段时间的少数派众测，应该已经见过PopSockets泡泡骚LowPro极薄站立支架。它是一款颠覆以往所有磁吸支架形态的产品，够薄、够轻，最重要的是足够好用。这款在活动中预告过的独家款支架 ...<a href=\"https://sspai.com/post/114823\" target=\"_blank\">查看全文</a>",
+      "published": "2026-09-22 02:44",
+      "source": "sspai.com",
+      "lang": "zh_cn",
       "category": "科技"
     },
     {
@@ -18,267 +315,6 @@
       "published": "2026-09-22 00:09",
       "source": "sspai.com",
       "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "A cut cable disrupted hundreds of flights across the US",
-      "url": "https://www.theverge.com/transportation/998550/a-cut-cable-disrupted-hundreds-of-flights-across-the-us",
-      "summary": "Hundreds of flights were cancelled or delayed on Monday after construction crews in New Jersey accidentally cut a Verizon fiber cable used for air traffic control. FAA Administrator Bryan Bedford said that a circuit failure led to the discovery of the severed fiber cable, ABC News reports. The outage hammered airports across the Northeast, causing [&#8230;]",
-      "published": "2026-09-21 23:48",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
-      "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
-      "summary": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
-      "published": "2026-09-21 23:44",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Amazon wants to help the Colorado River, but we still don’t know how much water the company uses",
-      "url": "https://www.theverge.com/tech/998539/amazon-data-center-water-conservation-colorado-river",
-      "summary": "Amazon plans to spend $20 million on water conservation projects along the Colorado River, a crucial but dwindling water supply for 40 million people in the Western US. The initiative comes as Amazon and other tech companies face mounting scrutiny over how much water their data centers use. Amazon has a goal of becoming water [&#8230;]",
-      "published": "2026-09-21 23:15",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Spymarks, Not Watermarks",
-      "url": "https://brand.io/article/spymarks/",
-      "summary": "",
-      "published": "2026-09-21 23:03",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "I don't want to read what you didn't write",
-      "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
-      "summary": "",
-      "published": "2026-09-21 22:30",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "California tightens rules on AI data center energy and water use",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
-      "summary": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. The package of laws requires the California Public Utilities Commission to introduce a new rate classification for data centers while forcing them to pay for upgrades to [&#8230;]",
-      "published": "2026-09-21 20:29",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-      "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
-      "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
-      "published": "2026-09-21 20:15",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Xiaomi MiMo v2.6",
-      "url": "https://mimo.xiaomi.com/mimo-v2-6",
-      "summary": "",
-      "published": "2026-09-21 20:12",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Transformers Explained Visually",
-      "url": "https://poloclub.github.io/transformer-explainer/",
-      "summary": "",
-      "published": "2026-09-21 19:43",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
-      "url": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
-      "summary": "Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab your ticket savings before prices go up on September 25 at 11:59 p.m. PT.",
-      "published": "2026-09-21 19:25",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
-      "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
-      "summary": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
-      "published": "2026-09-21 19:19",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "NASA’s Mars Sample Return mission is dead",
-      "url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
-      "summary": "",
-      "published": "2026-09-21 19:14",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google",
-      "url": "https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/",
-      "summary": "Future Google supplier Kairos Power inked a deal with Samsung C&#038;T to help build its first 50-megawatt nuclear power plant.",
-      "published": "2026-09-21 18:23",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Meta’s AI agent has been blocked from using Amazon.com",
-      "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
-      "summary": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why would they?",
-      "published": "2026-09-21 17:55",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "GM can’t ‘bring back’ Apple CarPlay because it never left",
-      "url": "https://www.theverge.com/transportation/998259/gm-apple-carplay-android-auto-phone-mirror-google",
-      "summary": "Last week, GM announced a new software experience for its upcoming Chevy Silverado and GMC Sierra trucks, including a new look for Apple CarPlay and Android Auto, the popular phone mirroring systems that the automaker made a big deal about removing from its electric vehicles in 2023. Naturally, this led to some confusion about whether [&#8230;]",
-      "published": "2026-09-21 17:47",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "X will now tell users when governments have forced it to limit their posts",
-      "url": "https://techcrunch.com/2026/09/21/x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts/",
-      "summary": "X is expanding its “Under the Hood” transparency tool to show when posts have been downranked or withheld in response to local laws and government demands, including which country made the request.",
-      "published": "2026-09-21 17:45",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Paramount settles lawsuit blocking $110 billion Warner Bros. merger",
-      "url": "https://www.theverge.com/entertainment/998302/paramount-warner-bros-discovery-merger-settlement",
-      "summary": "Paramount has reached a settlement with California and the 11 other states that sued to block its planned $110 billion acquisition of Warner Bros. Discovery. The settlement removes a major roadblock standing in the way of the massive media merger. According to the proposed consent decree filed with the court, it includes requirements like minimum [&#8230;]",
-      "published": "2026-09-21 17:42",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Oura’s $2.2B IPO is mostly a payday for existing shareholders",
-      "url": "https://techcrunch.com/2026/09/21/ouras-2-2b-ipo-is-mostly-a-payday-for-existing-shareholders/",
-      "summary": "Forerunner Ventures plans to sell its entire stake in Oura for as much as $1.26 billion, according to Oura's latest IPO filing.",
-      "published": "2026-09-21 16:45",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
-      "url": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
-      "summary": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss.",
-      "published": "2026-09-21 16:38",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Bungie says it’s ‘not done with Destiny’ and will bring back vaulted content",
-      "url": "https://www.theverge.com/news/998317/bungie-destiny-2-unvaulted-raids-campaigns-destinations",
-      "summary": "Months after seemingly giving up on Destiny 2, Bungie now says it's planning to restore vaulted content in the game like campaigns, destinations, and raids. The decision reverses the Destiny Content Vault that Bungie created six years ago, controversially removing older content from Destiny 2 that players had paid to access. \"We understand that removing [&#8230;]",
-      "published": "2026-09-21 16:35",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Grab an Xbox controller and a $50 Xbox gift card together for just $80",
-      "url": "https://www.theverge.com/gadgets/998207/xbox-controller-chromebook-usbc-charger-deal-sale",
-      "summary": "Newegg is hosting a bundle that includes Microsoft’s wireless Xbox controller (in black) and a $50 digital Xbox gift card together for $80. Given that this model typically sits around $50 to $60 depending on the color you want, this is a fantastic value since it essentially knocks its price down to $30. Another way [&#8230;]",
-      "published": "2026-09-21 15:13",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
-      "summary": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25 at 11:59 p.m. PT. Register now.",
-      "published": "2026-09-21 15:00",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
-      "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
-      "summary": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets, and other parts of the desktop experience.",
-      "published": "2026-09-21 14:39",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/",
-      "summary": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026. Lean in on this Builders Stage session. Save up to $200 before September 25.",
-      "published": "2026-09-21 14:30",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Attention is all you have",
-      "url": "https://alicegg.tech/2026/09/21/attention",
-      "summary": "",
-      "published": "2026-09-21 14:26",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "What Sun got wrong",
-      "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
-      "summary": "",
-      "published": "2026-09-21 14:03",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Can John Ternus find Apple’s next big thing?",
-      "url": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
-      "summary": "Today, I’m talking with Mark Gurman, who is the world’s best-sourced Apple reporter — both as Bloomberg’s chief Apple correspondent and the host of the upcoming podcast Power On.&#160; Earlier this month, Apple hosted its annual iPhone hardware event, virtually every detail of which was reported ahead of time by Mark. But this event was [&#8230;]",
-      "published": "2026-09-21 14:00",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
-      "url": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
-      "summary": "Apple is paying $250 million to settle claims that it failed to deliver an AI-upgraded Siri - and now, eligible iPhone owners can submit a claim for a payout. If you live in the US and purchased an iPhone 15 Pro, iPhone 15 Pro Max, or any iPhone 16 model between June 10th, 2024, and [&#8230;]",
-      "published": "2026-09-21 13:36",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Vivo’s X500 Pro Max has 17 stops of dynamic range and 4K240 slo-mo",
-      "url": "https://www.theverge.com/gadgets/998165/vivo-x500-pro-max-launch-specs-release-date-lofic-china",
-      "summary": "Vivo's new X500 flagship phones have arrived in China, and as usual the company's focus is firmly on photography. The X500 Pro Max - a new tier in its lineup - is the first phone to use new sensors and silicon from Sony and MediaTek that enable impressive dynamic range and slow-motion video recording. The [&#8230;]",
-      "published": "2026-09-21 13:16",
-      "source": "www.theverge.com",
-      "lang": "en",
       "category": "科技"
     },
     {
@@ -318,48 +354,12 @@
       "category": "科技"
     },
     {
-      "title": "当 AI 让执行力变得廉价，我们该拿什么脱颖而出？",
-      "url": "https://sspai.com/post/114519",
-      "summary": "当代码与设计的生产成本趋近于零，我们可以这样跳出工具的依赖，构建属于自己的优势和认知壁垒。<a href=\"https://sspai.com/post/114519\" target=\"_blank\">查看全文</a>",
-      "published": "2026-09-21 03:38",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "派早报：微软高管称 AI 爬取是人类历史上最大的劳动成果盗窃",
-      "url": "https://sspai.com/post/114788",
-      "summary": "<p>微软高管称 AI 爬取是人类历史上最大的劳动成果盗窃</p><p>12306 称第三方购票可能更慢或失败</p><p>特朗普提议为人工智能改名</p><p>谷歌在 Android 17 中加入 Pixel 独占的 API</p><p>iPhone 18 Pro Max 支持固件限制电量以便发运</p><p>苹果硬件工程副总裁表示不建议贴膜</p><p>看看就行的简讯</p><p>少数派的近期动态</p><p>你可能错过的好文章</p><a href=\"https://sspai.com/post/114788\" target=\"_blank\">查看全文</a>",
-      "published": "2026-09-20 22:26",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "觉来知打明钟未，忽听邻家叫佛声：佛国老挝行记",
-      "url": "https://sspai.com/post/114495",
-      "summary": "这是一趟水陆空三栖的旅行——在万象的街头巷尾无意间推门而入点了一份炸五花肉套饭，味道香上了头发根；在万荣连跳两天水，最高的 8 米跳台跳下来砸得屁股很疼，各种户外活动性价比拉满；琅勃拉邦的慢生活，从清晨薄雾中的布施开始到日落时分反射着金光的湄公河结束。<a href=\"https://sspai.com/post/114495\" target=\"_blank\">查看全文</a>",
-      "published": "2026-09-20 07:00",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "给电话加上「辅助驾驶」？我们想听听你的意见",
-      "url": "https://sspai.com/post/114717",
-      "summary": "会议开到一半，手机亮了：一个陌生号码。你盯着屏幕犹豫了几秒，不知道这会是推销、客户，还是外卖员。直接挂掉，又得惦记着会不会耽误正事；接起来，不方便说，聊完还得整理待办。轮到你主动打电话，也不轻松。邀约 ...<a href=\"https://sspai.com/post/114717\" target=\"_blank\">查看全文</a>",
-      "published": "2026-09-20 03:01",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "你的脸红是什么红：了解玫瑰痤疮",
-      "url": "https://sspai.com/post/114641",
-      "summary": "脸红发烫却没有小鹿乱撞，可能真不是什么好事……<a href=\"https://sspai.com/post/114641\" target=\"_blank\">查看全文</a>",
-      "published": "2026-09-19 07:00",
-      "source": "sspai.com",
-      "lang": "zh_cn",
+      "title": "ReBarUEFI: Resizable BAR for almost any UEFI system",
+      "url": "https://github.com/xCuri0/ReBarUEFI",
+      "summary": "",
+      "published": "2026-09-21 01:07",
+      "source": "Hacker News",
+      "lang": "en",
       "category": "科技"
     }
   ]
