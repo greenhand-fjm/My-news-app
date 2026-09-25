@@ -1,23 +1,266 @@
 {
-  "last_updated": "2026-09-24 01:54:33",
+  "last_updated": "2026-09-25 02:11:18",
   "total": 40,
   "articles": [
     {
-      "title": "Everything new coming to Meta’s AI agent Muse",
-      "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
-      "summary": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses.",
-      "published": "2026-09-24 01:13",
+      "title": "Microsoft is killing off the ‘Copilot Plus PC’ brand",
+      "url": "https://www.theverge.com/tech/1000495/microsoft-is-killing-off-the-copilot-plus-pc-brand",
+      "summary": "Remember when Microsoft wanted everyone to know that \"Copilot Plus PCs\" were the ones to get, because those were the PCs that that'd have enough built-in AI muscle to get things done? Two and a half years later, Microsoft and Qualcomm seem to be admitting the brand is already dead. Windows Central's Zac Bowden reports [&#8230;]",
+      "published": "2026-09-25 01:25",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Meta employees ordered ‘attorney/client privilege’ hats while fighting child safety disclosures",
+      "url": "https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats",
+      "summary": "Meta's lawyers have argued that certain evidence should be withheld from public view on the grounds of attorney-client privilege in the ongoing lawsuits over alleged harm to teens' safety and mental health. Lawyers suing the company said this week that the label has been applied far too broadly, while pointing to a recently unsealed document [&#8230;]",
+      "published": "2026-09-24 23:50",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Qualcomm’s new ‘Elite’ sound chip might finally deliver the Wi-Fi earbud dream",
+      "url": "https://www.theverge.com/tech/1000443/qualcomms-new-elite-sound-chip-might-finally-deliver-the-wi-fi-earbud-dream",
+      "summary": "What if your wireless earbuds - or audio glasses - could stream high-quality lossless audio that doesn't cut out when you leave your phone on the bedside charger or buried in the couch? Qualcomm's new Snapdragon Sound Elite Gen 2 is its first to integrate \"micro-power Wi-Fi 6E\" right into the chip, so they can [&#8230;]",
+      "published": "2026-09-24 23:42",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Waymo is scaling fast. Here’s what the fleet data shows.",
+      "url": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/",
+      "summary": "In the past month, Waymo has expanded its fleet in Texas by 49%. There are other hotspots as well.",
+      "published": "2026-09-24 23:24",
       "source": "techcrunch.com",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-      "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
-      "summary": "The tiny hardware device creates  another mobile home for its AI agent Muse.",
-      "published": "2026-09-24 00:46",
+      "title": "Microsoft puts Brad Smith in charge of communications",
+      "url": "https://www.theverge.com/news/1000374/microsoft-comms-pr-brad-smith-cela",
+      "summary": "Microsoft is moving its communications group out of marketing and into its Corporate, External, and Legal Affairs (CELA) organization. The surprise change will see Microsoft vice chair and president Brad Smith oversee communications, while the company searches for a replacement for Frank Shaw, chief communications officer, who is departing later this year. Microsoft CEO Satya [&#8230;]",
+      "published": "2026-09-24 22:08",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Nexterity wants to automate the hard, dangerous part of pipefitting",
+      "url": "https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/",
+      "summary": "The startup's robot can tighten or loosen four bolts at a time, and it fits in a Pelican case.",
+      "published": "2026-09-24 20:45",
       "source": "techcrunch.com",
       "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
+      "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+      "summary": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial expressions during conversations, but it's currently only available to Gemini Enterprise customers. As noted by Google, Live Avatar can transition between the 97 [&#8230;]",
+      "published": "2026-09-24 19:59",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+      "url": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
+      "summary": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
+      "published": "2026-09-24 19:15",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+      "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+      "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
+      "published": "2026-09-24 19:00",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Meet Feather, the startup building the ‘Android of robotics’ for developers",
+      "url": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/",
+      "summary": "Feather is betting on a customizable, $30,000 platform built for software developers.",
+      "published": "2026-09-24 18:52",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Sadly, this $1,549 RTX 5070-equipped gaming PC is a very good deal",
+      "url": "https://www.theverge.com/gadgets/1000122/cyberpowerpc-gaming-prebuilt-rtx-5070-core-i7-asrock-oled-monitor-deal-sale",
+      "summary": "While PC component prices remain high, you can save a good bit of money on a system by purchasing a prebuilt desktop. Walmart has a well-equipped CyberPowerPC gaming PC on sale for $1,549, almost $600 off its original price of $2,139. It’s powered by an Intel Core i7-14700KF processor, and paired with 32GB of 6000MHz [&#8230;]",
+      "published": "2026-09-24 18:19",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
+      "url": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
+      "summary": "The notice would allow Oracle to delay payments should the facility miss its 2028 target to come online.",
+      "published": "2026-09-24 18:11",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Jensen Huang talks about AI and climate change like a supervillain",
+      "url": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
+      "summary": "As Jensen Huang puts it, AI can help fight climate change - but only if it inflicts \"an enormous amount of pain and suffering\" first. The Nvidia CEO discussed the future of energy and AI's impact on our planet in the latest episode of The Ezra Klein Show. But his comments boil down to the [&#8230;]",
+      "published": "2026-09-24 18:04",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Meta is going to let you build games with AI right on your phone",
+      "url": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
+      "summary": "Meta has a new plan to get people to make games for its Horizon social platform. The company today announced two new development tools that will let you create games with AI prompts: Horizon Create, a mobile app, and Horizon Studio, a browser app that offers more granular controls. The apps will be available in [&#8230;]",
+      "published": "2026-09-24 17:52",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
+      "url": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
+      "summary": "Meta’s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion accessories.",
+      "published": "2026-09-24 17:39",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+      "url": "https://github.com/devdotfast/whiteboard",
+      "summary": "",
+      "published": "2026-09-24 17:21",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Muse will apparently let you download its entire filesystem",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
+      "summary": "A pair of developers say that with very little prompting, Meta's Muse will share its entire filesystem with you. Peter James and Jonny L. Saunders have said they both independently coaxed Muse into zipping up and sharing the entire contents of its root filesystem, Ubuntu system files, app templates, and internal documentation. Saunders posted on [&#8230;]",
+      "published": "2026-09-24 17:14",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Muse sure looks a lot like OpenClaw",
+      "url": "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
+      "summary": "We seem to be entering into an AI agent renaissance. Meta's new consumer-facing AI agent, Muse, topped the App Store charts soon after its release and has 600,000 daily active users in the US, by an Apptopia estimate. And AI agent platform Instinct, whose eponymous creator is fundraising at a $2.5 billion valuation, has been [&#8230;]",
+      "published": "2026-09-24 17:10",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Databricks buys Row Zero and is scouting for more startups to acquire",
+      "url": "https://techcrunch.com/2026/09/24/databricks-buys-row-zero-and-is-scouting-for-more-startups-to-acquire/",
+      "summary": "Databricks has bought cloud spreadsheet startup Row Zero, adding yet another acquisition to its 2026 shopping spree.",
+      "published": "2026-09-24 17:07",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
+      "url": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
+      "summary": "The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June.",
+      "published": "2026-09-24 17:00",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+      "url": "https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+      "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
+      "published": "2026-09-24 16:46",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "ElevenLabs’ CEO on margins, IPO timing, and telling customers they’re talking to a bot",
+      "url": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
+      "summary": "ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that — at least until getting a machine is what everyone expects anyway.",
+      "published": "2026-09-24 16:35",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Why is the liver so weirdly regenerative?",
+      "url": "https://dynomight.substack.com/p/liver",
+      "summary": "",
+      "published": "2026-09-24 16:23",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
+      "summary": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-row seat to one of the most intense startup pitch competitions.",
+      "published": "2026-09-24 16:03",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "F-Droid 2.0",
+      "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
+      "summary": "",
+      "published": "2026-09-24 15:26",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "新玩意 252｜少数派的编辑们最近买了啥？",
+      "url": "https://sspai.com/post/114954",
+      "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...<a href=\"https://sspai.com/post/114954\" target=\"_blank\">查看全文</a>",
+      "published": "2026-09-24 09:30",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "家庭饮品 DIY 指南（五）：特调咖啡及其他饮品",
+      "url": "https://sspai.com/prime/story/home-made-beverages-5",
+      "summary": "往期文章：（一）工欲善其事，必先利其器（二）常用液体物料推荐（三）常用固体物料推荐（四）奶昔、柠檬和茶系列配方这一篇的配方主要是特调咖啡和其他类饮品，特调咖啡中的咖啡液按照固定比例萃取Espresso ...<a href=\"https://sspai.com/prime/story/home-made-beverages-5\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a>，订阅后可阅读全文。</p>",
+      "published": "2026-09-24 08:20",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "微软在游戏行业的早期试水：一段与梦工厂的「梦幻联动」",
+      "url": "https://sspai.com/post/113823",
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/113823\" target=\"_blank\">查看全文</a>",
+      "published": "2026-09-24 07:06",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "古董电脑室十周年记：为什么我不再是收藏家（上）",
+      "url": "https://sspai.com/post/114395",
+      "summary": "站在十年的时间节点回望，2016 年知乎专栏「古董电脑室」的起点，其实并非一个怀旧的「博物馆」，而是一个试图在商业上寻找切口的「最小可行产品」（MVP）。然而，这场始于「市场验证」的创业实验，在随后的十年里，撞上了中国独特的社群生态与商业现实，最终将我推向了一个完全意想不到的方向，并彻底改变了我对「技术」和「收藏」的理解。<a href=\"https://sspai.com/post/114395\" target=\"_blank\">查看全文</a>",
+      "published": "2026-09-24 04:15",
+      "source": "sspai.com",
+      "lang": "zh_cn",
       "category": "科技"
     },
     {
@@ -30,244 +273,28 @@
       "category": "科技"
     },
     {
-      "title": "Meta is making a standalone Muse AI gadget",
-      "url": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
-      "summary": "Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of tonight's Meta Connect presentation. It looks almost like a chunky smartwatch without the strap - just a big screen, plus a little lanyard for [&#8230;]",
-      "published": "2026-09-24 00:15",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Meta Connect 2026: The 7 biggest announcements",
-      "url": "https://www.theverge.com/tech/999593/meta-connect-2026-everything-announced",
-      "summary": "Meta announced a slate of new wearables during its annual Meta Connect showcase on Wednesday. The star of the event was the new Meta VR Glasses, which pack virtual reality tech into a lightweight smart glasses-style frame with a tethered puck. Meta also announced new pairs of screen-free smart glasses, along with some new AI [&#8230;]",
-      "published": "2026-09-24 00:00",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Meta is trying VR glasses (again), this time with more IMAX",
-      "url": "https://techcrunch.com/2026/09/23/meta-is-trying-vr-glasses-again-this-time-with-more-imax/",
-      "summary": "Meta's return to the VR glasses realm comes with a promising combination of light weight form factor and enhanced entertainment options.",
-      "published": "2026-09-23 23:47",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Meta VR Glasses",
-      "url": "https://www.meta.com/vr-glasses/",
+      "title": "Show HN: Make cursed fonts like Times New Bastard",
+      "url": "https://bastardica.mitpit.com",
       "summary": "",
-      "published": "2026-09-23 23:47",
+      "published": "2026-09-23 22:53",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Meta’s next VR device isn’t a headset — it’s glasses",
-      "url": "https://www.theverge.com/tech/999517/meta-vr-glasses-connect-2026-hands-on",
-      "summary": "Meta is launching new VR hardware: a pair of glasses. The new Meta VR Glasses sit on your ears like a typical pair of glasses instead of being strapped over your head, but they still have immersive displays for watching movies, playing games, and getting work done. Imagine a pair of hefty black sunglasses with [&#8230;]",
-      "published": "2026-09-23 23:42",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Muse is coming to Meta smart glasses",
-      "url": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features",
-      "summary": "Just a couple of weeks after launching Muse, Meta announced that it's \"working on\" bringing the agent to its smart glasses, including the new glasses it unveiled at Meta Connect. Users will be able to activate Muse from their glasses by saying its name and ask it to handle tasks like guiding a workout, logging [&#8230;]",
-      "published": "2026-09-23 23:40",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Meta introduces camera-free AI glasses",
-      "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
-      "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
-      "published": "2026-09-23 23:39",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Meta ditches the camera on its newest smart glasses",
-      "url": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026",
-      "summary": "Walking around Meta Connect 2026, everyone's sporting smart glasses in all sorts of shapes, colors, and sizes. It's a marked difference here, a tech bubble where \"pervert glasses\" are not a concern. Outside Connect, the public backlash against wearable surveillance tech - a catchall term that encompasses not just smart glasses, but also smartwatches and [&#8230;]",
-      "published": "2026-09-23 23:37",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Vogue sent robots down the runway at Vogue World, and people were not impressed",
-      "url": "https://techcrunch.com/2026/09/23/vogue-sent-robots-down-the-runway-at-vogue-world-and-people-were-not-impressed/",
-      "summary": "Nothing says Italian craftsmanship like a Chinese robot doing a lasso to \"L'Amour Toujours.\"",
-      "published": "2026-09-23 23:33",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Meta is making Muse more powerful and will let you video chat with it, too",
-      "url": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026",
-      "summary": "Meta is quickly iterating on its new Muse AI agent, announcing a bunch of updates today that make the bot more capable and able to chat with you in more ways. Muse agents are getting their own email addresses that they can use for accomplishing tasks. You'll also be able to communicate with your Muse [&#8230;]",
-      "published": "2026-09-23 23:19",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Meta Connect 2026: The biggest news and announcements",
-      "url": "https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements",
-      "summary": "It&#8217;s about time for Meta Connect, the company&#8217;s annual product launch event. This year, given the company&#8217;s major focus on AI and wearables like smart glasses, it seems likely that we&#8217;ll see updates from CEO Mark Zuckerberg and his team on those categories. The company has been facing significant scrutiny because of how some users [&#8230;]",
-      "published": "2026-09-23 22:45",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
-      "url": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
+      "title": "Toyota is taking the Corolla electric",
+      "url": "https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/",
       "summary": "",
-      "published": "2026-09-23 22:45",
+      "published": "2026-09-23 22:37",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Linux support is coming to Snapdragon X2 Series",
-      "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
+      "title": "Rails World 2026 Opening Keynote [video]",
+      "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
       "summary": "",
-      "published": "2026-09-23 22:38",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch",
-      "url": "https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote",
-      "summary": "It's time once again for Meta's annual September product launch event, and The Verge is on the ground in Menlo Park to cover the show live. Meta says that today's keynote by Mark Zuckerberg will be about how \"Meta is building a future for everyone\" - something he wrote at length about in a recent [&#8230;]",
-      "published": "2026-09-23 22:30",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Anthropic says its biology lab has already found something big",
-      "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
-      "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
-      "published": "2026-09-23 22:17",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Mercury 2.5 LLM hits 770 tokens per second",
-      "url": "https://artificialanalysis.ai/models/mercury-2-5",
-      "summary": "",
-      "published": "2026-09-23 22:16",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "If Amazon doesn’t know how to eliminate carbon emissions, then who does?",
-      "url": "https://techcrunch.com/2026/09/23/if-amazon-doesnt-know-how-to-eliminate-carbon-emissions-then-who-does/",
-      "summary": "Amazon is one of the largest companies in the world. How much responsibility does it have to meet its net-zero pledge?",
-      "published": "2026-09-23 21:21",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "VSCode's SSH Agent Is Bananas (2025)",
-      "url": "https://fly.io/blog/vscode-ssh-wtf/",
-      "summary": "",
-      "published": "2026-09-23 21:01",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "VC firm Bessemer now has another $5.75B to invest in (what else?) AI",
-      "url": "https://techcrunch.com/2026/09/23/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai/",
-      "summary": "The VC firm says that AI-native companies are growing faster than any technology, ever.",
-      "published": "2026-09-23 20:35",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Microsoft refreshes its smaller Surface Pro and Laptop with Qualcomm’s X2 Plus",
-      "url": "https://www.theverge.com/news/999195/microsoft-surface-pro-12-inch-surface-laptop-13-inch-qualcomm-x2-plus",
-      "summary": "Microsoft is refreshing its Surface Pro 12-inch and Surface Laptop 13-inch devices with Qualcomm's latest Snapdragon X2 Plus chips. The smaller Surface devices retain the same design and hardware features from last year, with faster and more capable chips inside and higher price tags (thanks RAMageddon!). While the 12-inch Surface Pro started at $799.99 last [&#8230;]",
-      "published": "2026-09-23 20:30",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Microsoft’s new Surface Mouse has haptic feedback and a customizable action button",
-      "url": "https://www.theverge.com/news/999211/microsoft-surface-mouse-haptic-feedback",
-      "summary": "Microsoft is launching a second generation of its Surface Mouse next month that includes haptic feedback support. The Surface Mouse also has a customizable action button for the first time, which is primarily designed for quick access to Copilot (of course), but can be configured to work with other shortcuts from the Surface app. \"Its [&#8230;]",
-      "published": "2026-09-23 20:30",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
-      "url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
-      "summary": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.",
-      "published": "2026-09-23 19:31",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Modal Motors is trying to cut China out of electric motors entirely",
-      "url": "https://techcrunch.com/2026/09/23/modal-motors-is-trying-to-cut-china-out-of-electric-motors-entirely/",
-      "summary": "The startup is working on small, light motors with no rare-earth magnets that are suited for drones, fans, and robots.",
-      "published": "2026-09-23 19:05",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Disney+ and Hulu add to the growing trend of streaming inflation",
-      "url": "https://techcrunch.com/2026/09/23/disney-and-hulu-add-to-the-growing-trend-of-streaming-inflation/",
-      "summary": "At the same time, Disney appears to be exploring new ways to expand its streaming business beyond simply raising subscription prices.",
-      "published": "2026-09-23 18:06",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-      "summary": "",
-      "published": "2026-09-23 18:06",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "The old cybersecurity model is breaking",
-      "url": "https://techcrunch.com/video/the-old-cybersecurity-model-is-breaking/",
-      "summary": "As concern over AI safety and rogue agents continue to make headlines, it’s no surprise that cybersecurity stocks are rising, or that investors are pouring massive amounts of capital into startups trying to build the next generation of security for an AI-native world.&#160;We’re&#160;even seeing companies like&#160;Instinct&#160;and&#160;Simile&#160;bring in nine-figure checks and valuations that&#160;wouldn&#8217;t&#160;have made sense a [&#8230;]",
-      "published": "2026-09-23 17:44",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Fixing the Portobello Police Station Clock",
-      "url": "https://pointinthecloud.com/2026-04-11-211700.html",
-      "summary": "",
-      "published": "2026-09-23 15:18",
+      "published": "2026-09-23 15:33",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
@@ -300,15 +327,6 @@
       "category": "科技"
     },
     {
-      "title": "派早报：OPPO Find X10 系列发布、Beats 360 头戴式耳机发布等",
-      "url": "https://sspai.com/post/114889",
-      "summary": "高通发布两款第六代骁龙 8 旗舰芯片，Claude Opus 5.5 与 GPT-6 Sol/Luna 发布等。<a href=\"https://sspai.com/post/114889\" target=\"_blank\">查看全文</a>",
-      "published": "2026-09-22 23:30",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
       "title": "可定制、更出彩，头戴式耳机新选择：Beats 360 首发体验",
       "url": "https://sspai.com/post/114878",
       "summary": "在BeatsStudioPro发布3年之后，Beats终于想起来要更新一下自家头戴式耳机的旗舰款了，推出了全新的Beats360。值得一提的是，Beats不久前刚刚度过了成立后的20周年生日，Beat ...<a href=\"https://sspai.com/post/114878\" target=\"_blank\">查看全文</a>",
@@ -318,46 +336,28 @@
       "category": "科技"
     },
     {
-      "title": "怀旧手记｜25 年前的笔记本，如何兼顾轻薄、时尚与性能？",
-      "url": "https://sspai.com/post/114551",
-      "summary": "黄金时代「时尚与科技结合」的浪漫。<a href=\"https://sspai.com/post/114551\" target=\"_blank\">查看全文</a>",
-      "published": "2026-09-22 08:11",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "Coast：用十年经验，给记账这件事一个「终点」",
-      "url": "https://sspai.com/post/114479",
-      "summary": "从大学时代入不敷出开始记账，到 10 年后发现记账数据没有被充分利用，再到用 Vibe Coding 把自己的想法做成了一款 App——10 年的记账经验变成了产品设计的基础，而 Vibe Coding 让一个非技术出身的人有能力把这些想法实现出来。<a href=\"https://sspai.com/post/114479\" target=\"_blank\">查看全文</a>",
-      "published": "2026-09-22 06:39",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "The \"Windows XP Box\" (2003)",
-      "url": "https://www.mini-itx.com/projects/windowsxpbox/",
+      "title": "2DWillNeverDie",
+      "url": "https://2dwillneverdie.com/",
       "summary": "",
-      "published": "2026-09-22 03:09",
+      "published": "2026-09-22 14:00",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "少数派独家｜泡泡骚 Low Pro 碳纹黑款，把握持与支撑收进 2.6mm",
-      "url": "https://sspai.com/post/114823",
-      "summary": "如果你关注了前段时间的少数派众测，应该已经见过PopSockets泡泡骚LowPro极薄站立支架。它是一款颠覆以往所有磁吸支架形态的产品，够薄、够轻，最重要的是足够好用。这款在活动中预告过的独家款支架 ...<a href=\"https://sspai.com/post/114823\" target=\"_blank\">查看全文</a>",
-      "published": "2026-09-22 02:44",
-      "source": "sspai.com",
-      "lang": "zh_cn",
+      "title": "Fearless SIMD v1.0",
+      "url": "https://linebender.org/blog/fearless-simd-1-0/",
+      "summary": "",
+      "published": "2026-09-22 12:23",
+      "source": "Hacker News",
+      "lang": "en",
       "category": "科技"
     },
     {
-      "title": "派早报：vivo 发布 X500 系列，Google 推出首批 Googlebook 等",
-      "url": "https://sspai.com/post/114840",
-      "summary": "少数派的近期动态少数派会员2026周边现已开放兑换，点击兑换给电话加上「辅助驾驶」？我们想听听你的意见。我们将从提交的问卷中挑选40份用心回答，每份送出50元面值京东卡。参与调研口袋先知新版本1.3. ...<a href=\"https://sspai.com/post/114840\" target=\"_blank\">查看全文</a>",
-      "published": "2026-09-22 00:09",
+      "title": "怀旧手记｜25 年前的笔记本，如何兼顾轻薄、时尚与性能？",
+      "url": "https://sspai.com/post/114551",
+      "summary": "黄金时代「时尚与科技结合」的浪漫。<a href=\"https://sspai.com/post/114551\" target=\"_blank\">查看全文</a>",
+      "published": "2026-09-22 08:11",
       "source": "sspai.com",
       "lang": "zh_cn",
       "category": "科技"
