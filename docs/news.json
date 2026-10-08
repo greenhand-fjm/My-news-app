@@ -1,264 +1,282 @@
 {
-  "last_updated": "2026-10-07 02:58:25",
+  "last_updated": "2026-10-08 03:15:24",
   "total": 40,
   "articles": [
     {
-      "title": "Strands Decider 2B: a small, open-source, decision model",
-      "url": "https://strandsagents.com/blog/introducing-strands-decider/",
+      "title": "App Store 生态规模五年翻倍，助力中国开发者走向全球",
+      "url": "https://sspai.com/post/115462",
+      "summary": "10月8日，Apple发布《中国AppStore生态系统——2025年开发者与用户价值研究》。这份由Apple提供支持、上海财经大学商学院副教授居恒与安诺析思国际咨询公司经济学家MarkusvonWa ...<a href=\"https://sspai.com/post/115462\" target=\"_blank\">查看全文</a>",
+      "published": "2026-10-08 01:47",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "派早报：微软发布 Windows 相关新品、Google AI 新闻两则等",
+      "url": "https://sspai.com/post/115455",
+      "summary": "Anthropic 推出 Claude for Google Workspace、Reflection 发布首个开放权重模型 Beam 等。<a href=\"https://sspai.com/post/115455\" target=\"_blank\">查看全文</a>",
+      "published": "2026-10-08 00:16",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
+      "url": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
+      "summary": "Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks.",
+      "published": "2026-10-07 23:36",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders ‘elsewhere’",
+      "url": "https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/",
+      "summary": "Endeavor Catalyst just raised $320 million to keep backing founders outside Silicon Valley. Half the profits go back to the nonprofit that finds them.",
+      "published": "2026-10-07 22:59",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "BMW’s iX4 SUV is a 428-mile defensive weapon against China’s EV takeover",
+      "url": "https://www.theverge.com/transportation/1006837/bmw-ix4-ev-range-price-specs-tesla-china",
+      "summary": "While much of the automotive world sits dumbfounded as China gobbles up all its customers, BMW continues to roll out extremely well-crafted, technologically advanced electric vehicles that impress in both drive quality and price. The latest is the BMW iX4, a coupe-shaped SUV that puts a sportier spin on the automaker's iX3. The iX4 is [&#8230;]",
+      "published": "2026-10-07 22:01",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Teenage Engineering’s CEO says it’ll stop making synths",
+      "url": "https://www.theverge.com/gadgets/1007489/teengage-engineering-stop-making-synths",
+      "summary": "Teenage Engineering founder and CEO Jesper Kouthoofd told Highsnobiety that it plans to stop making synths. And yes, that includes the iconic OP-1, which put the company on the map. TE isn't just a music gear maker; it's also a sought-after design firm. It's collaborated with Ikea, Nothing, and Playdate, among others. But almost everything [&#8230;]",
+      "published": "2026-10-07 21:19",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Margaret Hamilton has died",
+      "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
       "summary": "",
-      "published": "2026-10-07 02:02",
+      "published": "2026-10-07 21:16",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)",
-      "url": "https://github.com/boykopovar/AnyPS5",
+      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+      "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+      "summary": "The developer of Hermes Agent raised a $90 million Series B.",
+      "published": "2026-10-07 20:48",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Android&#8217;s physical navigation buttons are back on Googlebooks, but not the way you think",
+      "url": "https://www.theverge.com/tech/1007409/androids-physical-navigation-buttons-are-back-on-googlebooks-but-not-the-way-you-think",
+      "summary": "A common misconception I've seen with Googlebooks is that the Quick Insert and Google logo keys are new. They're not, as they first debuted a couple of years ago on some Chromebooks. But there is something new for Googlebooks that's ripped straight from Android phones circa 2014. On every Googlebook keyboard, the F1, F2, and [&#8230;]",
+      "published": "2026-10-07 20:44",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "We found some great October Prime Day deals under $50",
+      "url": "https://www.theverge.com/gadgets/1007110/october-prime-day-budget-deals-under-50",
+      "summary": "Getting in on the Prime Day action doesn’t have to result in an empty wallet. Just as we found a couple handfuls of goodies that are under $25, there are plenty of deals during Amazon’s October sale that are $50 or less, many of which offer a lot of practical value. Everything from chargers to [&#8230;]",
+      "published": "2026-10-07 20:30",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+      "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+      "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+      "published": "2026-10-07 20:22",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "'Jonathan' is the oldest land animal on Earth",
+      "url": "https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/",
       "summary": "",
-      "published": "2026-10-06 23:28",
+      "published": "2026-10-07 20:01",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "OpenAI drops another batch of mathematical breakthroughs",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
-      "summary": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a run of breakthroughs that have both impressed and unsettled parts of the mathematical community while raising questions about research ethics and [&#8230;]",
-      "published": "2026-10-06 23:26",
+      "title": "Roku’s OLED TVs are up to $400 off during Prime Day, starting at $700",
+      "url": "https://www.theverge.com/gadgets/1007149/roku-oled-tv-pro-prime-day-deal-sale",
+      "summary": "Just over a week ago, we covered a deal at Amazon that knocked around 30 percent off Roku’s new (and first-ever) OLED TVs. The deal expired, but has returned for the final day of October Prime Day. The 55-inch Pro Series OLED is $699.99 at Amazon, which is 30 percent off its list price. The [&#8230;]",
+      "published": "2026-10-07 19:27",
       "source": "www.theverge.com",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "How to find out if Amazon thinks you have ‘flat buttocks’",
-      "url": "https://techcrunch.com/2026/10/06/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks/",
-      "summary": "\"I stumbled upon a page of assumptions that Amazon has made about me based on my purchases and I’m literally speechless,\" one shopper wrote on Threads.",
-      "published": "2026-10-06 22:55",
+      "title": "ChatGPT&#8217;s &#8216;Intelligent UI&#8217; update fills its responses with pictures, charts, and buttons",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+      "summary": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users alongside GPT-6, gives ChatGPT the ability to combine a text response with diagrams, charts, forms, tappable buttons, and more. In a blog post explaining the [&#8230;]",
+      "published": "2026-10-07 19:10",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The first Nvidia RTX Spark laptops cost up to $7,000",
+      "url": "https://www.theverge.com/gadgets/1007040/nvidias-powerful-rtx-spark-laptops-can-cost-up-to-7000",
+      "summary": "The first array of laptops powered by Nvidia's new RTX Spark chip are designed to compete with high-end MacBook Pros - and they've got some high-end prices to match. The flagship Surface Laptop Ultra and RTX Spark laptops from Dell, Lenovo, MSI, HP, and Asus start as low as $2,599 for configurations with an 18-core [&#8230;]",
+      "published": "2026-10-07 19:05",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "It appears .agent and .agi are about to be the hot new domains",
+      "url": "https://www.theverge.com/tech/1007132/icann-domains-2026-ai-agi",
+      "summary": "For the first time in years, the Internet Corporation for Assigned Names and Numbers - better known as ICANN - is accepting applications for new top-level domains. These are the suffixes at the end of all URLs, and you may know them as things like .com, .org, and .pizza. ICANN just announced the 1,615 applications [&#8230;]",
+      "published": "2026-10-07 18:46",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Everything announced at Microsoft&#8217;s Surface Laptop Ultra event",
+      "url": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced",
+      "summary": "Microsoft just wrapped up a big Windows and Surface-focused keynote in San Francisco. The biggest announcement was arguably the release details about the Surface Laptop Ultra, its new laptop that&#8217;s powered by Nvidia&#8217;s RTX Spark Arm-based chip. The machine will start at $2,599 for a configuration with an 8-core CPU, 24GB of RAM, and 512GB [&#8230;]",
+      "published": "2026-10-07 18:42",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
+      "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+      "summary": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
+      "published": "2026-10-07 18:30",
       "source": "techcrunch.com",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell",
-      "url": "https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/",
-      "summary": "Apple appears poised to push into the smart home market with a slate of new devices and a key partner.",
-      "published": "2026-10-06 22:53",
+      "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+      "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+      "summary": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself.",
+      "published": "2026-10-07 18:15",
       "source": "techcrunch.com",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
-      "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
-      "summary": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
-      "published": "2026-10-06 22:34",
+      "title": "X expands its ‘Gametime’ sports hub beyond the NFL, starting with MLB",
+      "url": "https://techcrunch.com/2026/10/07/x-expands-its-gametime-sports-hub-beyond-the-nfl-starting-with-mlb/",
+      "summary": "X is turning its NFL-focused Gametime feature into a year-round sports destination, starting with MLB and with other professional leagues to follow.",
+      "published": "2026-10-07 18:10",
       "source": "techcrunch.com",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Sharing AI progress in mathematics",
-      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "title": "Microsoft is giving Copilot more control over Windows and your files",
+      "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
+      "summary": "At today's Windows and Surface event, Microsoft showed off an upgrade to its Copilot AI system that will give it access to local files on your PC and the ability to take actions across the OS. It's part of an idea Microsoft is calling \"Hybrid Intelligence,\" where apps and tools rely on a mix of [&#8230;]",
+      "published": "2026-10-07 18:01",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Claude Haiku 5.5",
+      "url": "https://www.anthropic.com/claude-haiku-5-5",
       "summary": "",
-      "published": "2026-10-06 22:17",
+      "published": "2026-10-07 18:01",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Xbox has secured exclusive GTA 6 streaming rights",
-      "url": "https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights",
-      "summary": "Xbox CEO Asha Sharma told employees that Microsoft is getting ready to do something around Grand Theft Auto VI that \"no other platform holder is doing\" during an employee all-hands this morning. According to sources familiar with Microsoft's plans, Sharma's brief teaser was actually about Xbox managing to land a deal for the exclusive game [&#8230;]",
-      "published": "2026-10-06 22:12",
-      "source": "www.theverge.com",
+      "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+      "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+      "summary": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
+      "published": "2026-10-07 18:00",
+      "source": "techcrunch.com",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "The best robot vacuum and mop deals during October Prime Day",
-      "url": "https://www.theverge.com/gadgets/1006059/robot-vacuum-mop-roborock-qrevo-prime-day-deal-sale",
-      "summary": "Spending too much time constantly sweeping and mopping? If you have the money to delegate those chores to a robot cleaner, you could save a lot of personal time. Thankfully, it’s cheaper than usual to buy a robot vacuum / mop hybrid during Amazon’s Prime Big Deal Days, and some of our favorite models are [&#8230;]",
-      "published": "2026-10-06 22:00",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Penguin Mail – open-source Rust email client for Linux with AI",
-      "url": "https://penguin-mail.com/",
+      "title": "GPT‑6 and Intelligent UI for everyone",
+      "url": "https://openai.com/index/gpt-6-for-everyone/",
       "summary": "",
-      "published": "2026-10-06 21:59",
+      "published": "2026-10-07 18:00",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Apple and LG team up on new smart home gear, starting with a lock, doorbell, and thermostat",
-      "url": "https://www.theverge.com/news/1006238/apple-lg-homekit-rumor-fcc",
-      "summary": "Apple is collaborating with LG on a new lineup of smart home devices, including a video doorbell, thermostat, indoor camera, and more, according to a report from Bloomberg. The products will reportedly feature LG branding but integrate with the company's rumored smart home hub that's expected to launch during an event on October 13th. Sources [&#8230;]",
-      "published": "2026-10-06 21:39",
-      "source": "www.theverge.com",
+      "title": "Greenairy is building smart plant towers to clean the air in your office",
+      "url": "https://techcrunch.com/2026/10/07/greenairy-is-building-smart-plant-towers-to-clean-the-air-in-your-office/",
+      "summary": "As it turns out, the cure for stuffy, chemical-infused office air might be a tower of leafy greenery.",
+      "published": "2026-10-07 17:30",
+      "source": "techcrunch.com",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Sebastian Maniscalco’s SiriusXM channel is hurting up-and-coming talent, comics say",
-      "url": "https://www.theverge.com/entertainment/1006221/sebastian-maniscalco-siriusxm-channel-controversy",
-      "summary": "Comedian Sebastian Maniscalco is facing backlash from fellow comics who claim his takeover of SiriusXM's Raw Comedy channel is harming up-and-coming talent, as reported earlier by Deadline. Many established comics, including Patton Oswalt and Margaret Cho, have posted videos online calling on Maniscalco to carry on Raw Comedy's legacy by highlighting newer comedians on his [&#8230;]",
-      "published": "2026-10-06 21:10",
-      "source": "www.theverge.com",
+      "title": "CIA officer admits to creating fake top secret government program to steal over $190M, including gold bars",
+      "url": "https://techcrunch.com/2026/10/07/cia-officer-admits-to-creating-fake-top-secret-government-program-to-steal-over-190-million-including-gold-bars/",
+      "summary": "CIA officer David Rush, who worked on highly sensitive intelligence programs, reached a plea deal with U.S. prosecutors after he was caught siphoning money and gold with a fake government contract.",
+      "published": "2026-10-07 17:04",
+      "source": "techcrunch.com",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Decisions API is in public beta",
-      "url": "https://developers.openai.com/api/docs/guides/decisions",
+      "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
+      "url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
+      "summary": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.",
+      "published": "2026-10-07 16:53",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
+      "url": "https://bigwords.page/",
       "summary": "",
-      "published": "2026-10-06 20:57",
+      "published": "2026-10-07 15:44",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet",
-      "url": "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/",
-      "summary": "Sigil Wen, backed by a Silicon Valley who's who, has built an on-device AI assistant that promises to be free, fully private, and capable for everyday tasks.",
-      "published": "2026-10-06 20:47",
+      "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
+      "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
+      "summary": "The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures.",
+      "published": "2026-10-07 15:07",
       "source": "techcrunch.com",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Tesla&#8217;s Model 3 and Model Y can be a backup battery for your house",
-      "url": "https://www.theverge.com/transportation/1006193/tesla-model-3-model-y-powershare-home-backup",
-      "summary": "Some Tesla Model 3 and Model Y owners can use their EV battery to keep the lights on longer during a power outage, now that Tesla's expanding the Powershare Home Backup feature. It was previously only available on the Cybertruck, and also requires owning Tesla's Powerwall 3. However, support for the Powerwall 2 and Powerwall [&#8230;]",
-      "published": "2026-10-06 20:37",
-      "source": "www.theverge.com",
-      "lang": "en",
+      "title": "罗马：永恒之城，永恒于世",
+      "url": "https://sspai.com/post/114845",
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/114845\" target=\"_blank\">查看全文</a>",
+      "published": "2026-10-07 03:00",
+      "source": "sspai.com",
+      "lang": "zh_cn",
       "category": "科技"
     },
     {
-      "title": "How AI decision models could change content moderation",
-      "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
-      "summary": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
-      "published": "2026-10-06 20:35",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Google’s power-hungry data centers crave nuclear energy",
-      "url": "https://www.theverge.com/science/1006082/google-nuclear-energy-power-purchase-agreement-constellation",
-      "summary": "Google announced a new agreement to update six nuclear power plant sites across the US as the tech giant seeks to generate more electricity for its power-hungry data centers. Google signed the 20-year deal with Constellation, the leading nuclear power plant operator in the US. The power purchase agreement is meant to guarantee the revenue [&#8230;]",
-      "published": "2026-10-06 20:32",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
-      "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
-      "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
-      "published": "2026-10-06 20:00",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Amazon’s last-gen Kindle Paperwhite is 30 percent off",
-      "url": "https://www.theverge.com/gadgets/1006020/amazon-kindle-paperwhite-prime-day-deal-sale",
-      "summary": "Calling something “last-gen” usually means it comes with big compromises compared to the latest version. That’s not as true for the last-gen Kindle Paperwhite as it is with some other tech. The newer version can open books 30 percent faster (not the same as page-turning speed), and its aluminum design is a millimeter thinner — [&#8230;]",
-      "published": "2026-10-06 20:00",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "The next hurdle for AI agents: getting websites to let them in",
-      "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
-      "summary": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help.",
-      "published": "2026-10-06 19:56",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Save on MacBooks, iPads and Apple Watches during October Prime Day",
-      "url": "https://www.theverge.com/gadgets/1005662/apple-ipad-macbook-airpod-prime-day-deal-sale",
-      "summary": "Amazon’s October Big Deal Days are underway (lasting through tomorrow night), and we spotted a ton of Apple products and accessories in the sale, ranging from laptops and headphones to desktops and more. Some of the deals are only for Prime members, but other retailers are often matching or beating Amazon’s prices, and we’ll continue [&#8230;]",
-      "published": "2026-10-06 19:30",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Two mystery PlayStation products have leaked — one might be a PlayStation Portal OLED",
-      "url": "https://www.theverge.com/games/1006092/playstation-portal-oled-wi-fi-alliance-certifications",
-      "summary": "Is Sony about to announce a new PlayStation Portal game streaming handheld? The Wi-Fi Alliance recently certified two unannounced PlayStation products of some kind, and the certification documents indicate that they could be updates to the PlayStation Portal, which might mean we're getting the OLED screen rumored earlier this year. The two devices, which are [&#8230;]",
-      "published": "2026-10-06 19:12",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Hark releases an AI personal assistant with a focus on privacy",
-      "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
-      "summary": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
-      "published": "2026-10-06 18:22",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "India’s JioHotstar takes partnership route for Middle East expansion",
-      "url": "https://techcrunch.com/2026/10/06/indias-jiohotstar-takes-partnership-route-for-middle-east-expansion/",
-      "summary": "JioHotstar will be offered inside Starzplay rather than through a stand-alone service.",
-      "published": "2026-10-06 17:14",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Mirror Particle is building a ‘world model’ of human behavior",
-      "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
-      "summary": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.",
-      "published": "2026-10-06 16:35",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Furientis lands $25M from Benchmark to mass-produce low-cost missile interceptors",
-      "url": "https://techcrunch.com/2026/10/06/furientis-lands-25m-from-benchmark-to-mass-produce-low-cost-missile-interceptors/",
-      "summary": "The storied Silicon Valley firm makes its first pure defense investment.",
-      "published": "2026-10-06 16:29",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Learn all about scaling, fundraising, founder how-tos, and more at TechCrunch Founder Summit, November 4",
-      "url": "https://techcrunch.com/2026/10/06/learn-all-about-scaling-fundraising-founder-how-tos-and-more-at-techcrunch-founder-summit-november-4/",
-      "summary": "There isn’t a single manual to read or prompt to give an LLM that can equip you with the skills and knowledge to build a company. But on November 4, TechCrunch Founder Summit gives founders the next-best thing: A packed day at Boston's SoWa Power Station, where investors and operators share how they've navigated crucial decisions.",
-      "published": "2026-10-06 16:18",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+      "title": "Cleo (Mathematician)",
+      "url": "https://en.wikipedia.org/wiki/Cleo_(mathematician)",
       "summary": "",
-      "published": "2026-10-06 16:03",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Mistral Large 4",
-      "url": "https://mistral.ai/news/mistral-large-4/\\",
-      "summary": "",
-      "published": "2026-10-06 13:15",
+      "published": "2026-10-06 18:49",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
@@ -270,6 +288,24 @@
       "published": "2026-10-06 10:00",
       "source": "sspai.com",
       "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "Living off-grid: Hundred Rabbits",
+      "url": "https://100r.ca/site/home.html",
+      "summary": "",
+      "published": "2026-10-05 21:08",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "How did Rosalind Franklin miss the helix in her iconic DNA image? She didn't",
+      "url": "https://www.science.org/content/article/how-did-rosalind-franklin-miss-helix-her-iconic-dna-image-she-didn-t",
+      "summary": "",
+      "published": "2026-10-05 19:07",
+      "source": "Hacker News",
+      "lang": "en",
       "category": "科技"
     },
     {
@@ -288,15 +324,6 @@
       "published": "2026-10-04 07:58",
       "source": "sspai.com",
       "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "The cost of lies: A Mineserver story",
-      "url": "https://www.jeremyreimer.com/rockets-item.lsp?f=true&p=272",
-      "summary": "",
-      "published": "2026-10-04 05:17",
-      "source": "Hacker News",
-      "lang": "en",
       "category": "科技"
     },
     {
@@ -331,33 +358,6 @@
       "url": "https://sspai.com/post/115166",
       "summary": "完全重构的 2Do 是我的心目中最佳的任务管理工具。<a href=\"https://sspai.com/post/115166\" target=\"_blank\">查看全文</a>",
       "published": "2026-09-30 07:00",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的",
-      "url": "https://sspai.com/post/114945",
-      "summary": "祝你旅途顺遂，假期自由。<a href=\"https://sspai.com/post/114945\" target=\"_blank\">查看全文</a>",
-      "published": "2026-09-30 03:02",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "派早报：OpenAI 发布 Dot 智能体、Apple 移动睡眠呼吸暂停迹象提示软件国内获批等",
-      "url": "https://sspai.com/post/115197",
-      "summary": "Nothing 发布旗舰耳机 Headphone 1 Pro，AMD 斥资 82 亿美元收购 World Labs 等。<a href=\"https://sspai.com/post/115197\" target=\"_blank\">查看全文</a>",
-      "published": "2026-09-29 23:39",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "社区速递 160 | 水月雨首款游戏耳机与八月派友剁手清单",
-      "url": "https://sspai.com/post/115153",
-      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。临近国庆长假 ...<a href=\"https://sspai.com/post/115153\" target=\"_blank\">查看全文</a>",
-      "published": "2026-09-29 09:03",
       "source": "sspai.com",
       "lang": "zh_cn",
       "category": "科技"
