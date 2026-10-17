@@ -1,39 +1,309 @@
 {
-  "last_updated": "2026-10-16 01:56:21",
+  "last_updated": "2026-10-17 01:51:04",
   "total": 40,
   "articles": [
     {
-      "title": "Tesla Roadster",
-      "url": "https://www.tesla.com/roadster",
+      "title": "Flexport Is Hiring a Biz Ops Leader in Office of CEO",
+      "url": "https://www.flexport.com/company/careers/",
       "summary": "",
-      "published": "2026-10-16 01:32",
+      "published": "2026-10-17 01:01",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "The Tesla Roadster flew, drove upside down, and hit 60mph in under a second",
-      "url": "https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk",
-      "summary": "Elon Musk promised a flying car. And the Tesla Roadster did exactly that. Tesla demonstrated its next-generation Roadster at an event in Waco, Texas, where the electric supercar drove upside down, briefly flew, and accelerated to 60mph in under a second. It was an impressive demonstration of a car that likely will come with some [&#8230;]",
-      "published": "2026-10-16 01:28",
+      "title": "All the news about the iPhone Duo",
+      "url": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
+      "summary": "Apple has finally announced its long-rumored foldable: the iPhone Duo. The new phone has a 5.4-inch outer display and a 7.6-inch inner display, a “nano‑texture” finish on the inner screen, and barely any visible crease. Instead of Face ID, it uses Touch ID on the power button. It has two cameras, a main lens and [&#8230;]",
+      "published": "2026-10-16 23:36",
       "source": "www.theverge.com",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
-      "url": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
-      "summary": "The new car used thrusters to leap over a Cybercab, Cybertruck, Tesla Semi, Model Y, and Model 3 at a demo in Texas.",
-      "published": "2026-10-16 01:17",
+      "title": "Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps",
+      "url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
+      "summary": "Apple's App Store rules now more explicitly ban so-called \"nudify\" apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism toward Apple after X users used Grok earlier this year to make nonconsensual, sexualized deepfakes, including minors. Apple didn't pull X or Grok from the App [&#8230;]",
+      "published": "2026-10-16 22:51",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+      "published": "2026-10-16 21:22",
       "source": "techcrunch.com",
       "lang": "en",
       "category": "科技"
     },
     {
-      "title": "RPKI now protects 70% of internet routes",
-      "url": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
+      "title": "We can finally hear some of Wu-Tang Clan&#8217;s Once Upon A Time in Shaolin album",
+      "url": "https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli",
+      "summary": "Wu-Tang's Once Upon A Time in Shaolin album has, for the most part, been extremely difficult to listen to, but you can now hear two snippets of the album thanks to the podcast Pablo Torre Finds Out, which just published an episode all about the exclusive record. Once Upon A Time in Shaolin has a [&#8230;]",
+      "published": "2026-10-16 20:50",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars",
+      "url": "https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash",
+      "summary": "After this horrific crash involving a Tesla driver who said he was asleep and using the driver assist mode, the California Highway Patrol warns that \"Despite its name, full self-driving is not fully autonomous. Technology does not relieve drivers of their responsibility to safely operate their vehicles.\" Video released by CHP shows the Tesla speeding [&#8230;]",
+      "published": "2026-10-16 20:49",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "FLUX 3 Image Klein",
+      "url": "https://bfl.ai/blog/flux-3-image-klein",
       "summary": "",
-      "published": "2026-10-16 00:52",
+      "published": "2026-10-16 19:47",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
+      "url": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/",
+      "summary": "The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery.",
+      "published": "2026-10-16 19:40",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "You could have invented transformers from memory",
+      "url": "https://alexwang.ai/posts/associative-memory/",
+      "summary": "",
+      "published": "2026-10-16 19:01",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Claude reveals ECDSA curve origins",
+      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "summary": "",
+      "published": "2026-10-16 18:55",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "url": "https://github.com/cobanov/PS5LM",
+      "summary": "",
+      "published": "2026-10-16 18:32",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Why Apple is finally making its own smart home devices",
+      "url": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
+      "summary": "For more than a decade, Apple has told other companies to build smart home devices for its platform. This week, Apple launched its own. The Apple Home Collection is a lineup of cameras, thermostats, sensors, a smart door lock, and a video doorbell, all codeveloped with LG Electronics and Schneider Electric. They arrive alongside HomeView, [&#8230;]",
+      "published": "2026-10-16 18:30",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
+      "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
+      "summary": "",
+      "published": "2026-10-16 18:06",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "India becomes the latest country to report rogue AI agent activity",
+      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+      "published": "2026-10-16 17:52",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being&#160;rebuilt.&#160; This view runs counter to those who believe that robotics, powered by a general foundation model,&#160;is about to have [&#8230;]",
+      "published": "2026-10-16 16:30",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Waymo’s robotaxis are headed to Canada",
+      "url": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/",
+      "summary": "The company will start off by testing its self-driving vehicles on Toronto's streets.",
+      "published": "2026-10-16 16:06",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The new Apple TV 4K just got its first (very small) discount",
+      "url": "https://www.theverge.com/gadgets/1012962/apple-tv-4k-fourth-generation-fanttik-s1-pro-deal-sale",
+      "summary": "Earlier this week, Apple announced its new Apple TV 4K, which costs nearly twice as much as the 2022 model did at launch. Amazon is now offering the first discount on the forthcoming streaming box (coming out on November 13th), just days after discounting Apple’s new smart display for the first time. Right now, you [&#8230;]",
+      "published": "2026-10-16 16:02",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Elorian’s first AI model wants to reason with images, not just about them",
+      "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+      "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+      "published": "2026-10-16 16:01",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Tressfecta wants to make hair braiding a less arduous task for hairstylists",
+      "url": "https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/",
+      "summary": "Tressfecta builds products for textured hair. Its first project is a tool called Plait Pilot that helps braiders with the initial process of separating hair from packs before braiding begins.",
+      "published": "2026-10-16 16:00",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "In ‘You Can See Everything,’ Elizabeth Holmes meets her equal in comedian Nathan Fielder",
+      "url": "https://techcrunch.com/2026/10/16/in-you-can-see-everything-elizabeth-holmes-meets-her-equal-in-comedian-nathan-fielder/",
+      "summary": "Nathan Fielder's documentary about disgraced Theranos CEO Elizabeth Holmes has created a constellation of colliding personas that interrogate the very nature of authenticity.",
+      "published": "2026-10-16 16:00",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Apple&#8217;s HomeView has an app problem",
+      "url": "https://www.theverge.com/podcast/1012911/apple-homeview-apps-carplay-vergecast",
+      "summary": "It's been a couple of days since Apple's big smart home announcement, and we have some more information - and a bunch of new questions - about the Apple HomeView. The device has plenty of computing oomph, is always connected to power, and looks like a perfect place to run a bunch of apps. And [&#8230;]",
+      "published": "2026-10-16 15:38",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Jev is Vercel’s fastest-adopted AI model ever",
+      "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+      "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
+      "published": "2026-10-16 15:33",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Analogue is re-releasing its SNES and Genesis consoles with some nice upgrades",
+      "url": "https://www.theverge.com/tech/1012901/analogue-retro-console-supern-nt-plus-nintendo-sega-genesis-mega-plus",
+      "summary": "Analogue announced new versions of its Super Nt and Mega Sg retro consoles today with a \"reworked industrial design\" and built-in wireless connectivity for controllers and accessories. Like the original versions, the new Super Nt Plus and Mega Sg Plus are able to play Nintendo and Sega Genesis cartridges using an FPGA processor that perfectly [&#8230;]",
+      "published": "2026-10-16 15:08",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "A fake WhatsApp clone is showing up before the real version on the Play Store",
+      "url": "https://www.theverge.com/tech/1012918/google-play-store-fake-whatsapp-android",
+      "summary": "After a Chrome clone was spotted on the Play Store earlier this week, a user on Reddit says they're seeing a fake version of WhatsApp in a \"sponsored\" slot above the real version. As reported earlier by Android Authority, the WhatsApp dupe has racked up over 500,000 downloads and, at the time of writing, its [&#8230;]",
+      "published": "2026-10-16 15:02",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+      "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+      "summary": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best from Apple, Intel, AMD, and Qualcomm. It has loads of cores, Nvidia [&#8230;]",
+      "published": "2026-10-16 15:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Waymo in Toronto",
+      "url": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
+      "summary": "",
+      "published": "2026-10-16 14:44",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+      "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+      "summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
+      "published": "2026-10-16 14:26",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+      "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
+      "summary": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.",
+      "published": "2026-10-16 14:00",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
+      "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+      "summary": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
+      "published": "2026-10-16 12:55",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "本周看什么 | 最近值得一看的 13 部作品",
+      "url": "https://sspai.com/post/116423",
+      "summary": "📅本周新预告《哥斯拉-0.0》终极预告10月11日，电影《哥斯拉-0.0》发布了终极预告，将于11月3日在日本上映、11月6日在北美上映。该片为首部为IMAX拍摄的日本电影，山崎贵执导、编剧，神木隆之 ...<a href=\"https://sspai.com/post/116423\" target=\"_blank\">查看全文</a>",
+      "published": "2026-10-16 10:21",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "「弯道超车」赛车入门指北 05：让赛车粉身碎骨，才是保命的真正方式",
+      "url": "https://sspai.com/post/114836",
+      "summary": "当你下次在屏幕前看到两台赛车撞得粉身碎骨、而车手淡定地推开残骸向看台挥手致意时，希望你能想起今天的故事。<a href=\"https://sspai.com/post/114836\" target=\"_blank\">查看全文</a>",
+      "published": "2026-10-16 06:24",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "一面专注体验，一面表达个性：麦金獭钢化膜与极稚墨水屏手机壳体验",
+      "url": "https://sspai.com/post/115679",
+      "summary": "从正面的手感与显示聊起，再翻到背面看看换图的玩法。<a href=\"https://sspai.com/post/115679\" target=\"_blank\">查看全文</a>",
+      "published": "2026-10-16 04:41",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "让读书笔记不再吃灰：我做了一款跨平台书摘管理工具",
+      "url": "https://sspai.com/post/115688",
+      "summary": "从微信读书的 3 万条划线出发，我做了一个让阅读笔记重新回到日常的 App。<a href=\"https://sspai.com/post/115688\" target=\"_blank\">查看全文</a>",
+      "published": "2026-10-16 02:18",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "Tesla Roadster",
+      "url": "https://www.tesla.com/roadster",
+      "summary": "",
+      "published": "2026-10-16 01:32",
       "source": "Hacker News",
       "lang": "en",
       "category": "科技"
@@ -45,231 +315,6 @@
       "published": "2026-10-16 00:23",
       "source": "sspai.com",
       "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-      "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
-      "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
-      "published": "2026-10-15 23:44",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Business accounts will consent to Meta scraping their websites Starting Oct. 30",
-      "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
-      "summary": "",
-      "published": "2026-10-15 23:37",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems",
-      "url": "https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/",
-      "summary": "Intero Biosystems beat out 199 other Startup Battlefield companies to take home the $100,000 grand prize at TechCrunch Disrupt 2026.",
-      "published": "2026-10-15 23:33",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Steam can now show game achievements in separate ‘sets’",
-      "url": "https://www.theverge.com/games/1012541/valve-steam-achievement-sets",
-      "summary": "Valve is introducing a major new feature for Steam achievements called \"achievement sets\" that lets developers list different groups of achievements for a base game and DLCs. \"In games that support sets, you still unlock achievements by playing the game as usual,\" Valve says. \"But when you browse what you have unlocked afterward, Steam will [&#8230;]",
-      "published": "2026-10-15 23:18",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "ChatGPT can peek at your Chrome tabs now",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
-      "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in ChatGPT's web or desktop app, posting a demo video [&#8230;]",
-      "published": "2026-10-15 22:43",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
-      "url": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
-      "summary": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI. Complete Edition, a remaster of the 2011 strategy game, launched on Tuesday, and it bundled the main game and all of its [&#8230;]",
-      "published": "2026-10-15 22:35",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "The tech backlash is now in theaters",
-      "url": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
-      "summary": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality. Aaron Sorkin's The Social Reckoning frames Mark Zuckerberg as a robotic villain whose ambitions are destabilizing society. Nathan Fielder and Lance Oppenheim's You Can [&#8230;]",
-      "published": "2026-10-15 21:39",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Trump posts AI-edited photo to brag about White House restoration work",
-      "url": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
-      "summary": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White House column to a \"restored\" one, has several discrepancies and was flagged by Google's AI detector as \"made or [&#8230;]",
-      "published": "2026-10-15 21:09",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Amazon devices chief Panos Panay on the importance of failure and bouncing back from it",
-      "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/",
-      "summary": "Panay said that it's possible to recover and learn from all sorts of failures, even catastrophic ones, when building products.",
-      "published": "2026-10-15 20:38",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "What I Self-Host",
-      "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
-      "summary": "",
-      "published": "2026-10-15 20:23",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Meta launches an open-weight AI model that runs on Macs",
-      "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
-      "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
-      "published": "2026-10-15 20:04",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Bluesky&#8217;s AI tool now lets you make games and apps to share on social",
-      "url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
-      "summary": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can then share with others as their own websites. In an interview at TechCrunch Disrupt, Bluesky CEO Toni Schneider said [&#8230;]",
-      "published": "2026-10-15 19:57",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
-      "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
-      "summary": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
-      "published": "2026-10-15 19:55",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Withings now charges $100 per year to sync your data to other apps",
-      "url": "https://www.theverge.com/tech/1012350/withings-plus-subscription-new-users-october-13-2026",
-      "summary": "If you're a new user of Withings' fitness-tracking smartwatches or smart scales and want to sync and access your health data through third party apps like Apple Health or Google Health it's now going to cost you. According to a discussion on Withings' support forums spotted by MacRumors, new Withings accounts created from October 13th, [&#8230;]",
-      "published": "2026-10-15 19:52",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Bluesky wants to make it easier to buy, sell, and fundraise on the network",
-      "url": "https://techcrunch.com/2026/10/15/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network/",
-      "summary": "The executives argued that advertising isn’t the only path to monetization, and that there are alternative models that are feasible when it comes to monetization.",
-      "published": "2026-10-15 19:29",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
-      "url": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
-      "summary": "",
-      "published": "2026-10-15 19:21",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
-      "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
-      "summary": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
-      "published": "2026-10-15 19:14",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
-      "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
-      "summary": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience.",
-      "published": "2026-10-15 18:56",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Meta and Apple team up to make Muse AI models run better on Macs",
-      "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
-      "summary": "Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that it's the \"the first model in its class\" that can \"run on your desktop using two Apple M5 Ultra Mac Studios with the latest MLX framework.\" Meta and Apple, [&#8230;]",
-      "published": "2026-10-15 18:15",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
-      "url": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/",
-      "summary": "Savings of up to $200 end October 16 for TechCrunch Founder Summit. These savings for Founder and Investor Passes vanish after Friday. Join 1,000 founders and investors on November 4 at Boston’s SoWa Power Station. Bring your toughest questions and make the day count for your business.",
-      "published": "2026-10-15 18:00",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Sony made a $5,900 gold-plated Walkman MP3 player",
-      "url": "https://www.theverge.com/tech/1012200/sony-made-a-5900-gold-plated-walkman-mp3-player",
-      "summary": "Sony has announced a trio of new Walkman portable media players that start at an already absurd $1,899.99 for the NW-ZX900 and climb all the way up to $5,899 for the gold-plated NW-WM1ZM3. Sandwiched in between is the $2,999.99 Walkman NW-WM1AM3, which is nearly identical to the WM1ZM3, just minus the gaudy gold shell. All [&#8230;]",
-      "published": "2026-10-15 17:48",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Muse Spark Open",
-      "url": "https://research.meta.ai/blog/muse-spark-open",
-      "summary": "",
-      "published": "2026-10-15 17:47",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Volvo makes a bigger bet on Nvidia for hands-free automated driving",
-      "url": "https://techcrunch.com/2026/10/15/volvo-makes-a-bigger-bet-on-nvidia/",
-      "summary": "Volvo is leveling up its automated driving system through an expansion of its nearly decade-long partnership with Nvidia that will extend beyond its battery electric vehicles.",
-      "published": "2026-10-15 17:34",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US",
-      "url": "https://techcrunch.com/2026/10/15/sk-hynix-bargains-for-chip-equipment-exports-to-its-china-facility-in-return-for-building-a-factory-in-us/",
-      "summary": "SK Hynix’s Solidigm is reportedly seeking U.S. approval to send more chipmaking equipment to China as it weighs building a new NAND chip factory in America.",
-      "published": "2026-10-15 16:45",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Neural networks are clean",
-      "url": "https://already-clean.goodfire.com/",
-      "summary": "",
-      "published": "2026-10-15 16:04",
-      "source": "Hacker News",
-      "lang": "en",
       "category": "科技"
     },
     {
@@ -315,51 +360,6 @@
       "published": "2026-10-15 00:31",
       "source": "sspai.com",
       "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "认知心理学背后的播客剪辑技巧",
-      "url": "https://sspai.com/post/114861",
-      "summary": "为什么剪辑时会时常出现爆音？为什么有些地方剪辑后意思接得上，听起来却觉得别扭？为什么有些地方稍微动一下就会不自然？<a href=\"https://sspai.com/post/114861\" target=\"_blank\">查看全文</a>",
-      "published": "2026-10-14 09:33",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
-      "url": "https://sspai.com/post/115426",
-      "summary": "这些新技术将如何让我们的照片和视频更好？<a href=\"https://sspai.com/post/115426\" target=\"_blank\">查看全文</a>",
-      "published": "2026-10-14 07:00",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "家中、这里、那里——Sonos Play 体验",
-      "url": "https://sspai.com/post/115382",
-      "summary": "本文是少数派联合Sonos发起的SonosPlay众测活动「最佳体验官」奖项获奖文章，奖品为免费保留两台送测的SonosPlay。你可以从众测话题页看到其他参与者的作品。目前，Sonos众测活动第二期 ...<a href=\"https://sspai.com/post/115382\" target=\"_blank\">查看全文</a>",
-      "published": "2026-10-14 04:10",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "众测招募 | 从客厅到耳畔，Sonos 双新品 Beam Ultra 与 Ace Ultra 抢先体验",
-      "url": "https://sspai.com/post/116109",
-      "summary": "上一轮SonosPlay众测结果已经出来了，恭喜这三位作者！最佳体验官：mivansaka：家中、这里、那里——SonosPlay体验；优秀体验官：带电的泡芙：SonosPlay深度体验：音质喜人，功 ...<a href=\"https://sspai.com/post/116109\" target=\"_blank\">查看全文</a>",
-      "published": "2026-10-14 03:57",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat",
-      "url": "https://www.pcmag.com/news/apple-routed-a-graphite-pipe-through-the-iphone-duos-hinge",
-      "summary": "",
-      "published": "2026-10-13 07:52",
-      "source": "Hacker News",
-      "lang": "en",
       "category": "科技"
     }
   ]
