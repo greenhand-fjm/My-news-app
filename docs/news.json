@@ -1,7 +1,250 @@
 {
-  "last_updated": "2026-11-26 05:42:03",
+  "last_updated": "2026-11-27 05:37:48",
   "total": 40,
   "articles": [
+    {
+      "title": "\"What's Claude's Fursona?\" and Other Questions",
+      "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
+      "summary": "",
+      "published": "2026-11-27 04:56",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "「黑五」值得买：不容错过的 App 和服务优惠",
+      "url": "https://sspai.com/post/119601",
+      "summary": "先预祝大家买得愉快、用得舒心。<a href=\"https://sspai.com/post/119601\" target=\"_blank\">查看全文</a>",
+      "published": "2026-11-27 03:48",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "Hard Drive pricing has gotten bad",
+      "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+      "summary": "",
+      "published": "2026-11-27 01:13",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "派早报：1Password 确认内部系统遭入侵等",
+      "url": "https://sspai.com/post/119632",
+      "summary": "索尼 WH-1000XM4C 无线降噪耳机国行正式发售，微软公布 Windows Server 2028 功能清理计划等。<a href=\"https://sspai.com/post/119632\" target=\"_blank\">查看全文</a>",
+      "published": "2026-11-27 00:27",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "AI made self-hosting fun again",
+      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "summary": "",
+      "published": "2026-11-26 21:47",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+      "summary": "",
+      "published": "2026-11-26 21:08",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Netflix’s coziest show has made a very quiet return",
+      "url": "https://www.theverge.com/entertainment/1043489/midnight-diner-season3",
+      "summary": "The bigger Netflix gets, the easier it is to miss stuff. This is true of all digital platforms, of course, but it's especially true of Netflix of late, as the streaming service's lineup now also includes a growing library of reality shows, live-programming, and even games. It makes it easy for some of the best [&#8230;]",
+      "published": "2026-11-26 21:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Company Culture = Slack Emoji ÷ √Headcount",
+      "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
+      "summary": "",
+      "published": "2026-11-26 20:49",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+      "published": "2026-11-26 20:03",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Is Alice Huang a spy or not?",
+      "url": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/",
+      "summary": "The central, still-unproven claim in the Nvidia scandal is that Alice Huang, the former Megaspeed exec with whom Nvidia CEO Jensen Huang had an extramarital affair, is a Chinese spy.",
+      "published": "2026-11-26 20:00",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "X finally gets parental controls after 20 years",
+      "url": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/",
+      "summary": "Elon Musk's social network X has finally added parental controls for teenagers, giving parents and guardians a way to manage what their kids see on the platform.",
+      "published": "2026-11-26 19:31",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The Garmin Forerunner 265S is down to $300, its best price of the year",
+      "url": "https://www.theverge.com/gadgets/1042483/garmin-forerunner-265s-fitness-tracker-wearable-deal-sale-black-friday",
+      "summary": "The Forerunner 265S may not be the newest or flashiest Garmin, but it’s one that I’ve always loved most in testing. For runners with smaller wrists, it fits nicely. The battery life is pretty good thanks in part to its OLED touchscreen. When I reviewed it a few years ago, I called it the Goldilocks [&#8230;]",
+      "published": "2026-11-26 19:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
+      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+      "summary": "",
+      "published": "2026-11-26 17:47",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+      "url": "https://github.com/antonpictures/youtube-punisher",
+      "summary": "",
+      "published": "2026-11-26 17:36",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "AMD-specific fork of llama.cpp",
+      "url": "https://devnull.land/amd-specific-llama-cpp",
+      "summary": "",
+      "published": "2026-11-26 17:11",
+      "source": "Hacker News",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The MacBook Neo is receiving a rare $100 discount for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale",
+      "summary": "If you’re looking for a new laptop or a gift for the student in your life, you can save $100 on the MacBook Neo at several retailers, in both storage sizes and all four colors. The 256GB model is currently discounted to $599.99 at Amazon and Costco, while the 512GB model with Touch ID is [&#8230;]",
+      "published": "2026-11-26 17:07",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Android app developers will soon have to share their address publicly",
+      "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
+      "summary": "Independent Android app developers are worried about their privacy after Google announced that from next year many of them will be required to share a phone number and address publicly. The policy change is intended to meet European Union regulations under the Digital Services Act, but Google says contact details will be made public worldwide. [&#8230;]",
+      "published": "2026-11-26 17:06",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "A month with the iPhone Duo has changed how I use my phone",
+      "url": "https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone/",
+      "summary": "From reading more books to breaking mindless scrolling habits, Apple's foldable has changed my daily routines in ways I didn't anticipate.",
+      "published": "2026-11-26 17:00",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "The best Black Friday deals we’ve already found",
+      "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
+      "summary": "The countdown to Black Friday is on, and many discounts have already arrived. Although the shopping holiday isn&#8217;t officially until tomorrow, November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising across the board, a good discount doesn&#8217;t necessarily mean you&#8217;re getting a historically low price. [&#8230;]",
+      "published": "2026-11-26 16:55",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Federal judge blocks the FCC from reviewing ABC’s licenses early",
+      "url": "https://www.theverge.com/policy/1043116/fcc-disney-abc-broadcast-licenses-review-early-judge-block",
+      "summary": "US District Judge Loren AliKhan has blocked the Federal Communications Commission from conducting an early review of ABC's broadcast licenses in a preliminary injunction, and rejected its efforts to dismiss ABC's First Amendment lawsuit. ABC has accused the FCC of violating its free speech rights and claims the agency \"waged a retaliatory campaign\" against the [&#8230;]",
+      "published": "2026-11-26 16:38",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+      "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+      "published": "2026-11-26 16:00",
+      "source": "techcrunch.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Disney Plus, Hulu, and HBO Max are all over 50 percent off for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1041762/best-black-friday-streaming-deals-2026",
+      "summary": "Black Friday isn’t just a good time to save on a new TV but also a chance to spend less on what you watch on it. The shopping holiday often brings steep streaming discounts, and this year is no exception, with some streamers offering more than 50 percent off. HBO Max, Apple TV, and Hulu [&#8230;]",
+      "published": "2026-11-26 16:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "GTA VI developers vote against unionization",
+      "url": "https://www.theverge.com/games/1043169/rockstar-games-union-vote-iwgb",
+      "summary": "Workers at Grand Theft Auto VI developer Rockstar Games won't unionize, after the vote for a formal recognition agreement failed, with only 25 percent of votes in favor of unionization. The Independent Workers Union of Great Britain (IWGB) said that Rockstar workers in the union will continue organizing even without formal recognition. Voting ran from [&#8230;]",
+      "published": "2026-11-26 15:55",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Why GTA VI’s version of Florida feels so real",
+      "url": "https://www.theverge.com/entertainment/1042629/gta-6-city-design",
+      "summary": "There are plenty of reasons why Grand Theft Auto VI is so popular: the 13 years of anticipation, the relatable lead characters and romantic storyline, the sheer level of depth. But another major factor is the sense of place. The GTA series is unmatched when it comes to re-creating the feeling of a bustling, real-world [&#8230;]",
+      "published": "2026-11-26 15:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "Here’s where you can save (a little) on the Ocarina of Time remake",
+      "url": "https://www.theverge.com/gadgets/1040110/zelda-ocarina-of-time-switch-2-black-friday-2026-deal-sale",
+      "summary": "A lot of people have The Legend of Zelda: Ocarina of Time for the Nintendo Switch 2 on their holiday wishlist. In case you haven’t bought it yet, I wanted to share some small but welcome deals happening on the physical and digital versions of the game. Costco members can currently grab the cartridge edition [&#8230;]",
+      "published": "2026-11-26 14:00",
+      "source": "www.theverge.com",
+      "lang": "en",
+      "category": "科技"
+    },
+    {
+      "title": "App+1｜Agora：开源、易用、好用，给 Android 用户的 LLM 聊天工具",
+      "url": "https://sspai.com/post/116773",
+      "summary": "如果你在通过 API 调用你喜欢的大模型，希望它们能像 Kimi 等商业 AI 客户端那样用着顺手，那 Agora 就是为你而来的。相信我，Agora 不会让你失望。<a href=\"https://sspai.com/post/116773\" target=\"_blank\">查看全文</a>",
+      "published": "2026-11-26 09:30",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
+    {
+      "title": "论文作图不求人，用 ChatGPT 和 Keynote 免费搞定机理图",
+      "url": "https://sspai.com/post/119563",
+      "summary": "在 AI 工具玲琅满目的今天，用各种方法「写」出一篇论文已经不算难事。但有一个环节依然很让人头疼——论文里的机理图。<a href=\"https://sspai.com/post/119563\" target=\"_blank\">查看全文</a>",
+      "published": "2026-11-26 07:00",
+      "source": "sspai.com",
+      "lang": "zh_cn",
+      "category": "科技"
+    },
     {
       "title": "我用AI做了一张两千年的中国历史地图",
       "url": "https://sspai.com/post/117510",
@@ -9,24 +252,6 @@
       "published": "2026-11-26 03:13",
       "source": "sspai.com",
       "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "Tell HN: Lots of Ask HNs again",
-      "url": "https://news.ycombinator.com/item?id=50649864",
-      "summary": "",
-      "published": "2026-11-26 00:43",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Collection of preserved UI style guides",
-      "url": "https://aresluna.org/ui-style-guides/",
-      "summary": "",
-      "published": "2026-11-26 00:40",
-      "source": "Hacker News",
-      "lang": "en",
       "category": "科技"
     },
     {
@@ -39,24 +264,6 @@
       "category": "科技"
     },
     {
-      "title": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
-      "url": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras",
-      "summary": "A couple of Walmart's budget-friendly smart home cameras will be able to recognize people around your house now using Google's familiar face detection feature. A new Google Home update brings Familiar Faces support to the $35 Onn Outdoor Camera Plug-In and $77 Onn Floodlight Camera Hardwired. However, a Google Home Premium subscription is still required [&#8230;]",
-      "published": "2026-11-26 00:04",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Amazon loses its latest attempt to get out of handling more recall notices",
-      "url": "https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc",
-      "summary": "Amazon is on the hook to recall more than 400,000 hazardous products after losing its legal battle against the US Consumer Product Safety Commission (CPSC). The US District Court for the District of Maryland ruled in favor of the CPSC, which argued that Amazon is a distributor of goods, not a logistics provider, making it [&#8230;]",
-      "published": "2026-11-25 23:56",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
       "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
       "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
       "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
@@ -66,56 +273,11 @@
       "category": "科技"
     },
     {
-      "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
-      "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
-      "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortunately, Google might appeal or resubmit an amended version, and we could see this monstrosity come [&#8230;]",
-      "published": "2026-11-25 21:51",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "The Verge’s 2026 holiday gift guide for travelers",
-      "url": "https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026",
-      "summary": "Everyone has that traveler in their life. That person who feels more at home on a 14-hour train ride than a quiet Sunday on the couch. They speak multiple languages, have a gut like a goat, and make friends wherever they go. Whether they're your kindred spirit or the person you live vicariously through, one [&#8230;]",
-      "published": "2026-11-25 21:48",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Much shorter version of GRH Lean verification from Anthropic",
-      "url": "https://github.com/lsernau/grh-lean",
-      "summary": "",
-      "published": "2026-11-25 21:48",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
       "title": "FCC approves SpaceX plan to put AI data centers in space",
       "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
       "summary": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory authority.",
       "published": "2026-11-25 20:56",
       "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Slow Ubuntu security response times",
-      "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
-      "summary": "",
-      "published": "2026-11-25 20:38",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "WhatsApp’s new scheduled messages let you choose the right time to send",
-      "url": "https://www.theverge.com/tech/1042532/whatsapp-scheduled-messages",
-      "summary": "WhatsApp's 3 billion users are getting an option that Meta says is one of the most requested features, with the ability to schedule messages in advance for both private conversations and group chats. Most messaging platforms have had this for a very long time, but now it's on WhatsApp too. If you think of a [&#8230;]",
-      "published": "2026-11-25 20:31",
-      "source": "www.theverge.com",
       "lang": "en",
       "category": "科技"
     },
@@ -147,15 +309,6 @@
       "category": "科技"
     },
     {
-      "title": "EPA reports ‘zero’ airborne lead following controlled Army detonation in Iowa",
-      "url": "https://www.theverge.com/science/1042109/us-army-detonation-lead-azide-explosives-iowa-ammunition-plant",
-      "summary": "Saying it was necessary to prevent the possible spontaneous explosion of a stockpile of material used in igniters and blasting caps, the US Army conducted a controlled detonation of over 9,700 pounds of lead azide today at the Iowa Army Ammunition Plant (IAAAP) in Middletown, Iowa. Videos of the detonation showed plumes of smoke several [&#8230;]",
-      "published": "2026-11-25 19:45",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
       "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
       "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
       "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
@@ -165,109 +318,10 @@
       "category": "科技"
     },
     {
-      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
-      "url": "https://scottaaronson.blog/?p=10379",
-      "summary": "",
-      "published": "2026-11-25 19:11",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "1Password breach leaked customer names and emails, but not passwords",
-      "url": "https://www.theverge.com/tech/1042409/1password-data-breach-leak",
-      "summary": "1Password says a hacker stole customer names and email addresses after gaining access to its backend systems. The breach didn't expose passwords or other information stored in customer vaults, but could put users at risk of phishing attempts, according to a post disclosing the incident. It's unclear how many users are affected. The password manager [&#8230;]",
-      "published": "2026-11-25 19:10",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
       "title": "1Password said hackers broke into its internal systems, but customer passwords are safe",
       "url": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/",
       "summary": "The password manager maker said an attacker gained access to an employee's corporate account and took some information about customers.",
       "published": "2026-11-25 18:49",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
-      "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
-      "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
-      "published": "2026-11-25 18:11",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "The Fairphone 6 Plus is modular, repairable, and $100 off right now",
-      "url": "https://www.theverge.com/gadgets/1041460/fairphone-6-plus-repairable-phone-black-friday-2026-deal-sale",
-      "summary": "Unlike most smartphones, the Fairphone 6 Plus is designed for home repair, with easily replaceable parts that could help extend its lifespan well into the future. That makes its midrange price point easier to justify, especially now that it&#8217;s dropped to a new low of $552.49 (about $98 off) at Amazon as part of the [&#8230;]",
-      "published": "2026-11-25 18:00",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "The loneliest peptide party in New York",
-      "url": "https://www.theverge.com/column/1041761/optimizer-peptide-parties-afterglow",
-      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. On a rainy fall evening, an experimental art venue in Chelsea Market had a small line out the door. There [&#8230;]",
-      "published": "2026-11-25 18:00",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
-      "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
-      "summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing the idea of putting AI data centers in space, including Google and Blue Origin, this is the first approval the agency [&#8230;]",
-      "published": "2026-11-25 17:44",
-      "source": "www.theverge.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "DOJ accuses former cyber executive of defrauding ransomware victims by secretly paying hackers",
-      "url": "https://techcrunch.com/2026/11/25/doj-accuses-former-cyber-executive-of-defrauding-ransomware-victims-by-secretly-paying-hackers/",
-      "summary": "U.S. prosecutors accused the former executive of defrauding victims of ransomware by paying the hackers, charging victims more, and pocketing the difference.",
-      "published": "2026-11-25 17:36",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
-      "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
-      "summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
-      "published": "2026-11-25 17:35",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "X’s latest update for creators focuses on vertical video",
-      "url": "https://techcrunch.com/2026/11/25/xs-latest-update-for-creators-focuses-on-vertical-video/",
-      "summary": "As short-form video ramps up in popularity, X's new creation tools are part of its effort to compete with YouTube and Instagram.",
-      "published": "2026-11-25 17:28",
-      "source": "techcrunch.com",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "1Password Security Incident",
-      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
-      "summary": "",
-      "published": "2026-11-25 17:18",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
-      "title": "WhatsApp now lets you schedule messages in group and individual chats",
-      "url": "https://techcrunch.com/2026/11/25/whatsapp-now-lets-you-schedule-messages-in-group-and-individual-chats/",
-      "summary": "Users can schedule messages from 10 minutes later to after 14 days.",
-      "published": "2026-11-25 16:57",
       "source": "techcrunch.com",
       "lang": "en",
       "category": "科技"
@@ -300,66 +354,12 @@
       "category": "科技"
     },
     {
-      "title": "派早报：华为发布 Mate X8 与 MateBook Fold S、微软将推出自研驱动等",
-      "url": "https://sspai.com/post/119527",
-      "summary": "豆包 AI 个人助理「小豆」开启公测，Teenage Engineering 推出复古 CD 播放器 EP / BC-1 等。<a href=\"https://sspai.com/post/119527\" target=\"_blank\">查看全文</a>",
-      "published": "2026-11-25 00:22",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "What VP ≠ VNP Means (In 3 Minutes)",
-      "url": "https://www.friedgil.com/vpvnp",
-      "summary": "",
-      "published": "2026-11-24 10:56",
-      "source": "Hacker News",
-      "lang": "en",
-      "category": "科技"
-    },
-    {
       "title": "社区速递 167｜迪卡侬折叠车、静电白板贴与跨系统设备协同",
       "url": "https://sspai.com/post/119492",
       "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/119492\" target=\"_blank\">查看全文</a>",
       "published": "2026-11-24 09:14",
       "source": "sspai.com",
       "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "[限时特惠] 从构思到完稿，让长文写作更有条理：妙笔",
-      "url": "https://sspai.com/post/119035",
-      "summary": "写一篇短文，我们可能只需要一个能让人打开即用的编辑器，比如说Apple用户最常用的系统备忘录，或者广为人知的桌面应用MicrosoftWord。但当文章的篇幅逐渐变长，一些原本不太起眼的事情也会变得麻 ...<a href=\"https://sspai.com/post/119035\" target=\"_blank\">查看全文</a>",
-      "published": "2026-11-24 07:38",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "写在动荡之后：漫步巴黎的寻常一日",
-      "url": "https://sspai.com/post/119412",
-      "summary": "巴黎市徽上的那艘船，依然留着它的格言：「任凭风浪，亦不沉没。」<a href=\"https://sspai.com/post/119412\" target=\"_blank\">查看全文</a>",
-      "published": "2026-11-24 03:03",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "派评 | 近期值得关注的 App",
-      "url": "https://sspai.com/post/119438",
-      "summary": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀<a href=\"https://sspai.com/post/119438\" target=\"_blank\">查看全文</a>",
-      "published": "2026-11-23 10:08",
-      "source": "sspai.com",
-      "lang": "zh_cn",
-      "category": "科技"
-    },
-    {
-      "title": "The Great Automatic Grammatizator (By Roald Dahl), 1954 [pdf]",
-      "url": "https://gwern.net/doc/fiction/science-fiction/1953-dahl-thegreatautomaticgrammatizator.pdf",
-      "summary": "",
-      "published": "2026-11-22 11:29",
-      "source": "Hacker News",
-      "lang": "en",
       "category": "科技"
     }
   ]
